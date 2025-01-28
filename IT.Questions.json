@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6795021a149da990b6140512"
+  },
+  "tests": [
+    {
+      "test_id": 1,
+      "name": "JSON Basics Test",
+      "subject": "JSON",
+      "subcategory": "Basics",
+      "section": "01",
+      "questions": [
+        {
+          "question_id": 1,
+          "question": "JSON stands for _______.",
+          "options": {
+            "A": "JavaScript Object Notation",
+            "B": "Java Object Notation",
+            "C": "JavaScript Object Normalization",
+            "D": "JavaScript Object-Oriented Notation"
+          },
+          "answer": "A"
+        },
+        {
+          "question_id": 3,
+          "question": "Which data type is NOT supported by JSON?",
+          "options": {
+            "A": "String",
+            "B": "Object",
+            "C": "Function",
+            "D": "Array"
+          },
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "test_id": 2,
+      "name": "JavaScript Basics Test",
+      "subject": "JavaScript",
+      "subcategory": "Basics",
+      "section": "01",
+      "questions": [
+        {
+          "question_id": 1,
+          "question": "Which method can be used to add an item to the end of an array in JavaScript?",
+          "options": {
+            "A": "push()",
+            "B": "pop()",
+            "C": "shift()",
+            "D": "unshift()"
+          },
+          "answer": "A"
+        },
+        {
+          "question_id": 2,
+          "question": "What does 'var' mean in JavaScript?",
+          "options": {
+            "A": "Variable",
+            "B": "Value",
+            "C": "Validation",
+            "D": "Visual"
+          },
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "test_id": 3,
+      "name": "Algorithms Basics Test",
+      "subject": "Algorithms",
+      "subcategory": "Basics",
+      "section": "01",
+      "questions": [
+        {
+          "question_id": 1,
+          "question": "Which algorithm is used to find the shortest path in a graph?",
+          "options": {
+            "A": "Dijkstra's Algorithm",
+            "B": "Merge Sort",
+            "C": "Bubble Sort",
+            "D": "Breadth-First Search"
+          },
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}]
