@@ -4,7 +4,6 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const { body, validationResult } = require('express-validator'); // Input validation
 const verifyToken = require('../middleware/verifyToken');
-const logger = require('../utils/logger'); // Custom logger (optional)
 const Test = require("../models/Test"); 
 
 const router = express.Router();
