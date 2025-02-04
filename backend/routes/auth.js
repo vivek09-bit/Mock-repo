@@ -14,55 +14,36 @@ const handleError = (res, statusCode, message, error = null) => {
 };
 
 // =========================== REGISTER ===========================
-router.post(
-  "/register",
-  [
-    body("name").notEmpty().withMessage("Name is required"),
-    body("email").isEmail().withMessage("Invalid email"),
-    body("password")
-      .isLength({ min: 8 })
-      .withMessage("Password must be at least 8 characters long")
-      .matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/)
-      .withMessage("Password must include uppercase, lowercase, numbers, and special characters"),
-    body("termsAccepted").isBoolean().withMessage("Terms must be accepted"),
-  ],
-  async (req, res) => {
-    const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-      return handleError(res, 400, errors.array()[0].msg);
-    }
+router.post("/register", async (req, res) => {
+  try {
+    const { name, email, password, phone } = req.body;
 
-    const { name, email, password, termsAccepted } = req.body;
+    // Check if user exists
+    let user = await User.findOne({ email });
+    if (user) return res.status(400).json({ message: "User already exists" });
 
-    try {
-      const existingUser = await User.findOne({ email });
-      if (existingUser) {
-        return handleError(res, 400, "User already exists");
-      }
-
-      const salt = await bcrypt.genSalt(10);
-      const hashedPassword = await bcrypt.hash(password, salt);
-
-      const user = new User({
-        name,
-        email,
-        password: hashedPassword,
-        isSubscribed: false,
-        subscriptionExpiry: null,
-        publicProfile: {
-          totalTestsTaken: 0,
-          averageScore: 0,
-          bestScore: 0,
-        },
+    // Password validation
+    const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+    if (!passwordRegex.test(password)) {
+      return res.status(400).json({
+        message: "Password must be at least 8 characters long and include uppercase, lowercase, numbers, and special characters.",
       });
-
-      await user.save();
-      res.status(201).json({ success: true, message: "User registered successfully. Please login." });
-    } catch (error) {
-      handleError(res, 500, "Server error", error);
     }
+
+    // Hash password
+    const hashedPassword = await bcrypt.hash(password, 10);
+
+    // Save new user
+    user = new User({ name, email, password: hashedPassword, phone });
+    await user.save();
+
+    res.status(201).json({ message: "User registered successfully" });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Server error" });
   }
-);
+});
+
 
 // =========================== LOGIN ===========================
 router.post(
