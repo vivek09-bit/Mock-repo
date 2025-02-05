@@ -6,6 +6,7 @@ import Profile from './pages/Profile';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
+import UserProfile from './pages/UserProfile';
 
 const App = () => {
     return (
@@ -22,6 +23,8 @@ const App = () => {
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/profile" element={<Profile />} />
+            <Route path="/profile/:username" element={<UserProfile />} /> {/* Public Profile Page */}
+     
           </Routes>
         </main>
 

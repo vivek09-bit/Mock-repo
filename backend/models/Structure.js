@@ -3,17 +3,15 @@ const mongoose = require('mongoose');
 // User Schema
 const UserSchema = new mongoose.Schema({
   name: { type: String, required: true },
+  username: { type: String, required: true, unique: true }, // Unique username
   email: { type: String, required: true, unique: true },
   password: { type: String, required: true },
-  isSubscribed: { type: Boolean, default: false },
-  subscriptionExpiry: { type: Date, default: null },
-  createdAt: { type: Date, default: Date.now },
-  publicProfile: {
-    totalTestsTaken: { type: Number, default: 0 },
-    averageScore: { type: Number, default: 0 },
-    bestScore: { type: Number, default: 0 }
-  }
-});
+  phone: { type: String, required: true },
+  role: { type: String, enum: ["Student"], default: "Student" },
+  subscription_status: { type: String, default: "inactive" },
+  userID: { type: String, unique: true }, // Unique user ID
+  profileURL: { type: String, unique: true }, // Unique profile URL (e.g., instagram.com/username)
+}, { timestamps: true });
 
 // Question Set Schema
 const QuestionSetSchema = new mongoose.Schema({

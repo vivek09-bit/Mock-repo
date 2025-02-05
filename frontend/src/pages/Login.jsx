@@ -1,71 +1,49 @@
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-import axios from 'axios';
+import React, { useState } from "react";
+import axios from "axios";
+import { useNavigate } from "react-router-dom";
 
 const Login = () => {
-    const [formData, setFormData] = useState({ email: '', password: '' });
-    const [errorMessage, setErrorMessage] = useState('');
-    const navigate = useNavigate();  // React Router hook for redirection
+  const [formData, setFormData] = useState({ email: "", password: "" });
+  const [error, setError] = useState("");
+  const navigate = useNavigate();
 
-    const handleChange = (e) => {
-        setFormData({ ...formData, [e.target.name]: e.target.value });
-    };
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
 
-    const handleSubmit = async (e) => {
-        e.preventDefault();
-        try {
-            const res = await axios.post('http://localhost:5000/api/auth/login', formData);
-            localStorage.setItem('token', res.data.token); // Save JWT token
-            navigate('/profile');  // Redirect to profile page after successful login
-        } catch (err) {
-            setErrorMessage(err.response?.data?.message || 'Error logging in');
-        }
-    };
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setError("");
+  
+    try {
+      const response = await axios.post("http://localhost:5000/api/auth/login", formData);
+      
+      // Store token and user data
+      localStorage.setItem("authToken", response.data.token); 
+      localStorage.setItem("user", JSON.stringify(response.data.user)); 
+  
+      // Redirect to user profile
+      navigate(`/profile/${response.data.user.username}`); 
+    } catch (err) {
+      setError(err.response?.data?.message || "Login failed");
+    }
+  };
 
-    return (
-
+  return (
+    <div>
+      <h2>Login</h2>
+      {error && <p style={{ color: "red" }}>{error}</p>}
+      <form onSubmit={handleSubmit}>
+        <label>Email:</label>
+        <input type="text" name="email" value={formData.email} onChange={handleChange} required />
         
-        <div className="container mt-5">
-            <div className="row justify-content-center">
-                <div className="col-md-6">
-                    <h2 className="text-center mb-4">Login</h2>
-                    <form onSubmit={handleSubmit}>
-                        <div className="form-group">
-                            <label htmlFor="email">Email</label>
-                            <input
-                                id="email"
-                                name="email"
-                                type="email"
-                                className="form-control"
-                                placeholder="Enter your email"
-                                value={formData.email}
-                                onChange={handleChange}
-                                required
-                            />
-                        </div>
-                        <div className="form-group">
-                            <label htmlFor="password">Password</label>
-                            <input
-                                id="password"
-                                name="password"
-                                type="password"
-                                className="form-control"
-                                placeholder="Enter your password"
-                                value={formData.password}
-                                onChange={handleChange}
-                                required
-                            />
-                        </div>
-                        <button type="submit" className="btn btn-primary btn-block">Login</button>
-                    </form>
-                    {errorMessage && <div className="alert alert-danger mt-3" role="alert">{errorMessage}</div>}
-                    <div className="text-center mt-3">
-                        <p>Don't have an account? <a href="/register">Sign up</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    );
+        <label>Password:</label>
+        <input type="password" name="password" value={formData.password} onChange={handleChange} required />
+        
+        <button type="submit">Login</button>
+      </form>
+    </div>
+  );
 };
 
 export default Login;

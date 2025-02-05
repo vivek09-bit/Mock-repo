@@ -4,6 +4,10 @@ const jwt = require("jsonwebtoken");
 const { body, validationResult } = require("express-validator");
 const { User, Test } = require("../models/Structure");
 const verifyToken = require("../middleware/verifyToken");
+const { v4: uuidv4 } = require("uuid");
+
+
+
 
 const router = express.Router();
 
@@ -13,81 +17,85 @@ const handleError = (res, statusCode, message, error = null) => {
   return res.status(statusCode).json({ success: false, message });
 };
 
+
 // =========================== REGISTER ===========================
+
+// User Registration
 router.post("/register", async (req, res) => {
   try {
-    const { name, email, password, phone } = req.body;
+    const { name, username, email, password, phone } = req.body;
 
-    // Check if user exists
-    let user = await User.findOne({ email });
-    if (user) return res.status(400).json({ message: "User already exists" });
-
-    // Password validation
-    const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
-    if (!passwordRegex.test(password)) {
-      return res.status(400).json({
-        message: "Password must be at least 8 characters long and include uppercase, lowercase, numbers, and special characters.",
-      });
+    // Check if username or email already exists
+    const existingUser = await User.findOne({ $or: [{ username }, { email }] });
+    if (existingUser) {
+      return res.status(400).json({ message: "Username or Email already in use" });
     }
 
-    // Hash password
+    // Hash the password
     const hashedPassword = await bcrypt.hash(password, 10);
 
-    // Save new user
-    user = new User({ name, email, password: hashedPassword, phone });
-    await user.save();
+    // Generate unique userID and profileURL
+    const userID = uuidv4();
+    const profileURL = `https://localhost.in/profile/${username}`;
 
-    res.status(201).json({ message: "User registered successfully" });
+    // Create a new user
+    const newUser = new User({
+      name,
+      username,
+      email,
+      password: hashedPassword,
+      phone,
+      userID, //Line 44
+      profileURL,
+    });
+
+    await newUser.save();
+    res.status(201).json({ message: "User registered successfully", profileURL });
   } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: "Server error" });
+    console.error("Registration error:", error);
+    res.status(500).json({ message: "Server error. Please try again later." });
   }
 });
 
 
 // =========================== LOGIN ===========================
-router.post(
-  "/login",
-  [
-    body("email").isEmail().withMessage("Invalid email"),
-    body("password").notEmpty().withMessage("Password is required"),
-  ],
-  async (req, res) => {
-    const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-      return handleError(res, 400, errors.array()[0].msg);
-    }
 
+router.post("/login", async (req, res) => {
+  try {
     const { email, password } = req.body;
 
-    try {
-      const user = await User.findOne({ email });
-      if (!user) {
-        return handleError(res, 404, "User not found");
-      }
-
-      const isMatch = await bcrypt.compare(password, user.password);
-      if (!isMatch) {
-        return handleError(res, 400, "Invalid credentials");
-      }
-
-      const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: "1h" });
-
-      res.status(200).json({
-        success: true,
-        token,
-        user: {
-          id: user._id,
-          name: user.name,
-          email: user.email,
-          role: user.userType,
-        },
-      });
-    } catch (error) {
-      handleError(res, 500, "Server error", error);
+    // Check if user exists
+    const user = await User.findOne({ email });
+    if (!user) {
+      return res.status(400).json({ message: "Invalid email or password" });
     }
+
+    // Verify password
+    const isMatch = await bcrypt.compare(password, user.password);
+    if (!isMatch) {
+      return res.status(400).json({ message: "Invalid email or password" });
+    }
+
+    // Generate JWT Token
+    const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
+      expiresIn: "7d",
+    });
+    res.status(200).json({
+      
+      token,
+      user: {
+        name: user.name,
+        username: user.username,
+        email: user.email,
+        phone: user.phone,
+        profileURL: user.profileURL,
+      },
+    });
+  } catch (error) {
+    console.error("Login error:", error);
+    res.status(500).json({ message: "Server error. Please try again later." });
   }
-);
+});
 
 // =========================== PROFILE ===========================
 router.get("/profile", verifyToken, async (req, res) => {
@@ -99,6 +107,25 @@ router.get("/profile", verifyToken, async (req, res) => {
     res.status(200).json({ success: true, user });
   } catch (error) {
     handleError(res, 500, "Server error", error);
+  }
+});
+
+
+//============================Profile/ID===========================
+router.get("/profile/:username", async (req, res) => {
+  try {
+    const { username } = req.params;
+
+    // Find user by username (exclude password)
+    const user = await User.findOne({ username }).select("-password");
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    res.status(200).json(user);
+  } catch (error) {
+    console.error("Error fetching user profile:", error);
+    res.status(500).json({ message: "Server error. Please try again later." });
   }
 });
 

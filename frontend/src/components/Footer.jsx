@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <>
- (
+ 
     <div className="container my-5">
       {/* Footer */}
       <footer className="text-center text-lg-start text-dark" style={{ backgroundColor: '#ECEFF1' }}>

@@ -1,16 +1,20 @@
 import React, { useState } from "react";
 import axios from "axios";
+import { useNavigate } from "react-router-dom";
 
 const Register = () => {
   const [formData, setFormData] = useState({
     name: "",
+    username: "",
     email: "",
     password: "",
     phone: "",
-    role: "Student", // Default role (Instructor creation is handled by Admin)
-    subscription_status: "inactive",
     termsAccepted: false,
   });
+  const navigate = useNavigate();
+
+  const [error, setError] = useState("");
+  const [success, setSuccess] = useState("");
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
@@ -19,57 +23,61 @@ const Register = () => {
       [name]: type === "checkbox" ? checked : value,
     });
   };
-  const validatePassword = (password) => {
-    const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
-    return passwordRegex.test(password);
-  };
 
   const handleSubmit = async (e) => {
-  e.preventDefault();
+    e.preventDefault();
+    setError("");
+    setSuccess("");
 
-  if (!validatePassword(formData.password)) {
-    alert("Password must be at least 8 characters long and include uppercase, lowercase, numbers, and special characters.");
-    return;
-  }
+    if (!formData.termsAccepted) {
+      setError("You must accept the terms and conditions.");
+      return;
+    }
 
-  try {
-    const res = await axios.post("http://localhost:5000/api/auth/register", formData);
-    alert(res.data.message);
-  } catch (err) {
-    alert(err.response?.data?.message || "Registration failed");
-  }
-};
+    try {
+      const response = await axios.post("http://localhost:5000/api/auth/register", formData);
+      setSuccess(response.data.message);
+      setFormData({
+        name: "",
+        username: "",
+        email: "",
+        password: "",
+        phone: "",
+        termsAccepted: false,
+      });
+      navigate(`/login/`); 
+    } catch (err) {
+      setError(err.response?.data?.message || "Registration failed");
+    }
+  };
 
   return (
-    <div className="container mt-5">
+    <div>
       <h2>Register</h2>
+      {error && <p style={{ color: "red" }}>{error}</p>}
+      {success && <p style={{ color: "green" }}>{success}</p>}
       <form onSubmit={handleSubmit}>
-        <div className="mb-3">
-          <label className="form-label">Name</label>
-          <input type="text" name="name" className="form-control" onChange={handleChange} required />
-        </div>
+        <label>Name:</label>
+        <input type="text" name="name" value={formData.name} onChange={handleChange} required />
+        
+        <label>Username:</label>
+        <input type="text" name="username" value={formData.username} onChange={handleChange} required />
 
-        <div className="mb-3">
-          <label className="form-label">Email</label>
-          <input type="email" name="email" className="form-control" onChange={handleChange} required />
-        </div>
+        <label>Email:</label>
+        <input type="email" name="email" value={formData.email} onChange={handleChange} required />
+        
+        <label>Password:</label>
+        <input type="password" name="password" value={formData.password} onChange={handleChange} required />
 
-        <div className="mb-3">
-          <label className="form-label">Password</label>
-          <input type="password" name="password" className="form-control" onChange={handleChange} required />
-        </div>
+        <label>Phone:</label>
+        <input type="text" name="phone" value={formData.phone} onChange={handleChange} required />
 
-        <div className="mb-3">
-          <label className="form-label">Phone</label>
-          <input type="text" name="phone" className="form-control" onChange={handleChange} required />
-        </div>
-
-        <div className="mb-3 form-check">
-          <input type="checkbox" name="termsAccepted" className="form-check-input" onChange={handleChange} />
-          <label className="form-check-label">Accept Terms & Conditions</label>
-        </div>
-
-        <button type="submit" className="btn btn-primary">Register</button>
+        <label>
+          <input type="checkbox" name="termsAccepted" checked={formData.termsAccepted} onChange={handleChange} required />
+          Accept Terms and Conditions
+        </label>
+        
+        <button type="submit">Register</button>
       </form>
     </div>
   );
