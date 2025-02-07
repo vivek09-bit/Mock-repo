@@ -5,6 +5,7 @@ const { body, validationResult } = require("express-validator");
 const { User, Test } = require("../models/Structure");
 const verifyToken = require("../middleware/verifyToken");
 const { v4: uuidv4 } = require("uuid");
+const { startTest, submitTest } = require("../controllers/testController");
 
 
 
@@ -59,29 +60,28 @@ router.post("/register", async (req, res) => {
 
 
 // =========================== LOGIN ===========================
-
 router.post("/login", async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const { emailOrUsername, password } = req.body;
 
-    // Check if user exists
-    const user = await User.findOne({ email });
+    const user = await User.findOne({ 
+      $or: [{ email: emailOrUsername }, { username: emailOrUsername }] 
+    });
+
     if (!user) {
-      return res.status(400).json({ message: "Invalid email or password" });
+      return res.status(400).json({ message: "Invalid username/email or password" });
     }
 
-    // Verify password
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) {
-      return res.status(400).json({ message: "Invalid email or password" });
+      return res.status(400).json({ message: "Invalid username/email or password" });
     }
 
-    // Generate JWT Token
-    const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
-      expiresIn: "7d",
-    });
+    const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: "7d" });
+
+    console.log("Generated Token:", token); // Debugging log
+
     res.status(200).json({
-      
       token,
       user: {
         name: user.name,

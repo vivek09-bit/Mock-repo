@@ -7,18 +7,14 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import UserProfile from './pages/UserProfile';
-import Quiz from './pages/Quiz';
-import QuizResult from "./pages/QuizResult";
+import TestList from "./components/TestList";
+import TakeTest from "./pages/TakeTest";
 
 const App = () => {
-    return (
-
-        <Router>
+  return (
+    <Router>
       <div className="d-flex flex-column min-vh-100">
-        {/* Header */}
         <Header />
-
-        {/* Main Content */}
         <main className="flex-grow-1">
           <Routes>
             <Route path="/" element={<Home />} />
@@ -26,20 +22,14 @@ const App = () => {
             <Route path="/register" element={<Register />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="/profile/:username" element={<UserProfile />} />
-            <Route path="/quiz/:testId" element={<Quiz />} />
-            <Route path="/quiz-result" element={<QuizResult />} />
-            
-             {/* Public Profile Page */}
-            {/* <Route path="/quiz/:username}" element={<Quiz />} /> */}
-     
+            <Route path="/tests" element={<TestList />} />
+            <Route path="/take-test/:testId" element={<TakeTest />} />
           </Routes>
         </main>
-
-        {/* Footer */}
         <Footer />
       </div>
     </Router>
-    );
+  );
 };
 
 export default App;

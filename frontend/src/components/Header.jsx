@@ -1,17 +1,17 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 
-function Header() {
+function Header(req, res) {
   // Check if the user is logged in by checking the localStorage for a token
-  const token = localStorage.getItem('token');
+  const token = localStorage.getItem('authToken');
   
   // Use React Router's `useNavigate` hook for programmatic navigation
   const navigate = useNavigate();
 
   // Handle logout
   const handleLogout = () => {
-    localStorage.removeItem('token'); // Remove token from localStorage
-    navigate('/login'); // Redirect to login page
+    localStorage.removeItem('authToken'); // Remove token from localStorage
+    navigate(`/login/`); // Redirect to login page
   };
 
   return (
