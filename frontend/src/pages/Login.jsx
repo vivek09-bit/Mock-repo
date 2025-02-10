@@ -19,16 +19,12 @@ const Login = () => {
     try {
       const response = await axios.post("http://localhost:5000/api/auth/login", formData);
       
-      console.log("API Response:", response.data); // Debugging log
-
       if (!response.data.token) {
         throw new Error("Token not received");
       }
 
       localStorage.setItem("authToken", response.data.token);
       localStorage.setItem("user", JSON.stringify(response.data.user));
-
-      console.log("Stored Token:", localStorage.getItem("authToken")); // Verify storage
 
       navigate(`/profile/${response.data.user.username}`);
     } catch (err) {

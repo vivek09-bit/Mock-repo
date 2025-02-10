@@ -4,11 +4,13 @@ import { Link, useNavigate } from 'react-router-dom';
 function Header() {
   // Check if the user is logged in by checking localStorage for a token
   const token = localStorage.getItem('authToken');
+  const user = JSON.parse(localStorage.getItem('user')); // Parse the user object from localStorage
   const navigate = useNavigate();
 
   // Handle logout
   const handleLogout = () => {
     localStorage.removeItem('authToken'); // Remove token from localStorage
+    localStorage.removeItem('user'); // Remove user from localStorage
     navigate(`/login/`); // Redirect to login page
   };
 
@@ -24,9 +26,8 @@ function Header() {
             </button>
             <div className="collapse navbar-collapse" id="navcol-1">
               <ul className="nav navbar-nav">
-                {/* <li className="nav-item" role="presentation"><a className="nav-link active" href="#">Home</a></li> */}
                 <li className="dropdown">
-                  <a className="dropdown-toggle nav-link"  data-toggle="dropdown" aria-expanded="false" href="#">Tests</a>
+                  <a className="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Tests</a>
                   <div className="dropdown-menu" role="menu">
                     <a className="dropdown-item" href="#">Aptitute</a>
                     <a className="dropdown-item" href="#">IT</a>
@@ -34,16 +35,15 @@ function Header() {
                   </div>
                 </li>
               </ul>
-              <form className="form-inline mr-auto" target="_self">
-                <div className="form-group">
-                  {/* <label htmlFor="search-field"><i className="fa fa-search"></i></label>
-                  <input className="form-control search-field" type="search" name="search" id="search-field" placeholder="Search..." /> */}
-                </div>
-              </form>
+              <form className="form-inline mr-auto" target="_self"></form>
               <span className="navbar-text">
                 {token ? (
                   <>
-                    <Link className="btn btn-dark action-button" to="/profile">Profile</Link>
+                    {user && user.username ? (
+                      <Link className="btn btn-dark action-button" to={`/profile/${user.username}`}>Profile</Link>
+                    ) : (
+                      <p>Loading username...</p>
+                    )}
                     <button className="btn btn-light action-button" onClick={handleLogout}>Logout</button>
                   </>
                 ) : (
@@ -54,27 +54,9 @@ function Header() {
                 )}
               </span>
             </div>
-            </div>
-        </nav>
-        {/* <div className="container hero">
-          <div className="row">
-            <div className="col-12 col-lg-6 col-xl-5 offset-xl-1">
-              <h1>The revolution is here.</h1>
-              <p>Experience the next level of mock testing with our advanced platform designed for success.</p>
-              <button className="btn btn-light btn-lg action-button" type="button">Learn More</button>
-            </div>
-            <div className="col-md-5 col-lg-5 offset-lg-1 offset-xl-0 d-none d-lg-block phone-holder">
-              <div className="iphone-mockup">
-                <img src="assets/img/iphone.svg" className="device" alt="Mockup" />
-                <div className="screen"></div>
-              </div>
-            </div>
           </div>
-        </div> */}
-      
-    </div>
-
-
+        </nav>
+      </div>
     </>
   );
 }

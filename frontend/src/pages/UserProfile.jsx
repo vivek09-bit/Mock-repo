@@ -165,7 +165,7 @@ const UserProfile = () => {
   };
 
   const handleStartTest = (testId) => {
-    navigate(`/quiz/${testId}`);
+    navigate(`/tests/`);
   };
 
   return (
