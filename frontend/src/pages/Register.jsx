@@ -29,11 +29,6 @@ const Register = () => {
     setError("");
     setSuccess("");
 
-    if (!formData.termsAccepted) {
-      setError("You must accept the terms and conditions.");
-      return;
-    }
-
     try {
       const response = await axios.post("http://localhost:5000/api/auth/register", formData);
       setSuccess(response.data.message);
@@ -47,7 +42,10 @@ const Register = () => {
       });
       navigate(`/login/`); 
     } catch (err) {
-      setError(err.response?.data?.message || "Registration failed");
+      console.error('Registration error:', err);
+      setError(err.response?.data?.message || 
+               err.message || 
+               "Registration failed");
     }
   };
 
@@ -57,7 +55,7 @@ const Register = () => {
       {error && <p style={{ color: "red" }}>{error}</p>}
       {success && <p style={{ color: "green" }}>{success}</p>}
     
-      <form onsubmit={handleSubmit}>
+      <form onSubmit={handleSubmit}>
       <h2>Register</h2>
     
             <div className="form-icon">

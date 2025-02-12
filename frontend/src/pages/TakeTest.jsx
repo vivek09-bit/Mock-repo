@@ -12,6 +12,7 @@ const TakeTest = () => {
   const [error, setError] = useState("");
 
   useEffect(() => {
+    // Fetch test details
     axios.get(`http://localhost:5000/api/test/${testId}`)
       .then((response) => {
         setTest(response.data);
@@ -21,7 +22,20 @@ const TakeTest = () => {
         setError("Failed to load test. Please try again.");
         setLoading(false);
       });
+  
+    // Fetch logged-in user details
+    const token = localStorage.getItem("token");
+    if (token) {
+      axios.get("http://localhost:5000/api/auth/me", {
+        headers: { Authorization: `Bearer ${token}` },
+      })
+      .then((response) => setUser(response.data))
+      .catch(() => setError("User authentication required."));
+    } else {
+      setError("User authentication required.");
+    }
   }, [testId]);
+  
 
   const handleAnswerChange = (questionId, selectedOption) => {
     setAnswers({ ...answers, [questionId]: selectedOption });
@@ -30,7 +44,7 @@ const TakeTest = () => {
   const handleSubmit = () => {
     axios.post("http://localhost:5000/api/test/submit", { testId, answers })
       .then((response) => {
-        navigate(`/quiz-result`, { state: { result: response.data } }); // Redirect to result page
+        navigate(`/Test-Submit`, { state: { result: response.data } }); // Redirect to result page
       })
       .catch((err) => {
         setError("Submission failed. Try again.");

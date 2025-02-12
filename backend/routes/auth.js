@@ -7,7 +7,7 @@ const verifyToken = require("../middleware/verifyToken");
 const { v4: uuidv4 } = require("uuid");
 const { startTest, submitTest } = require("../controllers/testController");
 
-
+const { authMiddleware } = require("../middleware/authMiddleware");
 
 
 const router = express.Router();
@@ -21,7 +21,6 @@ const handleError = (res, statusCode, message, error = null) => {
 
 // =========================== REGISTER ===========================
 
-// User Registration
 router.post("/register", async (req, res) => {
   try {
     const { name, username, email, password, phone } = req.body;
@@ -154,11 +153,10 @@ router.get("/mocktest/:testId", async (req, res) => {
 // Get all questions for a specific test
 router.get("/quiz/questions", async (req, res) => {
   try {
-    const questions = await Test.find(); // You should store quiz questions in the Test model
+    const questions = await Test.find(); 
     if (!questions) {
       return res.status(404).json({ success: false, message: "No questions found" });
     }
-
     res.status(200).json({ success: true, questions });
   } catch (error) {
     console.error("Error fetching questions:", error);
@@ -166,30 +164,16 @@ router.get("/quiz/questions", async (req, res) => {
   }
 });
 
-// =========================== STORE QUIZ RESULT ===========================
 
-// Store quiz result and update user attempts
-router.post("/quiz/result", async (req, res) => {
-  const { username, score, attempts } = req.body;
 
-  try {
-    // Find the user by username
-    const user = await User.findOne({ username });
-    if (!user) {
-      return res.status(400).json({ message: "User not found" });
-    }
 
-    // Update the number of quiz attempts
-    user.quizAttempts += attempts;
-    await user.save();
+// router.get("/me", authMiddleware, async (req, res) => {
+//   try {
+//     res.json({ message: "Authenticated user", user: req.user });
+//   } catch (error) {
+//     res.status(500).json({ message: "Server error" });
+//   }
+// });
 
-    res.status(200).json({
-      success: true,
-      message: "Quiz result stored and attempt count updated.",
-    });
-  } catch (error) {
-    console.error("Error saving quiz result:", error);
-    res.status(500).json({ message: "Server error. Please try again later." });
-  }
-});
+
 module.exports = router;
