@@ -9,7 +9,9 @@ const TakeTest = () => {
   const [test, setTest] = useState(null);
   const [answers, setAnswers] = useState({});
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState("");
+  const [error, setError] = useState("");  
+  const [user, setUser] = useState(null);
+  const token = localStorage.getItem("authToken");
 
   useEffect(() => {
     // Fetch test details
@@ -24,16 +26,17 @@ const TakeTest = () => {
       });
   
     // Fetch logged-in user details
-    const token = localStorage.getItem("token");
-    if (token) {
-      axios.get("http://localhost:5000/api/auth/me", {
-        headers: { Authorization: `Bearer ${token}` },
-      })
-      .then((response) => setUser(response.data))
-      .catch(() => setError("User authentication required."));
-    } else {
-      setError("User authentication required.");
-    }
+if (token) {
+  // console.log("Token in Request:", token);
+
+  axios.get("http://localhost:5000/api/auth/me", {
+    headers: { Authorization: `Bearer ${token}` },
+  })
+  .then((response) => setUser(response.data))
+  .catch((err) => setError(`User authentication required. ${err.message}`));
+} else {
+  setError("User__authentication required.");
+}
   }, [testId]);
   
 
