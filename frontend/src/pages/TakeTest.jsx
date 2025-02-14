@@ -32,7 +32,10 @@ if (token) {
   axios.get("http://localhost:5000/api/auth/me", {
     headers: { Authorization: `Bearer ${token}` },
   })
-  .then((response) => setUser(response.data))
+  .then((response) => {
+    console.log("User Data:", response.data);
+    setUser(response.data);
+  })
   .catch((err) => setError(`User authentication required. ${err.message}`));
 } else {
   setError("User__authentication required.");
@@ -45,14 +48,24 @@ if (token) {
   };
 
   const handleSubmit = () => {
-    axios.post("http://localhost:5000/api/test/submit", { testId, answers })
-      .then((response) => {
-        navigate(`/Test-Submit`, { state: { result: response.data } }); // Redirect to result page
-      })
-      .catch((err) => {
-        setError("Submission failed. Try again.");
-      });
+    if (!user) {
+      setError("User not authenticated.");
+      return;
+    }
+    axios.post("http://localhost:5000/api/test/submit", { 
+      testId, 
+      userId: user.user._id, // Include userId in the request
+      answers 
+      
+    })
+    .then((response) => {
+      navigate(`/Test-Submit`, { state: { result: response.data } }); // Redirect to result page
+    })
+    .catch((err) => {
+      setError(`Submission failed. Try again. ${err.message}`);
+    });
   };
+  
 
   if (loading) return <p>Loading test...</p>;
   if (error) return <p style={{ color: "red" }}>{error}</p>;

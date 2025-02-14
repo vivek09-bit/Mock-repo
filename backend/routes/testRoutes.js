@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const { Test } = require("../models/Structure");
+const { Test, UserTestRecord } = require("../models/Structure");
 
 
 // Get all available tests
@@ -43,6 +43,7 @@ router.get("/:testId", async (req, res) => {
 router.post("/submit", async (req, res) => {
   try {
       const { testId, userId, answers } = req.body;
+      console.log(req.body);
 
       if (!testId || !userId || !answers) {
           return res.status(400).json({ message: "Missing required fields" });

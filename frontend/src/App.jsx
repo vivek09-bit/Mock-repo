@@ -9,6 +9,7 @@ import Home from './pages/Home';
 import UserProfile from './pages/UserProfile';
 import TestList from "./components/TestList";
 import TakeTest from "./pages/TakeTest";
+import TestResult from "./pages/TestResult";
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
             <Route path="/profile/:username" element={<UserProfile />} />
             <Route path="/tests" element={<TestList />} />
             <Route path="/take-test/:testId" element={<TakeTest />} />
+            <Route path='Test-Submit' element={<TestResult />} />
           </Routes>
         </main>
         <Footer />
