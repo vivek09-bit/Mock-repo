@@ -66,7 +66,7 @@ const UserTestRecordSchema = new mongoose.Schema({
     {
       questionsAttempted: [
         {
-          questionId: { type: mongoose.Schema.Types.ObjectId, ref: 'QuestionSet.questions' },
+          questionId: { type: mongoose.Schema.Types.ObjectId, ref: 'Question' }, // Correct reference
           questionText: { type: String, required: true },
           selectedOption: { type: Number, required: true },
           isCorrect: { type: Boolean, required: true }

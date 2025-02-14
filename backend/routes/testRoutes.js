@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const { Test } = require("../models/Structure");
+const authMiddleware = require("../middleware/authMiddleware");
 
 
 // Get all available tests
@@ -40,83 +41,77 @@ router.get("/:testId", async (req, res) => {
 });
 
 
-router.post("/submit", async (req, res) => {
+router.post("/submit", authMiddleware, async (req, res) => {
   try {
-      const { testId, userId, answers } = req.body;
+    const { testId, answers } = req.body;
+    const userId = req.user.id; 
 
-      if (!testId || !userId || !answers) {
-          return res.status(400).json({ message: "Missing required fields" });
-      }
+    if (!testId || !answers) {
+      return res.status(400).json({ message: "Missing required fields" });
+    }
 
-      // Fetch test details
-      const test = await Test.findById(testId).populate("questionSets.setId");
+    const test = await Test.findById(testId).populate("questionSets.setId");
+    if (!test) {
+      return res.status(404).json({ message: "Test not found" });
+    }
 
-      if (!test) {
-          return res.status(404).json({ message: "Test not found" });
-      }
+    let totalQuestions = 0;
+    let correctAnswers = 0;
+    let attemptedQuestions = [];
 
-      let totalQuestions = 0;
-      let correctAnswers = 0;
-      let attemptedQuestions = [];
+    for (const set of test.questionSets) {
+      if (!set.setId) continue;
 
-      // Iterate through all question sets in the test
-      for (const set of test.questionSets) {
-          if (!set.setId) continue;
+      totalQuestions += set.numToPick;
+      const selectedQuestions = set.setId.questions.slice(0, set.numToPick);
 
-          totalQuestions += set.numToPick;
+      selectedQuestions.forEach((question) => {
+        const selectedOption = answers[question._id];
 
-          const selectedQuestions = set.setId.questions.slice(0, set.numToPick);
+        if (selectedOption !== undefined) {
+          const isCorrect = selectedOption === question.correctAnswer;
+          if (isCorrect) correctAnswers++;
 
-          selectedQuestions.forEach((question) => {
-              const selectedOption = answers[question._id];
-
-              if (selectedOption !== undefined) {
-                  const isCorrect = selectedOption === question.correctAnswer;
-                  if (isCorrect) correctAnswers++;
-
-                  attemptedQuestions.push({
-                      questionId: question._id,
-                      questionText: question.questionText,
-                      selectedOption,
-                      isCorrect,
-                  });
-              }
+          attemptedQuestions.push({
+            questionId: question._id,
+            questionText: question.questionText,
+            selectedOption,
+            isCorrect,
           });
-      }
-
-      const score = Math.round((correctAnswers / totalQuestions) * 100);
-      const passed = score >= test.passingScore;
-
-      // Save user test attempt
-      const userTestRecord = await UserTestRecord.findOneAndUpdate(
-          { userId, testId },
-          {
-              $push: {
-                  attempts: {
-                      questionsAttempted: attemptedQuestions,
-                      score,
-                      timestamp: new Date(),
-                  },
-              },
-              $set: { lastAttempted: new Date() },
-              $max: { bestScore: score },
-          },
-          { upsert: true, new: true }
-      );
-
-      res.json({
-          message: "Test submitted successfully",
-          score,
-          passed,
-          totalQuestions,
-          correctAnswers,
-          userTestRecord,
+        }
       });
+    }
+
+    const score = (correctAnswers / totalQuestions) * 100;
+
+    // ✅ Ensure UserTestRecord is properly used
+    const userTestRecord = new UserTestRecord({
+      userId,
+      testId,
+      testDetails: {
+        testName: test.name,
+        totalQuestions,
+        passingScore: test.passingScore
+      },
+      attempts: [{
+        questionsAttempted: attemptedQuestions,
+        score,
+        timestamp: new Date()
+      }],
+      bestScore: Math.max(score, 0),
+      lastAttempted: new Date()
+    });
+
+    await userTestRecord.save();
+
+    res.status(200).json({ message: "Test submitted successfully", score });
   } catch (error) {
-      console.error("Error submitting test:", error);
-      res.status(500).json({ message: "Server error", error: error.message });
+    console.error("Server error:", error.message);
+    res.status(500).json({ message: "Server error", error: error.message });
   }
 });
+
+
 
 
 

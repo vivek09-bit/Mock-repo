@@ -31,52 +31,74 @@ exports.startTest = async (req, res) => {
 // Submit Test API
 exports.submitTest = async (req, res) => {
   try {
-    const { testId, answers } = req.body;
-    const test = await Test.findById(testId).populate("questionSets.setId");
+    const { testId, userId, answers } = req.body; // Ensure `userId` is included
 
+    if (!testId || !userId || !answers) {
+      return res.status(400).json({ message: "Missing required fields" });
+    }
+
+    const test = await Test.findById(testId).populate("questionSets.setId");
     if (!test) {
       return res.status(404).json({ message: "Test not found" });
     }
 
-    let score = 0;
-    let questionsAttempted = [];
+    let totalQuestions = 0;
+    let correctAnswers = 0;
+    let attemptedQuestions = [];
 
-    // Check answers
-    test.questionSets.forEach((set) => {
-      set.setId.questions.forEach((question) => {
-        const userAnswer = answers.find((a) => a.questionId === question._id.toString());
-        if (userAnswer) {
-          const isCorrect = question.correctAnswer === userAnswer.selectedOption;
-          if (isCorrect) score += 1;
+    for (const set of test.questionSets) {
+      if (!set.setId) continue;
 
-          questionsAttempted.push({
+      totalQuestions += set.numToPick;
+      const selectedQuestions = set.setId.questions.slice(0, set.numToPick);
+
+      selectedQuestions.forEach((question) => {
+        const selectedOption = answers[question._id]; // Fix this line
+
+        if (selectedOption !== undefined) {
+          const isCorrect = selectedOption === question.correctAnswer;
+          if (isCorrect) correctAnswers++;
+
+          attemptedQuestions.push({
             questionId: question._id,
             questionText: question.questionText,
-            selectedOption: userAnswer.selectedOption,
+            selectedOption,
             isCorrect,
           });
         }
       });
-    });
+    }
 
-    // Save test record
-    const testRecord = await UserTestRecord.findOneAndUpdate(
-      { userId: req.user.id, testId },
+    const score = Math.round((correctAnswers / totalQuestions) * 100);
+    const passed = score >= test.passingScore;
+
+    const userTestRecord = await UserTestRecord.findOneAndUpdate(
+      { userId, testId },
       {
-        $push: { attempts: { questionsAttempted, score } },
-        bestScore: { $max: ["$bestScore", score] },
-        lastAttempted: new Date(),
+        $push: {
+          attempts: {
+            questionsAttempted: attemptedQuestions,
+            score,
+            timestamp: new Date(),
+          },
+        },
+        $set: { lastAttempted: new Date() },
+        $max: { bestScore: score },
       },
       { upsert: true, new: true }
     );
 
-    res.status(200).json({
+    res.json({
       message: "Test submitted successfully",
       score,
-      totalQuestions: questionsAttempted.length,
+      passed,
+      totalQuestions,
+      correctAnswers,
+      userTestRecord,
     });
   } catch (error) {
     console.error("Error submitting test:", error);
-    res.status(500).json({ message: "Server error" });
+    res.status(500).json({ message: "Server error", error: error.message });
   }
 };
+

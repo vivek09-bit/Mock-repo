@@ -7,7 +7,7 @@ const verifyToken = require("../middleware/verifyToken");
 const { v4: uuidv4 } = require("uuid");
 const { startTest, submitTest } = require("../controllers/testController");
 
-const { authMiddleware } = require("../middleware/authMiddleware");
+const authMiddleware = require("../middleware/authMiddleware");
 
 
 const router = express.Router();
@@ -167,13 +167,13 @@ router.get("/quiz/questions", async (req, res) => {
 
 
 
-// router.get("/me", authMiddleware, async (req, res) => {
-//   try {
-//     res.json({ message: "Authenticated user", user: req.user });
-//   } catch (error) {
-//     res.status(500).json({ message: "Server error" });
-//   }
-// });
+router.get("/me", authMiddleware, async (req, res) => {
+  try {
+    res.json({ message: "Authenticated user", user: req.user });
+  } catch (error) {
+    res.status(500).json({ message: "Server error" });
+  }
+});
 
 
 module.exports = router;
