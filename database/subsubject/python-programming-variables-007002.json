@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a valid data type?",
+        "options": {
+            "A": "int",
+            "B": "float",
+            "C": "decimal",
+            "D": "str"
+        },
+        "correct_answer": "C",
+        "answer_description": "In Python, thedecimaldata type is not built-in but can be imported from the decimal module. The other data types listed (int,float, andstr) are built-in data types in Python.from decimal import Decimal\n\n# Using the Decimal data type to perform precise arithmetic\nx = Decimal('10.5')\ny = Decimal('3')\nresult = x / y\n\nprint(result)  # Output: 3.500000000000000000000000000"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the value ofxafter executing the following code?x = 5\nx = \"IndiaBIX\"",
+        "options": {
+            "A": "5",
+            "B": "\"IndiaBIX\"",
+            "C": "\"5\"",
+            "D": "An error is raised"
+        },
+        "correct_answer": "B",
+        "answer_description": "In Python, variables can be assigned to different data types. When a variable is assigned to a new value, the old value is overwritten with the new value. In this case, the variablexis first assigned to the integer5, but is then reassigned to the string\"IndiaBIX\"."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a valid way to concatenate two strings?",
+        "options": {
+            "A": "str1 . str2",
+            "B": "str1 + str2",
+            "C": "str1 * str2",
+            "D": "str1 | str2"
+        },
+        "correct_answer": "B",
+        "answer_description": "In Python, the+operator is used to concatenate two strings. For example,\"Hello, \" + \"IndiaBIX\"would result in the string\"Hello, IndiaBIX\"."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code:x = 10; y = 3\nz = x % y\nprint(z)",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "9",
+            "D": "Results an error due to the semicolon (;) ."
+        },
+        "correct_answer": "A",
+        "answer_description": "In Python, the%operator is used to calculate the remainder of a division operation. In this case, 10 divided by 3 has a remainder of 1, which is stored in the variablezand printed to the console.Python does not usually use explicit line-ending characters; the parser can almost always figure out where a statement ends from the positioning of newlines. However, Python's syntax allows you to use a semicolon to end a statement instead, which allows you to place multiple statements on a single line."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true about Python variable names?",
+        "options": {
+            "A": "Variable names are case-sensitive",
+            "B": "Variable names cannot be longer than 32 characters",
+            "C": "Variable names can contain special characters like @ or $",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "In Python, variable names are case-sensitive, which means thatmy_variableandMy_Variableare two different variable names. Variable names can be any length and can contain letters, numbers, and underscores, but cannot begin with a number and cannot contain special characters like @ or $."
+    }
+]

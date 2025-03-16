@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A database application can perform which of the following activities?",
+        "options": {
+            "A": "Add records",
+            "B": "Read records",
+            "C": "Update records",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An enterprise data model is:",
+        "options": {
+            "A": "a graphical model that shows the high-level entities for an organization.",
+            "B": "a graphical model that shows all entities for an organization.",
+            "C": "a non-graphical model that shows the high-level entities for an organization.",
+            "D": "a non-graphical model that shows the all entities for an organization."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A shared database should:",
+        "options": {
+            "A": "be accurate and available.",
+            "B": "provide for backup and recovery.",
+            "C": "be secure.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Data administrators are responsible for:",
+        "options": {
+            "A": "physical database design.",
+            "B": "managing technical issues in the database environment.",
+            "C": "overall management of data resources in an organization.",
+            "D": "writing application programs."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following types of databases are the most common?",
+        "options": {
+            "A": "Personal",
+            "B": "Workgroup",
+            "C": "Department",
+            "D": "Enterprise"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

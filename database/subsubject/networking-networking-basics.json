@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How long is an IPv6 address?",
+        "options": {
+            "A": "32 bits",
+            "B": "128 bytes",
+            "C": "64 bits",
+            "D": "128 bits"
+        },
+        "correct_answer": "D",
+        "answer_description": "An IPv6 address is 128 bits long."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?",
+        "options": {
+            "A": "NAT",
+            "B": "Static",
+            "C": "Dynamic",
+            "D": "PAT"
+        },
+        "correct_answer": "D",
+        "answer_description": "Port Address Translation (PAT) allows a one-to-many approach to network address translation."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the two main types of access control lists (ACLs)?StandardIEEEExtendedSpecialized",
+        "options": {
+            "A": "1 and 3",
+            "B": "2 and 4",
+            "C": "3 and 4",
+            "D": "1 and 2"
+        },
+        "correct_answer": "A",
+        "answer_description": "Standard and extended access control lists (ACLs) are used to configure security on a router."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What command is used to create a backup configuration?",
+        "options": {
+            "A": "copy running backup",
+            "B": "copy running-config startup-config",
+            "C": "config mem",
+            "D": "wr mem"
+        },
+        "correct_answer": "B",
+        "answer_description": "The command to back up the configuration on a router iscopy running-config startup-config."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have 10 users plugged into a hub running 10Mbps half-duplex. There is a server connected to the switch running 10Mbps half-duplex as well. How much bandwidth does each \nhost have to the server?",
+        "options": {
+            "A": "100 kbps",
+            "B": "1 Mbps",
+            "C": "2 Mbps",
+            "D": "10 Mbps"
+        },
+        "correct_answer": "D",
+        "answer_description": "Each device has 10 Mbps\tto the server."
+    }
+]

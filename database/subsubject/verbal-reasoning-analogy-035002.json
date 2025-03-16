@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "REASON : SFBTPO :: THINK : ?",
+        "options": {
+            "A": "SGHMJ",
+            "B": "UIJOL",
+            "C": "UHNKI",
+            "D": "UJKPM"
+        },
+        "correct_answer": "B",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Carbon : Diamond :: Corundum : ?",
+        "options": {
+            "A": "Garnet",
+            "B": "Ruby",
+            "C": "Pukhraj",
+            "D": "Pearl"
+        },
+        "correct_answer": "B",
+        "answer_description": "As Diamond is made of Carbon similarly Ruby is made of Corundum."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "NATION : ANTINO :: HUNGRY : ?",
+        "options": {
+            "A": "HNUGRY",
+            "B": "UHNGYR",
+            "C": "YRNGUH",
+            "D": "UNHGYR"
+        },
+        "correct_answer": "B",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Architect : Building :: Sculptor : ?",
+        "options": {
+            "A": "Museum",
+            "B": "Stone",
+            "C": "Chisel",
+            "D": "Statue"
+        },
+        "correct_answer": "D",
+        "answer_description": "As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Eye : Myopia :: Teeth : ?",
+        "options": {
+            "A": "Pyorrhoea",
+            "B": "Cataract",
+            "C": "Trachoma",
+            "D": "Eczema"
+        },
+        "correct_answer": "A",
+        "answer_description": "As Myopia is disease of eye similarly pyorrhoea is a disease of teeth."
+    }
+]

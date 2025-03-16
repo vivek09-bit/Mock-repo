@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a denormalization situation exists with a one-to-one binary relationship, which of the following is true?",
+        "options": {
+            "A": "All fields are stored in one relation.",
+            "B": "All fields are stored in two relations.",
+            "C": "All fields are stored in three relations.",
+            "D": "All fields are stored in four relations."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Selecting a data type involves which of the following?",
+        "options": {
+            "A": "Maximize storage space",
+            "B": "Represent most values",
+            "C": "Improve data integrity",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the best data type definition for Oracle when a field is alphanumeric and has a length that can vary?",
+        "options": {
+            "A": "VARCHAR2",
+            "B": "CHAR",
+            "C": "LONG",
+            "D": "NUMBER"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a denormalization situation exists with a many-to-many or associative binary relationship, which of the following is true?",
+        "options": {
+            "A": "All fields are stored in one relation.",
+            "B": "All fields are stored in two relations.",
+            "C": "All fields are stored in three relations.",
+            "D": "All fields are stored in four relations."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an advantage of partitioning?",
+        "options": {
+            "A": "Complexity",
+            "B": "Inconsistent access speed",
+            "C": "Extra space",
+            "D": "Security"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

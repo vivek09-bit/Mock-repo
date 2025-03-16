@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "\"If you don't keep quiet I shall shoot you\", he said to her in a calm voice.",
+        "options": {
+            "A": "He warned her to shoot if she didn't keep quiet calmly.",
+            "B": "He said calmly that I shall shoot you if you don't be quiet.",
+            "C": "He warned her calmly that he would shoot her if she didn't keep quiet.",
+            "D": "Calmly he warned her that be quiet or else he will have to shoot her."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "I told him that he was not working hard.",
+        "options": {
+            "A": "I said to him, \"You are not working hard.\"",
+            "B": "I told to him, \"You are not working hard.\"",
+            "C": "I said, \"You are not working hard.\"",
+            "D": "I said to him, \"He is not working hard.\""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "His father ordered him to go to his room and study.",
+        "options": {
+            "A": "His father said, \"Go to your room and study.\"",
+            "B": "His father said to him, \"Go and study in your room.\"",
+            "C": "His father shouted, \"Go right now to your study room\"",
+            "D": "His father said firmly, \"Go and study in your room.\""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "He said to his father, \"Please increase my pocket-money.\"",
+        "options": {
+            "A": "He told his father, \"Please increase the pocket-money\"",
+            "B": "He pleaded his father to please increase my pocket money.",
+            "C": "He requested his father to increase his pocket-money.",
+            "D": "He asked his father to increase his pocket-money."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "She said that her brother was getting married.",
+        "options": {
+            "A": "She said, \"Her brother is getting married.\"",
+            "B": "She told, \"Her brother is getting married.\"",
+            "C": "She said, \"My brother is getting married.\"",
+            "D": "She said, \"My brother was getting married.\""
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

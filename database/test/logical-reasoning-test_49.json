@@ -1,0 +1,276 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Three of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "tulip",
+               "B": "rose",
+               "C": "bud",
+               "D": "daisy"
+          },
+          "correct_answer": "C",
+          "answer_description": "Tulip, rose, and daisy are all types of flowers. A bud is not."
+     },
+     {
+          "direction": "Direction (Q.No. 2)Each question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+          "image_path": null,
+          "question": "book",
+          "options": {
+               "A": "fiction",
+               "B": "pages",
+               "C": "pictures",
+               "D": "learning"
+          },
+          "correct_answer": "B",
+          "answer_description": "The necessary part of a book is its pages; there is no book without pages. Not all books are fiction (choice a), and not all books have pictures (choice c). Learning (choice d) may or may not take place with a book"
+     },
+     {
+          "direction": "Direction (Q.No. 3)Choose the picture that would go in the empty box so that the two bottom pictures are related in the same way as the top two are related.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "A",
+          "answer_description": "Cup is to bowl as vacuum cleaner is to broom. This is  another relationship about function. The cup and bowl are both used for eating. The vacuum cleaner and broom are both used for cleaning."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Every one of the following questions consists of a related pair of words, followed by five pairs of words. Choose the pair that best represents a similar relationship to the one expressed in the original pair of words.",
+          "image_path": null,
+          "question": "TAILOR : SUIT",
+          "options": {
+               "A": "scheme : agent",
+               "B": "edit : manuscript",
+               "C": "revise : writer",
+               "D": "mention : opinion",
+               "E": "implode : building"
+          },
+          "correct_answer": "B",
+          "answer_description": "To tailor a suit is to alter it; to edit a manuscript is to alter it."
+     },
+     {
+          "direction": "Direction (Q.No. 5)Read the below passage carefully and answer the questions:The government of an island nation is in the process of deciding how to spend its limited income. It has $7 million left in its budget and eight programs to choose among. There is no provision in the constitution to have a surplus, and each program has requested the minimum amount they need; in other words, no program may be partially funded. The programs and their funding requests are:* Hurricane preparedness: $2.5 million* Harbor improvements: $1 million* School music program: $0.5 million* Senate office building remodeling: $1.5 million* Agricultural subsidy program: $2 million* National radio: $0.5 million* Small business loan program: $3 million* International airport: $4 million",
+          "image_path": null,
+          "question": "If the legislature decides to fund the agricultural subsidy program, national radio, and the small business loan program, the only other single program that can be funded is",
+          "options": {
+               "A": "hurricane preparedness.",
+               "B": "harbor improvements.",
+               "C": "school music program.",
+               "D": "senate office building remodeling.",
+               "E": "international airport."
+          },
+          "correct_answer": "D",
+          "answer_description": "The total of the three programs (2 million + 0.5 million + 3 million) is 5.5 million. That leaves 1.5 million (7 million - 5.5 million), and the only single program needing that amount is the senate office building remodeling."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 7)Choose the statement that is best supported by the information given in the question passage.",
+          "image_path": null,
+          "question": "There are no effective boundaries when it comes to pollutants. Studies have shown that toxic insecticides that have been banned in many countries are riding the wind from countries where they remain legal. Compounds such as DDT and toxaphene have been found in remote places like the Yukon and other Arctic regions.This paragraph best supports the statement that",
+          "options": {
+               "A": "toxic insecticides such as DDT have not been banned throughout the world.",
+               "B": "more pollutants find their way into polar climates than they do into warmer areas",
+               "C": "studies have proven that many countries have ignored their own antipollution laws.",
+               "D": "DDT and toxaphene are the two most toxic insecticides in the world.",
+               "E": "even a worldwide ban on toxic insecticides would not stop the spread of DDT pollution."
+          },
+          "correct_answer": "A",
+          "answer_description": "The support for this choice is in the second sentence, which states that in some countries, toxic insecticides are still legal. Choice b is incorrect because even though polar regions are mentioned in the paragraph, there is no support for the idea that warmer regions are not just as affected. There is no support for choice c. Choice d can be ruled out because there is nothing to indicate that DDT and toxaphene are the  most toxic. Choice e is illogical."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 7)Choose the statement that is best supported by the information given in the question passage.",
+          "image_path": null,
+          "question": "Obesity is a serious problem in this country. Research suggests that obesity can lead to a number of health problems including diabetes, asthma, and heart disease. Recent research has even indicated that there may be a relationship between obesity and some types of cancer. Major public health campaigns that increase awareness and propose simple lifestyle changes that will, with diligence and desire, eliminate or least mitigate the incidence of obesity are a crucial first step in battling this critical problem.This paragraph best supports the statement that",
+          "options": {
+               "A": "public health campaigns that raise consciousness and propose lifestyle changes are a productive way to fight obesity.",
+               "B": "obesity is the leading cause of diabetes in our country.",
+               "C": "people in our country watch too much television and do not exercise enough.",
+               "D": "a decline in obesity would radically decrease the incidence of asthma.",
+               "E": "fast-food restaurants and unhealthy school lunches contribute greatly to obesity."
+          },
+          "correct_answer": "A",
+          "answer_description": "The support for this choice is in the last sentence, which states that major public health campaigns that increase awareness and propose lifestyle changes are important in our fight against obesity. Choice b can be ruled out because although the paragraph states that obesity can lead to diabetes, it doesn't tell us that it is the leading cause of this disease. Choices c and  e might sound reasonable and true, but they are not supported in the paragraph. And although we are told that obesity has been connected to asthma, this fact is not quantified in any way, so choice d is also not supported by the information given."
+     },
+     {
+          "direction": "Direction (Q.No. 8)Each of the following questions contains a small paragraph followed by a question on it. Read each paragraph carefully and answer the question given below it.",
+          "image_path": null,
+          "question": "Exports and imports, a swelling favourable balance of trade, investments and bank-balances, are not an index or a balance sheet of national prosperity. Till the beginning of the Second World War, English exports were noticeably greater than what they are today. And yet England has greater national prosperity today than it ever had. Because the income of average Englishmen, working as field and factory labourers, clerks, policemen, petty shopkeepers and shop assistants, domestic workers and other low-paid workers, has gone up.The passage best supports the statement that:",
+          "options": {
+               "A": "a country's economic standard can be best adjudged by per capital income.",
+               "B": "a country's balance of trade is the main criteria of determining its economic prosperity.",
+               "C": "a nation's economy strengthens with the increase in exports.",
+               "D": "English trade has continually increased since the Second World War."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 9)In each of the following questions, a statement/group of statements is given followed by some conclusions. Without resolving anything yourself choose the conclusion which logically follows from the given statements).",
+          "image_path": null,
+          "question": "Every library has books.",
+          "options": {
+               "A": "Books are only in library.",
+               "B": "Libraries are meant for books only.",
+               "C": "No library is without books.",
+               "D": "Some libraries do not have readers."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 10)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:Video libraries are flourishing very much these days.Conclusions:People in general have got a video craze.It is much cheaper to see as many movies as one likes on videos rather than going to the cinema hall.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since both I and II provide suitable explanations to the given statement, so both follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:If you have any problems, bring them to me.Assumptions:You have some problems.I can solve any problem.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The word 'If shows that 'you' do not necessarily have problems. So, I is not implicit. Also, the statement states that problems will be solved by 'me'. So II is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Vitamin E tablets improve circulation, keep your complexion in a glowing condition.Assumptions:People like a glowing complexion.Complexion becomes dull in the absence of circulation.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Generally, only that good feature of a product is highlighted which people crave for. So, I is implicit. Since complexion glows if circulation is improved, so II is also implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Read this book to get detailed and most comprehensive information on this issue.Assumptions:The person who wants this information can read.There are other books available on this issue.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, I directly follows from the statement. So, I is implicit. Also, according to the statement, this particular book gives 'most comprehensive' information on the issue. So, it can be assumed that other books are also available on this topic. Thus, II is also implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 15)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:I can take you quickly from Kanpur to Lucknow by my cab but then you must pay me double the normal charges,Assumptions:Normally, it will take more time to reach Lucknow from Kanpur.People want to reach quickly but they will not pay extra money for it.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "Since the narrator asks for double charges to take the person quickly to Lucknow, it implies that normally it takes more time to reach Lucknow. So, I is implicit. Since one demands extra charges to reach the destination earlier than usual, the person in need would have to pay accordingly. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 15)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The entire north India, including Delhi and the neighbouring states remained 'powerless' the whole day of 19th December as the northern grid supplying electricity to the seven states collapsed yet again.Assumptions:The northern grid had collapsed earlier.The grid system of providing electricity to a group of states is an ineffective type of power supply system.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "The statement mentions that the northern grid collapsed 'yet again'. This means that it had collapsed earlier also. So, I is implicit. Also, the statement talks of a particular fault in the system but does not condemn the grid system. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 16)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should India have no military force at all?Arguments:No. Other countries in the world do not believe in non-violence.Yes. Many Indians believe in non-violence.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "D",
+          "answer_description": "Clearly, India needs to have military force to defend itself against the threat of other military powers in the world. So, none of the arguments holds strong."
+     },
+     {
+          "direction": "Direction (Q.No. 17)In each of the following questions, two statements are given followed by three or four conclusions numbered I, II, III and IV. You have to take the given statements to be true even if they seem to be at variance from the commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:All terrorists are guilty. All terrorists are criminals.Conclusions:Either all criminals are guilty or all guilty are criminals.Some guilty persons are criminals.Generally criminals are guilty.Crime and guilt go together.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only I and III follow",
+               "C": "Only II follows",
+               "D": "Only II and IV follow"
+          },
+          "correct_answer": "C",
+          "answer_description": "Since the middle term 'terrorists' is distributed twice in the premises, the conclusion cannot be universal. So, it follows that 'Some guilty persons are criminals'. Thus, II holds."
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 19)In each question below is given a statement followed by three courses of action numbered I, II and III. You have to assume everything in the statement to be true, then decide which of the three given suggested courses of action logically follows for pursuing.",
+          "image_path": null,
+          "question": "Statement:Every year thousands of eligible students do not get admission in colleges both in urban and rural areas after passing their school leaving certificate examination.Courses of Action:More colleges should be set up in both urban and rural areas.The number of schools in both urban and rural areas should be reduced.More schools should offer vocational courses to equip students for taking up their vocation after completing their school education.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II and III follow",
+               "C": "Only I and III follow",
+               "D": "All follow",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "The solution to the problem lies in accommodating the increasing number of students passing out from schools. So, only I and III follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 19)In each question below is given a statement followed by three courses of action numbered I, II and III. You have to assume everything in the statement to be true, then decide which of the three given suggested courses of action logically follows for pursuing.",
+          "image_path": null,
+          "question": "Statement:Residents from Model Colony coming under North Ward of City X have complained to the Ward Officer that for last three days the tap water in the ward is contaminated and no action is being initiated by municipal staff.Courses of Action:The Ward Officer of North Ward should initiate action against residents who have lodged complaints against municipal staff.The Ward Officer should ask his junior officer to visit Model Colony to assess the actual condition of water with his staff and to get samples of water tested from laboratories.The Ward Officer should ask Ward Engineer to check water installations and pipelines in the Model Colony area.",
+          "options": {
+               "A": "Only I and II follow",
+               "B": "Only II and III follow",
+               "C": "Only I and III follow",
+               "D": "Only either I or III, and II follow",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "The residents complained to the Ward Officer regarding the negligence of duty of his subordinates. So, I does not follow. Also, it is the moral duty of the Officer to listen to the complaints, ascertain the quality of water in the colony and get all pipelines and connections checked for any damage or leak that could have opened the way for contamination of water. Thus, both II and III follow."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Each question given below consists of a statement, followed by three or four arguments numbered I, II, III and IV. You have to decide which of the arguments is/are 'strong' arguments) and which is/are 'weak' arguments) and accordingly choose your answer from the alternatives given below each question.",
+          "image_path": null,
+          "question": "Statement:Should the number of holidays of government employees be reduced?Arguments:Yes. Our government employees are having the maximum number of holidays among the countries of the world.Yes. It is a sign of British legacy, why should we carry it further?Yes. It will speed up work and all the pending jobs can be completed well in time.No. Employees must be given ample spare time to spend with their family.",
+          "options": {
+               "A": "Only I and III are strong",
+               "B": "Only III is strong",
+               "C": "Only I, III and IV are strong",
+               "D": "None is strong",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Reducing the number of holidays just because no other country gives so many holidays or it is a feature of a certain system which we have renounced, does not seem convincing. So, neither I nor II holds strong. However, this step would surely help to reduce the backlog of pending cases and dispense with the new cases much more quickly than before. So, III holds strong. Even if the holidays are reduced, only the avoidable or seemingly unnecessary ones shall be cut short and the national holidays shall still remain to enjoy. So, IV also does not hold."
+     }
+]

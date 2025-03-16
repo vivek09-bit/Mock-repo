@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of PLD should be used to program basic logic functions?",
+        "options": {
+            "A": "PLA",
+            "B": "PAL",
+            "C": "CPLD",
+            "D": "SLD"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The content of a simple programmable logic device (PLD) consists of:",
+        "options": {
+            "A": "fuse-link arrays",
+            "B": "thousands of basic logic gates",
+            "C": "advanced sequential logic functions",
+            "D": "thousands of basic logic gates and advanced sequential logic functions"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Once a PAL has been programmed:",
+        "options": {
+            "A": "it cannot be reprogrammed.",
+            "B": "its outputs are only active HIGHs",
+            "C": "its outputs are only active LOWs",
+            "D": "its logic capacity is lost"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The complex programmable logic device (CPLD) contains several PLD blocks and:",
+        "options": {
+            "A": "field-programmable switches",
+            "B": "AND/OR arrays",
+            "C": "a global interconnection matrix",
+            "D": "a language compiler"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "PLAs, CPLDs, and FPGAs are all which type of device?",
+        "options": {
+            "A": "SLD",
+            "B": "PLD",
+            "C": "EPROM",
+            "D": "SRAM"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

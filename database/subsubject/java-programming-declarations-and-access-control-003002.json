@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the most restrictive access modifier that will allow members of one class to have access to members of another class in the same package?",
+        "options": {
+            "A": "public",
+            "B": "abstract",
+            "C": "protected",
+            "D": "synchronized",
+            "E": "default access"
+        },
+        "correct_answer": "E",
+        "answer_description": "defaultaccess is the \"package oriented\" access modifier.Option A and C are wrong becausepublicandprotectedare less restrictive. Option B and D are wrong becauseabstractandsynchronizedare not access modifiers."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is/are legal method declarations?protected abstract void m1();static final void m1(){}synchronized public final void m1() {}private native void m1();",
+        "options": {
+            "A": "1 and 3",
+            "B": "2 and 4",
+            "C": "1 only",
+            "D": "All of them are legal declarations."
+        },
+        "correct_answer": "D",
+        "answer_description": "All the given statements are legal declarations."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which cause a compiler error?",
+        "options": {
+            "A": "int[ ] scores = {3, 5, 7};",
+            "B": "int [ ][ ] scores = {2,7,6}, {9,3,45};",
+            "C": "String cats[ ] = {\"Fluffy\", \"Spot\", \"Zeus\"};",
+            "D": "boolean results[ ] = new boolean [] {true, false, true};",
+            "E": "Integer results[ ] = {new Integer(3), new Integer(5), new Integer(8)};"
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B generates a compiler error: <identifier> expected. The compiler thinks you are trying to create two arrays because there are two array initialisers to the right of the equals, whereas your intention was to create one 3 x 3 two-dimensional array.To correct the problem and make option B compile you need to add an extra pair of curly brackets:int [ ] [ ] scores = { {2,7,6}, {9,3,45} };"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which three are valid method signatures in an interface?private int getArea();public float getVol(float x);public void main(String [] args);public static void main(String [] args);boolean setFlag(Boolean [] test);",
+        "options": {
+            "A": "1 and 2",
+            "B": "2, 3 and 5",
+            "C": "3, 4, and 5",
+            "D": "2 and 4"
+        },
+        "correct_answer": "B",
+        "answer_description": "(2), (3), and (5). These are all valid interface method signatures.(1), is incorrect because an interface method must bepublic; if it is not explicitly declaredpublicit will be made public implicitly. (4) is incorrect because interface methods cannot bestatic."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want a class to have access to members of another class in the same package. Which is the most restrictive access that accomplishes this objective?",
+        "options": {
+            "A": "public",
+            "B": "private",
+            "C": "protected",
+            "D": "default access"
+        },
+        "correct_answer": "D",
+        "answer_description": "The only two real contenders are C and D.Protectedaccess Option C makes a member accessible only to classes in the same package or subclass of the class. While default access Option D makes a member accessible only to classes in the same package."
+    }
+]

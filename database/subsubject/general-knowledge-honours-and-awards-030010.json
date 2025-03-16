@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who was awarded the first Rajiv Gandhi National Sadhavana Award?",
+        "options": {
+            "A": "Archarya Tulsi",
+            "B": "Dr. J. Rengaswamy",
+            "C": "J. R. D Tata",
+            "D": "Mother Teresa"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'Global 500' awards are given for the outstanding achievement in which of the following fields?",
+        "options": {
+            "A": "Campaign against AIDS",
+            "B": "Population control",
+            "C": "Protection of environment",
+            "D": "Elimination of illiteracy"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To whom was 'Bharat Ratna' awarded in 1999?",
+        "options": {
+            "A": "Lata Mangeshkar",
+            "B": "Amartya Sen",
+            "C": "M. S. Subbulakshmi",
+            "D": "Atal Behari Vajpayee"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

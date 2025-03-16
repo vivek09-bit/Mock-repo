@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveStudy the following line graph and answer the questions.Exports from Three Companies Over the Years (in Rs. crore)",
+        "image_path": "images\\15-3-1-1.png",
+        "question": "For which of the following pairs of years the total exports from the three Companies together are equal?",
+        "options": {
+            "A": "1995 and 1998",
+            "B": "1996 and 1998",
+            "C": "1997 and 1998",
+            "D": "1995 and 1996"
+        },
+        "correct_answer": "D",
+        "answer_description": "Total exports of the three Companies X, Y and Z together, during various years are:In 1993 = Rs. (30 + 80 + 60) crores = Rs. 170 crores.In 1994 = Rs. (60 + 40 + 90) crores = Rs. 190 crores.In 1995 = Rs. (40 + 60 + 120) crores = Rs. 220 crores.In 1996 = Rs. (70 + 60 + 90) crores = Rs. 220 crores.In 1997 = Rs. (100 + 80 + 60) crores = Rs. 240 crores.In 1998 = Rs. (50 + 100 + 80) crores = Rs. 230 crores.In 1999 = Rs. (120 + 140 + 100) crores = Rs. 360 crores.Clearly, the total exports of the three Companies X, Y and Z together are same during the years 1995 and 1996."
+    },
+    {
+        "direction": "Directions to SolveStudy the following line graph and answer the questions.Exports from Three Companies Over the Years (in Rs. crore)",
+        "image_path": "images\\15-3-1-1.png",
+        "question": "Average annual exports during the given period for Company Y is approximately what percent of the average annual exports for Company Z?",
+        "options": {
+            "A": "87.12%",
+            "B": "89.64%",
+            "C": "91.21%",
+            "D": "93.33%"
+        },
+        "correct_answer": "D",
+        "answer_description": "Analysis of the graph: From the graph it is clear thatThe amount of exports of Company X (in crore Rs.) in the years 1993, 1994, 1995, 1996, 1997, 1998 and 1999 are 30, 60, 40, 70, 100, 50 and 120 respectively.The amount of exports of Company Y (in crore Rs.) in the years 1993, 1994,  1995, 1996, 1997, 1998 and 1999 are 80, 40, 60, 60, 80, 100 and 140 respectively.The amount of exports of Company Z (in crore Rs.) in the years 1993, 1994,  1995, 1996, 1997, 1998 and 1999 are 60, 90,, 120, 90, 60, 80 and 100 respectively.Average annual exports (in Rs. crore) of Company Y during the given period=1x (80 + 40 + 60 + 60 + 80 + 100 + 140) =560= 80.77Average annual exports (in Rs. crore) of Company Z during the given period=1x (60 + 90 + 120 + 90 + 60 + 80 + 100) =600.77Required percentage =80x 100%93.33%.6007"
+    },
+    {
+        "direction": "Directions to SolveStudy the following line graph and answer the questions.Exports from Three Companies Over the Years (in Rs. crore)",
+        "image_path": "images\\15-3-1-1.png",
+        "question": "In which year was the difference between the exports from Companies X and Y the minimum?",
+        "options": {
+            "A": "1994",
+            "B": "1995",
+            "C": "1996",
+            "D": "1997"
+        },
+        "correct_answer": "C",
+        "answer_description": "The difference between the exports from the Companies X and Y during the various years are:In 1993 = Rs. (80 - 30) crores = Rs. 50 crores.In 1994 = Rs. (60 - 40) crores = Rs. 20 crores.In 1995 = Rs. (60 - 40) crores = Rs. 20 crores.In 1996 = Rs. (70 - 60) crores = Rs. 10 crores.In 1997 = Rs. (100 - 80) crores = Rs. 20 crores.In 1998 = Rs. (100 - 50) crores = Rs. 50 crores.In 1999 = Rs. (140 - 120) crores = Rs. 20 crores.Clearly, the difference is minimum in the year 1996."
+    },
+    {
+        "direction": "Directions to SolveStudy the following line graph and answer the questions.Exports from Three Companies Over the Years (in Rs. crore)",
+        "image_path": "images\\15-3-1-1.png",
+        "question": "What was the difference between the average exports of the three Companies in 1993 and the average exports in 1998?",
+        "options": {
+            "A": "Rs. 15.33 crores",
+            "B": "Rs. 18.67 crores",
+            "C": "Rs. 20 crores",
+            "D": "Rs. 22.17 crores"
+        },
+        "correct_answer": "C",
+        "answer_description": "Average exports of the three Companies X, Y and Z in 1993= Rs.1x (30 + 80 + 60)crores = Rs.170crores.33Average exports of the three Companies X, Y and Z in 1998= Rs.1x (50 + 100 + 80)crores = Rs.230crores.33Difference= Rs.230-170crores33= Rs.60crores3= Rs. 20 crores."
+    },
+    {
+        "direction": "Directions to SolveStudy the following line graph and answer the questions.Exports from Three Companies Over the Years (in Rs. crore)",
+        "image_path": "images\\15-3-1-1.png",
+        "question": "In how many of the given years, were the exports from Company Z more than the average annual exports over the given years?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "C",
+        "answer_description": "Average annual exports of Company Z during the given period=1x (60 + 90 + 120 + 90 + 60 + 80 + 100)7= Rs.600crores7= Rs. 85.71 crores.From the analysis of graph the exports of Company Z are more than the average annual exports of Company Z (i.e., Rs. 85.71 crores) during the years 1994, 1995, 1996 and 1999, i.e., during 4 of the given years."
+    }
+]

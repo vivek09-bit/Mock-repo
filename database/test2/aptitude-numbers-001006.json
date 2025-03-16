@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between a positive proper fraction and its reciprocal is 9/20. The fraction is:",
+        "options": {
+            "A": "35",
+            "B": "310",
+            "C": "45",
+            "D": "43"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the required fraction bex. Then1-x =9x201 -x2=9x2020 - 20x2= 9x20x2+ 9x- 20 = 020x2+ 25x- 16x- 20 = 05x(4x+ 5) - 4(4x+ 5) = 0(4x+ 5)(5x- 4) = 0x =45"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On dividing a number by 56, we get 29 as remainder. On dividing the same number by 8, what will be the remainder ?",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "B",
+        "answer_description": "Formula: (Divisor*Quotient) + Remainder = Dividend.Soln:(56*Q)+29 = D -------(1)D%8 = R -------------(2)From equation(2),((56*Q)+29)%8 = R.=> Assume Q = 1.=> (56+29)%8 = R.=> 85%8 = R=> 5 = R."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifnis a natural number, then (6n2+ 6n) is always divisible by:",
+        "options": {
+            "A": "6 only",
+            "B": "6 and 12 both",
+            "C": "12 only",
+            "D": "by 18 only"
+        },
+        "correct_answer": "B",
+        "answer_description": "(6n2+ 6n) = 6n(n+ 1), which is always divisible by 6 and 12 both, sincen(n+ 1) is always even."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "107 x 107 + 93 x 93 = ?",
+        "options": {
+            "A": "19578",
+            "B": "19418",
+            "C": "20098",
+            "D": "21908",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "107 x 107 + 93 x 93= (107)2+ (93)2= (100 + 7)2+ (100 - 7)2= 2 x [(100)2+ 72]       [Ref:(a + b)2+ (a - b)2= 2(a2+ b2)]= 20098"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be remainder when (6767+ 67) is divided by 68 ?",
+        "options": {
+            "A": "1",
+            "B": "63",
+            "C": "66",
+            "D": "67"
+        },
+        "correct_answer": "C",
+        "answer_description": "(xn+ 1) will be divisible by (x+ 1) only whennis odd.(6767+ 1) will be divisible by (67 + 1)(6767+ 1) + 66, when divided by 68 will give 66 as remainder."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Circle:\r\n    def __init__(self, radius):\r\n        self.radius = radius\r\n\r\n    def calculate_area(self):\r\n        return 3.14 * self.radius * self.radiusHow would you create an instance of the Circle class with a radius of 5?",
+        "options": {
+            "A": "circle_instance = Circle.create(5)",
+            "B": "circle_instance = Circle(radius=5)",
+            "C": "circle_instance = new Circle(5)",
+            "D": "circle_instance = Circle(5)"
+        },
+        "correct_answer": "B",
+        "answer_description": "The correct way to create an instance of the Circle class with a radius of 5 is to use the constructor and pass the value as a named argument."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is automatically called when an object is created?",
+        "options": {
+            "A": "__new__",
+            "B": "__create__",
+            "C": "__init__",
+            "D": "__construct__"
+        },
+        "correct_answer": "C",
+        "answer_description": "The__init__method is automatically called when an object is created in Python, allowing you to initialize the object's attributes."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class BankAccount:\r\n    def __init__(self, balance):\r\n        self.balance = balance\r\n\r\n    def withdraw(self, amount):\r\n        if amount <= self.balance:\r\n            self.balance -= amount\r\n            return True\r\n        else:\r\n            return FalseWhat does thewithdrawmethod return if the withdrawal is successful?",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "The updated balance",
+            "D": "None"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thewithdrawmethod returnsTrueif the withdrawal is successful, indicating that the amount was deducted from the balance."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of the__str__method in a class?",
+        "options": {
+            "A": "To convert the object to a string representation",
+            "B": "To create a new instance of the class",
+            "C": "To define class attributes",
+            "D": "To delete the class object"
+        },
+        "correct_answer": "A",
+        "answer_description": "The__str__method is used to define a human-readable string representation of the object when thestr()function is called."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Student:\r\n    def __init__(self, name, age):\r\n        self.name = name\r\n        self.age = age\r\n\r\n    def birthday(self):\r\n        self.age += 1If you create an instance of the Student class calledjohnwith age 20 and then calljohn.birthday(), what will be the updated age?",
+        "options": {
+            "A": "20",
+            "B": "21",
+            "C": "19",
+            "D": "None"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thebirthdaymethod increments the age attribute by 1, so after callingjohn.birthday(), the updated age will be 21."
+    }
+]

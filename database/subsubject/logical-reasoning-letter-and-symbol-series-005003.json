@@ -1,0 +1,28 @@
+[
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "QAR, RAS, SAT, TAU, _____",
+        "options": {
+            "A": "UAV",
+            "B": "UAT",
+            "C": "TAS",
+            "D": "TAT"
+        },
+        "correct_answer": "A",
+        "answer_description": "In this series, the third letter is repeated as the first letter of the next segment. The middle letter, A, remains static. The third letters are in alphabetical order, beginning with R."
+    },
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "DEF, DEF2, DE2F2, _____, D2E2F3",
+        "options": {
+            "A": "DEF3",
+            "B": "D3EF3",
+            "C": "D2E3F",
+            "D": "D2E2F2"
+        },
+        "correct_answer": "D",
+        "answer_description": "In this series, the letters remain the same: DEF.The subscript numbers follow this series:111, 112, 122, 222, 223, 233, 333, ..."
+    }
+]

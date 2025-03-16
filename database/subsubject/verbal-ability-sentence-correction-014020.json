@@ -1,0 +1,44 @@
+[
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "I have got some tea, but I do not haveasugar.",
+        "options": {
+            "A": "some",
+            "B": "got",
+            "C": "more",
+            "D": "any",
+            "E": "No correction required"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "Had I realisedhow close I was to the edge of the valley, I would not have carried the bags there.",
+        "options": {
+            "A": "Had I been realised",
+            "B": "If I would have realised",
+            "C": "When I realised",
+            "D": "Had I had realised",
+            "E": "No correction required"
+        },
+        "correct_answer": "E",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "Most of the Indian workers areas healthy as, if not healthierthan, British workers.",
+        "options": {
+            "A": "as if healthy as not healthier",
+            "B": "healthier but not as healthy",
+            "C": "as healthy, if not healthier",
+            "D": "so healthy, if not healthier",
+            "E": "No correction required"
+        },
+        "correct_answer": "E",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

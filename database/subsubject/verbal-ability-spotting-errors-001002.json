@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "A lot of travel delay is caused",
+            "B": "due to the inefficiency and lack of good management",
+            "C": "on behalf of the railways.",
+            "D": "No error."
+        },
+        "correct_answer": "C",
+        "answer_description": "on the part of the railways"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "One of the members",
+            "B": "expressed doubt if",
+            "C": "the Minister was an atheist.",
+            "D": "No error."
+        },
+        "correct_answer": "B",
+        "answer_description": "expressed doubt that"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "I have got",
+            "B": "my  M.Sc. degree",
+            "C": "in 1988.",
+            "D": "No error."
+        },
+        "correct_answer": "A",
+        "answer_description": "I got"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Having received your letter",
+            "B": "this morning, we are writing",
+            "C": "to thank you for the same.",
+            "D": "No error."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "If  you lend him a book",
+            "B": "he will lend it to some one else",
+            "C": "and never you will get it back.",
+            "D": "No error."
+        },
+        "correct_answer": "C",
+        "answer_description": "and you will never get it back"
+    }
+]

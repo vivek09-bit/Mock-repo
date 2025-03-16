@@ -1,0 +1,240 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Prior to 1970, all data was stored in separate files, which were mostly stored on reels of magnetic tape.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "ORDER BY can be combined with the SELECT statements.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following refers to an entity in which the identifier of one entity includes the identifier of another entity?",
+          "options": {
+               "A": "Weak entity",
+               "B": "Strong entity",
+               "C": "ID-dependent entity",
+               "D": "ID-independent entity"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following situation requires the use of ID-dependent entities?",
+          "options": {
+               "A": "Association relationships only",
+               "B": "Multivalued attributes only",
+               "C": "Archetype/instance relationships only",
+               "D": "All of the above use ID dependent entities"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Cascading updates refers to child rows being automatically deleted when a parent row is deleted.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The ODBC core API consists of which of the following functions?",
+          "options": {
+               "A": "Commit or rollback transactions only",
+               "B": "Connect to data sources with driver-specific information only",
+               "C": "Connect to data sources only",
+               "D": "Both 1 and 3 above are in the OBDC core API."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An OLE DB interface is specified by a set of objects and the properties and methods that they expose.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What standard, protocol or language was generalized to become a standard protocol for sending messages of any type, using any protocol?",
+          "options": {
+               "A": "SOAP",
+               "B": "SGML",
+               "C": "SQL",
+               "D": "ADO"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Type 3 and Type 4 JDBC drivers can be used for sevlets and applets.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A shared database should:",
+          "options": {
+               "A": "be accurate and available.",
+               "B": "provide for backup and recovery.",
+               "C": "be secure.",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The primary mechanism for providing context for data is metadata.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Database management systems were first introduced in the 1950s.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The three-schema components include all, but:",
+          "options": {
+               "A": "internal schema.",
+               "B": "conceptual schema.",
+               "C": "programming schema.",
+               "D": "external schema."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When mapping a supertype/subtype relationship which of the following is true?",
+          "options": {
+               "A": "The supertype primary key is assigned to each subtype.",
+               "B": "The subtype primary key is assigned to each supertype.",
+               "C": "There is no link between the supertype/subtype entities.",
+               "D": "There is no primary key/foreign key relationship between a supertype/subtype."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Well-structured relations encourage anomalies of data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true concerning the standard network protocol for connecting a client to a Web or database server via the Internet?",
+          "options": {
+               "A": "Both TCP and IP are needed.",
+               "B": "TCP is needed but IP is not needed.",
+               "C": "TCP is not needed but IP is needed.",
+               "D": "Neither TCP and IP are needed."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A server-side extension is needed to do what?",
+          "options": {
+               "A": "Allow a request from a client to access the database.",
+               "B": "Allow a request from a client to access a HTML-formatted page.",
+               "C": "Allow a request from a client to access Web pages.",
+               "D": "All of the above."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The problem of concurrency control is more complex in a distributed database.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An operation that alters the state of an object is known as a constructor operation.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An attribute's value is always literal.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

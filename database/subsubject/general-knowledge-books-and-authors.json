@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who wrote the famous book - 'We the people'?",
+        "options": {
+            "A": "T.N.Kaul",
+            "B": "J.R.D. Tata",
+            "C": "Khushwant Singh",
+            "D": "Nani Palkhivala"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who is the author of the book 'Nineteen Eighty Four'?",
+        "options": {
+            "A": "Thomas Hardy",
+            "B": "Emile Zola",
+            "C": "George Orwell",
+            "D": "Walter Scott"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is NOT written by Munshi Premchand?",
+        "options": {
+            "A": "Gaban",
+            "B": "Godan",
+            "C": "Guide",
+            "D": "Manasorovar"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who is the author of the book 'Forbidden Verses'?",
+        "options": {
+            "A": "Salman RushDie",
+            "B": "Abu Nuwas",
+            "C": "Ms. Taslima Nasrin",
+            "D": "D.H. Lawrence"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The lead character in the film 'The Bandit Queen' has been played by",
+        "options": {
+            "A": "Rupa Ganguly",
+            "B": "Seema Biswas",
+            "C": "Pratiba Sinha",
+            "D": "Shabama Azmi"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When setting up Frame Relay for point-to-point subinterfaces, which of the following must not be configured?",
+        "options": {
+            "A": "The Frame Relay encapsulation on the physical interface",
+            "B": "The local DLCI on each subinterface",
+            "C": "An IP address on the physical interface",
+            "D": "The subinterface type as point-to-point"
+        },
+        "correct_answer": "C",
+        "answer_description": "It is very important to remember when studying the CCNA exam objectives, and when configuring Frame Relay with point-to-point subinterfaces, that you do not put an IP address on the physical interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will display the CHAP authentication process as it occurs between two routers in the network?",
+        "options": {
+            "A": "show chap authentication",
+            "B": "show interface serial 0",
+            "C": "debug ppp authentication",
+            "D": "debug chap authentication"
+        },
+        "correct_answer": "C",
+        "answer_description": "The commanddebug ppp authenticationwill show you the authentication process that PPP uses between point-to-point connections."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Acme Corporation is implementing dial-up services to enable remote-office employees to connect to the local network. The company uses multiple routed protocols, needs authentication of users connecting to the network, and since some calls will be long distance, needs callback support. Which of the following protocols is the best choice for these remote services?",
+        "options": {
+            "A": "802.1",
+            "B": "Frame Relay",
+            "C": "HDLC",
+            "D": "PPP",
+            "E": "PAP"
+        },
+        "correct_answer": "D",
+        "answer_description": "PPP is your only option, as HDLC and Frame Relay do not support these types of business requirements. PPP provides dynamic addressing, authentication using PAP or CHAP, and callback services."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need to configure a router for a Frame Relay connection to a non-Cisco router. Which of the following commands will prepare the WAN interface of the router for this connection?",
+        "options": {
+            "A": "Router(config-if)#encapsulation frame-relay q933a",
+            "B": "Router(config-if)#encapsulation frame-relay ansi",
+            "C": "Router(config-if)#encapsulation frame-relay ietf",
+            "D": "Router(config-if)#encapsulation frame-relay cisco"
+        },
+        "correct_answer": "C",
+        "answer_description": "If you have a Cisco router on one side of a Frame Relay network and a non-Cisco router on the other side, you would need to use the Frame Relay encapsulation type of IETF. The default is Cisco encapsulation, which means that a Cisco router must be on both sides of the Frame Relay network."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which WAN encapsulations can be configured on an asynchronous serial connection?PPPATMHDLCSDLCFrame Relay",
+        "options": {
+            "A": "1 and 2",
+            "B": "2 and 4",
+            "C": "3, 4 and 5",
+            "D": "All of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "Please do not freak out because ATM is an answer to this question. ATM is not covered in depth on the CCNA exam. PPP is mostly used for dial-up (async) services, but ATM could be used as well, though it typically is not used anymore since PPP is so efficient."
+    }
+]

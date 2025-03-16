@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of Spanning Tree Protocol in a switched LAN?",
+        "options": {
+            "A": "To provide a mechanism for network monitoring in switched environments",
+            "B": "To prevent routing loops in networks with redundant paths",
+            "C": "To prevent switching loops in networks with redundant switched paths",
+            "D": "To manage the VLAN database across multiple switches",
+            "E": "To create collision domains"
+        },
+        "correct_answer": "C",
+        "answer_description": "The Spanning Tree Protocol (STP) was designed to stop layer 2 loops. All Cisco switches have the STP on by default."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement describes a spanning-tree network that has converged?",
+        "options": {
+            "A": "All switch and bridge ports are in the forwarding state.",
+            "B": "All switch and bridge ports are assigned as either root or designated ports.",
+            "C": "All switch and bridge ports are in either the forwarding or blocking state.",
+            "D": "All switch and bridge ports are either blocking or looping."
+        },
+        "correct_answer": "C",
+        "answer_description": "Convergence occurs when all ports on bridges and switches have transitioned to either the forwarding or blocking states. No data is forwarded until convergence is complete. Before data can be forwarded again, all devices must be updated."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does a switch do when a frame is received on an interface and the destination hardware address is unknown or not in the filter table?",
+        "options": {
+            "A": "Forwards the switch to the first available link",
+            "B": "Drops the frame",
+            "C": "Floods the network with the frame looking for the device",
+            "D": "Sends back a message to the originating station asking for a name resolution"
+        },
+        "correct_answer": "C",
+        "answer_description": "Switches flood all frames that have an unknown destination address. If a device answers the frame, the switch will update the MAC address table to reflect the location of the device."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which circumstance are multiple copies of the same unicast frame likely to be transmitted in a switched LAN?",
+        "options": {
+            "A": "During high-traffic periods",
+            "B": "After broken links are reestablished",
+            "C": "When upper-layer protocols require high reliability",
+            "D": "In an improperly implemented redundant topology"
+        },
+        "correct_answer": "D",
+        "answer_description": "If the Spanning Tree Protocol is not running on your switches and you connect them together with redundant links, you will have broadcast storms and multiple frame copies."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If you want to disable STP on a port connected to a server, which command would you use?",
+        "options": {
+            "A": "disable spanning-tree",
+            "B": "spanning-tree off",
+            "C": "spanning-tree security",
+            "D": "spanning-tree portfast"
+        },
+        "correct_answer": "D",
+        "answer_description": "If you have a server or other devices connected into your switch that you're totally sure won't create a switching loop if STP is disabled, you can use something calledportfaston these ports. Using it means the port won't spend the usual 50 seconds to come up while STP is converging."
+    }
+]

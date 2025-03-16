@@ -1,0 +1,28 @@
+[
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "book",
+            "B": "index",
+            "C": "glossary",
+            "D": "chapter"
+        },
+        "correct_answer": "A",
+        "answer_description": "An index, glossary, and chapter are all parts of a book. Choice a does not belong because the book is the whole, not a part."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "unimportant",
+            "B": "trivial",
+            "C": "insignificant",
+            "D": "familiar"
+        },
+        "correct_answer": "D",
+        "answer_description": "The first three choices are all synonyms."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement below best describes the function of a decoder?",
+        "options": {
+            "A": "A decoder will convert a decimal number into the proper binary equivalent.",
+            "B": "A decoder will convert a binary number into a specific output representing a particular character or digit.",
+            "C": "Decoders are used to prevent improper operation of digital systems.",
+            "D": "Decoders are special ICs that are used to make it possible for one brand of computer to talk to another."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One can safely state that the output lines for a demultiplexer are under the direct control of the:",
+        "options": {
+            "A": "input data select lines.",
+            "B": "the internal AND gates.",
+            "C": "the internal OR gate.",
+            "D": "Input data line."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Refer to the figure given below. The logic function generator being implemented with the multiplexer in this circuit produces a constant LOW on the output. TheABCinputs are checked and appear to be pulsing; also, the 0–7 and EN inputs are checked with the scope and all appear to be at 0 V. A check with the DMM confirms that power is on. What is the problem, and what should be done to correct it?",
+        "options": {
+            "A": "The output is shorted toVcc; replace the IC.",
+            "B": "The scope's vertical input is in the AC mode and the common connection for the 0,2,3 and 5 inputs is bad. Set the scope's vertical input mode to DC, and repair the bad solder connection.",
+            "C": "Power has not been applied to the circuit; apply power.",
+            "D": "The output is shorted to ground; replace the IC."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Refer to the keyboard encoder in figure (a). Sometimes when the 5 key is pressed, the system attached to the keypad does not respond. The 5 input on the 74147 is monitored with a digital storage scope while repeatedly pressing the 5 key, and the waveform in figure (b) is obtained; the P above the trace indicates the points at which the technician pressed the key. What is most likely wrong with the circuit?",
+        "options": {
+            "A": "The switches on the 5 key are intermittent; the contacts need to be cleaned or the switch replaced.",
+            "B": "The pull-up resistor connected to the 5 key is bad and should be replaced.",
+            "C": "The common ground connection at the bottom of the 0 key has a bad solder connection; repair the connection.",
+            "D": "The 74147 is intermittent, possibly due to high temperature, and should be replaced."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The BCD/DEC decoder shown in figure (a) is examined with a logic analyzer and the results are shown in the waveforms in figure (b). What, if anything, is wrong with the circuit?",
+        "options": {
+            "A": "The \"2\" output is shorted toVcc.",
+            "B": "TheA1 input is internally open.",
+            "C": "TheA1 input node is internally stuck LOW.",
+            "D": "Nothing is wrong with the circuit."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

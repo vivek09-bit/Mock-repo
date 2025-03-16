@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many inputs are required for a 1-of-10 BCD decoder?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "10",
+            "D": "1"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Most demultiplexers facilitate which of the following?",
+        "options": {
+            "A": "decimal to hexadecimal",
+            "B": "single input, multiple outputs",
+            "C": "ac to dc",
+            "D": "odd parity to even parity"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One application of a digital multiplexer is to facilitate:",
+        "options": {
+            "A": "code conversion",
+            "B": "parity checking",
+            "C": "parallel-to-serial data conversion",
+            "D": "data generation"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Select one of the following statements that best describes the parity method of error detection:",
+        "options": {
+            "A": "Parity checking is best suited for detecting single-bit errors in transmitted codes.",
+            "B": "Parity checking is best suited for detecting double-bit errors that occur during the transmission of codes from one location to another.",
+            "C": "Parity checking is not suitable for detecting single-bit errors in transmitted codes.",
+            "D": "Parity checking is capable of detecting and correcting errors in transmitted codes."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A multiplexed display:",
+        "options": {
+            "A": "accepts data inputs from one line and passes this data to multipleoutput lines",
+            "B": "uses one display to present two or more pieces of information",
+            "C": "accepts data inputs from multiple lines and passes this data to multiple output lines",
+            "D": "accepts data inputs from several lines and multiplexes this input data to four BCD lines"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

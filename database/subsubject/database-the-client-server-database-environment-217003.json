@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three-tier architecture includes which of the following?",
+        "options": {
+            "A": "Three server layers",
+            "B": "A client layer and two server layers",
+            "C": "Two client layers and one server layer",
+            "D": "Three client layers"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning the mainframe?",
+        "options": {
+            "A": "It is the same thing as client/server.",
+            "B": "Requires someone to decide which code should be on the workstation or the server.",
+            "C": "Mission-critical systems have tended to remain there.",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A server cannot serve on which of the following levels?",
+        "options": {
+            "A": "Client Layer",
+            "B": "Business Layer",
+            "C": "Database Layer",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The three different application logic components are which of the following?",
+        "options": {
+            "A": "Presentation, Client, and Storage",
+            "B": "Presentation, Client, and Processing",
+            "C": "Presentation, Processing, and Storage",
+            "D": "Presentation, Processing, and Network"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A database server is responsible for which of the following?",
+        "options": {
+            "A": "Database storage",
+            "B": "Data processing logic",
+            "C": "Data presentation logic",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

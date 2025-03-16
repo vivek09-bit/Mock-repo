@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the correct way to create an object?",
+        "options": {
+            "A": "new Object()",
+            "B": "Object.create()",
+            "C": "obj = object()",
+            "D": "obj = Object()"
+        },
+        "correct_answer": "C",
+        "answer_description": "In Python, objects are created using theobject()constructor."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__init__method in a Python class?",
+        "options": {
+            "A": "To initialize the class object",
+            "B": "To define the class attributes",
+            "C": "To create a new instance of the class",
+            "D": "To destroy the class object"
+        },
+        "correct_answer": "A",
+        "answer_description": "The__init__method is used to initialize the attributes of a class when a new object is created."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the role of theselfparameter in Python class methods?",
+        "options": {
+            "A": "It represents the class itself",
+            "B": "It is used to create a new instance of the class",
+            "C": "It refers to the current object instance",
+            "D": "It initializes the class attributes"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theselfparameter in class methods refers to the instance of the class on which the method is called."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, how can you access the attributes of an object?",
+        "options": {
+            "A": "Using theobject.attributessyntax",
+            "B": "Using theobject[attribute]syntax",
+            "C": "Using theobject.attributesyntax",
+            "D": "Using theget(object, attribute)function"
+        },
+        "correct_answer": "C",
+        "answer_description": "The attributes of an object in Python are accessed using the dot notation:object.attribute."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens when you call thedelstatement on an object's attribute?",
+        "options": {
+            "A": "The entire object is deleted",
+            "B": "The attribute is set toNone",
+            "C": "The attribute is removed from the object",
+            "D": "The attribute is set to its default value"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thedelstatement removes an attribute from an object in Python."
+    }
+]

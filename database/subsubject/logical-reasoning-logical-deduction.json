@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:No women teacher can play. Some women teachers are athletes.Conclusions:Male athletes can play.Some athletes can play.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since one premise is negative, the conclusion must be negative. So, neither conclusion follows.Read:Important Rules and Formulas for Logical Deduction."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:All bags are cakes. All lamps are cakes.Conclusions:Some lamps are bags.No lamp is bag.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "C",
+        "answer_description": "Since the middle term 'cakes' is not distributed even once in the premises, no definite conclusion follows. However, I and II involve only the extreme terms and form a complementary pair. So, either I or II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:All mangoes are golden in colour. No golden-coloured things are cheap.Conclusions:All mangoes are cheap.Golden-coloured mangoes are not cheap.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No mango is cheap'. Since all mangoes are golden in colour, we may substitute 'mangoes' with 'golden-coloured mangoes'. Thus, II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Some kings are queens. All queens are beautiful.Conclusions:All kings are beautiful.All queens are kings.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since one premise is particular, the conclusion must be particular. So, neither I nor II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Some doctors are fools. Some fools are rich.Conclusions:Some doctors are richSome rich are doctors.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since both the premises are particular, no definite conclusion follows."
+    }
+]

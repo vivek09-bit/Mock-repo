@@ -1,0 +1,262 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph carefully and answer the questions given below:Distribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:",
+          "image_path": "images\\15-2-10-1.png",
+          "question": "What percentage of candidates passed the Exam from institute T out of the total number of candidates enrolled from the same institute?",
+          "options": {
+               "A": "50%",
+               "B": "62.5%",
+               "C": "75%",
+               "D": "80%"
+          },
+          "correct_answer": "C",
+          "answer_description": "Required percentage =9% of 5700x 100% =9 x 5700x 100% = 75%.8% of 85508% of 8550"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph carefully and answer the questions given below:Distribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:",
+          "image_path": "images\\15-2-10-1.png",
+          "question": "What is the ratio of candidates passed to the candidates enrolled from institute P?",
+          "options": {
+               "A": "9 : 11",
+               "B": "14 : 17",
+               "C": "6 : 11",
+               "D": "9 : 17"
+          },
+          "correct_answer": "C",
+          "answer_description": "Required ratio =18% of 5700=18 x 5700=6.22% of 855022 x 855011"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph carefully and answer the questions given below:Distribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:",
+          "image_path": "images\\15-2-10-1.png",
+          "question": "What is the percentage of candidates passed to the candidates enrolled for institutes Q and R together?",
+          "options": {
+               "A": "68%",
+               "B": "80%",
+               "C": "74%",
+               "D": "65%"
+          },
+          "correct_answer": "B",
+          "answer_description": "Candidates passed from institutes Q and R together= [(13% + 17%) of 5700]= 30% of 5700.Candidates enrolled from institutes Q and R together= [(15% + 10%) of 8550]= 25% of 8550.Required Percentage=30% of 5700x 100%25% of 8550=30 x 5700x 100%25 x 8550= 80%."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph carefully and answer the questions given below:Distribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:",
+          "image_path": "images\\15-2-10-1.png",
+          "question": "Which institute has the highest percentage of candidates passed to the candidates enrolled?",
+          "options": {
+               "A": "Q",
+               "B": "R",
+               "C": "V",
+               "D": "T"
+          },
+          "correct_answer": "B",
+          "answer_description": "The percentage of candidates passed to candidates enrolled can be determined for each institute as under:(i) P =18% of 5700x 100% =18 x 5700x 100% = 54.55%.22% of 855022 x 8550(ii) Q =17% of 5700x 100%= 75.56%.15% of 8550(iii) R =13% of 5700x 100%= 86.67%.10% of 8550(iv) S =16% of 5700x 100%= 62.75%.17% of 8550(v) T =9% of 5700x 100%= 75%.8% of 8550(vi) V =15% of 5700x 100%= 83.33%.12% of 8550(vii) X =12% of 5700x 100%= 50%.16% of 8550Highest of these is 86.67% corresponding to institute R."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph carefully and answer the questions given below:Distribution of candidates who were enrolled for MBA entrance exam and the candidates (out of those enrolled) who passed the exam in different institutes:",
+          "image_path": "images\\15-2-10-1.png",
+          "question": "The number of candidates passed from institutes S and P together exceeds the number of candidates enrolled from institutes T and R together by:",
+          "options": {
+               "A": "228",
+               "B": "279",
+               "C": "399",
+               "D": "407"
+          },
+          "correct_answer": "C",
+          "answer_description": "Required difference= [(16% + 18%) of 5700] - [(8% + 10%) of 8550]= [(34% of 5700) - (18% of 8550)]= (1938 - 1539)= 399."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.Annual Rate of Interest Offered by Two Finance Companies Over the Years.",
+          "image_path": "images\\15-3-8-1.png",
+          "question": "If two different amounts in the ratio 8:9 are invested in Companies P and Q respectively in 2002, then the amounts received after one year as interests from Companies P and Q are respectively in the ratio?",
+          "options": {
+               "A": "2:3",
+               "B": "3:4",
+               "C": "6:7",
+               "D": "4:3"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the amounts invested in 2002 in Companies P and Q be Rs. 8xand Rs. 9xrespectively.Then, interest received after one year from Company P= Rs. (6% of 8x)= Rs.48x.100and interest received after one year from Company Q= Rs. (4% of 9x)= Rs.36x.100Required ratio =48x100=4.36x1003"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.Annual Rate of Interest Offered by Two Finance Companies Over the Years.",
+          "image_path": "images\\15-3-8-1.png",
+          "question": "In 2000, a part of Rs. 30 lakhs was invested in Company P and the rest was invested in Company Q for one year. The total interest received was Rs. 2.43 lakhs. What was the amount invested in Company P?",
+          "options": {
+               "A": "Rs. 9 lakhs",
+               "B": "Rs. 11 lakhs",
+               "C": "Rs. 12 lakhs",
+               "D": "Rs. 18 lakhs"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let Rs.xlakhs be invested in Company P in 2000, the amount invested in Company Q in 2000 = Rs. (30 -x) lakhs.Total interest received from the two Companies after 1 year= Rs. [(7.5% ofx) + {9% of (30 -x)}] lakhs= Rs.2.7 -1.5xlakhs.1002.7 -1.5x= 2.43x= 18.100"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.Annual Rate of Interest Offered by Two Finance Companies Over the Years.",
+          "image_path": "images\\15-3-8-1.png",
+          "question": "A sum of Rs. 4.75 lakhs was invested in Company Q in 1999 for one year. How much more interest would have been earned if the sum was invested in Company P?",
+          "options": {
+               "A": "Rs. 19,000",
+               "B": "Rs. 14,250",
+               "C": "Rs. 11,750",
+               "D": "Rs. 9500"
+          },
+          "correct_answer": "D",
+          "answer_description": "Difference= Rs. [(10% of 4.75) - (8% of 4.75)] lakhs= Rs. (2% of 4.75) lakhs= Rs. 0.095 lakhs= Rs. 9500."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.Annual Rate of Interest Offered by Two Finance Companies Over the Years.",
+          "image_path": "images\\15-3-8-1.png",
+          "question": "An investor invested a sum of Rs. 12 lakhs in Company P in 1998. The total amount received after one year was re-invested in the same Company for one more year. The total appreciation received by the investor on his investment was?",
+          "options": {
+               "A": "Rs. 2,96,200",
+               "B": "Rs. 2,42,200",
+               "C": "Rs. 2,25,600",
+               "D": "Rs. 2,16,000"
+          },
+          "correct_answer": "C",
+          "answer_description": "Amount received from Company P after one year (i.e., in 199) on investing Rs. 12 lakhs in it= Rs. [12 + (8% of 12)] lakhs= Rs. 12.96 lakhs.Amount received from Company P after one year on investing Rs. 12.96 lakhs in the year 1999= Rs. [12.96 + (10% of 12.96)] lakhs= Rs. 14.256.Appreciation received on investment during the period of two years= Rs. (14.256 - 12) lakhs= Rs. 2.256 lakhs= Rs. 2,25,600."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)Two different finance companies declare fixed annual rate of interest on the amounts invested with them by investors. The rate of interest offered by these companies may differ from year to year depending on the variation in the economy of the country and the banks rate of interest. The annual rate of interest offered by the two Companies P and Q over the years are shown by the line graph provided below.Annual Rate of Interest Offered by Two Finance Companies Over the Years.",
+          "image_path": "images\\15-3-8-1.png",
+          "question": "An investor invested Rs. 5 lakhs in Company Q in 1996. After one year, the entire amount along with the interest was transferred as investment to Company P in 1997 for one year. What amount will be received from Company P, by the investor?",
+          "options": {
+               "A": "Rs. 5,94,550",
+               "B": "Rs. 5,80,425",
+               "C": "Rs. 5,77,800",
+               "D": "Rs. 5,77,500"
+          },
+          "correct_answer": "B",
+          "answer_description": "Amount received from Company Q after one year on investment of Rs. 5 lakhs in the year 1996= Rs. [5 + (6.5% of 5)] lakhs= Rs. 5.325 lakhs.Amount received from Company P after one year on investment of Rs. 5.325 lakhs in the year 1997= Rs. [5.325 + (9% of 5.325)] lakhs= Rs. 5.80425 lakhs= Rs. 5,80,425."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following table gives the sales of batteries manufactured by a company over the years.Number of Different Types of Batteries Sold by a Company Over the Years (Numbers in Thousands)YearTypes of Batteries4AH7AH32AH35AH55AHTotal1992751441141021085431993901261028412652819949611475105135525199510590150907551019969075135759046519971056016545120495199811585160100145605",
+          "image_path": null,
+          "question": "The total sales of all the seven years is the maximum for which battery?",
+          "options": {
+               "A": "4AH",
+               "B": "7AH",
+               "C": "32AH",
+               "D": "35AH"
+          },
+          "correct_answer": "C",
+          "answer_description": "The total sales  (in thousands) of all the seven years for various batteries are:For 4AH  =  75 + 90 + 96 + 105 + 90 + 105 + 115 = 676For 7AH  =  144 + 126 + 114 + 90 + 75 + 60 + 85 = 694For 32AH  =  114 + 102 + 75 + 150 + 135 + 165 + 160 = 901For 35AH  =  102 + 84 + 105 + 90 + 75 + 45 + 100 = 601For 55AH  =  108 + 126 + 135 + 75 + 90 + 120 + 145 = 799.Clearly, sales are maximum in case of 32AH batteries."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following table gives the sales of batteries manufactured by a company over the years.Number of Different Types of Batteries Sold by a Company Over the Years (Numbers in Thousands)YearTypes of Batteries4AH7AH32AH35AH55AHTotal1992751441141021085431993901261028412652819949611475105135525199510590150907551019969075135759046519971056016545120495199811585160100145605",
+          "image_path": null,
+          "question": "What is the difference in the number of 35AH batteries sold in 1993 and 1997?",
+          "options": {
+               "A": "24000",
+               "B": "28000",
+               "C": "35000",
+               "D": "39000"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required difference = [(84 - 45) x 1000] = 39000."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following table gives the sales of batteries manufactured by a company over the years.Number of Different Types of Batteries Sold by a Company Over the Years (Numbers in Thousands)YearTypes of Batteries4AH7AH32AH35AH55AHTotal1992751441141021085431993901261028412652819949611475105135525199510590150907551019969075135759046519971056016545120495199811585160100145605",
+          "image_path": null,
+          "question": "The percentage of 4AH batteries sold to the total number of batteries sold was maximum in the year?",
+          "options": {
+               "A": "1994",
+               "B": "1995",
+               "C": "1996",
+               "D": "1997"
+          },
+          "correct_answer": "D",
+          "answer_description": "The percentages of sales of 4AH batteries to the total sales in different years are:For 1992 =75x 100% = 13.81%.543For 1993 =90x 100% = 17.05%.528For 1994 =96x 100% = 18.29%.525For 1995 =105x 100% = 20.59%.510For 1996 =96x 100% = 19.35%.465For 1997 =105x 100% = 21.21%.495For 1998 =115x 100% = 19.01%.605Clearly, the percentage is maximum in 1997."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following table gives the sales of batteries manufactured by a company over the years.Number of Different Types of Batteries Sold by a Company Over the Years (Numbers in Thousands)YearTypes of Batteries4AH7AH32AH35AH55AHTotal1992751441141021085431993901261028412652819949611475105135525199510590150907551019969075135759046519971056016545120495199811585160100145605",
+          "image_path": null,
+          "question": "In case of which battery there was a continuous decrease in sales from 1992 to 1997?",
+          "options": {
+               "A": "4AH",
+               "B": "7AH",
+               "C": "32AH",
+               "D": "35AH"
+          },
+          "correct_answer": "B",
+          "answer_description": "From the table it is clear that the sales of 7AH batteries have been decreasing continuously from 1992 to 1997."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following table gives the sales of batteries manufactured by a company over the years.Number of Different Types of Batteries Sold by a Company Over the Years (Numbers in Thousands)YearTypes of Batteries4AH7AH32AH35AH55AHTotal1992751441141021085431993901261028412652819949611475105135525199510590150907551019969075135759046519971056016545120495199811585160100145605",
+          "image_path": null,
+          "question": "What was the approximate percentage increase in the sales of 55AH batteries in 1998 compared to that in 1992?",
+          "options": {
+               "A": "28%",
+               "B": "31%",
+               "C": "33%",
+               "D": "34%"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required percentage=(145 - 108)x 100%108= 34.26%34%."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The bar graph given below shows the percentage distribution of the total production of a car manufacturing company into various models over two years.Percentage of Six different types of Cars manufactured by a Company over Two Years",
+          "image_path": "images\\15-1-9-1.png",
+          "question": "Total number of cars of models P, Q and T manufactured in 2000 is?",
+          "options": {
+               "A": "2,45,000",
+               "B": "2,27,500",
+               "C": "2,10,000",
+               "D": "1,92,500"
+          },
+          "correct_answer": "C",
+          "answer_description": "Analysis of the graph:We shall first determine the number of cars of each model produced by the Company during the two years:In 2000 : Total number of cars produced = 3,50,000.P = (30 - 0)% of 3,50,000 = 30% of 3,50,000 = 1,05,000.Q = (45 - 30)% of 3,50,000 = 15% of 3,50,000 = 52,500.R = (65 - 45)% of 3,50,000 = 20% of 3,50,000 = 70,000.S = (75 - 65)% of 3,50,000 = 10% of 3,50,000 = 35,000.T = (90 - 75)% of 3,50,000 = 15% of 3,50,000 = 52,500.U = (100 - 90)% of 3,50,000 = 10% of 3,50,000 = 35,000.In 2001 : Total number of cars produced = 4,40,000.P = (40 - 0)% of 4,40,000 = 40% of 4,40,000 = 1,76,000.Q = (60 - 40)% of 4,40,000 = 20% of 4,40,000 = 88,000.R = (75 - 60)% of 4,40,000 = 15% of 4,40,000 = 66,000.S = (85 - 75)% of 4,40,000 = 10% of 4,40,000 = 44,000.T = (95 - 85)% of 4,40,000 = 10% of 4,40,000 = 44,000.U = (100 - 95)% of 4,40,000 = 5% of 4,40,000 = 22,000.Total number of cars of models P, Q and T manufacture in 2000= (105000 + 52500 + 52500)= 2,10,000."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The bar graph given below shows the percentage distribution of the total production of a car manufacturing company into various models over two years.Percentage of Six different types of Cars manufactured by a Company over Two Years",
+          "image_path": "images\\15-1-9-1.png",
+          "question": "For which model the percentage rise/fall in production from 2000 to 2001 was minimum?",
+          "options": {
+               "A": "Q",
+               "B": "R",
+               "C": "S",
+               "D": "T"
+          },
+          "correct_answer": "B",
+          "answer_description": "The percentage change (rise/fall) in production from 2000 to 2001 for various models is:For P =(176000 - 105000)x 100% = 67.62%, rise.105000For Q =(88000 - 52500)x 100% = 67.62%, rise.52500For R =(70000 - 66000)x 100% = 5.71%, fall.70000For S =(44000 - 35000)x 100% = 25.71%, rise.35000For T =(52500 - 44000)x 100% = 16.19%, fall.52500For U =(35000 - 22000)x 100% = 37.14%, fall.35000Minimum percentage rise/fall is production is the case of model R."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The bar graph given below shows the percentage distribution of the total production of a car manufacturing company into various models over two years.Percentage of Six different types of Cars manufactured by a Company over Two Years",
+          "image_path": "images\\15-1-9-1.png",
+          "question": "What was the difference in the number of Q type cars produced in 2000 and that produced in 2001?",
+          "options": {
+               "A": "35,500",
+               "B": "27,000",
+               "C": "22,500",
+               "D": "17,500"
+          },
+          "correct_answer": "A",
+          "answer_description": "Total number of Q type cars produced in 2001=(60 - 40)% of 4,40,000 = 88,000.Total number of Q type cars produced in 2000=(45 - 30)% of 3,50,000 = 52,500.Required difference = (88000 - 52500) = 35,500."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The bar graph given below shows the percentage distribution of the total production of a car manufacturing company into various models over two years.Percentage of Six different types of Cars manufactured by a Company over Two Years",
+          "image_path": "images\\15-1-9-1.png",
+          "question": "If the percentage production of P type cars in 2001 was the same as that in 2000, then the number of P type cars produced in 2001 would have been?",
+          "options": {
+               "A": "1,40,000",
+               "B": "1,32,000",
+               "C": "1,17,000",
+               "D": "1,05,000"
+          },
+          "correct_answer": "B",
+          "answer_description": "If the percentage production of P type cars in 2001= Percentage production of P type cars in 2000= 30%.then, number of P type cars produced in 2001= 30% of 4,40,000= 1,32,000."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The bar graph given below shows the percentage distribution of the total production of a car manufacturing company into various models over two years.Percentage of Six different types of Cars manufactured by a Company over Two Years",
+          "image_path": "images\\15-1-9-1.png",
+          "question": "If 85% of the S type cars produced in each year were sold by the company, how many S type cars remain unsold?",
+          "options": {
+               "A": "7650",
+               "B": "9350",
+               "C": "11,850",
+               "D": "12,250"
+          },
+          "correct_answer": "C",
+          "answer_description": "Number of S type cars which remained unsold in 2000 = 15% of 35,000and number of S type cars which remained unsold in 2001 = 15% of 44,000.Total number of S type cars which remained unsold= 15% of (35,000 + 44,000)= 15% of 79,000= 11,850."
+     }
+]

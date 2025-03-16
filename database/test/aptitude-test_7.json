@@ -1,0 +1,265 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The least number which when divided by 5, 6 , 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",
+          "options": {
+               "A": "1677",
+               "B": "1683",
+               "C": "2523",
+               "D": "3363"
+          },
+          "correct_answer": "B",
+          "answer_description": "L.C.M. of 5, 6, 7, 8 = 840.Required number is of the form 840k + 3Least value ofkfor which (840k+ 3) is divisible by 9 isk= 2.Required number = (840 x 2 + 3) = 1683."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "617 + 6.017 + 0.617 + 6.0017 = ?",
+          "options": {
+               "A": "6.2963",
+               "B": "62.965",
+               "C": "629.6357",
+               "D": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "617.00\n    6.017\n    0.617\n +  6.0017\n  --------\n  629.6357\n  ---------"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If144=14.4, then the value ofxis:0.144x",
+          "options": {
+               "A": "0.0144",
+               "B": "1.44",
+               "C": "14.4",
+               "D": "144"
+          },
+          "correct_answer": "A",
+          "answer_description": "144=14.40.144x144 x 1000=14.4144xx =14.4= 0.01441000"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "3-12simplifies to:3",
+          "options": {
+               "A": "34",
+               "B": "43",
+               "C": "43",
+               "D": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "3-12= (3)2+12- 2 x3x1333= 3 +1- 23= 1 +13=43"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
+          "options": {
+               "A": "23 years",
+               "B": "24 years",
+               "C": "25 years",
+               "D": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let the average age of the whole team byxyears.11x- (26 + 29) = 9(x-1)11x- 9x= 462x= 46x= 23.So, average age of the team is 23 years."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).",
+          "options": {
+               "A": "8, 20, 28",
+               "B": "16, 28, 36",
+               "C": "20, 35, 45",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let their present ages be 4x, 7xand 9xyears respectively.Then, (4x- 8) + (7x- 8) + (9x- 8) = 5620x= 80x= 4.Their present ages are 4x= 16 years, 7x= 28 years and 9x= 36 years respectively."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Divya is twice as old as Shruti. What is the difference in their ages?I.Five years hence, the ratio of their ages would be 9 : 5.II.Ten years back, the ratio of their ages was 3 : 1.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let Divya's present age be D years and Shruti's present age b S yearsThen, D = 2 x SD - 2S = 0 ....(i)I.D + 5=9....(ii)S + 55II.D - 10=3....(iii)S - 101From (ii), we get : 5D + 25 = 9S + 455D - 9S = 20 ....(iv)From (iii), we get : D - 10 = 3S - 30D - 3S = -20 ....(v)Thus, from (i) and (ii), we get the answer.Also, from (i) and (iii), we get the answer.I alone as well as II alone give the answer. Hence, the correct answer is (C)."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "(256)0.16x (256)0.09= ?",
+          "options": {
+               "A": "4",
+               "B": "16",
+               "C": "64",
+               "D": "256.25"
+          },
+          "correct_answer": "A",
+          "answer_description": "(256)0.16x (256)0.09= (256)(0.16 + 0.09)= (256)0.25= (256)(25/100)= (256)(1/4)= (44)(1/4)= 44(1/4)= 41= 4"
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A starts business with Rs. 3500 and after 5 months, B joins with A as his partner. After a year, the profit is divided in the ratio 2 : 3. What is B's contribution in the capital?",
+          "options": {
+               "A": "Rs. 7500",
+               "B": "Rs. 8000",
+               "C": "Rs. 8500",
+               "D": "Rs. 9000"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let B's capital be Rs.x.Then,3500 x 12=27x314x= 126000x= 9000."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+          "options": {
+               "A": "5 : 7 : 8",
+               "B": "20 : 49 : 64",
+               "C": "38 : 28 : 21",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let their investments be Rs.xfor 14 months, Rs.yfor 8 months and Rs.zfor 7 months respectively.Then, 14x: 8y: 7z= 5 : 7 : 8.Now,14x=598x= 40yy=49x8y720And,14x=5112x= 35zz=112x=16x.7z8355x:y:z=x:49x:16x= 20 : 49 : 64.205"
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Ravi, Gagan and Nitin are running a business firm in partnership. What is Gagan's share in the profit earned by them?I.Ravi, Gagan and Nitin invested the amounts in the ratio of 2 : 4 : 7.II.Nitin's share in the profit is Rs. 8750.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "E",
+          "answer_description": "Let us name Ravi, Gagan and Nitin by R, G and N respectively.I.R : G : N = 2 : 4 : 7.II.N = 8750..From I and II, we get:When N = 7, then G = 4.When N = 8750, then G =4x 8750= 5000.7Thus, both I and II are needed to get the answer.Correct answer is (E)."
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, then the number of revolutions mad by the larger wheel is:",
+          "options": {
+               "A": "4",
+               "B": "9",
+               "C": "12",
+               "D": "49"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the required number of revolutions made by larger wheel bex.Then,More cogs, Less revolutions (Indirect Proportion)14 : 6::21 :x14 xx= 6 x 21x=6 x 2114x= 9."
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work. How many days will 5 women and 10 children take to complete the work?",
+          "options": {
+               "A": "3",
+               "B": "5",
+               "C": "7",
+               "D": "Cannot be determined",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "1 woman's 1 day's work =1701 child's 1 day's work =1140(5 women + 10 children)'s day's work =5+10=1+1=170140141475 women and 10 children will complete the work in 7 days."
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is:",
+          "options": {
+               "A": "60 gallons",
+               "B": "100 gallons",
+               "C": "120 gallons",
+               "D": "180 gallons"
+          },
+          "correct_answer": "C",
+          "answer_description": "Work done by the waste pipe in 1 minute =1-1+1152024=1-1115120= -1.    [-ve sign means emptying]40Volume of1part = 3 gallons.40Volume of whole = (3 x 40) gallons = 120 gallons."
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+          "options": {
+               "A": "65 sec",
+               "B": "89 sec",
+               "C": "100 sec",
+               "D": "150 sec"
+          },
+          "correct_answer": "B",
+          "answer_description": "Speed =240m/sec = 10 m/sec.24Required time =240 + 650sec = 89 sec.10"
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?",
+          "options": {
+               "A": "3.6 sec",
+               "B": "18 sec",
+               "C": "36 sec",
+               "D": "72 sec"
+          },
+          "correct_answer": "C",
+          "answer_description": "Speed of train relative to jogger = (45 - 9) km/hr = 36 km/hr.=36 x5m/sec18= 10 m/sec.Distance to be covered = (240 + 120) m = 360 m.Time taken =360sec= 36 sec.10"
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively. Find the time taken by the slower train to pass the driver of the faster one.",
+          "options": {
+               "A": "12 sec",
+               "B": "24 sec",
+               "C": "48 sec",
+               "D": "60 sec"
+          },
+          "correct_answer": "B",
+          "answer_description": "Relative speed == (45 + 30) km/hr=75 x5m/sec18=125m/sec.6We have to find the time taken by the slower train to pass the DRIVER of the faster train and not the complete train.So, distance covered = Length of the slower train.Therefore, Distance covered = 500 m.Required time =500 x6= 24 sec.125"
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+          "options": {
+               "A": "40 minutes",
+               "B": "1 hour",
+               "C": "1 hr 15 min",
+               "D": "1 hr 30 min"
+          },
+          "correct_answer": "C",
+          "answer_description": "Rate downstream =1x 60km/hr = 6 km/hr.10Rate upstream = 2 km/hr.Speed in still water =1(6 + 2) km/hr = 4 km/hr.2Required time =5hrs = 11hrs = 1 hr 15 min.44"
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "8 litres are drawn from a cask full of wine and is then filled with water. This operation is performed three more times. The ratio of the quantity of wine now left in cask to that of water is 16 : 65. How much wine did the cask hold originally?",
+          "options": {
+               "A": "18 litres",
+               "B": "24 litres",
+               "C": "32 litres",
+               "D": "42 litres"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the quantity of the wine in the cask originally bexlitres.Then, quantity of wine left in cask after 4 operations =x1 -84litres.xx(1 - (8/x))4=16x811 -84=24x3x- 8=2x33x- 24 = 2xx= 24."
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+          "options": {
+               "A": "1021",
+               "B": "1121",
+               "C": "27",
+               "D": "57"
+          },
+          "correct_answer": "A",
+          "answer_description": "Total number of balls = (2 + 3 + 2) = 7.Let S be the sample space.Then,n(S)= Number of ways of drawing 2 balls out of 7=7C2`=(7 x 6)(2 x 1)= 21.Let E = Event of drawing 2 balls, none of which is blue.n(E)= Number of ways of drawing 2 balls out of (2 + 3) balls.=5C2=(5 x 4)(2 x 1)= 10.P(E) =n(E)=10.n(S)21"
+     }
+]

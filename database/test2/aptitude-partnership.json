@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:",
+        "options": {
+            "A": "Rs. 1425",
+            "B": "Rs. 1500",
+            "C": "Rs. 1537.50",
+            "D": "Rs. 1576"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the total profit be Rs. 100.After paying to charity, A's share = Rs.95 x3= Rs. 57.5If A's share is Rs. 57, total profit = Rs. 100.If A's share Rs. 855, total profit =100x 855= 1500.57"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Rs. 6500 for 6 months, B, Rs. 8400 for 5 months and C, Rs. 10,000 for 3 months. A wants to be the working member for which, he was to receive 5% of the profits. The profit earned was Rs. 7400. Calculate the share of B in the profit.",
+        "options": {
+            "A": "Rs. 1900",
+            "B": "Rs. 2660",
+            "C": "Rs. 2800",
+            "D": "Rs. 2840"
+        },
+        "correct_answer": "B",
+        "answer_description": "For managing, A received = 5% of Rs. 7400 = Rs. 370.Balance = Rs. (7400 - 370) = Rs. 7030.Ratio of their investments = (6500 x 6) : (8400 x 5) : (10000 x 3)= 39000 : 42000 : 30000= 13 : 14 : 10B's share = Rs.7030 x14= Rs. 2660.37"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A, B and C enter into a partnership in the ratio::. After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:",
+        "options": {
+            "A": "Rs. 2100",
+            "B": "Rs. 2400",
+            "C": "Rs. 3600",
+            "D": "Rs. 4000"
+        },
+        "correct_answer": "D",
+        "answer_description": "Ratio of initial investments =7:4:6= 105 : 40 : 36.235Let the initial investments be 105x, 40xand 36x.A : B : C =105xx 4 +150x 105xx 8: (40xx 12) : (36xx 12)100= 1680x: 480x: 432x= 35 : 10 : 9.Hence, B's share = Rs.21600 x10= Rs. 4000.54"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A, B, C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+        "options": {
+            "A": "Rs. 8400",
+            "B": "Rs. 11,900",
+            "C": "Rs. 13,600",
+            "D": "Rs. 14,700"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let C =x.Then, B =x+ 5000 and A =x+ 5000 + 4000 =x+ 9000.So,x+x+ 5000 +x+ 9000 = 500003x= 36000x= 12000A : B : C = 21000 : 17000 : 12000 = 21 : 17 : 12.A's share = Rs.35000 x21= Rs. 14,700.50"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+        "options": {
+            "A": "5 : 7 : 8",
+            "B": "20 : 49 : 64",
+            "C": "38 : 28 : 21",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let their investments be Rs.xfor 14 months, Rs.yfor 8 months and Rs.zfor 7 months respectively.Then, 14x: 8y: 7z= 5 : 7 : 8.Now,14x=598x= 40yy=49x8y720And,14x=5112x= 35zz=112x=16x.7z8355x:y:z=x:49x:16x= 20 : 49 : 64.205"
+    }
+]

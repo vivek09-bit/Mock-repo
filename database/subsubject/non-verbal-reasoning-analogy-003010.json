@@ -1,0 +1,16 @@
+[
+    {
+        "direction": "Directions to SolveEach of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+        "image_path": null,
+        "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "D",
+        "answer_description": "All the arrows reverse their directions."
+    }
+]

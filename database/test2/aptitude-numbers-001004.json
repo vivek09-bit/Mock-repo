@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 517*324 is completely divisible by 3, then the smallest whole number in the place of * will be:",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Sum of digits = (5 + 1 + 7 +x+ 3 + 2 + 4) = (22 +x),  which must be divisible by 3.x= 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The smallest 3 digit prime number is:",
+        "options": {
+            "A": "101",
+            "B": "103",
+            "C": "109",
+            "D": "113"
+        },
+        "correct_answer": "A",
+        "answer_description": "The smallest 3-digit number is 100, which is divisible by 2.100 is not a prime number.101< 11 and 101 is not divisible by any of the prime numbers 2, 3, 5, 7, 11.101 is a prime number.Hence 101 is the smallest 3-digit prime number."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following numbers is exactly divisible by 11?",
+        "options": {
+            "A": "235641",
+            "B": "245642",
+            "C": "315624",
+            "D": "415624"
+        },
+        "correct_answer": "D",
+        "answer_description": "(4 + 5 + 2) - (1 + 6 + 3) = 1, not divisible by 11.(2 + 6 + 4) - (4 + 5 + 2) = 1, not divisible by 11.(4 + 6 + 1) - (2 + 5 + 3) = 1, not divisible by 11.(4 + 6 + 1) - (2 + 5 + 4) = 0, So, 415624 is divisible by 11."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(?) - 19657 - 33994 = 9999",
+        "options": {
+            "A": "63650",
+            "B": "53760",
+            "C": "59640",
+            "D": "61560",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "19657         Letx- 53651  = 9999\n 33994         Then,x= 9999 + 53651 = 63650\n -----\n 53651\n -----"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of first 45 natural numbers is:",
+        "options": {
+            "A": "1035",
+            "B": "1280",
+            "C": "2070",
+            "D": "2140"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let Sn=(1 + 2 + 3 + ... + 45). This is an A.P. in which a =1, d =1, n = 45.Sn=n[2a+ (n- 1)d]=45x [2 x 1 + (45 - 1) x 1]=45x 46= (45 x 23)222= 45 x (20 + 3)= 45 x 20 + 45 x 3= 900 + 135= 1035.Shorcut Method:Sn=n(n+ 1)=45(45 + 1)= 1035.22"
+    }
+]

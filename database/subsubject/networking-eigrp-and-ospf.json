@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With which network type will OSPF establish router adjacencies but not perform the DR/BDR election process?",
+        "options": {
+            "A": "Point-to-point",
+            "B": "Backbone area 0",
+            "C": "Broadcast multi-access",
+            "D": "Non-broadcast multi-access"
+        },
+        "correct_answer": "A",
+        "answer_description": "No DR is assigned on any type of point-to-point link. No DR/BDR is assigned on the NBMA point-to-multipoint due to the hub/spoke topology. DR and BDR are elected on broadcast and non-broadcast multi-access networks. Frame Relay is a non-broadcast multi-access (NBMA) network by default."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following describe the process identifier that is used to run OSPF on a router?It is locally significant.It is globally significant.It is needed to identify a unique instance of an OSPF database.It is an optional parameter required only if multiple OSPF processes are running on the router.",
+        "options": {
+            "A": "1, 2 and 4",
+            "B": "1 and 3",
+            "C": "3 and 5",
+            "D": "All of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "The Process ID for OSPF on a router is only locally significant and you can use the same number on each router, or each router can have a different number-it just doesn't matter. The numbers you can use are from 1 to 65,535. Don't get this confused with area numbers, which can be from 0 to 4.2 billion."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A network administrator needs to configure a router with a distance-vector protocol that allows classless routing. Which of the following satisfies those requirements?",
+        "options": {
+            "A": "IGRP",
+            "B": "OSPF",
+            "C": "RIPv1",
+            "D": "EIGRP",
+            "E": "IS-IS"
+        },
+        "correct_answer": "D",
+        "answer_description": "In this question, we're calling EIGRP just plain old distance vector. EIGRP is an \"advanced\" distance-vector routing protocol, sometimes called a hybrid routing protocol because it uses the characteristics of both distance-vector and link-state routing protocols."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the administrative distance of OSPF?",
+        "options": {
+            "A": "90",
+            "B": "100",
+            "C": "110",
+            "D": "120"
+        },
+        "correct_answer": "C",
+        "answer_description": "The administrative distance (AD) is a very important parameter in a routing protocol. The lower the AD, the more trusted the route. If you have IGRP and OSPF running, by default IGRP routes would be placed in the routing table because IGRP has a lower AD of 100. OSPF has an AD of 110. RIPv1 and RIPv2 both have an AD of 120, and EIGRP is the lowest, at 90."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Your company is running IGRP using an AS of 10. You want to configure EIGRP on the network but want to migrate slowly to EIGRP and don't want to configure redistribution. What command would allow you to migrate over time to EIGRP without configuring redistribution?",
+        "options": {
+            "A": "router eigrp 11",
+            "B": "router eigrp 10",
+            "C": "router eigrp 10 redistribute igrp",
+            "D": "router igrp combine eigrp 10"
+        },
+        "correct_answer": "B",
+        "answer_description": "If you enable EIGRP on a router with the same autonomous system (AS) number, EIGRP will automatically redistribute IGRP into EIGRP. You will see the IGRP injected routes as external (EX) routes with an EIGRP AD of 170. This is a nice feature that lets you migrate slowly to EIGRP with no extra configuration."
+    }
+]

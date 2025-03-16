@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A relation in this form is free of all modification anomalies.",
+        "options": {
+            "A": "First normal form",
+            "B": "Second normal form",
+            "C": "Third normal form",
+            "D": "Domain/key normal form"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If attributes A and B determine attribute C, then it is also true that:",
+        "options": {
+            "A": "A → C.",
+            "B": "B → C.",
+            "C": "(A,B) is a composite determinant.",
+            "D": "C is a determinant."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A tuple is a(n):",
+        "options": {
+            "A": "column of a table.",
+            "B": "two dimensional table.",
+            "C": "row of a table.",
+            "D": "key of a table."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If attribute A determines both attributes B and C, then it is also true that:",
+        "options": {
+            "A": "A → B.",
+            "B": "B → A.",
+            "C": "C → A.",
+            "D": "(B,C) → A."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One solution to the multivalued dependency constraint problem is to:",
+        "options": {
+            "A": "split the relation into two relations, each with a single theme.",
+            "B": "change the theme.",
+            "C": "create a new theme.",
+            "D": "add a composite key."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

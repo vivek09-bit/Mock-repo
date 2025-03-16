@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Often a common-collector will be the last stage before the load; the main function of this stage is to",
+        "options": {
+            "A": "provide voltage gain",
+            "B": "buffer the voltage amplifiers from the low-resistance load",
+            "C": "provide phase inversion",
+            "D": "provide a high-frequency path to improve the frequency response"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In order for feedback oscillators to have any practical value, the gain has to be",
+        "options": {
+            "A": "< 1",
+            "B": "self-adjusting",
+            "C": "stabilized",
+            "D": "nonlinear"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To get a negative gate-source voltage in a self-biased JFET circuit, you must use a",
+        "options": {
+            "A": "voltage divider",
+            "B": "source resistor",
+            "C": "ground",
+            "D": "negative gate supply voltage"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 3 digit numbers are divisible by 6 in all ?",
+        "options": {
+            "A": "149",
+            "B": "150",
+            "C": "151",
+            "D": "166"
+        },
+        "correct_answer": "B",
+        "answer_description": "Required numbers  are 102, 108, 114, ... , 996This is an A.P. in whicha= 102,d= 6 andl= 996Let the number of terms ben. Then,a+ (n- 1)d= 996102 + (n- 1) x 6 = 9966 x (n- 1) = 894(n- 1) = 149n= 150."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 3-digit number 4a3 is added to another 3-digit number 984 to give a 4-digit number 13b7, which is divisible by 11. Then, (a+b) = ?",
+        "options": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "15"
+        },
+        "correct_answer": "A",
+        "answer_description": "4a3  |\r\n 9 8 4  }  ==>a+ 8 =b==>b-a= 8  \r\n13b7  |Also, 13b7 is divisible by 11(7 + 3) - (b+ 1) = (9 -b)(9 -b) = 0b= 9(b= 9 anda= 1)(a+b) = 10."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "8597 - ? = 7429 - 4358",
+        "options": {
+            "A": "5426",
+            "B": "5706",
+            "C": "5526",
+            "D": "5476",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "7429          Let 8597 - x = 3071\n-4358          Then,      x = 8597 - 3071\n ----                       = 5526\n 3071\n ----"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The smallest prime number is:",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "The smallest prime number is 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(12345679 x 72) = ?",
+        "options": {
+            "A": "88888888",
+            "B": "888888888",
+            "C": "898989898",
+            "D": "9999999998"
+        },
+        "correct_answer": "B",
+        "answer_description": "12345679 x 72= 12345679 x (70 +2)= 12345679 x 70 + 12345679 x 2= 864197530 + 24691358= 888888888"
+    }
+]

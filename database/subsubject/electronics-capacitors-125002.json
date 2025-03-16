@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a 4.7F capacitor is connected to a 1 kHz source, what is its capacitive reactance?",
+        "options": {
+            "A": "4.7 ohms",
+            "B": "29.5 ohms",
+            "C": "34 ohms",
+            "D": "213 ohms"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total capacitance?",
+        "options": {
+            "A": "1 F",
+            "B": "12 F",
+            "C": "0.615 F",
+            "D": "8 F"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is this circuit?",
+        "options": {
+            "A": "bandpass filter",
+            "B": "high-pass filter",
+            "C": "low-pass filter",
+            "D": "differentiator"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "After which time constant can a capacitor be considered to be fully charged?",
+        "options": {
+            "A": "first",
+            "B": "third",
+            "C": "fifth",
+            "D": "seventh"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You could increase the time constant of anRCcircuit by",
+        "options": {
+            "A": "adding a resistor in parallel with the circuit resistance",
+            "B": "adding a capacitor in parallel with the circuit capacitance",
+            "C": "increasing the amplitude of the input voltage",
+            "D": "exchanging the position of the resistor and capacitor in the circuit"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

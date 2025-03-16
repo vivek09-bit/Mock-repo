@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The present worth of a sum due sometime hence is Rs. 576 and the banker's gain is Rs. 16. The true discount is:",
+        "options": {
+            "A": "Rs. 36",
+            "B": "Rs. 72",
+            "C": "Rs. 48",
+            "D": "Rs. 96"
+        },
+        "correct_answer": "D",
+        "answer_description": "T.D. =P.W. x B.G.=576 x 16= 96."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The true discount on a bill of Rs. 540 is Rs. 90. The banker's discount is:",
+        "options": {
+            "A": "Rs. 60",
+            "B": "Rs. 108",
+            "C": "Rs. 110",
+            "D": "Rs. 112"
+        },
+        "correct_answer": "B",
+        "answer_description": "P.W. = Rs. (540 - 90) = Rs. 450.S.I. on Rs. 450 = Rs. 90.S.I. on Rs. 540 = Rs.90x 540= Rs. 108.450B.D. = Rs. 108."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's discount on a certain sum due 2 years hence is11of the true discount.10The rate percent is:",
+        "options": {
+            "A": "11%",
+            "B": "10%",
+            "C": "5%",
+            "D": "5.5%"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let T.D. be Re. 1.Then, B.D. = Rs.11= Rs. 1.10.10Sum = Rs.1.10 x 1= Rs.110= Rs. 11.1.10 - 110S.I. on Rs. 11 for 2 years is Rs. 1.10Rate =100 x 1.10%= 5%.11 x 2"
+    }
+]

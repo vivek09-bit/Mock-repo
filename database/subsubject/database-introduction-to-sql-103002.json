@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A view is which of the following?",
+        "options": {
+            "A": "A virtual table that can be accessed via SQL commands",
+            "B": "A virtual table that cannot be accessed via SQL commands",
+            "C": "A base table that can be accessed via SQL commands",
+            "D": "A base table that cannot be accessed via SQL commands"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The command to eliminate a table from a database is:",
+        "options": {
+            "A": "REMOVE TABLE CUSTOMER;",
+            "B": "DROP TABLE CUSTOMER;",
+            "C": "DELETE TABLE CUSTOMER;",
+            "D": "UPDATE TABLE CUSTOMER;"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ON UPDATE CASCADE ensures which of the following?",
+        "options": {
+            "A": "Normalization",
+            "B": "Data Integrity",
+            "C": "Materialized Views",
+            "D": "All of the above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL data definition commands make up a(n) ________ .",
+        "options": {
+            "A": "DDL",
+            "B": "DML",
+            "C": "HTML",
+            "D": "XML"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is valid SQL for an Index?",
+        "options": {
+            "A": "CREATE INDEX ID;",
+            "B": "CHANGE INDEX ID;",
+            "C": "ADD INDEX ID;",
+            "D": "REMOVE INDEX ID;"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

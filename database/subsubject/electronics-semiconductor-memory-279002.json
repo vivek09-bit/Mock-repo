@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Select the best description of read-only memory (ROM).",
+        "options": {
+            "A": "nonvolatile, used to store information that changes during system operation",
+            "B": "nonvolatile, used to store information that does not change during system operation",
+            "C": "volatile, used to store information that changes during system operation",
+            "D": "volatile, used to store information that does not change during system operation"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Advantage(s) of an EEPROM over an EPROM is (are):",
+        "options": {
+            "A": "the EPROM can be erased with ultraviolet light in much less time than an EEPROM",
+            "B": "the EEPROM can be erased and reprogrammed without removal from the circuit",
+            "C": "the EEPROM has the ability to erase and reprogram individual words",
+            "D": "the EEPROM can erase and reprogram individual words without removal from the circuit"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following RAM timing parameters determine(s) its operating speed?",
+        "options": {
+            "A": "tacc",
+            "B": "taaand tacs",
+            "C": "t1and t3",
+            "D": "trcand twc"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Memory that loses its contents when power is lost is:",
+        "options": {
+            "A": "nonvolatile",
+            "B": "volatile",
+            "C": "random",
+            "D": "static"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Select the best description of the fusible-link PROM.",
+        "options": {
+            "A": "user programmable, one-time programmable",
+            "B": "manufacturer programmable, one-time programmable",
+            "C": "user programmable, reprogrammable",
+            "D": "manufacturer programmable, reprogrammable"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

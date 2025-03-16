@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following isnottrue of SQL views?",
+        "options": {
+            "A": "Oracle views cannot use the ORDER BY clause in view definitions.",
+            "B": "Oracle views are created using the standard SQL-92 CREATE VIEW command.",
+            "C": "Oracle views can by queried.",
+            "D": "The SQL-92 standard does not allow the use of the ORDER BY clause in view definitions."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL*Plus will finish the statement and execute it when the user types in this:",
+        "options": {
+            "A": "A left slash ( \\ ) followed by [Enter].",
+            "B": "A colon ( : ) followed by [Enter].",
+            "C": "A semicolon ( ; ) followed by [Enter].",
+            "D": "A period ( . ) followed by [Enter]."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is NOT an Oracle-supported trigger?",
+        "options": {
+            "A": "BEFORE",
+            "B": "DURING",
+            "C": "AFTER",
+            "D": "INSTEAD OF"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "After a table has been created, its structure can be modified using the SQL command:",
+        "options": {
+            "A": "UPDATE TABLE [TableName].",
+            "B": "MODIFY TABLE [TableName].",
+            "C": "ALTER TABLE [TableName].",
+            "D": "CHANGE TABLE [TableName]."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following isnottrue about modifying table columns?",
+        "options": {
+            "A": "You can drop a column at any time.",
+            "B": "You can add a column at any time as long as it is a NULL column.",
+            "C": "You can increase the number of characters in character columns or the number of digits in numeric columns",
+            "D": "You cannot increase or decrease the number of decimal places."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

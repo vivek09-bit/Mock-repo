@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many JDBC driver types does Sun define?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Where is metadata stored in MySQL?",
+        "options": {
+            "A": "In the MySQL databasemetadata",
+            "B": "In the MySQL databasemetasql",
+            "C": "In the MySQL databasemysql",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who invented Java?",
+        "options": {
+            "A": "Netscape",
+            "B": "Microsoft",
+            "C": "Sun",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To run a compiled Java program, the machine must have what loaded and running?",
+        "options": {
+            "A": "Java virtual machine",
+            "B": "Java compiler",
+            "C": "Java bytecode",
+            "D": "A Web browser"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which JDBC driver Type(s) can be used in either applet or servlet code?",
+        "options": {
+            "A": "Both Type 1 and Type 2",
+            "B": "Both Type 1 and Type 3",
+            "C": "Both Type 3 and Type 4",
+            "D": "Type 4 only"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

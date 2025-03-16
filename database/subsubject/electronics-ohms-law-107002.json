@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the kilowatt-hour consumption of a 40 W lamp if it remains on for 1750 h?",
+        "options": {
+            "A": "43.75",
+            "B": "70",
+            "C": "43,750",
+            "D": "70,000"
+        },
+        "correct_answer": "B",
+        "answer_description": "(1,750 x 40)/1000 = 70 kilowatt-hour."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A damaged resistor",
+        "options": {
+            "A": "may appear burned",
+            "B": "may have an increased resistance value",
+            "C": "may be checked with an ohmmeter",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Power supplies differ from batteries in that",
+        "options": {
+            "A": "power supply output voltages are ac and not dc",
+            "B": "power supply voltages are not stable",
+            "C": "power supplies are low-current devices",
+            "D": "None of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the resistor value in the given circuit?",
+        "options": {
+            "A": "200",
+            "B": "1 k",
+            "C": "2 k",
+            "D": "4 k"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If voltage across a resistance doubles",
+        "options": {
+            "A": "the current is halved",
+            "B": "the resistance doubles",
+            "C": "the current is unchanged",
+            "D": "none of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

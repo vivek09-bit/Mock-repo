@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following expressions is in the sum-of-products (SOP) form?",
+        "options": {
+            "A": "Y = (A + B)(C + D)",
+            "B": "Y = AB(CD)",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

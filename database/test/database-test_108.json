@@ -1,0 +1,246 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is valid SQL for an Index?",
+          "options": {
+               "A": "CREATE INDEX ID;",
+               "B": "CHANGE INDEX ID;",
+               "C": "ADD INDEX ID;",
+               "D": "REMOVE INDEX ID;"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An attribute that names or identifies entity instances is a(n):",
+          "options": {
+               "A": "entity.",
+               "B": "attribute.",
+               "C": "identifier.",
+               "D": "relationship."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Each entity is represented as a(n):",
+          "options": {
+               "A": "tuple.",
+               "B": "table.",
+               "C": "attribute.",
+               "D": "file."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a 1:1 relationship, the primary key placement is arbitrary.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Before any changes to database structure are attempted one should first:",
+          "options": {
+               "A": "clearly understand the current structure and contents of the database only.",
+               "B": "test any changes on a test database only.",
+               "C": "create a complete backup of the operational database only.",
+               "D": "All of the above should be done."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Changing cardinalities in a database is:",
+          "options": {
+               "A": "a common database design task.",
+               "B": "a rare database design task, but does occur.",
+               "C": "a database design task that never occurs.",
+               "D": "is impossible to do, so a new database must be constructed and the data moved into it."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The NOT EXISTS keyword will be true if any row in the subquery meets the condition.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A cursor type in which the application can only move forward through the recordset is called:",
+          "options": {
+               "A": "forward only.",
+               "B": "static.",
+               "C": "keyset.",
+               "D": "dynamic."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In ODBC, a data source that is local to a single computer is called a:",
+          "options": {
+               "A": "system data source.",
+               "B": "file data source.",
+               "C": "user data source.",
+               "D": "SQL text file."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How does Tomcat execute a JSP?",
+          "options": {
+               "A": "As a CGI script",
+               "B": "As an independent process",
+               "C": "By one of Tomcat's threads",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The data warehouse DBMS needs to be the same DBMS used for the operational database.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The systems development life cycle cannot be used with database implementation.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following conditions should exist if you want to convert a relationship to an associative entity?",
+          "options": {
+               "A": "Some of the relationships for the participating entities are \"many\".",
+               "B": "The resulting associative entity has an independent meaning.",
+               "C": "The resulting associative entity has no attributes.",
+               "D": "All of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A rectangle represents which of the following in an EER?",
+          "options": {
+               "A": "Attribute",
+               "B": "Entity",
+               "C": "Optional One",
+               "D": "Relationship"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A subtype discriminator is which of the following?",
+          "options": {
+               "A": "An attribute of the supertype whose values determine the subtype",
+               "B": "An attribute of the subtype whose values determine the supertype",
+               "C": "An attribute of the supertype whose values determine the supertype",
+               "D": "An attribute of the subtype whose values determine the subtype"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The primary goal of physical database design is data processing efficiency.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Hypertext Transfer Protocol (HTTP) is secure.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Performance analysis and tuning is which of the following?",
+          "options": {
+               "A": "Undertaken one time at the time of a DBMS installation",
+               "B": "Undertaken one time at the time of the implementation of a new application",
+               "C": "Undertaken as an ongoing part of the backup of a database",
+               "D": "Undertaken as an ongoing part of managing a database"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Queries that do full table scans should be avoided.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In an object diagram, an object is represented as a rectangle with two compartments.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

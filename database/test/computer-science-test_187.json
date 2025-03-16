@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While working with mail command, which command is used to save mail in a separate file?",
+          "options": {
+               "A": "s",
+               "B": "r",
+               "C": "w",
+               "D": "d",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following command addresses all users who are currently hooked on?",
+          "options": {
+               "A": "write",
+               "B": "mail",
+               "C": "wall",
+               "D": "mesg",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following keys is used to move the cursor to the end of the paragraph.",
+          "options": {
+               "A": "}",
+               "B": "{",
+               "C": "|",
+               "D": "$",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to remove the read permission of the file 'note' from both the group and others?",
+          "options": {
+               "A": "chmod go+r note",
+               "B": "chmod go+rw note",
+               "C": "chmod go-x note",
+               "D": "chmod go-r note",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which symbol will be used with grep command to match the pattern pat at the beginning of a line?",
+          "options": {
+               "A": "^pat",
+               "B": "$pat",
+               "C": "pat$",
+               "D": "pat^",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands is used to display the directory attributes rather than its contents?",
+          "options": {
+               "A": "ls -l -d",
+               "B": "ls -l",
+               "C": "ls -x",
+               "D": "ls -F",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you are to use [Control-c] as the interrupt key instead of [Del], then you will have to use",
+          "options": {
+               "A": "tty ^c",
+               "B": "stty intr \\^c",
+               "C": "stty echoe",
+               "D": "stty echo \\^a",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to remove a file?",
+          "options": {
+               "A": "remove",
+               "B": "rm",
+               "C": "mv",
+               "D": "del",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following options will be used to display number of blocks used by a file?",
+          "options": {
+               "A": "-c",
+               "B": "-i",
+               "C": "-d",
+               "D": "-s",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to display a file contents in octal form?",
+          "options": {
+               "A": "cd",
+               "B": "od",
+               "C": "of",
+               "D": "oct",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands is used to get directory one level up?",
+          "options": {
+               "A": "cd",
+               "B": "cd ..",
+               "C": "cd/",
+               "D": "chdir",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which commands is used to assign executable permission to all of the files named \"letter\"?",
+          "options": {
+               "A": "chmod ugo+r letter",
+               "B": "chmod ugo+rw letter",
+               "C": "chmod u+x letter",
+               "D": "chmod ugo+x letter",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to sort the lines of data in a file in alphabetical order?",
+          "options": {
+               "A": "sort",
+               "B": "sh",
+               "C": "st",
+               "D": "sort -r",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which option will be used with disk free command to include the total amount of disk space in the file system?",
+          "options": {
+               "A": "-t",
+               "B": "-tt",
+               "C": "-4",
+               "D": "-i",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is the earliest and most widely used shell that came with the UNIX system?",
+          "options": {
+               "A": "C shell",
+               "B": "Korn shell",
+               "C": "Bourne shell",
+               "D": "Smith shell",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will be used with vi editor to replace single character under cursor with any number of characters?",
+          "options": {
+               "A": "s",
+               "B": "S",
+               "C": "a",
+               "D": "i",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to save the standard output in a file, as well as display it on the terminal?",
+          "options": {
+               "A": "more",
+               "B": "cat",
+               "C": "grep",
+               "D": "tee",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will be used with vi editor to append text at end of line?",
+          "options": {
+               "A": "A",
+               "B": "a",
+               "C": "i",
+               "D": "I",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used with vi editor to move the cursor to the left?",
+          "options": {
+               "A": "i",
+               "B": "j",
+               "C": "k",
+               "D": "h",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of are following internal commands is used in mail to forward mail to user in user-list?",
+          "options": {
+               "A": "r user-list",
+               "B": "m user-list",
+               "C": "d user-list",
+               "D": "e user-list",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A digital logic device used as a buffer should have what input/output characteristics?",
+        "options": {
+            "A": "high input impedance and high output impedance",
+            "B": "low input impedance and high output impedance",
+            "C": "low input impedance and low output impedance",
+            "D": "high input impedance and low output impedance"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the standard TTL noise margin?",
+        "options": {
+            "A": "5.0 V",
+            "B": "0.2 V",
+            "C": "0.8 V",
+            "D": "0.4 V"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The range of a valid LOW input is:",
+        "options": {
+            "A": "0.0 V to 0.4 V",
+            "B": "0.4 V to 0.8 V",
+            "C": "0.4 V to 1.8 V",
+            "D": "0.4 V to 2.4 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When an IC has two rows of parallel connecting pins, the device is referred to as:",
+        "options": {
+            "A": "a QFP",
+            "B": "a DIP",
+            "C": "a phase splitter",
+            "D": "CMOS"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which digital IC package type makes the most efficient use of printed circuit board space?",
+        "options": {
+            "A": "SMT",
+            "B": "TO can",
+            "C": "flat pack",
+            "D": "DIP"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "After driving professor Kumar to the museum she dropped him at his hotel.",
+        "options": {
+            "A": "After being driven to the museum, Professor Kumar was dropped at his hotel.",
+            "B": "Professor Kumar was being driven dropped at his hotel.",
+            "C": "After she had driven Professor Kumar to the museum she had dropped him at his hotel.",
+            "D": "After she was driven Professor Kumar to the museum she had dropped him at his hotel."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "I remember my sister taking me to the museum.",
+        "options": {
+            "A": "I remember I was taken to the museum by my sister.",
+            "B": "I remember being taken to the museum by my sister.",
+            "C": "I remember myself being taken to the museum by my sister.",
+            "D": "I remember taken to the museum by my sister."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "Who is creating this mess?",
+        "options": {
+            "A": "Who has been created this mess?",
+            "B": "By whom has this mess been created?",
+            "C": "By whom this mess is being created?",
+            "D": "By whom is this mess being created?"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "They greet me cheerfully every morning.",
+        "options": {
+            "A": "Every morning I was greeted cheerfully.",
+            "B": "I am greeted cheerfully by them every morning.",
+            "C": "I am being greeted cheerfully by them every morning.",
+            "D": "Cheerful greeting is done by them every morning to me."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "Darjeeling grows tea.",
+        "options": {
+            "A": "Tea is being grown in Darjeeling.",
+            "B": "Let the tea be grown in Darjeeling.",
+            "C": "Tea is grown in Darjeeling.",
+            "D": "Tea grows in Darjeeling."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

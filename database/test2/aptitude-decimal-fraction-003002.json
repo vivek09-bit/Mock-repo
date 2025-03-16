@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When 0.232323..... is converted into a fraction, then the result is:",
+        "options": {
+            "A": "15",
+            "B": "29",
+            "C": "2399",
+            "D": "23100"
+        },
+        "correct_answer": "C",
+        "answer_description": "0.232323... = 0.23=2399"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": ".009= .01?",
+        "options": {
+            "A": ".0009",
+            "B": ".09",
+            "C": ".9",
+            "D": "9"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let.009= .01;     Thenx=.009=.9= .9x.011"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The expression (11.98 x 11.98 + 11.98 xx+ 0.02 x 0.02) will be a perfect square forxequal to:",
+        "options": {
+            "A": "0.02",
+            "B": "0.2",
+            "C": "0.04",
+            "D": "0.4"
+        },
+        "correct_answer": "C",
+        "answer_description": "Given expression = (11.98)2+ (0.02)2+ 11.98  xx.For the given expression to be a perfect square, we must have11.98 xx= 2 x 11.98 x 0.02 orx= 0.04"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(0.1667)(0.8333)(0.3333)is approximately equal to:(0.2222)(0.6667)(0.1250)",
+        "options": {
+            "A": "2",
+            "B": "2.40",
+            "C": "2.43",
+            "D": "2.50"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given expression=(0.3333)x(0.1667)(0.8333)(0.2222)(0.6667)(0.1250)=3333x1x56622222x12531000=3x1x5x3x 82662=52= 2.50"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "3889 + 12.952  - ? = 3854.002",
+        "options": {
+            "A": "47.095",
+            "B": "47.752",
+            "C": "47.932",
+            "D": "47.95"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let 3889 + 12.952 -x= 3854.002.Thenx= (3889 + 12.952) - 3854.002= 3901.952 - 3854.002= 47.95."
+    }
+]

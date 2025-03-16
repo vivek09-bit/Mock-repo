@@ -1,0 +1,71 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In dividing a number by 585, a student employed the method of short division. He divided the number successively by 5, 9 and 13 (factors 585) and got the remainders 4, 8, 12 respectively. If he had divided the number by 585, the remainder would have been",
+        "options": {
+            "A": "24",
+            "B": "144",
+            "C": "292",
+            "D": "584"
+        },
+        "correct_answer": "D",
+        "answer_description": "5 |xz= 13 x 1 + 12  = 25\n --------------\n 9 |y- 4y= 9 xz+ 8  = 9 x 25 + 8  = 233\n --------------\n 13|z- 8x= 5 xy+ 4  = 5 x 233 + 4  = 1169\n --------------\n   | 1 -12\n  \n  585) 1169 (1\n       585\n       ---\n       584\n       ---\n       \n  Therefore, on dividing the number by 585, remainder = 584."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a division sum, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, what is the dividend ?",
+        "options": {
+            "A": "4236",
+            "B": "4306",
+            "C": "4336",
+            "D": "5336",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Divisor = (5 x 46) = 23010 x Quotient = 230=230= 2310Dividend = (Divisor x Quotient) + Remainder= (230 x 23) + 46= 5290 + 46= 5336."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "4500 x ? = 3375",
+        "options": {
+            "A": "25",
+            "B": "34",
+            "C": "14",
+            "D": "35",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "4500 xx= 3375x=337575=345001004"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What smallest number should be added to 4456 so that the sum is completely divisible by 6 ?",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "6) 4456 (742\n    42\n    ---\n     25\n     24        Therefore, Required number = (6 - 4) = 2.\n     ---\n      16\n      12\n      ---\n       4"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What least number must be subtracted from 13601, so that the remainder is divisible by 87 ?",
+        "options": {
+            "A": "23",
+            "B": "31",
+            "C": "29",
+            "D": "37",
+            "E": "49"
+        },
+        "correct_answer": "C",
+        "answer_description": "87) 13601 (156\n     87\n     ----\n      490\n      435\n      ----\n       551\n       522\n       ---\n        29\n       ---\n       \n Therefore, the required number = 29."
+    }
+]

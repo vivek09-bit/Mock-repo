@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of first 45 natural numbers is:",
+        "options": {
+            "A": "1035",
+            "B": "1280",
+            "C": "2070",
+            "D": "2140"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let Sn= (1 + 2 + 3 + ... + 45)This is an A.P. in whicha= 1,d= 1,n= 45 andl= 45Sn=n(a+l)=45x (1 + 45)   = (45 x 23)   = 103522Required sum = 1035."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "666 ÷ 6 ÷ 3 = ?",
+        "options": {
+            "A": "37",
+            "B": "333",
+            "C": "111",
+            "D": "84",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Given Exp. = 666 x1x1= 37.63"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of all two digit numbers divisible by 5 is:",
+        "options": {
+            "A": "1035",
+            "B": "1245",
+            "C": "1230",
+            "D": "945",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Required numbers are 10, 15, 20, 25, ..., 95This is an A.P. in whicha= 10,d= 5 andl= 95.tn= 95a+ (n- 1)d= 9510 + (n- 1) x 5 = 95(n- 1) x 5 = 85(n- 1) = 17n= 18Requuired Sum =n(a+l)=18x (10 + 95)   = (9 x 105)   = 945.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between the place values of two sevens in the numeral 69758472 is",
+        "options": {
+            "A": "0",
+            "B": "6993",
+            "C": "699930",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required difference = (700000 - 70) = 699930"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On dividing a number by 68, we get 269 as quotient and 0 as remainder. On dividing the same number by 67, what will the remainder ?",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "correct_answer": "B",
+        "answer_description": "Number = 269 x 68 + 0 = 18292\n\n 67) 18292 (273\n     134\n     ----\n      489\n      469\n      ----\n       202\n       201\n       ---\n         1\n       ---\n       \nTherefore, Required remainder = 1"
+    }
+]

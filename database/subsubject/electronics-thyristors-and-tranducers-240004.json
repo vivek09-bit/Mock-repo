@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The PUT (programmable unijunction transistor) is actually a type of:",
+        "options": {
+            "A": "UJT thyristor",
+            "B": "FET device",
+            "C": "TRIAC",
+            "D": "SCR"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transducer's function is to:",
+        "options": {
+            "A": "transmit electrical energy",
+            "B": "convert energy",
+            "C": "produce mechanical energy",
+            "D": "prevent current flow"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

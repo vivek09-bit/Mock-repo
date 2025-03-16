@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Mohiniattam dance from developed originally in which state?",
+        "options": {
+            "A": "Tamil Nadu",
+            "B": "Orissa",
+            "C": "Kerala",
+            "D": "Karnataka"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following folk dance forms is associated with Gujarat?",
+        "options": {
+            "A": "Nautanki",
+            "B": "Garba",
+            "C": "Kathakali",
+            "D": "Bhangra"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following Akademis is responsible for fostering the development of dance, drama and music in India?",
+        "options": {
+            "A": "National School of Drama",
+            "B": "Sangeet Akademi",
+            "C": "Sahitya Akademi",
+            "D": "Lalit Kala Akademi"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Rath Yatra at Puri is celebrated in honour of which Hindu deity",
+        "options": {
+            "A": "Ram",
+            "B": "Jaganath",
+            "C": "Shiva",
+            "D": "Vishnu"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The book of Parsis is",
+        "options": {
+            "A": "Torah",
+            "B": "Bible",
+            "C": "Zend Avesta",
+            "D": "Gita"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

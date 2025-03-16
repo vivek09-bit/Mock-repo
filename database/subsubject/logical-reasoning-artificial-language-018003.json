@@ -1,0 +1,28 @@
+[
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.dionotmeans oak treeblyonotmeans oak leafblycrinmeans maple leafWhich word could mean \"maple syrup\"?",
+        "options": {
+            "A": "blymuth",
+            "B": "hupponot",
+            "C": "patricrin",
+            "D": "crinweel"
+        },
+        "correct_answer": "C",
+        "answer_description": "In this language, the adjective follows the noun. Fromdionotandblyonot, you can determine that 'onot' means oak. Fromblyonotandblycrin, you can determine thatblymeans leaf. Therefore,crinmeans maple. Because the adjective maple comes after the noun,patricrinis the only possible choice."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.tamcenomeans sky bluecenoraxmeans blue cheeseaplmitlmeans star brightWhich word could mean \"bright sky\"?",
+        "options": {
+            "A": "cenotam",
+            "B": "mitltam",
+            "C": "raxmitl",
+            "D": "aplceno"
+        },
+        "correct_answer": "B",
+        "answer_description": "Tammeans sky;cenomeans blue;raxmeans cheese;aplmeans star; andmitlmeans bright. So,mitltammeans bright sky."
+    }
+]

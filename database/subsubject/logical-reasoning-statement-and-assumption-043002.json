@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:The State government has decided to appoint four thousand primary school teachers during the next financial year.Assumptions:There are enough schools in the state to accommodate four thousand additional primary school teachers.The eligible candidates may not be interested to apply as the government may not finally appoint such a large number of primary school teachers.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "Such decisions as given in the statement are taken only after taking the existing vacancies into consideration. So, I implicit while II isn't."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:A warning in a train compartment - \"To stop train, pull chain. Penalty for improper use Rs. 500.\"Assumptions:Some people misuse the alarm chain.On certain occasions, people may want to stop a running train.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "E",
+        "answer_description": "Clearly, the penalty is imposed to prevent people from misusing the alarm chain. This means that some people misuse it. So, I is implicit. The alarm chain is provided to stop the running train in times of urgency. So, II is also implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:If it is easy to become an engineer, I don't want to be an engineer.Assumptions:An individual aspires to be professional.One desires to achieve a thing which is hard earned.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, nothing is mentioned about the professional nature of the job. So, I is not implicit. The statement hints that one rejects a thing that is easy to achieve. So, II is implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:The concession in rail fares for the journey to hill stations has been cancelled because it is not needed for people who can spend their holidays there.Assumptions:Railways should give concession only to needy persons.Railways should not encourage people to spend their holidays at hill stations.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "The statement mentions that concessions should not be given to people who can afford to spend holidays in hill stations. This means they should be given only to needy persons. So, I is implicit. But, II does not follow from the statement and is not implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:\"The bridge was built at the cost of Rs. 128 crores and even civil bus service is not utilizing it, what a pity to see it grossly underutilized.\" - A citizen's view on a new flyover linking east and west sides of a suburb.Assumptions:The building of such bridges does not serve any public objective.There has to be some accountability and utility of money spent on public projects.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, the statement expresses grave concern over a newly-built flyover not being utilized by public. This implies that such projects need to be taken up only after working out their utility and that the huge expenditure incurred on building such structures is worthwhile only if they prove useful for the public. Thus, only II is implicit."
+    }
+]

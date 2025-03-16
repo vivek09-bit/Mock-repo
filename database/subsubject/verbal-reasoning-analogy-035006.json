@@ -1,0 +1,41 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Ice : Coldness :: Earth : ?",
+        "options": {
+            "A": "Weight",
+            "B": "Jungle",
+            "C": "Gravitation",
+            "D": "Sea"
+        },
+        "correct_answer": "C",
+        "answer_description": "As effect of Ice is coldness similarly the effect of Earth is gravitation."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Parts : Strap :: Wolf : ?",
+        "options": {
+            "A": "Fox",
+            "B": "Animal",
+            "C": "Wood",
+            "D": "Flow"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Physician : Treatment :: Judge : ?",
+        "options": {
+            "A": "Punishment",
+            "B": "Judgement",
+            "C": "Lawyer",
+            "D": "Court"
+        },
+        "correct_answer": "B",
+        "answer_description": "As Physician does the treatment similarly Judge delivers the judgement."
+    }
+]

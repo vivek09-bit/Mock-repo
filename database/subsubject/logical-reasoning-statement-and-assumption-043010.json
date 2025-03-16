@@ -1,0 +1,58 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:Cases of food poisoning due to consumption of liquor are increasing in rural areas.Assumptions:Percentage of people consuming liquor is more in rural areas.There are many unauthorized spurious liquor shops in the rural areas.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "B",
+        "answer_description": "The statement talks of number of cases of food poisoning due to consumption of liquor and not of the number of cases consuming liquor. So, I is not implicit. Besides, the statement indicates that people in rural areas are getting spurious or low-grade liquor and no check is being kept on shops selling liquor there. So, II is implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:Lack of stimulation in the first four or five years of life can have adverse consequences.Assumptions:A great part of the development of observed intelligence occurs in the earliest years of life50 percent of the measurable intelligence at age of 17 is already predictable by the age of four.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "The lacking in first four or five years can be adverse because it is the main period of development. So, I is implicit. Since nothing is mentioned about the predictability of intelligence, II is not implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:The X-Airlines has decided to increase the passenger fare by 15 percent with immediate effect.Assumptions:The demand for seats of X-Airlines may remain unchanged even after the hike of fare.Other airline companies may also hike the passenger fares.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, such decisions are taken only after making sure that it will not affect the company's business adversely. So, I is implicit. However, the impact of this increase on other airlines cannot be ascertained. So, II is not implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:Shalini made an application to the bank for a loan of Rs. 1,80,000 by mortgaging her house to the bank and promised to repay it within five years.Assumptions:The bank has a practice of granting loans for Rs. 1,00,000 and above.The bank accepts house as collateral security against such loans.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "E",
+        "answer_description": "The fact that Shalini has applied for a loan of Rs. 1,80,000 implies that the bank can grant a loan above Rs. 1,00,000. So, I is implicit. II also follows directly from the statement and so is implicit."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "476 ** 0 is divisible by both 3 and 11. The non-zero digits in the hundred's and ten's places are respectively:",
+        "options": {
+            "A": "7 and 4",
+            "B": "7 and 5",
+            "C": "8 and 5",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the given number be 476xy0.Then (4 + 7 + 6 +x+y+ 0) = (17 +x+y) must be divisible by 3.And, (0 +x+ 7) - (y+ 6 + 4) = (x-y-3) must be either 0 or 11.x-y- 3 = 0y=x- 3(17 +x+y) = (17 +x+x- 3) = (2x+ 14)x= 2 orx= 8.x= 8 andy= 5."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 97215 * 6 is completely divisible by 11, then the smallest whole number in place of * will be:",
+        "options": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "5",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Given number = 97215x6(6 + 5 + 2 + 9) - (x+ 1 + 7) = (14 - x), which must be divisible by 11.x= 3"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(112+ 122+ 132+ ... + 202) = ?",
+        "options": {
+            "A": "385",
+            "B": "2485",
+            "C": "2870",
+            "D": "3255"
+        },
+        "correct_answer": "B",
+        "answer_description": "(112+ 122+ 132+ ... + 202) = (12+ 22+ 32+ ... + 202) - (12+ 22+ 32+ ... + 102)Ref:(12+ 22+ 32+ ... +n2) =1n(n+ 1)(2n+ 1)6=20 x 21 x 41-10 x 11 x 2166= (2870 - 385)= 2485."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 5 * 2 is divisible by 6, then * = ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "A",
+        "answer_description": "6 = 3 x 2. Clearly, 5 * 2 is divisible by 2. Replace * byx.Then, (5 +x+ 2) must be divisible by 3. So,x= 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following numbers will completely divide (4915- 1) ?",
+        "options": {
+            "A": "8",
+            "B": "14",
+            "C": "46",
+            "D": "50"
+        },
+        "correct_answer": "A",
+        "answer_description": "(xn- 1) will be divisibly by (x+ 1) only whennis even.(4915- 1) = {(72)15- 1} = (730- 1), which is divisible by (7 +1),i.e., 8."
+    }
+]

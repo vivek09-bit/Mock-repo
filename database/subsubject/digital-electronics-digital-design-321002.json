@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 0.01-F capacitor is recommended by TTL manufacturers for ________ the power supply.",
+        "options": {
+            "A": "decoupling",
+            "B": "filtering",
+            "C": "rectifying",
+            "D": "grounding"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why does the data sheet for the 7476 only give a minimum value for the clock pulse width (both HIGH and LOW)?",
+        "options": {
+            "A": "nominal value",
+            "B": "best-case condition",
+            "C": "worst-case condition"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is the Schmitt trigger needed in the 60-Hz TTL-level clock pulse generator?",
+        "options": {
+            "A": "to provide a triangle wave",
+            "B": "to provide a sine wave",
+            "C": "to provide a rounded pulse waveform",
+            "D": "to provide a sharp pulse waveform"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The main concern when using a pull-down resistor is:",
+        "options": {
+            "A": "the low power dissipation of the resistor",
+            "B": "it will keep a floating terminal LOW",
+            "C": "the high power dissipation of the resistor",
+            "D": "it will cause false triggering"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Look up the propagation delay from the clock to the output for the 7476. Are the HIGH-to-LOW and LOW-to-HIGH propagation delays the same?",
+        "options": {
+            "A": "yes",
+            "B": "no,tPLH= 25 ns,tPHL= 40 ns",
+            "C": "no,tPLH= 40 ns,tPHL= 25 ns",
+            "D": "no,tPHL= 25 ns,tPLH= 40 ns"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

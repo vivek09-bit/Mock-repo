@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you check if two tuples are equal?",
+        "options": {
+            "A": "tuple1.equals(tuple2)",
+            "B": "tuple1 == tuple2",
+            "C": "tuple1.compare(tuple2)",
+            "D": "tuple1 is tuple2"
+        },
+        "correct_answer": "B",
+        "answer_description": "The '==' operator is used to check if two tuples are equal."
+    }
+]

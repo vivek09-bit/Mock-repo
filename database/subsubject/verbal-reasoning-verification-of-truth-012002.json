@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is always with 'Bargain'?",
+        "options": {
+            "A": "Exchange",
+            "B": "Sumptuousness",
+            "C": "Triviality",
+            "D": "Eloquence"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following a 'Drama' must have?",
+        "options": {
+            "A": "Actors",
+            "B": "Story",
+            "C": "Sets",
+            "D": "Director"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A boy is sitting at the back seat of a car. When the driver suddenly starts moving the car (in forward direction), the boy experiences a backward force?",
+        "options": {
+            "A": "Always",
+            "B": "Never",
+            "C": "Often",
+            "D": "Sometimes"
+        },
+        "correct_answer": "A",
+        "answer_description": "When a car suddenly starts the lower part of the boy's body will be in the motion while his upper will be at rest.Hence he will always experience backward force:"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is always found in 'Wonder'?",
+        "options": {
+            "A": "Crowd",
+            "B": "Lumber",
+            "C": "Astonishment",
+            "D": "Rustic"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Disclosure always involves",
+        "options": {
+            "A": "Agents",
+            "B": "Display",
+            "C": "Exposition",
+            "D": "Secrets"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,262 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph and the table and answer the questions given below.Data of different states regarding population of states in the year 1998Total population of the given States = 3276000.StatesSex and Literacy wise Population RatioSexLiteracyMFLiterateIlliterateA.P5327M.P3114Delhi2321Goa3532Bihar3441U.P.3272T.N.3494",
+          "image_path": "images\\15-2-12-1.png",
+          "question": "What was the number of males in U.P. in the year 1998?",
+          "options": {
+               "A": "254650",
+               "B": "294840",
+               "C": "321470",
+               "D": "341200"
+          },
+          "correct_answer": "B",
+          "answer_description": "Number of males in U.P.=3of (15% of 3276000)5=3x15x 37260005100= 294840."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph and the table and answer the questions given below.Data of different states regarding population of states in the year 1998Total population of the given States = 3276000.StatesSex and Literacy wise Population RatioSexLiteracyMFLiterateIlliterateA.P5327M.P3114Delhi2321Goa3532Bihar3441U.P.3272T.N.3494",
+          "image_path": "images\\15-2-12-1.png",
+          "question": "What was the total number of illiterate people in A.P. and M.P. in 1998?",
+          "options": {
+               "A": "876040",
+               "B": "932170",
+               "C": "981550",
+               "D": "1161160"
+          },
+          "correct_answer": "D",
+          "answer_description": "No. of illiterate people in A.P. =7of  (25% of 3276000)= 637000.9No. of illiterate people in M.P. =4of  (20% of 3276000)= 524160.5Total number = (637000 + 524160) = 1161160."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph and the table and answer the questions given below.Data of different states regarding population of states in the year 1998Total population of the given States = 3276000.StatesSex and Literacy wise Population RatioSexLiteracyMFLiterateIlliterateA.P5327M.P3114Delhi2321Goa3532Bihar3441U.P.3272T.N.3494",
+          "image_path": "images\\15-2-12-1.png",
+          "question": "What is the ratio of the number of females in T.N. to the number of females in Delhi?",
+          "options": {
+               "A": "7 : 5",
+               "B": "9 : 7",
+               "C": "13 : 11",
+               "D": "15 : 14"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required ratio=4of (9% of 3276000)73of (8% of 3276000)5=4x 973x 85=4x 9 x5x1738=15.14"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph and the table and answer the questions given below.Data of different states regarding population of states in the year 1998Total population of the given States = 3276000.StatesSex and Literacy wise Population RatioSexLiteracyMFLiterateIlliterateA.P5327M.P3114Delhi2321Goa3532Bihar3441U.P.3272T.N.3494",
+          "image_path": "images\\15-2-12-1.png",
+          "question": "What will be the percentage of total number of males in U.P., M.P. and Goa together to the total population of all the given states?",
+          "options": {
+               "A": "25%",
+               "B": "27.5%",
+               "C": "28.5%",
+               "D": "31.5%"
+          },
+          "correct_answer": "C",
+          "answer_description": "Number of males in U.P =3of (15% of N)=3x15x N   = 9 xN.55100100where N = 3276000.Number of males in M.P =3of (20% of N)=3x20x N   = 15 xN.44100100Number of males in Goa =3of (12% of N)=3x12x N   = 4.5 xN.88100100Total number of males in these three states= (9 + 15 + 4.5) xN100=28.5 xN.100Required Percentage =28.5 xN100x 100% = 28.5%.N"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following graph and the table and answer the questions given below.Data of different states regarding population of states in the year 1998Total population of the given States = 3276000.StatesSex and Literacy wise Population RatioSexLiteracyMFLiterateIlliterateA.P5327M.P3114Delhi2321Goa3532Bihar3441U.P.3272T.N.3494",
+          "image_path": "images\\15-2-12-1.png",
+          "question": "If in the year 1998, there was an increase of 10% in the population of U.P. and 12% in the population of M.P. compared to the previous year, then what was the ratio of populations of U.P. and M.P. in 1997?",
+          "options": {
+               "A": "42 : 55",
+               "B": "48 : 55",
+               "C": "7 : 11",
+               "D": "4 : 5"
+          },
+          "correct_answer": "A",
+          "answer_description": "Letxbe the population of U.P. in 1997. Then,Population of U.P. in 1998 = 110% ofx=110xx.100Also, letybe the population of M.P. in 1997. Then,Population of M.P. in 1998 = 112% ofy=112xy.100Ratio of populations of U.P. and M.P. in 1998 =110xx100=110x.112xy100112yFrom the pie-chart, this ratio is15.20110x=15x=15x112=42.112y20y2011055Thus, ratio of populations of U.P. and M.P. in 1997 =x:y= 42 : 55."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.Maximum Total Marks in each Periodical Exam = 500",
+          "image_path": "images\\15-3-10-1.png",
+          "question": "The total number of marks obtained in Feb. 02 is what percent of the total marks obtained in April 01 ?",
+          "options": {
+               "A": "110%",
+               "B": "112.5%",
+               "C": "115%",
+               "D": "116.5%"
+          },
+          "correct_answer": "B",
+          "answer_description": "Here it is clear from the graph that the student obtained 360, 365, 370, 385, 400 and 405 marks in periodical exams held in Apr 01, Jun 01, Aug 01, Oct 01, Dec 01 and Feb 02 respectively.Required percentage =405x 100% = 112.5%.360"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.Maximum Total Marks in each Periodical Exam = 500",
+          "image_path": "images\\15-3-10-1.png",
+          "question": "What are the average marks obtained by the student in all the periodical exams during the last session ?",
+          "options": {
+               "A": "373",
+               "B": "379",
+               "C": "381",
+               "D": "385"
+          },
+          "correct_answer": "C",
+          "answer_description": "Average marks obtained in all the periodical exams=1x [360 + 365 + 370 + 385 + 400 + 405] = 380.83381.6"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.Maximum Total Marks in each Periodical Exam = 500",
+          "image_path": "images\\15-3-10-1.png",
+          "question": "What is the percentage of marks obtained by the student in the periodical exams of August, 01 and Oct, 01 taken together ?",
+          "options": {
+               "A": "73.25%",
+               "B": "75.5%",
+               "C": "77%",
+               "D": "78.75%"
+          },
+          "correct_answer": "B",
+          "answer_description": "Required percentage =(370 + 385)x 100% =755x 100% = 75.5%.(500 + 500)1000"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.Maximum Total Marks in each Periodical Exam = 500",
+          "image_path": "images\\15-3-10-1.png",
+          "question": "In which periodical exams there is a fall in percentage of marks as compared to the previous periodical exams ?",
+          "options": {
+               "A": "None",
+               "B": "June, 01",
+               "C": "Oct, 01",
+               "D": "Feb, 02"
+          },
+          "correct_answer": "A",
+          "answer_description": "As is clear from the graph, the total marks obtained in periodical exams, go on increasing. Since, the maximum marks for all the periodical exams are the same; it implies that the percentage of marks also goes on increasing.Thus, in none of the periodical exams, there is a fall in percentage of marks compared to the previous exam."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)In a school the periodical examination are held every second month. In a session during April 2001 - March 2002, a student of Class IX appeared for each of the periodical exams. The aggregate marks obtained by him in each perodical exam are represented in the line-graph given below.Marks Obtained by student in Six Periodical Held in Every Two Months During the Year in the Session 2001 - 2002.Maximum Total Marks in each Periodical Exam = 500",
+          "image_path": "images\\15-3-10-1.png",
+          "question": "In which periodical exams did the student obtain the highest percentage increase in marks over the previous periodical exams ?",
+          "options": {
+               "A": "June, 01",
+               "B": "August, 01",
+               "C": "Oct, 01",
+               "D": "Dec, 01"
+          },
+          "correct_answer": "C",
+          "answer_description": "Percentage increase in marks in various periodical exams compared to the previous exams are:For Jun 01 =(365 - 360)x 100% = 1.39%.360For Aug 01 =(370 - 365)x 100% = 1.37%.365For Oct 01 =(385 - 370)x 100% = 4.05%.370For Dec 01 =(400 - 385)x 100% = 3.90%.385For Feb 02 =(404 - 400)x 100% = 1.25%.400Clearly, highest percentage increase in marks is in Oct 01."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Study the following table and answer the questions based on it.Number of Candidates Appeared, Qualified and Selected in a Competitive Examination from Five States Delhi, H.P, U.P, Punjab and Haryana Over the Years 1994 to 1998YearDelhiH.PU.PPunjabHaryanaAppQualSelAppQualSelAppQualSelAppQualSelAppQualSel19978000850947800810827500720788200680856400700751998480050048750080065560062085680060070710065075199975006408274005607048004004865005256552003505520009500850908800920867000650707800720846400540602001900080070720085075850095080570048560450060075",
+          "image_path": null,
+          "question": "In the year 1997, which state had the lowest percentage of candidates selected over the candidates appeared?",
+          "options": {
+               "A": "Delhi",
+               "B": "H.P",
+               "C": "U.P",
+               "D": "Punjab"
+          },
+          "correct_answer": "D",
+          "answer_description": "The percentages of candidates selected over the candidates appeared in 1997, for various states are:(i) For Delhi =94x 100% = 1.175%.8000(ii) For H.P. =82x 100% = 1.051%.7800(iii) For U.P. =78x 100% = 1.040%.7500(iv) For Punjab85x 100% = 1.037%.8200(v) For Haryana75x 100% = 1.172%.6400Clearly, this percentage is lowest for Punjab."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Study the following table and answer the questions based on it.Number of Candidates Appeared, Qualified and Selected in a Competitive Examination from Five States Delhi, H.P, U.P, Punjab and Haryana Over the Years 1994 to 1998YearDelhiH.PU.PPunjabHaryanaAppQualSelAppQualSelAppQualSelAppQualSelAppQualSel19978000850947800810827500720788200680856400700751998480050048750080065560062085680060070710065075199975006408274005607048004004865005256552003505520009500850908800920867000650707800720846400540602001900080070720085075850095080570048560450060075",
+          "image_path": null,
+          "question": "The percentage of candidates qualified from Punjab over those appeared from Punjab is highestin the year?",
+          "options": {
+               "A": "1997",
+               "B": "1998",
+               "C": "1999",
+               "D": "2000"
+          },
+          "correct_answer": "D",
+          "answer_description": "The percentages of candidates qualified from Punjab over those appeared from Punjab during different years are:For 1997 =680x 100% = 8.29%.8200For 1998 =600x 100% = 8.82%.6800For 1999 =525x 100% = 8.08%.6500For 2000 =720x 100% = 9.23%.7800For 2001 =485x 100% = 8.51%.5700Clearly, this percentage is highest for the year 2000."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Study the following table and answer the questions based on it.Number of Candidates Appeared, Qualified and Selected in a Competitive Examination from Five States Delhi, H.P, U.P, Punjab and Haryana Over the Years 1994 to 1998YearDelhiH.PU.PPunjabHaryanaAppQualSelAppQualSelAppQualSelAppQualSelAppQualSel19978000850947800810827500720788200680856400700751998480050048750080065560062085680060070710065075199975006408274005607048004004865005256552003505520009500850908800920867000650707800720846400540602001900080070720085075850095080570048560450060075",
+          "image_path": null,
+          "question": "The percentage of candidates selected from U.P over those qualified from U.P is highest in the year?",
+          "options": {
+               "A": "1997",
+               "B": "1998",
+               "C": "1999",
+               "D": "2001"
+          },
+          "correct_answer": "B",
+          "answer_description": "The percentages of candidates selected from U.P. over those qualified from U.P. during different years are:For 1997 =78x 100% = 10.83%.720For 1998 =85x 100% = 13.71%.620For 1999 =48x 100% = 12%.400For 2000 =70x 100% = 10.77%.650For 2001 =80x 100% = 8.42%.950Clearly, this percentage is highest for the year 1998."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Study the following table and answer the questions based on it.Number of Candidates Appeared, Qualified and Selected in a Competitive Examination from Five States Delhi, H.P, U.P, Punjab and Haryana Over the Years 1994 to 1998YearDelhiH.PU.PPunjabHaryanaAppQualSelAppQualSelAppQualSelAppQualSelAppQualSel19978000850947800810827500720788200680856400700751998480050048750080065560062085680060070710065075199975006408274005607048004004865005256552003505520009500850908800920867000650707800720846400540602001900080070720085075850095080570048560450060075",
+          "image_path": null,
+          "question": "The number of candidates selected from Haryana during the period under review is approximately what percent of the number selected from Delhi during this period?",
+          "options": {
+               "A": "79.5%",
+               "B": "81%",
+               "C": "84.5%",
+               "D": "88.5%"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required percentage=(75 + 75 + 55 + 60 + 75)x 100%(94 + 48 + 82 + 90 + 70)=340x 100%384= 88.54%88.5%"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Study the following table and answer the questions based on it.Number of Candidates Appeared, Qualified and Selected in a Competitive Examination from Five States Delhi, H.P, U.P, Punjab and Haryana Over the Years 1994 to 1998YearDelhiH.PU.PPunjabHaryanaAppQualSelAppQualSelAppQualSelAppQualSelAppQualSel19978000850947800810827500720788200680856400700751998480050048750080065560062085680060070710065075199975006408274005607048004004865005256552003505520009500850908800920867000650707800720846400540602001900080070720085075850095080570048560450060075",
+          "image_path": null,
+          "question": "For which state the average number of candidates selected over the years is the maximum?",
+          "options": {
+               "A": "Delhi",
+               "B": "H.P",
+               "C": "U.P",
+               "D": "Punjab"
+          },
+          "correct_answer": "A",
+          "answer_description": "The average number of candidates selected over the given period for various states are:For Delhi =94 + 48 + 82 + 90 + 70=384= 76.8.55For H.P. =82 + 65 + 70 + 86 + 75=378= 75.6.55For U.P. =78 + 85 + 48 + 70 + 80=361= 72.2.55For Punjab =85 + 70 + 65 + 84 + 60=364= 72.8.55For Haryana =75 + 75 + 55 + 60 + 75=340= 68.55Clearly, this average is maximum for Delhi."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A cosmetic company provides five different products. The sales of these five products (in lakh number of packs) during 1995 and 2000 are shown in the following bar graph.Sales (in lakh number of packs) of five different products of Cosmetic Company during 1995 and 2000",
+          "image_path": "images\\15-1-7-1.png",
+          "question": "The sales have increase by nearly 55% from 1995 to 2000 in the case of?",
+          "options": {
+               "A": "Lipsticks",
+               "B": "Nail enamels",
+               "C": "Talcum powders",
+               "D": "Shampoos"
+          },
+          "correct_answer": "D",
+          "answer_description": "The percentage increase from 1995 to 2000 for various products are:Lipsticks =(48.17 - 20.15)x 100% = 139.06%.20.15Nail enamels =(37.76 - 5.93)x 100% = 536.76%.5.93Talcum powders =(29.14 - 14.97)x 100% = 94.66%.14.97Shampoos =(12.21 - 7.88)x 100% = 54.95%55%.7.88Conditioners =(10.19 - 5.01)x 100% = 103.39%.5.01"
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A cosmetic company provides five different products. The sales of these five products (in lakh number of packs) during 1995 and 2000 are shown in the following bar graph.Sales (in lakh number of packs) of five different products of Cosmetic Company during 1995 and 2000",
+          "image_path": "images\\15-1-7-1.png",
+          "question": "During the period 1995-2000, the minimum rate of increase in sales is in the case of?",
+          "options": {
+               "A": "Shampoos",
+               "B": "Nail enamels",
+               "C": "Talcum powders",
+               "D": "Lipsticks"
+          },
+          "correct_answer": "A",
+          "answer_description": "The percentage increase from 1995 to 2000 for various products are:Lipsticks =(48.17 - 20.15)x 100% = 139.06%.20.15Nail enamels =(37.76 - 5.93)x 100% = 536.76%.5.93Talcum powders =(29.14 - 14.97)x 100% = 94.66%.14.97Shampoos =(12.21 - 7.88)x 100% = 54.95%55%.7.88Conditioners =(10.19 - 5.01)x 100% = 103.39%.5.01The minimum rate of increase in sales from 1995 to 2000 is in the case of Shampoos."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A cosmetic company provides five different products. The sales of these five products (in lakh number of packs) during 1995 and 2000 are shown in the following bar graph.Sales (in lakh number of packs) of five different products of Cosmetic Company during 1995 and 2000",
+          "image_path": "images\\15-1-7-1.png",
+          "question": "The sales of lipsticks in 2000 was by what percent more than the sales of nail enamels in 2000? (rounded off to nearest integer)",
+          "options": {
+               "A": "33%",
+               "B": "31%",
+               "C": "28%",
+               "D": "22%"
+          },
+          "correct_answer": "C",
+          "answer_description": "Required percentage=(48.17 - 37.76)x 100%37.76= 27.57%28%."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A cosmetic company provides five different products. The sales of these five products (in lakh number of packs) during 1995 and 2000 are shown in the following bar graph.Sales (in lakh number of packs) of five different products of Cosmetic Company during 1995 and 2000",
+          "image_path": "images\\15-1-7-1.png",
+          "question": "The sales of conditioners in 1995 was by what percent less than the sales of shampoos in 1995? (rounded off to nearest integer)",
+          "options": {
+               "A": "57%",
+               "B": "36%",
+               "C": "29%",
+               "D": "25%"
+          },
+          "correct_answer": "B",
+          "answer_description": "Required percentage=(7.88 - 5.01)x 100%7.88= 36.42%36%."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A cosmetic company provides five different products. The sales of these five products (in lakh number of packs) during 1995 and 2000 are shown in the following bar graph.Sales (in lakh number of packs) of five different products of Cosmetic Company during 1995 and 2000",
+          "image_path": "images\\15-1-7-1.png",
+          "question": "What is the approximate ratio of the sales of nail enamels in 2000 to the sales of Talcum powders in 1995?",
+          "options": {
+               "A": "7:2",
+               "B": "5:2",
+               "C": "4:3",
+               "D": "2:1"
+          },
+          "correct_answer": "B",
+          "answer_description": "Required ratio =37.762.5 =5.14.972"
+     }
+]

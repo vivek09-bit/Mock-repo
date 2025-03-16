@@ -1,0 +1,277 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Look carefully at the sequence of symbols to find the pattern. Select correct pattern.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "C",
+          "answer_description": "This is an alternating series. In the first segment, the letter \"E\" faces right, then down, then right. In the second segment, the letters all face down. To follow this pattern, in the fourth segment, the letters must all face up."
+     },
+     {
+          "direction": "Direction (Q.No. 2)Choose the picture that would go in the empty box so that the two bottom pictures are related in the same way as the top two are related.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "C",
+          "answer_description": "A penny is to a dollar as a small house is to a skyscraper. This relationship shows smaller to larger. A penny is much smaller than a dollar; a house is much smaller than a skyscraper."
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 4)Translate from an imaginary language into English. Then, look for the word elements that appear both on the list and in the answer choices.",
+          "image_path": null,
+          "question": "Here are some words translated from an artificial language.slarmeans jumpslarymeans jumpingslarendmeans jumpedWhich word could mean \"playing\"?",
+          "options": {
+               "A": "clargslarend",
+               "B": "clargy",
+               "C": "ellaclarg",
+               "D": "slarmont"
+          },
+          "correct_answer": "B",
+          "answer_description": "According to this language, slar means jump. The suffix  -ing is represented by -y. Since choice b is the only one that ends in the letter y, this is the only possible option."
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 4)Translate from an imaginary language into English. Then, look for the word elements that appear both on the list and in the answer choices.",
+          "image_path": null,
+          "question": "Here are some words translated from an artificial language.plekapakimeans fruitcakepakishillenmeans cakewalktreftalanmeans buttercupWhich word could mean \"cupcake\"?",
+          "options": {
+               "A": "shillenalan",
+               "B": "treftpleka",
+               "C": "pakitreft",
+               "D": "alanpaki"
+          },
+          "correct_answer": "D",
+          "answer_description": "Pleka means fruit; paki means cake; shillen means walk; treftmeans butter; and alanmeans cup. Therefore, alanpaki means cupcake."
+     },
+     {
+          "direction": "Direction (Q.No. 5)Each question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+          "image_path": null,
+          "question": "Eileen is planning a special birthday dinner for her husband's 35th birthday. She wants the evening to be memorable, but her husband is a simple man who would rather be in jeans at a baseball game than in a suit at a fancy restaurant. Which restaurant below should Eileen choose?",
+          "options": {
+               "A": "Alfredo's offers fine Italian cuisine and an elegant Tuscan decor. Patrons will feel as though they've spent the evening in a luxurious Italian villa.",
+               "B": "Pancho's Mexican Buffet is an all-you-can-eat family style smorgasbord with the best tacos in town.",
+               "C": "The Parisian Bistro is a four-star French restaurant where guests are treated like royalty. Chef Dilbert Olay is famous for his beef bourguignon.",
+               "D": "Marty's serves delicious, hearty meals in a charming setting reminiscent of a baseball clubhouse in honor of the owner,Marty Lester, a former major league baseball all-star."
+          },
+          "correct_answer": "D",
+          "answer_description": "Since Eileen's husband does not enjoy fancy restaurants, choices a and c can be ruled out. Choice b, although casual, doesn't sound as though it would be the kind of special and memorable evening that Eileen is looking for. Choice d, which is owned by a former baseball star  and is described as \"charming\" and \"reminiscent of a baseball clubhouse\", sounds perfect for Eileen's husband, who is described as a baseball fan and a man with simple tastes."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Read the below passage carefully and answer the questions:Quinn:Our state is considering raising the age at which a person can get a driver's license to eighteen. This is unfair because the age has been sixteen for many years and sixteen-year-olds today are no less responsible than their parents and grandparents were at sixteen.Many young people today who are fourteen and fifteen years old are preparing to receive their licenses by driving with a learner's permit and a licensed driver, usually one of their parents. It would not be fair to suddenly say they have to wait two more years.Dakota:It is true that people have been allowed to receive a drivers license at sixteen for generations. However, in recent years, the increase in traffic means drivers face more dangers than ever and must be ready to respond to a variety of situations. The fact that schools can no longer afford to teach drivers education results in too many young drivers who are not prepared to face the traffic conditions of today.",
+          "image_path": null,
+          "question": "On what does Quinn rely in making her argument?",
+          "options": {
+               "A": "statistics",
+               "B": "emotion",
+               "C": "fairness",
+               "D": "anecdotes",
+               "E": "actualities"
+          },
+          "correct_answer": "C",
+          "answer_description": "Quinn discusses the fairness of changing the law and raising the age at which one can receive a driver's license. Emotion (choice b) may be involved, but the argument relies on the fairness issue."
+     },
+     {
+          "direction": "Direction (Q.Nos. 7 - 8)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:The 'Official Secrets Act' (OSA) enacted by the ABC government during the war seems to be one of the major source of corruption in the country X.Conclusions:The OSA has to be abolished immediately to put an end to the corruption in the country X.The ABC government had an intention of encouraging corruption in the government offices.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "A",
+          "answer_description": "The statement declares enactment of OSA as the direct cause of increase in corruption. So, I follows. However, enactment of an act by a government is undertaken for betterment and not with the intention of encouraging corruption though whatever may be the outcome later on. So, II does not follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 7 - 8)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:About 50 per cent of the animal by-products - hair, skin, horns etc. is edible protein. American chemists have developed a method of isolating 45 per cent of this protein. They used an enzyme developed in Japan to break down soya protein.Conclusions:Americans have not been able to develop enzymes.Animal by-products protein has the same composition as soya protein.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "That the American chemists used an enzyme developed in Japan, does not mean that Americans have not been able to develop enzymes. So, I does not follow. Also, nothing about the compositions of animal by products protein and soya protein is mentioned in the statement. So, II also does not follow."
+     },
+     {
+          "direction": "Direction (Q.No. 9)In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+          "image_path": null,
+          "question": "Statements:The Government has imported large quantities of sugar  as per trade agreement with other countries.The prices of sugar in the domestic market have fallen sharply in the recent months.",
+          "options": {
+               "A": "Statement I is the cause and statement II is its effect",
+               "B": "Statement II is the cause and statement I is its effect",
+               "C": "Both the statements I and II are independent causes",
+               "D": "Both the statements I and II are effects of independent causes",
+               "E": "Both the statements I and II are effects of some common cause"
+          },
+          "correct_answer": "A",
+          "answer_description": "The increase in supply always triggers a reduction in the prices."
+     },
+     {
+          "direction": "Direction (Q.No. 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The first step in treating addicts is to re-establish their lost ties, for which a continuous personal attention should be paid to the addicts under treatment.Assumptions:Addicts under treatment respond better when shown personal interest.Addiction and strained relationships are intimately connected.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, treatment of addiction requires personal attention as the first step. So, I is implicit. Also, since intimacy and personal attention are required to treat addicts, it implies that addiction arises out of frustration due to strained relationships. So, II is also implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 11)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Sachin wrote to his brother at Bangalore to collect personally the application form from the University for the Post-graduation Course in Mathematics.Assumptions:The University may issue application forms to a person other than the prospective student.Sachin's brother may receive the letter well before the last date of collecting application forms.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since Sachin has asked his brother to collect the form, it is evident that the university may issue the form to anybody and that Sachin's brother would receive the letter before the last date of collecting the forms. So, both I and II are implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:What a fool I am to rely on trickster like Shaleen !Assumptions:Shaleen is unreliable.I am a fool.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since one condemns oneself to rely on Shaleen, so I is implicit. The statement mentions that it was foolish to rely on Shaleen. So, the person is a fool. Thus, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 13)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type.Courses of Action:The city municipal authority should take immediate steps to carry out extensive fumigation in ward X.The people in the area should be advised to take steps to avoid mosquito bites.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, prevention from mosquitoes and elimination of mosquitoes are two ways to prevent malaria. So, both the courses follow."
+     },
+     {
+          "direction": "Direction (Q.No. 14)In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:All windows are doors. No door is wall.Conclusions:No window is wall.No wall is door.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since both the premises are universal and one premise is negative, the conclusion must be universal negative. Also, the conclusion should not contain the middle term. So, I follows. However, II is the converse of the second premise and thus it also holds,"
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 16)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should import duty on all the electronic goods be dispensed with?Arguments:No. This will considerably reduce the income of the government and will adversely affect the developmental activities.No. The local manufacturers will not be able to compete with the foreign manufacturers who are technologically far superior.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "B",
+          "answer_description": "Abolishing the import duty on electronic goods shall reduce the costs of imported goods and adversely affect the sale of the domestic products, thus giving a setback to the Indian electronics industry. So, argument II holds strong. Argument I does not provide a convincing reason."
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 16)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should there be uniforms for students in the colleges in India as in the schools?Arguments:Yes, this will improve the ambience of the colleges as all the students will be decently dressed.No. The college students should not be regimented and they should be left to choose their clothes for coming to the college.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, after being in strict discipline and following a formal dress code of the school for so many years, the students must be granted some liberty in college life, as they have to take on the responsibilities of life, next. Besides, schools adopt uniforms to take care of the security of the child - an aspect which doesn't matter much in the colleges. So, argument II holds strong. Also, the environment of the college depends on the students' dedication and etiquettes and not on their uniforms. So, argument I is vague."
+     },
+     {
+          "direction": "Direction (Q.No. 17)Each question given below consists of a statement, followed by three or four arguments numbered I, II, III and IV. You have to decide which of the arguments is/are 'strong' arguments) and which is/are 'weak' arguments) and accordingly choose your answer from the alternatives given below each question.",
+          "image_path": null,
+          "question": "Statement:Should religion be taught in our schools?Arguments:No. Ours is a secular state.Yes. Teaching religion helps inculcate moral values among children.No. How can one dream of such a step when we want the young generation to fulfil its role in the 21st century.",
+          "options": {
+               "A": "All are strong",
+               "B": "None is strong",
+               "C": "Only I is strong",
+               "D": "Only II is strong",
+               "E": "Only I and III are strong"
+          },
+          "correct_answer": "D",
+          "answer_description": "Ours is a secular state does not mean that religion and religious values should be eradicated. In fact, these inculcate moral values. So, argument I is vague while argument II is strong. Also, teaching religion can in no way hinder the student's capability to face the challenges of the 21st century."
+     },
+     {
+          "direction": "Direction (Q.No. 18)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:\"Join X-tuition classes for sure success. Excellent teaching by excellent teachers is our strength.\" - An advertisement.Assumptions:Sure success is desirable.Students expect sure success when they join any tuition class.Just having excellent teachers does not ensure success.",
+          "options": {
+               "A": "Only I and II are implicit",
+               "B": "Only II and III are implicit",
+               "C": "Only I and III are implicit",
+               "D": "Only II is implicit",
+               "E": "All are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "The advertisement seeks to attract the students by promising them sure success. So, both I and II are implicit. Assumption III does not follow from the statement and so is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:All tigers are lions. No cow is lion. Some camels are cows.Conclusions:Some lions are camels.No camel- is tiger.Some tigers are cows.",
+          "options": {
+               "A": "None follows",
+               "B": "Only I follows",
+               "C": "Only II follows",
+               "D": "Only III follows",
+               "E": "Either I or II follows"
+          },
+          "correct_answer": "A",
+          "answer_description": "All tigers are lions. No cow is lion.Since both the premises are universal and one premise is negative, the conclusion must be universal negative (E-type) and shouldn't contain the middle term. So, it follows that 'No tiger is cow'.Some camels are cows. No cow is lion.Since one premise is particular and the other negative, the conclusion must be particular negative (O-type) and should not contain the middle term. So, it follows that 'Some camels are not lions'. Some camels are cows. No tiger is cow.Since one premise is particular and the other negative, the conclusion must be particular negative (O-type) and should not contain the middle term. So, it follows that 'Some camels are not tigers'."
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:Some pictures are frames. Some frames are idols. All idols are curtains.Conclusions:Some curtains are pictures.Some curtains are frames.Some idols are frames.",
+          "options": {
+               "A": "Only I and II follow",
+               "B": "Only II and III follow",
+               "C": "Only I and III follow",
+               "D": "All follow",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "III is the converse of the second premise and so it holds.Some pictures are frames. Some frames are idols.Since both the premises are particular, no definite conclusion follows.Some frames are idols. All idols are curtains.Since one premise is particular, the conclusion must be particular and should not contain the middle term. So, it follows that 'Some frames are curtains'. III is the converse of this conclusion and so it holds.Some pictures are frames. Some frames are curtains.Since both the premises are particular, no definite conclusion can be drawn."
+     }
+]

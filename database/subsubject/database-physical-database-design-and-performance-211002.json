@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The blocking factor is:",
+        "options": {
+            "A": "a group of fields stored in adjacent memory.",
+            "B": "the number of physical records per page.",
+            "C": "attributes grouped together by the same primary key.",
+            "D": "attributes grouped together by the same secondary key."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following improves a query's processing time?",
+        "options": {
+            "A": "Write complex queries.",
+            "B": "Combine a table with itself.",
+            "C": "Query one query within another.",
+            "D": "Use compatible data types."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are integrity controls that a DBMS may support?",
+        "options": {
+            "A": "Assume a default value in a field unless a user enters a value for that field.",
+            "B": "Limit the set of permissible values that a field may assume.",
+            "C": "Limit the use of null values in some fields.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a factor to consider when switching from small to large block size?",
+        "options": {
+            "A": "The length of all of the fields in a table row.",
+            "B": "The number of columns",
+            "C": "Block contention",
+            "D": "Random row access speed"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the best data type definition for Oracle when a field is alphanumeric and has a fixed length?",
+        "options": {
+            "A": "VARCHAR2",
+            "B": "CHAR",
+            "C": "LONG",
+            "D": "NUMBER"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

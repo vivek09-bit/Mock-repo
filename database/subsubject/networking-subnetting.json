@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Your router has the following IP address on Ethernet0: 172.16.2.1/23. Which of the following can be valid host IDs on the LAN interface attached to the router?172.16.1.100172.16.1.198172.16.2.255172.16.3.0",
+        "options": {
+            "A": "1 only",
+            "B": "2 and 3 only",
+            "C": "3 and 4 only",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "The router's IP address on the E0 interface is 172.16.2.1/23, which is 255.255.254.0. This makes the third octet a block size of 2. The router's interface is in the 2.0 subnet, and the broadcast address is 3.255 because the next subnet is 4.0. The valid host range is 2.1 through 3.254. The router is using the first valid host address in the range."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which two statements describe the IP address 10.16.3.65/23?The subnet address is 10.16.3.0 255.255.254.0.The lowest host address in the subnet is 10.16.2.1 255.255.254.0.The last valid host address in the subnet is 10.16.2.254 255.255.254.0.The broadcast address of the subnet is 10.16.3.255 255.255.254.0.",
+        "options": {
+            "A": "1 and 3",
+            "B": "2 and 4",
+            "C": "1, 2 and 4",
+            "D": "2, 3 and 4"
+        },
+        "correct_answer": "B",
+        "answer_description": "The mask 255.255.254.0 (/23) used with a Class A address means that there are 15 subnet bits and 9 host bits. The block size in the third octet is 2 (256 - 254). So this makes the subnets in the interesting octet 0, 2, 4, 6, etc., all the way to 254. The host 10.16.3.65 is in the 2.0 subnet. The next subnet is 4.0, so the broadcast address for the 2.0 subnet is 3.255. The valid host addresses are 2.1 through 3.254."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A network administrator is connecting hosts A and B directly through their Ethernet interfaces, as shown in the illustration. Ping attempts between the hosts are unsuccessful. What can be \ndone to provide connectivity between the hosts?A crossover cable should be used in place of the straight-through cable.A rollover cable should be used in place of the straight-through cable.The subnet masks should be set to 255.255.255.192.A default gateway needs to be set on each host.The subnet masks should be set to 255.255.255.0.",
+        "options": {
+            "A": "1 only",
+            "B": "2 only",
+            "C": "3 and 4 only",
+            "D": "1 and 5 only",
+            "E": "2 and 5 only"
+        },
+        "correct_answer": "D",
+        "answer_description": "First, if you have two hosts directly connected, as shown in the graphic, then you need \na crossover cable. A straight-through cable won't work. Second, the hosts have different \nmasks, which puts them in different subnets. The easy solution is just to set both masks to \n255.255.255.0 (/24)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask?",
+        "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "30"
+        },
+        "correct_answer": "D",
+        "answer_description": "A /27 (255.255.255.224) is 3 bits on and 5 bits off. This provides 8 subnets, each with 30 hosts. Does it matter if this mask is used with a Class A, B, or C network address? Not at all. The number of host bits would never change."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which classful subnet mask would you use?",
+        "options": {
+            "A": "255.255.255.192",
+            "B": "255.255.255.224",
+            "C": "255.255.255.240",
+            "D": "255.255.255.248"
+        },
+        "correct_answer": "B",
+        "answer_description": "You need 5 subnets, each with at least 16 hosts. The mask 255.255.255.240 provides 16 subnets with 14 hosts-this will not work. The mask 255.255.255.224 provides 8 subnets, each with 30 hosts. This is the best answer."
+    }
+]

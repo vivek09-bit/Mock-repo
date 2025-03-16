@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To eliminate definition duplication, XML Schemas define:",
+        "options": {
+            "A": "an intersection table.",
+            "B": "global elements.",
+            "C": "a normalized definition table.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is not true about SOAP?",
+        "options": {
+            "A": "SOAP originally meant Simple Object Access Protocol.",
+            "B": "SOAP was defined as an XML-based standard for providing remote procedure calls over the Internet.",
+            "C": "SOAP now is just a name, not an acronym",
+            "D": "SOAP was an early form of XML."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "XML Schemas consist of:",
+        "options": {
+            "A": "properties and methods.",
+            "B": "elements and attributes.",
+            "C": "structure and data.",
+            "D": "tables and relationships."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The expression FOR XML RAW tells SQL Server to:",
+        "options": {
+            "A": "place the values of the columns as attributes in the resulting XML document.",
+            "B": "place the values of the columns into elements rather than attributes.",
+            "C": "place some columns into elements and others into attributes.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ADO.NET provides the ability to create and process in-memory databases called:",
+        "options": {
+            "A": "views.",
+            "B": "relations.",
+            "C": "tables.",
+            "D": "datasets."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

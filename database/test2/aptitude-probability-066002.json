@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
+        "options": {
+            "A": "12",
+            "B": "34",
+            "C": "38",
+            "D": "516"
+        },
+        "correct_answer": "B",
+        "answer_description": "In a simultaneous throw of two dice, we haven(S) = (6 x 6) = 36.Then, E= {(1, 2), (1, 4), (1, 6), (2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6), (3, 2), (3, 4),(3, 6), (4, 1), (4, 2), (4, 3), (4, 4), (4, 5), (4, 6), (5, 2), (5, 4), (5, 6), (6, 1),(6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}n(E) = 27.P(E) =n(E)=27=3.n(S)364"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected, is:",
+        "options": {
+            "A": "2146",
+            "B": "25117",
+            "C": "150",
+            "D": "325"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let S be the sample space and E be the event of selecting 1 girl and 2 boys.Then,n(S)= Number ways of selecting 3 students out of 25=25C3`=(25 x 24 x 23)(3 x 2 x 1)= 2300.n(E)= (10C1x15C2)=10 x(15 x 14)(2 x 1)= 1050.P(E) =n(E)=1050=21.n(S)230046"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",
+        "options": {
+            "A": "110",
+            "B": "25",
+            "C": "27",
+            "D": "57"
+        },
+        "correct_answer": "C",
+        "answer_description": "P (getting a prize) =10=10=2.(10 + 25)357"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
+        "options": {
+            "A": "115",
+            "B": "2557",
+            "C": "35256",
+            "D": "1221"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let S be the sample space.Then,n(S) =52C2=(52 x 51)= 1326.(2 x 1)Let E = event of getting 2 kings out of 4.n(E) =4C2=(4 x 3)= 6.(2 x 1)P(E) =n(E)=6=1.n(S)1326221"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two dice are tossed. The probability that the total score is a prime number is:",
+        "options": {
+            "A": "16",
+            "B": "512",
+            "C": "12",
+            "D": "79"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly,n(S) = (6 x 6) = 36.Let E = Event that the sum is a prime number.Then E= { (1, 1), (1, 2), (1, 4), (1, 6), (2, 1), (2, 3), (2, 5), (3, 2), (3, 4), (4, 1), (4, 3),(5, 2), (5, 6), (6, 1), (6, 5) }n(E) = 15.P(E) =n(E)=15=5.n(S)3612"
+    }
+]

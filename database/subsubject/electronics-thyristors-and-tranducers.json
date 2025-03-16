@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A TRIAC:",
+        "options": {
+            "A": "can trigger only on positive gate voltages",
+            "B": "can trigger only on negative gate voltages",
+            "C": "cannot be triggered with gate voltages",
+            "D": "can be triggered by either a positive or a negative gate voltage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When checking a good SCR or TRIAC with an ohmmeter it will:",
+        "options": {
+            "A": "show high resistance in both directions",
+            "B": "show low resistance with positive on anode and negative on cathode, and high resistance when reversed",
+            "C": "show high resistance with negative on anode and positive on cathode, and low resistance when reversed",
+            "D": "show low resistance in both directions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does a hall effect sensor sense?",
+        "options": {
+            "A": "temperature",
+            "B": "moisture",
+            "C": "magnetic fields",
+            "D": "pressure"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What causes the piezoelectric effect?",
+        "options": {
+            "A": "heat or dissimilar metals",
+            "B": "pressure on a crystal",
+            "C": "water running on iron",
+            "D": "a magnetic field"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is the DIAC?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

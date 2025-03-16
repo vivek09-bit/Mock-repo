@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you remove an element from a list in Python?",
+        "options": {
+            "A": "remove(element)",
+            "B": "pop(index)",
+            "C": "delete(element)",
+            "D": "discard(element)"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thepop(index)method is used to remove and return the element at the specified index in a list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is used to add elements from one list to another in Python?",
+        "options": {
+            "A": "concat()",
+            "B": "merge()",
+            "C": "extend()",
+            "D": "append()"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theextend()method is used to add elements from one list to the end of another list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the correct way to sort a list in descending order in Python?",
+        "options": {
+            "A": "list.sort()",
+            "B": "sorted(list, reverse=True)",
+            "C": "list.sort(reverse=True)",
+            "D": "sorted(list)"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thelist.sort(reverse=True)method is used to sort a list in descending order in-place."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does theindexmethod of a list return in Python?",
+        "options": {
+            "A": "The first occurrence of the specified element.",
+            "B": "The last occurrence of the specified element.",
+            "C": "The index of the specified element.",
+            "D": "The count of occurrences of the specified element."
+        },
+        "correct_answer": "C",
+        "answer_description": "Theindexmethod returns the index of the first occurrence of the specified element in a list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which function is used to create a shallow copy of a list in Python?",
+        "options": {
+            "A": "copy()",
+            "B": "clone()",
+            "C": "duplicate()",
+            "D": "replicate()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thecopy()function is used to create a shallow copy of a list in Python."
+    }
+]

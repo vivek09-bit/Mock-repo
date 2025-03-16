@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What device is similar to an RTD but has a negative temperature coefficient?",
+        "options": {
+            "A": "Strain gauge",
+            "B": "Thermistor",
+            "C": "Negative-type RTD",
+            "D": "Thermocouple"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The resistive change of a strain gauge",
+        "options": {
+            "A": "is based on the weight placed upon it, but can be many thousands of ohms",
+            "B": "is usually no more than 100",
+            "C": "is based on the gauge factor, but is typically less than an ohm",
+            "D": "has a positive temperature coefficient"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The silicon-controlled rectifier can be turned off",
+        "options": {
+            "A": "by a negative gate pulse",
+            "B": "by forced commutation",
+            "C": "with the off switch",
+            "D": "when the breakover voltage is exceeded"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The output voltage of a typical thermocouple is",
+        "options": {
+            "A": "less than 100 mV",
+            "B": "greater than 1 V",
+            "C": "Thermocouples vary resistance, not voltage.",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The connections to a thermocouple",
+        "options": {
+            "A": "can produce an unwanted thermocouple effect, which must be compensated for",
+            "B": "produce an extra desirable thermocouple effect",
+            "C": "must be protected, since high voltages are present",
+            "D": "produce an extra desirable thermocouple effect and must be protected, since high voltages are present"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The salaries A, B, C are in the ratio 2 : 3 : 5. If the increments of 15%, 10% and 20% are allowed respectively in their salaries, then what will be new ratio of their salaries?",
+        "options": {
+            "A": "3 : 3 : 10",
+            "B": "10 : 11 : 20",
+            "C": "23 : 33 : 60",
+            "D": "Cannot be determined"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let A = 2k, B = 3kand C = 5k.A's new salary =115of 2k=115x 2k=23k10010010B's new salary =110of 3k=110x 3k=33k10010010C's new salary =120of 5k=120x 5k= 6k100100New ratio23k:33k: 6k= 23 : 33 : 601010"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 40% of a number is equal  to two-third of another number, what is the ratio of first number to the second number?",
+        "options": {
+            "A": "2 : 5",
+            "B": "3 : 7",
+            "C": "5 : 3",
+            "D": "7 : 3"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let 40% of A =2B3Then,40A=2B10032A=2B53A=2x5=5B323A : B = 5 : 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The fourth proportional to 5, 8, 15 is:",
+        "options": {
+            "A": "18",
+            "B": "24",
+            "C": "19",
+            "D": "20"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the fourth proportional to 5, 8, 15 bex.Then, 5 : 8 : 15 :x5x= (8 x 15)x=(8 x 15)= 24.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two number are in the ratio 3 : 5. If 9 is subtracted from each, the new numbers are in the ratio 12 : 23. The smaller number is:",
+        "options": {
+            "A": "27",
+            "B": "33",
+            "C": "49",
+            "D": "55"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the numbers be 3xand 5x.Then,3x- 9=125x- 92323(3x- 9) = 12(5x- 9)9x= 99x= 11.The smaller number = (3 x 11) = 33."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+        "options": {
+            "A": "50",
+            "B": "100",
+            "C": "150",
+            "D": "200"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the number of 25 p, 10 p and 5 p coins bex, 2x, 3xrespectively.Then, sum of their values = Rs.25x+10 x 2x+5 x 3x= Rs.60x10010010010060x= 30x=30 x 100= 50.10060Hence, the number of 5 p coins = (3 x 50) = 150."
+    }
+]

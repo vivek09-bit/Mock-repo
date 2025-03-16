@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "PMOS and NMOS circuits are used largely in ________.",
+        "options": {
+            "A": "MSI functions",
+            "B": "LSI functions",
+            "C": "diode functions",
+            "D": "TTL functions"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If ICCHis specified as 1.1 mA when VCCis 5 V and if the gate is in a static (noncharging) HIGH output state, the power dissipation (PD) of the gate is ________.",
+        "options": {
+            "A": "5.5 mW",
+            "B": "5.5 W",
+            "C": "5 mW",
+            "D": "1.1 mW"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not a precaution for handling CMOS?",
+        "options": {
+            "A": "Devices should be placed with pins down on a grounded surface, such as a metal plate.",
+            "B": "All tools, test equipment, and metal workbenches should be earth grounded.",
+            "C": "CMOS devices should not be inserted into sockets or PC boards with the power on.",
+            "D": "Wear wool clothes at all times."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which factor does not affect CMOS loading?",
+        "options": {
+            "A": "Charging time associated with the output resistance of the driving gate",
+            "B": "Discharging time associated with the output resistance of the driving gate",
+            "C": "Output capacitance of the load gates",
+            "D": "Input capacitance of the load gates"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not part of emitter-coupled logic (ECL)?",
+        "options": {
+            "A": "Differential amplifier",
+            "B": "Bias circuit",
+            "C": "Emitter-follower circuit",
+            "D": "Totem-pole circuit"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

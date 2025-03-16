@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How are unwanted frequencies removed prior to digital conversion?",
+        "options": {
+            "A": "Pre-filters",
+            "B": "Digital signal processing",
+            "C": "Sample-and-hold circuits",
+            "D": "All of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of programming is typically used for digital signal processors?",
+        "options": {
+            "A": "Assembly language",
+            "B": "Machine language",
+            "C": "C",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following best defines Nyquist frequency?",
+        "options": {
+            "A": "The frequency of resonance for the filtering circuit",
+            "B": "The second harmonic",
+            "C": "The lower frequency limit of sampling",
+            "D": "The highest frequency component of a given analog signal"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not an A/D conversion error?",
+        "options": {
+            "A": "Differential nonlinearity",
+            "B": "Missing code",
+            "C": "Incorrect code",
+            "D": "Offset"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Settling time is normally defined as the time it takes a DAC to settle within ________.",
+        "options": {
+            "A": "1/8 LSB of its final value when a change occurs in the input code",
+            "B": "1/4 LSB of its final value when a change occurs in the input code",
+            "C": "1/2 LSB of its final value when a change occurs in the input code",
+            "D": "1 LSB of its final value when a change occurs in the input code"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

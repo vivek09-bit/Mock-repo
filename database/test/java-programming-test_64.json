@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "interface Base \n{\n    boolean m1 ();\n    byte m2(short s);\n}which two code fragments will compile?interface Base2 implements Base {}abstract class Class2 extends Base{ public boolean m1(){ return true; }}abstract class Class2 implements Base {}abstract class Class2 implements Base{ public boolean m1(){ return (7 > 4); }}abstract class Class2 implements Base{ protected boolean m1(){ return (5 > 7) }}",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "1 and 5"
+          },
+          "correct_answer": "C",
+          "answer_description": "(3) is correct because an abstract class doesn't have to implement any or all of its interface's methods. (4) is correct because the method is correctly implemented ((7 > 4)is a boolean).(1) is incorrect because interfaces don't implement anything. (2) is incorrect because classes don't extend interfaces. (5) is incorrect because interface methods are implicitlypublic, so the methods being implemented must bepublic."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want subclasses in any package to have access to members of a superclass. Which is the most restrictive access that accomplishes this objective?",
+          "options": {
+               "A": "public",
+               "B": "private",
+               "C": "protected",
+               "D": "transient"
+          },
+          "correct_answer": "C",
+          "answer_description": "Access modifiers dictate which classes, not which instances, may access features.Methods and variables are collectively known as members. Method and variable members are given access control in exactly the same way.privatemakes a member accessible only from within its own classprotectedmakes a member accessible only to classes in the same package or subclass of the classdefaultaccess is very similar to protected (make sure you spot the difference) default access makes a member accessible only to classes in the same package.publicmeans that all other classes regardless of the package that they belong to, can access the member (assuming the class itself is visible)finalmakes it impossible to extend a class, when applied to a method it prevents a method from being overridden in a subclass, when applied to a variable it makes it impossible to reinitialise a variable once it has been initialisedabstractdeclares a method that has not been implemented.transientindicates that a variable is not part of the persistent state of an object.volatileindicates that a thread must reconcile its working copy of the field with the master copy every time it accesses the variable.After examining the above it should be obvious that the access modifier that provides the most restrictions for methods to be accessed from the subclasses of the class from another package is C -protected. A is also a contender but C is more restrictive, B would be the answer if the constraint was the \"same package\" instead of \"any package\" in other words the subclasses clause in the question eliminates default."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class A \n{  \n    protected int method1(int a, int b) \n    {\n        return 0; \n    } \n}Which is valid in a class that extendsclass A?",
+          "options": {
+               "A": "public int method1(int a, int b) {return 0; }",
+               "B": "private int method1(int a, int b) { return 0; }",
+               "C": "public short method1(int a, int b) { return 0; }",
+               "D": "static protected int method1(int a, int b) { return 0; }"
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct - because the class that extendsAis just simply overridingmethod1.Option B is wrong - because it can't override as there are less access privileges in the subclassmethod1.Option C is wrong - because to override it, the return type needs to be an integer. The different return type means that the method is not overriding but the same argument list means that the method is not overloading. Conflict - compile time error.Option D is wrong - because you can't override a method and make it a class method i.e. usingstatic."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Test \n{\n    static int s;\n    public static void main(String [] args) \n    {\n        Test p = new Test();\n        p.start();\n        System.out.println(s);\n    }\n\n    void start() \n    {\n        int x = 7;\n        twice(x);\n        System.out.print(x + \" \");\n    }\n\n    void twice(int x) \n    {\n        x = x*2;\n        s = x;\n    }\n}",
+          "options": {
+               "A": "7 7",
+               "B": "7 14",
+               "C": "14 0",
+               "D": "14 14"
+          },
+          "correct_answer": "B",
+          "answer_description": "Theint xin thetwice()method is not the sameint xas in thestart()method.Start()'sxis not affected by thetwice()method. The instance variablesis updated bytwice()'sx, which is 14."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        Test p = new Test();\n        p.start();\n    }\n\n    void start() \n    {\n        boolean b1 = false;\n        boolean b2 = fix(b1);\n        System.out.println(b1 + \" \" + b2);\n    }\n\n    boolean fix(boolean b1) \n    {\n        b1 = true;\n        return b1;\n    }\n}",
+          "options": {
+               "A": "true true",
+               "B": "false true",
+               "C": "true false",
+               "D": "false false"
+          },
+          "correct_answer": "B",
+          "answer_description": "The booleanb1in thefix()method is a different boolean than theb1in thestart()method. Theb1in thestart()method is not updated by thefix()method."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class PassS \n{\n    public static void main(String [] args) \n    {\n        PassS p = new PassS();\n        p.start();\n    }\n\n    void start() \n    {\n        String s1 = \"slip\";\n        String s2 = fix(s1);\n        System.out.println(s1 + \" \" + s2);\n    }\n\n    String fix(String s1) \n    {\n        s1 = s1 + \"stream\";\n        System.out.print(s1 + \" \");\n        return \"stream\";\n    }\n}",
+          "options": {
+               "A": "slip stream",
+               "B": "slipstream stream",
+               "C": "stream slip stream",
+               "D": "slipstream slip stream"
+          },
+          "correct_answer": "D",
+          "answer_description": "When thefix()method is first entered,start()'s s1 andfix()'ss1reference variables both refer to the same String object (with a value of \"slip\").Fix()'ss1is reassigned to a new object that is created when the concatenation occurs (this second String object has a value of \"slipstream\"). When the program returns tostart(), anotherStringobject is created, referred to bys2and with a value of \"stream\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "import java.awt.*;\nclass Ticker extends Component \n{\n    public static void main (String [] args) \n    {\n        Ticker t = new Ticker();\n        /* Missing Statements ? */\n    }\n}which two of the following statements, inserted independently, could legally be inserted into missing section of this code?boolean test = (Component instanceof t);boolean test = (t instanceof Ticker);boolean test = t.instanceof(Ticker);boolean test = (t instanceof Component);",
+          "options": {
+               "A": "1 and 4",
+               "B": "2 and 3",
+               "C": "1 and 3",
+               "D": "2 and 4"
+          },
+          "correct_answer": "D",
+          "answer_description": "(2) is correct because class typeTickeris part of the class hierarchy oft; therefore it is a legal use of theinstanceofoperator. (4) is also correct becauseComponentis part of the hierarchy oft, becauseTicker extends Component.(1) is incorrect because the syntax is wrong. A variable (or null) always appears before theinstanceofoperator, and a type appears after it. (3) is  incorrect because the statement is used as a method (t.instanceof(Ticker);), which is illegal."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public void test(int x) \n{ \n    int odd = 1; \n    if(odd) /* Line 4 */\n    {\n        System.out.println(\"odd\"); \n    } \n    else \n    {\n        System.out.println(\"even\"); \n    } \n}Which statement is true?",
+          "options": {
+               "A": "Compilation fails.",
+               "B": "\"odd\" will always be output.",
+               "C": "\"even\" will always be output.",
+               "D": "\"odd\" will be output for odd values of x, and \"even\" for even values."
+          },
+          "correct_answer": "A",
+          "answer_description": "The compiler will complain because of incompatible types (line 4), the if expects a boolean but it gets an integer."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{  \n    public static void main(String args[]) \n    { \n        int i = 1, j = 0; \n        switch(i) \n        { \n            case 2: j += 6; \n            case 4: j += 1; \n            default: j += 2; \n            case 0: j += 4; \n        } \n        System.out.println(\"j = \" + j); \n    } \n}",
+          "options": {
+               "A": "j = 0",
+               "B": "j = 2",
+               "C": "j = 4",
+               "D": "j = 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "Because there are no break statements, the program gets to the default case and adds2toj, then goes tocase 0and adds4to the newj. The result isj = 6."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int i = 1, j = 10; \ndo \n{\n    if(i > j) \n    {\n        break; \n    } \n    j--; \n} while (++i < 5); \nSystem.out.println(\"i = \" + i + \" and j = \" + j);",
+          "options": {
+               "A": "i = 6 and j = 5",
+               "B": "i = 5 and j = 5",
+               "C": "i = 6 and j = 4",
+               "D": "i = 5 and j = 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "This loop is a do-while loop, which always executes the code block within the block at least once, due to the testing condition being at the end of the loop, rather than at the beginning. This particular loop is exited prematurely ifibecomes greater thanj.The order is, testiagainstj, if bigger, it breaks from the loop, decrementsjby one, and then tests the loop condition, where a pre-incremented by oneiis tested for being lower than 5. The test is at the end of the loop, soican reach the value of 5 before it fails. So it goes, start:1, 102, 93, 84, 75, 6 loop condition fails."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "import java.io.*;\npublic class MyProgram \n{\n    public static void main(String args[])\n    {\n        FileOutputStream out = null;\n        try \n        {\n            out = new FileOutputStream(\"test.txt\");\n            out.write(122);\n        }\n        catch(IOException io) \n        {\n            System.out.println(\"IO Error.\");\n        }\n        finally \n        {\n            out.close();\n        }\n    }\n}and given that all methods of classFileOutputStream, includingclose(), throw anIOException, which of these is true?",
+          "options": {
+               "A": "This program will compile successfully.",
+               "B": "This program fails to compile due to an error at line 4.",
+               "C": "This program fails to compile due to an error at line 6.",
+               "D": "This program fails to compile due to an error at line 18."
+          },
+          "correct_answer": "D",
+          "answer_description": "Any method (in this case, themain()method) that throws a checked exception (in this case,out.close()) must be called within a try clause, or the method must declare that it throws the exception. Eithermain()must declare that it throws an exception, or the call toout.close()in the finally block must fall inside a (in this case nested) try-catch block."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "catch(X x)can catch subclasses ofXwhereXis a subclass ofException.",
+               "B": "TheErrorclass is aRuntimeException.",
+               "C": "Any statement that can throw anErrormust be enclosed in a try block.",
+               "D": "Any statement that can throw anExceptionmust be enclosed in a try block."
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct. If the class specified in the catch clause does have subclasses, any exception object that subclasses the specified class will be caught as well.Option B is wrong. The error class is a subclass ofThrowableand notRuntimeException.Option C is wrong. You do not catch this class of error.Option D is wrong. An exception can be thrown to the next method higher up the call stack."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is valid declaration of a float?",
+          "options": {
+               "A": "float f = 1F;",
+               "B": "float f = 1.0;",
+               "C": "float f = \"1\";",
+               "D": "float f = 1.0d;"
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is valid declaration of float.Option B is incorrect because any literal number with a decimal point u declare the computer will implicitly cast to double unless you include \"F or f\"Option C is incorrect because it is aString.Option D is incorrect because \"d\" tells the computer it is a double so therefore you are trying to put a double value into a float variable i.e there might be a loss of precision."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?import java.util.*; \nclass H \n{\n    public static void main (String[] args) \n    { \n        Object x = new Vector().elements(); \n        System.out.print((x instanceof Enumeration)+\",\"); \n        System.out.print((x instanceof Iterator)+\",\"); \n        System.out.print(x instanceof ListIterator); \n    } \n}",
+          "options": {
+               "A": "Prints: false,false,false",
+               "B": "Prints: false,false,true",
+               "C": "Prints: false,true,false",
+               "D": "Prints: true,false,false"
+          },
+          "correct_answer": "D",
+          "answer_description": "TheVector.elementsmethod returns anEnumerationover the elements of the vector.Vectorimplements theListinterface and extendsAbstractListso it is also possible to get anIteratorover aVectorby invoking theiteratororlistIteratormethod."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?TreeSet map = new TreeSet();\nmap.add(\"one\");\nmap.add(\"two\");\nmap.add(\"three\");\nmap.add(\"four\");\nmap.add(\"one\");\nIterator it = map.iterator();\nwhile (it.hasNext() ) \n{\n    System.out.print( it.next() + \" \" );\n}",
+          "options": {
+               "A": "one two three four",
+               "B": "four three two one",
+               "C": "four one three two",
+               "D": "one two three four one"
+          },
+          "correct_answer": "C",
+          "answer_description": "TreeSetassures no duplicate entries; also, when it is accessed it will return elements in natural order, which typically means alphabetical."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class Foo \n{\n    class Bar{ }\n}\nclass Test \n{\n    public static void main (String [] args) \n    {\n        Foo f = new Foo();\n        /* Line 10: Missing statement ? */\n    }\n}which statement, inserted at line 10, creates an instance ofBar?",
+          "options": {
+               "A": "Foo.Bar b = new Foo.Bar();",
+               "B": "Foo.Bar b = f.new Bar();",
+               "C": "Bar b = new f.Bar();",
+               "D": "Bar b = f.new Bar();"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct because the syntax is correct-using both names (the enclosing class and the inner class) in the reference declaration, then using a reference to the enclosing class to invoke new on the inner class.Option A, C and D all use incorrect syntax. A is incorrect because it doesn't use a reference to the enclosing class, and also because it includes both names in the new.C is incorrect because it doesn't use the enclosing class name in the reference variable declaration, and because the new syntax is wrong.D is incorrect because it doesn't use the enclosing class name in the reference variable declaration."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which will contain the body of the thread?",
+          "options": {
+               "A": "run();",
+               "B": "start();",
+               "C": "stop();",
+               "D": "main();"
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is Correct. Therun()method to a thread is like themain()method to an application. Starting the thread causes the object's run method to be called in that separately executing thread.Option B is wrong. Thestart()method causes this thread to begin execution; the Java Virtual Machine calls the run method of this thread.Option C is wrong. Thestop()method is deprecated. It forces the thread to stop executing.Option D is wrong. Is the main entry point for an application."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three guarantee that a thread will leave the running state?yield()wait()notify()notifyAll()sleep(1000)aLiveThread.join()Thread.killThread()",
+          "options": {
+               "A": "1, 2 and 4",
+               "B": "2, 5 and 6",
+               "C": "3, 4 and 7",
+               "D": "4, 5 and 7"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) is correct becausewait()always causes the current thread to go into the object's wait pool.(5) is correct becausesleep()will always pause the currently running thread for at least the duration specified in the sleep argument (unless an interrupted exception is thrown).(6) is correct because, assuming that the thread you're callingjoin()on is alive, the thread callingjoin()will immediately block until the thread you're callingjoin()on is no longer alive.(1) is wrong, but tempting. Theyield()method is not guaranteed to cause a thread to leave the running state, although if there are runnable threads of the same priority as the currently running thread, then the current thread will probably leave the running state.(3) and (4) are incorrect because they don't cause the thread invoking them to leave the running state.(7) is wrong because there's no such method."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{  \n    public static void main(String[] args) \n    { \n        int x = 0;  \n        assert (x > 0) ? \"assertion failed\" : \"assertion passed\" ; \n        System.out.println(\"finished\");  \n    } \n}",
+          "options": {
+               "A": "finished",
+               "B": "Compiliation fails.",
+               "C": "AnAssertionErroris thrown and finished is output.",
+               "D": "AnAssertionErroris thrown with the message \"assertion failed.\""
+          },
+          "correct_answer": "B",
+          "answer_description": "Compilation Fails. You can't use the Assert statement in a similar way to the ternary operator. Don't confuse."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class BoolTest \n{\n    public static void main(String [] args) \n    {\n        int result = 0;\n\n        Boolean b1 = new Boolean(\"TRUE\");\n        Boolean b2 = new Boolean(\"true\");\n        Boolean b3 = new Boolean(\"tRuE\");\n        Boolean b4 = new Boolean(\"false\");\n\n        if (b1 == b2)  /* Line 10 */\n            result = 1;\n        if (b1.equals(b2) ) /* Line 12 */\n            result = result + 10;\n        if (b2 == b4)  /* Line 14 */\n            result = result + 100;\n        if (b2.equals(b4) ) /* Line 16 */\n            result = result + 1000;\n        if (b2.equals(b3) ) /* Line 18 */\n            result = result + 10000;\n\n        System.out.println(\"result = \" + result);\n    }\n}",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "10",
+               "D": "10010"
+          },
+          "correct_answer": "D",
+          "answer_description": "Line 10 fails because b1 and b2 are two different objects. Lines 12 and 18 succeed because theBooleanString constructors are case insensitive. Lines 14 and 16 fail because true is not equal to false."
+     }
+]

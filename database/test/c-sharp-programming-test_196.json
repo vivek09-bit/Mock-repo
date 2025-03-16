@@ -1,0 +1,276 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the .NET Framework?",
+          "options": {
+               "A": ".NET   Framework   uses   DCOM   for   achieving   language interoperability.",
+               "B": ".NET Framework is built on the DCOM technology.",
+               "C": ".NET Framework uses DCOM for making transition between managed and unmanaged code.",
+               "D": ".NET   Framework   uses   DCOM   for   creating   unmanaged applications.",
+               "E": ".NET   Framework   uses   COM+   services   while   creating Distributed Applications."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?",
+          "options": {
+               "A": "Information is never lost during narrowing conversions.",
+               "B": "TheCInteger()function can be used to convert a Single to an Integer.",
+               "C": "Widening conversions take place automatically.",
+               "D": "Assigning an Integer to an Object type is known as Unboxing.",
+               "E": "3.14 can be treated as Decimal by using it in the form3.14F."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is an 8-byte Integer?",
+          "options": {
+               "A": "Char",
+               "B": "Long",
+               "C": "Short",
+               "D": "Byte",
+               "E": "Integer"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?int i, j, id = 0; switch (id)\n{ \n    case i:\n        Console.WriteLine(\"I am in Case i\");\n        break; \n    \n    case j:\n        Console.WriteLine(\"I am in Case j\");\n        break;\n}",
+          "options": {
+               "A": "The compiler will reportcase iandcase jas errors since variables cannot be used in cases.",
+               "B": "Compiler will report an error since there is nodefault casein theswitch casestatement.",
+               "C": "The code snippet prints the result as \"I am in Case i\"\".",
+               "D": "The code snippet prints the result as \"I am in Case j\".",
+               "E": "There is no error in the code snippet."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is NOT an Arithmetic operator in C#.NET?",
+          "options": {
+               "A": "**",
+               "B": "+",
+               "C": "/",
+               "D": "%",
+               "E": "*"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?int i, j = 1, k;\nfor (i = 0; i < 5; i++)\n{\n    k = j++ + ++j;\n    Console.Write(k + \" \");\n}",
+          "options": {
+               "A": "8 4 16 12 20",
+               "B": "4 8 12 16 20",
+               "C": "4 8 16 32 64",
+               "D": "2 4 6 8 10"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct?C# allows a function to have arguments with default values.C# allows a function to have variable number of arguments.Omitting the return value type in method definition results into an exception.Redefining a method parameter in the method's body causes an exception.params is used to specify the syntax for a function with variable number of arguments.",
+          "options": {
+               "A": "1, 3, 5",
+               "B": "3, 4, 5",
+               "C": "2, 5",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?",
+          "options": {
+               "A": "Procedural Programming paradigm is different than structured programming paradigm.",
+               "B": "Object Oriented Programming paradigm stresses on dividing the logic into smaller parts and writing procedures for each part.",
+               "C": "Classes and objects are corner stones of structured programming paradigm.",
+               "D": "Object    Oriented    Programming    paradigm    gives    equal importance to data and the procedures that work on the data.",
+               "E": "C#.NET is a structured programming language."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will be the correct output for the C#.NET program given below?namespace IndiabixConsoleApplication\n{ \n    class Sample\n    { \n        int i; \n        Single j; \n        public void SetData(int i, Single j)\n        { \n            this.i = i; \n            this.j = j;\n        }\n        public void Display()\n        { \n            Console.WriteLine(i + \" \" + j);\n        } \n    } \n    class MyProgram\n    { \n        static void Main(string[ ] args)\n        {\n            Sample s1 = new Sample(); \n            s1.SetData(36, 5.4f); \n            s1.Display(); \n        } \n    } \n}",
+          "options": {
+               "A": "0 0.0",
+               "B": "36 5.4",
+               "C": "36 5.400000",
+               "D": "36 5",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many times can a constructor be called during lifetime of the object?",
+          "options": {
+               "A": "As many times as we call it.",
+               "B": "Only once.",
+               "C": "Depends upon a Project Setting made in Visual Studio.NET.",
+               "D": "Any number of times before the object gets garbage collected.",
+               "E": "Any number of times before the object is deleted."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about Inheritance in C#.NET?A derived class object contains all the base class data.Inheritance cannot suppress the base class functionality.A derived class may not be able to access all the base class data.Inheritance cannot extend the base class functionality.In inheritance chain construction of object happens from base towards derived.",
+          "options": {
+               "A": "1, 2, 4",
+               "B": "2, 4, 5",
+               "C": "1, 3, 5",
+               "D": "2, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is correct about the C#.NET snippet given below?namespace IndiabixConsoleApplication\n{ \n    class Baseclass\n    { \n        public void fun()\n        { \n            Console.WriteLine(\"Hi\" + \" \");\n        } \n        public void fun(int i)\n        {\n            Console.Write(\"Hello\" + \" \");\n        } \n    } \n    class Derived: Baseclass\n    {\n        public void fun()\n        {\n            Console.Write(\"Bye\" + \" \");\n        } \n    } \n    class MyProgram\n    { \n        static void Main(string[ ] args)\n        { \n            Derived d; \n            d = new Derived(); \n            d.fun(); \n            d.fun(77);\n        } \n    } \n}",
+          "options": {
+               "A": "The program gives the output as: Hi Hello Bye",
+               "B": "The program gives the output as: Bye Hello",
+               "C": "The program gives the output as: Hi Bye Hello",
+               "D": "Error in the program"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the C#.NET code snippet given below?int[] a = {11, 3, 5, 9, 4};The array elements are created on the stack.Refernce a is created on the stack.The array elements are created on the heap.On declaring the array a new array class is created which is derived fromSystem.ArrayClass.Whether the array elements are stored in the stack or heap depends upon the size of the array.",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 3, 4",
+               "C": "2, 3, 5",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will be the correct output for the C#.NET code snippet given below?String s1 = \"Five Star\";\nString s2 = \"FIVE STAR\";\nint c;\nc = s1.CompareTo(s2);\nConsole.WriteLine(c);",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "-1",
+               "E": "-2"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are the correct ways to declare a delegate for calling the functionfunc()defined in the sample class given below?class Sample\n{\n    public int func(int i, Single j)\n    {\n        /* Add code here. */\n    }\n}",
+          "options": {
+               "A": "delegate d(int i, Single j);",
+               "B": "delegate void d(int, Single);",
+               "C": "delegate int d(int i, Single j);",
+               "D": "delegate void (int i, Single j);",
+               "E": "delegate int sample.func(int i, Single j);"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is correct ways of applying an attribute?",
+          "options": {
+               "A": "[WebService (Name = \"IndiaBIX\", Description = \"BIX WebService\")] \nclass AuthenticationService: WebService\n{ /* .... */}",
+               "B": "<WebService ( Name : \"IndiaBIX\", Description : \"BIX WebService\" )> \nclass AuthenticationService: inherits WebService\n{ /* .... */}",
+               "C": "<WebService ( Name = \"IndiaBIX\", Description = \"BIX WebService\" )> \nclass AuthenticationService: extends WebService\n{ /* .... */}",
+               "D": "[WebService ( Name := \"IndiaBIX\", Description := \"BIX WebService\")] \nclass AuthenticationService: inherits WebService\n{ /* .... */}"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to find out the number of elements currently present in anArrayListCollection calledarr?",
+          "options": {
+               "A": "arr.Count",
+               "B": "arr.GrowSize",
+               "C": "arr.MaxIndex",
+               "D": "arr.Capacity",
+               "E": "arr.UpperBound"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If aStudentclass has an indexed property which is used to store or retrieve values to/from an array of 5 integers, then which of the following are the correct ways to use this indexed property?Student[3] = 34;Student s = new Student(); \ns[3] = 34;Student s = new Student(); \nConsole.WriteLine(s[3]);Console.WriteLine(Student[3]);Student.this s = new Student.this(); \ns[3] = 34;",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 3",
+               "C": "3, 4",
+               "D": "3, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the followings are NOT a .NET namespace?System.WebSystem.ProcessSystem.DataSystem.Drawing2DSystem.Drawing3D",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 4, 5",
+               "C": "3, 5",
+               "D": "1, 2, 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following modifier is used when a virtual method is redefined by a derived class?",
+          "options": {
+               "A": "overloads",
+               "B": "override",
+               "C": "overridable",
+               "D": "virtual",
+               "E": "base"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

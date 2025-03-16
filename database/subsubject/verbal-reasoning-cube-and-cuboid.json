@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveThe following questions are based on the information given below:A cuboid shaped wooden block has 6 cm length, 4 cm breadth and 1 cm height.Two faces measuring 4 cm x 1 cm are coloured in black.Two faces measuring 6 cm x 1 cm are coloured in red.Two faces measuring 6 cm x 4 cm are coloured in green.The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).",
+        "image_path": null,
+        "question": "How many cubes having red, green and black colours on at least one side of the cube will be formed ?",
+        "options": {
+            "A": "16",
+            "B": "12",
+            "C": "10",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "Such cubes are related to the corners of the cuboid. Since the number of corners of the cuboid is 4.Hence, the number of such small cubes is 4."
+    },
+    {
+        "direction": "Directions to SolveThe following questions are based on the information given below:A cuboid shaped wooden block has 6 cm length, 4 cm breadth and 1 cm height.Two faces measuring 4 cm x 1 cm are coloured in black.Two faces measuring 6 cm x 1 cm are coloured in red.Two faces measuring 6 cm x 4 cm are coloured in green.The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).",
+        "image_path": null,
+        "question": "How many small cubes will be formed ?",
+        "options": {
+            "A": "6",
+            "B": "12",
+            "C": "16",
+            "D": "24"
+        },
+        "correct_answer": "D",
+        "answer_description": "Number of small cubes = l x b x h = 6 x 4 x 1 = 24"
+    },
+    {
+        "direction": "Directions to SolveThe following questions are based on the information given below:A cuboid shaped wooden block has 6 cm length, 4 cm breadth and 1 cm height.Two faces measuring 4 cm x 1 cm are coloured in black.Two faces measuring 6 cm x 1 cm are coloured in red.Two faces measuring 6 cm x 4 cm are coloured in green.The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).",
+        "image_path": null,
+        "question": "How many cubes will have 4 coloured sides and two non-coloured sides ?",
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "16",
+            "D": "10"
+        },
+        "correct_answer": "B",
+        "answer_description": "Only 4 cubes situated at the corners of the cuboid will have 4 coloured and 2 non-coloured sides."
+    },
+    {
+        "direction": "Directions to SolveThe following questions are based on the information given below:A cuboid shaped wooden block has 6 cm length, 4 cm breadth and 1 cm height.Two faces measuring 4 cm x 1 cm are coloured in black.Two faces measuring 6 cm x 1 cm are coloured in red.Two faces measuring 6 cm x 4 cm are coloured in green.The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).",
+        "image_path": null,
+        "question": "How many cubes will have green colour on two sides and rest of the four sides having no colour ?",
+        "options": {
+            "A": "12",
+            "B": "10",
+            "C": "8",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "There are 16 small cubes attached to the outer walls of the cuboid.Therefore remaining inner small cubes will be the cubes having two sides green coloured.So the required number = 24 - 16 = 8"
+    },
+    {
+        "direction": "Directions to SolveThe following questions are based on the information given below:A cuboid shaped wooden block has 6 cm length, 4 cm breadth and 1 cm height.Two faces measuring 4 cm x 1 cm are coloured in black.Two faces measuring 6 cm x 1 cm are coloured in red.Two faces measuring 6 cm x 4 cm are coloured in green.The block is divided into 6 equal cubes of side 1 cm (from 6 cm side), 4 equal cubes of side 1 cm(from 4 cm side).",
+        "image_path": null,
+        "question": "How many cubes will remain if the cubes having black and green coloured are removed ?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "12",
+            "D": "16"
+        },
+        "correct_answer": "D",
+        "answer_description": "Number of small cubes which are Black and Green is 8 in all.Hence, the number of remaining cubes are = 24 - 8 = 16"
+    }
+]

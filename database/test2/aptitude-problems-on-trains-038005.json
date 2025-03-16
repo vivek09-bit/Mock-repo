@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+        "options": {
+            "A": "25",
+            "B": "30",
+            "C": "40",
+            "D": "45"
+        },
+        "correct_answer": "B",
+        "answer_description": "Speed of the train relative to man= (63 - 3) km/hr= 60 km/hr=60 x5m/sec18=50m/sec.3Time taken to pass the man=500 x3sec50= 30 sec."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively. Find the time taken by the slower train to pass the driver of the faster one.",
+        "options": {
+            "A": "12 sec",
+            "B": "24 sec",
+            "C": "48 sec",
+            "D": "60 sec"
+        },
+        "correct_answer": "B",
+        "answer_description": "Relative speed == (45 + 30) km/hr=75 x5m/sec18=125m/sec.6We have to find the time taken by the slower train to pass the DRIVER of the faster train and not the complete train.So, distance covered = Length of the slower train.Therefore, Distance covered = 500 m.Required time =500 x6= 24 sec.125"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:",
+        "options": {
+            "A": "10",
+            "B": "18",
+            "C": "36",
+            "D": "72"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the speed of each train bexm/sec.Then, relative speed of the two trains = 2xm/sec.So, 2x=(120 + 120)122x= 20x= 10.Speed of  each train = 10 m/sec =10 x18km/hr = 36 km/hr.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?",
+        "options": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "20"
+        },
+        "correct_answer": "B",
+        "answer_description": "Speed of the first train =120m/sec = 12 m/sec.10Speed of the second train =120m/sec = 8 m/sec.15Relative speed = (12 + 8) = 20 m/sec.Required time =(120 + 120)sec = 12 sec.20"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is:",
+        "options": {
+            "A": "48 km/hr",
+            "B": "54 km/hr",
+            "C": "66 km/hr",
+            "D": "82 km/hr"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the speed of the second train bexkm/hr.Relative speed= (x+ 50) km/hr=(x+ 50) x5m/sec18=250 + 5xm/sec.18Distance covered = (108 + 112) = 220 m.220= 6250 + 5x18250 + 5x= 660x= 82 km/hr."
+    }
+]

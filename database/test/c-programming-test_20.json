@@ -1,0 +1,252 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the correct statements are correct about the program below?#include<stdio.h>\nint main()\n{\n    char ch;\n    while(x=0;x<=255;x++)\n        printf(\"ASCII value of %d character %c\\n\", x, x);\n    return 0;\n}",
+          "options": {
+               "A": "The code generates an infinite loop",
+               "B": "The code prints all ASCII values and its characters",
+               "C": "Error:xundeclared identifier",
+               "D": "Error:whilestatement missing"
+          },
+          "correct_answer": "D",
+          "answer_description": "There are 2 errors in this program.1. \"Undefined symbol x\" error. Herexis not defined in the program.2. Herewhile()statement syntax error."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct usage of conditional operators used in C?",
+          "options": {
+               "A": "a>b ? c=30 : c=40;",
+               "B": "a>b ? c=30;",
+               "C": "max = a>b ? a>c?a:c:b>c?b:c",
+               "D": "return (a>b)?(a:b)"
+          },
+          "correct_answer": "C",
+          "answer_description": "Option A: assignment statements are always return in paranthesis in the case of conditional operator. It should be a>b? (c=30):(c=40);Option B: it is syntatically wrong.Option D: syntatically wrong, it should be return(a>b ? a:b);Option C: it uses nested conditional operator, this is logic for finding greatest number out of three numbers."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\nint main()\n{\n    float d=2.25;\n    printf(\"%e,\", d);\n    printf(\"%f,\", d);\n    printf(\"%g,\", d);\n    printf(\"%lf\", d);\n    return 0;\n}",
+          "options": {
+               "A": "2.2, 2.50, 2.50, 2.5",
+               "B": "2.2e, 2.25f, 2.00, 2.25",
+               "C": "2.250000e+000, 2.250000, 2.25, 2.250000",
+               "D": "Error"
+          },
+          "correct_answer": "C",
+          "answer_description": "printf(\"%e,\", d);Here '%e' specifies the \"Scientific Notation\" format. So, it prints the 2.25 as 2.250000e+000.printf(\"%f,\", d);Here '%f' specifies the \"Decimal Floating Point\" format. So, it prints the 2.25 as 2.250000.printf(\"%g,\", d);Here '%g' \"Use the shorter of %e or %f\". So, it prints the 2.25 as 2.25.printf(\"%lf,\", d);Here '%lf' specifies the \"Long Double\" format. So, it prints the 2.25 as 2.250000."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n#include<math.h>\r\nint main()\r\n{\r\n    float n=1.54;\r\n    printf(\"%f, %f\\n\", ceil(n), floor(n));\r\n    return 0;\r\n}",
+          "options": {
+               "A": "2.000000, 1.000000",
+               "B": "1.500000, 1.500000",
+               "C": "1.550000, 2.000000",
+               "D": "1.000000, 2.000000"
+          },
+          "correct_answer": "A",
+          "answer_description": "ceil(x)round up the given value. It finds the smallest integer not <x.floor(x)round down the given value. It finds the smallest integer not >x.printf(\"%f, %f\\n\", ceil(n), floor(n));In this lineceil(1.54)round up the 1.54 to 2 andfloor(1.54)round down the 1.54 to 1.In theprintf(\"%f, %f\\n\", ceil(n), floor(n));statement, the format specifier \"%f %f\" tells output to be float value. Hence it prints 2.000000 and 1.000000."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a function contains tworeturnstatements successively, the compiler will generate warnings. Yes/No ?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Yes. If a function contains tworeturnstatements  successively, the compiler will generate \"Unreachable code\" warnings.Example:#include<stdio.h>\nint mul(int, int); /* Function prototype */\n\nint main()\n{\n    int a = 4, b = 3, c;\n    c = mul(a, b);\n    printf(\"c = %d\\n\", c);\n    return 0;\n}\nint mul(int a, int b)\n{\n   return (a * b);\n   return (a - b); /* Warning: Unreachable code */\n}Output:c = 12"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int i;\r\n    #if A\r\n        printf(\"Enter any number:\");\r\n        scanf(\"%d\", &i);\r\n    #elif B\r\n        printf(\"The number is odd\");\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Error: unexpected end of file because there is no matching#endif",
+               "B": "The number is odd",
+               "C": "Garbage values",
+               "D": "None of above"
+          },
+          "correct_answer": "A",
+          "answer_description": "The conditional macro#ifmust have an#endif. In this program there is no#endifstatement written."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    float arr[] = {12.4, 2.3, 4.5, 6.7};\r\n    printf(\"%d\\n\", sizeof(arr)/sizeof(arr[0]));\r\n    return 0;\r\n}",
+          "options": {
+               "A": "5",
+               "B": "4",
+               "C": "6",
+               "D": "7"
+          },
+          "correct_answer": "B",
+          "answer_description": "The sizeof function return the given variable. Example: float a=10; sizeof(a) is 4 bytesStep 1:float arr[] = {12.4, 2.3, 4.5, 6.7};The variablearris declared as an floating point array and it is initialized with the values.Step 2:printf(\"%d\\n\", sizeof(arr)/sizeof(arr[0]));The variablearrhas 4 elements. The size of the float variable is 4 bytes.Hence 4 elements x 4 bytes = 16 bytessizeof(arr[0])is 4 bytesHence16/4is4bytesHence the output of the program is '4'."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Is there any difference int the following declarations?int fun(int arr[]);int fun(int arr[2]);",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "No, both the statements are same. It is the prototype for the functionfun()that accepts one integer array as an parameter and returns an integer value."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (Turbo C in 16 bit platform DOS) ?#include<stdio.h>\n#include<string.h>\n\nint main()\n{\n    char *str1 = \"India\";\n    char *str2 = \"BIX\";\n    char *str3;\n    str3 = strcat(str1, str2);\n    printf(\"%s %s\\n\", str3, str1);\n    return 0;\n}",
+          "options": {
+               "A": "IndiaBIX India",
+               "B": "IndiaBIX IndiaBIX",
+               "C": "India India",
+               "D": "Error"
+          },
+          "correct_answer": "B",
+          "answer_description": "It prints 'IndiaBIX IndiaBIX' in TurboC (in 16 bit platform).It may cause a 'segmentation fault error' in GCC (32 bit platform)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements correct about the below program?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    union a\r\n    {\r\n        int i;\r\n        char ch[2];\r\n    };\r\n    union a u1 = {512};\r\n    union a u2 = {0, 2};\r\n    return 0;\r\n}1:u2CANNOT be initialized as shown.2:u1can be initialized as shown.3:To initializechar ch[] of u2 '.'operator should be used.4:The code causes an error 'Declaration syntax error'",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 3",
+               "C": "1, 2, 3",
+               "D": "1, 3, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Does there exist any way to make the command-line arguments available to other functions without passing them as arguments to the function?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Using the predefined variables_argc, _argv. This is a compiler dependent feature. It works in TC/TC++ but not in gcc and visual studio."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\nint get();\n\nint main()\n{\n    const int x = get();\n    printf(\"%d\", x);\n    return 0;\n}\nint get()\n{\n    return 20;\n}",
+          "options": {
+               "A": "Garbage value",
+               "B": "Error",
+               "C": "20",
+               "D": "0"
+          },
+          "correct_answer": "C",
+          "answer_description": "Step 1:int get();This is the function prototype for the funtionget(), it tells the compiler returns an integer value and accept no parameters.Step 2:const int x = get();The constant variablexis declared as an integer data type and initialized with the value \"20\".The functionget()returns the value \"20\".Step 3:printf(\"%d\", x);It prints the value of the variablex.Hence the output of the program is \"20\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program.#include<stdio.h>\n#include<stdlib.h>\nint fun(const union employee *e);\n\nunion employee\n{\n    char name[15];\n    int age;\n    float salary;\n};\nconst union employee e1;\n\nint main()\n{\n    strcpy(e1.name, \"A\");\n    fun(&e1);\n    printf(\"%s %d %f\", e1.name, e1.age, e1.salary);\n    return 0;\n}\nint fun(const union employee *e)\n{\n    strcpy((*e).name, \"B\");\n    return 0;\n}",
+          "options": {
+               "A": "Error: RValue required",
+               "B": "Error: cannot convert parameter 1 from 'const char[15]' to 'char *'",
+               "C": "Error: LValue required instrcpy",
+               "D": "No error"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What function should be used to free the memory allocated bycalloc()?",
+          "options": {
+               "A": "dealloc();",
+               "B": "malloc(variable_name, 0)",
+               "C": "free();",
+               "D": "memalloc(variable_name, 0)"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the correct statement which correctly free the memory pointed to by 's' and 'p' in the following program?#include<stdio.h>\r\n#include<stdlib.h>\r\n\r\nint main()\r\n{\r\n    struct ex\r\n    {\r\n        int i;\r\n        float j;\r\n        char *s\r\n    };\r\n    struct ex *p;\r\n    p = (struct ex *)malloc(sizeof(struct ex));\r\n    p->s = (char*)malloc(20);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "free(p); , free(p->s);",
+               "B": "free(p->s); , free(p);",
+               "C": "free(p->s);",
+               "D": "free(p);"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What do the following declaration signify?void *cmp();",
+          "options": {
+               "A": "cmpis a pointer to anvoidtype.",
+               "B": "cmpis avoidtype pointer variable.",
+               "C": "cmpis a function that return avoidpointer.",
+               "D": "cmpfunction returns nothing."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    char huge *near *far *ptr1;\r\n    char near *far *huge *ptr2;\r\n    char far *huge *near *ptr3;\r\n    printf(\"%d, %d, %d\\n\", sizeof(**ptr1), sizeof(ptr2), sizeof(*ptr3));\r\n    return 0;\r\n}",
+          "options": {
+               "A": "4, 4, 4",
+               "B": "2, 2, 2",
+               "C": "2, 8, 4",
+               "D": "2, 4, 8"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the following program.#include<stdio.h>\nvoid display(int (*ff)());\n\nint main()\n{\n    int show();\n    int (*f)();\n    f = show;\n    display(f);\n    return 0;\n}\nvoid display(int (*ff)())\n{\n    (*ff)();\n}\nint show()\n{\n    printf(\"IndiaBIX\");\n}",
+          "options": {
+               "A": "Error: invalid parameter in functiondisplay()",
+               "B": "Error: invalid function callf=show;",
+               "C": "No error and prints \"IndiaBIX\"",
+               "D": "No error and prints nothing."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "We can modify the pointers \"source\" as well as \"target\".",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Will the program outputs \"IndiaBIX.com\"?#include<stdio.h>\n#include<string.h>\n\nint main()\n{\n    char str1[] = \"IndiaBIX.com\";\n    char str2[20];\n    strncpy(str2, str1, 8);\n    printf(\"%s\", str2);\n    return 0;\n}",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "No. It will print something like 'IndiaBIX(some garbage values here)' .Because after copying the first 8 characters of source string into target stringstrncpy()doesn't terminate the target string with a'\\0'. So it may print some garbage values along with IndiaBIX."
+     }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What command is used to stop RIP routing updates from exiting out an interface but still allow the interface to receive RIP route updates?",
+        "options": {
+            "A": "Router(config-if)# no routing",
+            "B": "Router(config-if)# passive-interface",
+            "C": "Router(config-router)# passive-interface s0",
+            "D": "Router(config-router)# no routing updates"
+        },
+        "correct_answer": "C",
+        "answer_description": "The(config-router)#passive-interfacecommand stops updates from being sent out an interface, but route updates are still received."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two connected routers are configured with RIP routing. What will be the result when a router receives a routing update that contains a higher-cost path to a network already in its routing table?",
+        "options": {
+            "A": "The updated information will be added to the existing routing table.",
+            "B": "The update will be ignored and no further action will occur.",
+            "C": "The updated information will replace the existing routing table entry.",
+            "D": "The existing routing table entry will be deleted from the routing table and all routers will exchange routing updates to reach convergence."
+        },
+        "correct_answer": "B",
+        "answer_description": "When a routing update is received by a router, the router first checks the administrative distance (AD) and always chooses the route with the lowest AD. However, if two routes are received and they both have the same AD, then the router will choose the one route with the lowest metrics, or in RIP's case, hop count."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You typedebug ip ripon your router console and see that 172.16.10.0 is being advertised to you with a metric of 16. What does this mean?",
+        "options": {
+            "A": "The route is 16 hops away.",
+            "B": "The route has a delay of 16 microseconds.",
+            "C": "The route is inaccessible.",
+            "D": "The route is queued at 16 messages a second."
+        },
+        "correct_answer": "C",
+        "answer_description": "You cannot have 16 hops on a RIP network by default. If you receive a route advertised with a metric of 16, this means it is inaccessible."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Corporate router receives an IP packet with a source IP address of 192.168.214.20 and a destination address of 192.168.22.3. Looking at the output from the Corporate router, what will the router do with this packet?Corp#sh ip route\n[output cut]\nR    192.168.215.0 [120/2] via 192.168.20.2, 00:00:23, Serial0/0\nR    192.168.115.0 [120/1] via 192.168.20.2, 00:00:23, Serial0/0\nR    192.168.30.0 [120/1] via 192.168.20.2, 00:00:23, Serial0/0\nC    192.168.20.0 is directly connected, Serial0/0\nC    192.168.214.0 is directly connected, FastEthernet0/0",
+        "options": {
+            "A": "The packet will be discarded.",
+            "B": "The packet will be routed out the S0/0 interface.",
+            "C": "The router will broadcast looking for the destination.",
+            "D": "The packet will be routed out the Fa0/0 interface."
+        },
+        "correct_answer": "A",
+        "answer_description": "Since the routing table shows no route to the 192.168.22.0 network, the router will discard the packet and send an ICMP destination unreachable message out interface FastEthernet 0/0, which is the source LAN where the packet originated from."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If your routing table has a static, a RIP, and an IGRP route to the same network, which route will be used to route packets by default?",
+        "options": {
+            "A": "Any available route",
+            "B": "RIP route",
+            "C": "Static route",
+            "D": "IGRP route",
+            "E": "They will all load-balance."
+        },
+        "correct_answer": "C",
+        "answer_description": "Static routes have an administrative distance of 1 by default. Unless you change this, a static route will always be used over any other found route. IGRP has an administrative distance of 100, and RIP has an administrative distance of 120, by default."
+    }
+]

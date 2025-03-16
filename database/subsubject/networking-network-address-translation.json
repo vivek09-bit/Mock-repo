@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command would you place on interface connected to the Internet?",
+        "options": {
+            "A": "ip nat inside",
+            "B": "ip nat outside",
+            "C": "ip outside global",
+            "D": "ip inside local"
+        },
+        "correct_answer": "B",
+        "answer_description": "As in access-lists, you must configure your interfaces before NAT will provide any translations. On the inside networks you would use the commandip nat inside. On the outside interface, you will use the commandip nat outside."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will show you all the translations active on your router?",
+        "options": {
+            "A": "show ip nat translations",
+            "B": "show ip nat statistics",
+            "C": "debug ip nat",
+            "D": "clear ip nat translations *"
+        },
+        "correct_answer": "A",
+        "answer_description": "The commandshow ip nat translationswill show you the translation table containing all the active NAT entries."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command would you place on interface on a private network?",
+        "options": {
+            "A": "ip nat inside",
+            "B": "ip nat outside",
+            "C": "ip outside global",
+            "D": "ip inside local"
+        },
+        "correct_answer": "A",
+        "answer_description": "As in access-lists, you must configure your interfaces before NAT will provide any translations. On the inside networks you would use the commandip nat inside. On the outside interface, you will use the commandip nat outside."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Port Address Translation is also termed what?",
+        "options": {
+            "A": "NAT Fast",
+            "B": "NAT Static",
+            "C": "NAT Overload",
+            "D": "Overloading Static"
+        },
+        "correct_answer": "C",
+        "answer_description": "Another term for port address translation is NAT Overload because that is the command used to enable port address translation."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When creating a pool of global addresses, which of the following can be used instead of thenetmaskcommand?",
+        "options": {
+            "A": "/(slash notation)",
+            "B": "prefix-length",
+            "C": "no mask",
+            "D": "block-size"
+        },
+        "correct_answer": "B",
+        "answer_description": "Instead of thenetmaskcommand, you can use theprefix-length <length>statement."
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "397 x 397 + 104 x 104 + 2 x 397 x 104 = ?",
+        "options": {
+            "A": "250001",
+            "B": "251001",
+            "C": "260101",
+            "D": "261001"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given Exp.= (397)2+ (104)2+ 2 x 397 x 104= (397 + 104)2= (501)2= (500 + 1)2= (5002) + (1)2+ (2 x 500 x 1)= 250000 + 1 + 1000= 251001"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(35423 + 7164 + 41720) - (317 x 89) = ?",
+        "options": {
+            "A": "28213",
+            "B": "84307",
+            "C": "50694",
+            "D": "56094",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "35423         317 x 89 = 317 x (90 -1 )\n+  7164                  = (317 x 90 - 317)\n+ 41720                  = (28530 - 317)\n  -----                  = 28213\n  84307\n- 28213\n  -----\n  56094\n  -----"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(xn-an) is completely divisible by (x-a), when",
+        "options": {
+            "A": "nis any natural number",
+            "B": "nis an even natural number",
+            "C": "nis and odd natural number",
+            "D": "nis prime"
+        },
+        "correct_answer": "A",
+        "answer_description": "For every natural numbern, (xn-an) is completely divisible by (x-a)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following numbers is completely divisible by 45?",
+        "options": {
+            "A": "181560",
+            "B": "331145",
+            "C": "202860",
+            "D": "2033555",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "45 = 5 x 9, where 5 and 9 are co-primes.Unit digit must be 0 or 5 and sum of digits must be divisible by 9.Among given numbers, such number is 202860."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following numbers will completely divide (325+ 326+ 327+ 328) ?",
+        "options": {
+            "A": "11",
+            "B": "16",
+            "C": "25",
+            "D": "30"
+        },
+        "correct_answer": "D",
+        "answer_description": "(325+ 326+ 327+ 328) = 325x (1 + 3 + 32+ 33) = 325x 40= 324x 3 x 4 x 10= (324x 4 x 30), which is divisible by30."
+    }
+]

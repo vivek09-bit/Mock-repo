@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which symbol will be on the face opposite to the face with symbol * ?",
+        "options": {
+            "A": "@",
+            "B": "$",
+            "C": "8",
+            "D": "+"
+        },
+        "correct_answer": "C",
+        "answer_description": "The symbols of the adjacent faces to the face with symbol * are @, -, + and $. Hence the required symbol is 8."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two positions of dice are shown below. How many points will appear on the opposite to the face containing 5 points?",
+        "options": {
+            "A": "3",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "In these two positions one of the common face having 1 point is in the same position. Therefore according to rule (2). There will be 4 points on the required face."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which digit will appear on the face opposite to the face with number 4?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "6",
+            "D": "2/3"
+        },
+        "correct_answer": "A",
+        "answer_description": "Here the common faces with number 3, are in same positions. Hence 6 is opposite to 2 and 5 is opposite to 1. Therefore 4 is opposite to 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two positions of a dice are shown below. Which number will appear on the face opposite to the face with the number 5?",
+        "options": {
+            "A": "2/6",
+            "B": "2",
+            "C": "6",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "According to the rule no. (3), common faces with number 3, are in same positions. Hence the number of the opposite face to face with number 5 will be 6."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many points will be on the face opposite to in face which contains 2 points?",
+        "options": {
+            "A": "1",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "D",
+        "answer_description": "In first two positions of dice one common face containing 5 is same. Therefore according to rule no. (3) the face opposite to the face which contains 2 point, will contains 6 points."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The entity integrity rule states that:",
+        "options": {
+            "A": "no primary key attribute may be null.",
+            "B": "no primary key can be composite.",
+            "C": "no primary key may be unique.",
+            "D": "no primary key may be equal to a value in a foreign key."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When mapping a many-to-many unary relationship into a relation which of the following is true?",
+        "options": {
+            "A": "One relation is created.",
+            "B": "Two relations are created.",
+            "C": "Three relations are created.",
+            "D": "Four relations are created."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If no multivalued attributes exist and no partial dependencies exist in a relation, then the relation is in what normal form?",
+        "options": {
+            "A": "First normal form",
+            "B": "Second normal form",
+            "C": "Third normal form",
+            "D": "Fourth normal form"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A foreign key is which of the following?",
+        "options": {
+            "A": "Any attribute",
+            "B": "The same thing as a primary key",
+            "C": "An attribute that serves as the primary key of another relation",
+            "D": "An attribute that serves no purpose"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transitive dependency is which of the following?",
+        "options": {
+            "A": "A functional dependency between two or more key attributes.",
+            "B": "A functional dependency between two or more nonkey attributes.",
+            "C": "A relation that is in first normal form.",
+            "D": "A relation that is in second normal form."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

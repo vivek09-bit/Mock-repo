@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, a set of five alternative figures 1, 2, 3, 4 and 5 followed by a set of four alternatives (A), (B), (C) and (D) is provided. It is required to select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "image_path": null,
+        "question": "Select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "options": {
+            "A": "145",
+            "B": "245",
+            "C": "123",
+            "D": "234"
+        },
+        "correct_answer": "B",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, a set of five alternative figures 1, 2, 3, 4 and 5 followed by a set of four alternatives (A), (B), (C) and (D) is provided. It is required to select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "image_path": null,
+        "question": "Select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "options": {
+            "A": "124",
+            "B": "345",
+            "C": "123",
+            "D": "135"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, a set of five alternative figures 1, 2, 3, 4 and 5 followed by a set of four alternatives (A), (B), (C) and (D) is provided. It is required to select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "image_path": null,
+        "question": "Select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "options": {
+            "A": "124",
+            "B": "125",
+            "C": "234",
+            "D": "245"
+        },
+        "correct_answer": "B",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, a set of five alternative figures 1, 2, 3, 4 and 5 followed by a set of four alternatives (A), (B), (C) and (D) is provided. It is required to select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "image_path": null,
+        "question": "Select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "options": {
+            "A": "123",
+            "B": "124",
+            "C": "135",
+            "D": "145"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, a set of five alternative figures 1, 2, 3, 4 and 5 followed by a set of four alternatives (A), (B), (C) and (D) is provided. It is required to select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "image_path": null,
+        "question": "Select the alternative which represents three out of the five alternative figures which when fitted into each other would form a complete square.",
+        "options": {
+            "A": "134",
+            "B": "345",
+            "C": "234",
+            "D": "135"
+        },
+        "correct_answer": "C",
+        "answer_description": ""
+    }
+]

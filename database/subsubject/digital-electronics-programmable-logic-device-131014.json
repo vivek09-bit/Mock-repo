@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not a part of a GAL16V8's OLMC?",
+        "options": {
+            "A": "TSMUX",
+            "B": "OMUX",
+            "C": "FMUX",
+            "D": "PSMUX"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is PROM?",
+        "options": {
+            "A": "SPLD",
+            "B": "QPLD",
+            "C": "HPLD",
+            "D": "PLD"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A slice consists of ________.",
+        "options": {
+            "A": "only two logic cells",
+            "B": "between 2 and 8 logic cells",
+            "C": "up to 16 logic cells",
+            "D": "a single CLB"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Product terms are the outputs of which type of gate within a PLD array?",
+        "options": {
+            "A": "OR",
+            "B": "XOR",
+            "C": "AND",
+            "D": "flip-flop"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

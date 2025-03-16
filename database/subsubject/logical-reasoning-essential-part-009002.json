@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "pain",
+        "options": {
+            "A": "cut",
+            "B": "burn",
+            "C": "nuisance",
+            "D": "hurt"
+        },
+        "correct_answer": "D",
+        "answer_description": "Pain is suffering or hurt, so choice d is the essential element. Without hurt, there is no pain. A cut (choice a) or a burn (choice b) may cause pain, but so do many other types of injury. A nuisance (choice c) is an annoyance that may or may not cause pain."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "gala",
+        "options": {
+            "A": "celebration",
+            "B": "tuxedo",
+            "C": "appetizer",
+            "D": "orator"
+        },
+        "correct_answer": "A",
+        "answer_description": "A gala indicates a celebration, the necessary element  here. A tuxedo (choice  b) is not required garb at a gala, nor is an appetizer (choice c). A gala may be held without the benefit of anyone speaking (choice d)."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "monopoly",
+        "options": {
+            "A": "corrupt",
+            "B": "exclusive",
+            "C": "rich",
+            "D": "gigantic"
+        },
+        "correct_answer": "B",
+        "answer_description": "The essential part of a monopoly is that it involves exclusive ownership or control."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "guitar",
+        "options": {
+            "A": "band",
+            "B": "teacher",
+            "C": "songs",
+            "D": "strings"
+        },
+        "correct_answer": "D",
+        "answer_description": "A guitar does not exist without strings, so strings are an essential part of a guitar. A band is not necessary to a guitar (choice a). Guitar playing can be learned without a teacher (choice b). Songs are byproducts of a guitar (choice c)."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "election",
+        "options": {
+            "A": "president",
+            "B": "voter",
+            "C": "November",
+            "D": "nation"
+        },
+        "correct_answer": "B",
+        "answer_description": "An election does not exist without voters. The election of a president (choice a) is a byproduct. Not all elections are held in November (choice c), nor are they nationwide (choice d)."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public void foo( boolean a, boolean b)\n{ \n    if( a ) \n    {\n        System.out.println(\"A\"); /* Line 5 */\n    } \n    else if(a && b) /* Line 7 */\n    { \n        System.out.println( \"A && B\"); \n    } \n    else /* Line 11 */\n    { \n        if ( !b ) \n        {\n            System.out.println( \"notB\") ;\n        } \n        else \n        {\n            System.out.println( \"ELSE\" ) ; \n        } \n    } \n}",
+        "options": {
+            "A": "Ifais true andbis true then the output is \"A && B\"",
+            "B": "Ifais true andbis false then the output is \"notB\"",
+            "C": "Ifais false andbis true then the output is \"ELSE\"",
+            "D": "Ifais false andbis false then the output is \"ELSE\""
+        },
+        "correct_answer": "C",
+        "answer_description": "Option C is correct. The output is \"ELSE\". Only when a is false do the output lines after 11 get some chance of executing.Option A is wrong. The output is \"A\". Whenais true, irrespective of the value ofb, only the line 5 output will be executed. The condition at line 7 will never be evaluated (when a is true it will always be trapped by the line 12 condition) therefore the output will never be \"A && B\".Option B is wrong. The output is \"A\". Whenais true, irrespective of the value ofb, only the line 5 output will be executed.Option D is wrong. The output is \"notB\"."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "switch(x) \n{ \n    default:  \n        System.out.println(\"Hello\"); \n}Which two are acceptable types for x?bytelongcharfloatShortLong",
+        "options": {
+            "A": "1 and 3",
+            "B": "2 and 4",
+            "C": "3 and 5",
+            "D": "4 and 6"
+        },
+        "correct_answer": "A",
+        "answer_description": "Switchstatements are based on integer expressions and since both bytes and chars can implicitly be widened to an integer, these can also be used. Also shorts can be used.ShortandLongare wrapper classes and reference types can not be used as variables."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public void test(int x) \n{ \n    int odd = 1; \n    if(odd) /* Line 4 */\n    {\n        System.out.println(\"odd\"); \n    } \n    else \n    {\n        System.out.println(\"even\"); \n    } \n}Which statement is true?",
+        "options": {
+            "A": "Compilation fails.",
+            "B": "\"odd\" will always be output.",
+            "C": "\"even\" will always be output.",
+            "D": "\"odd\" will be output for odd values of x, and \"even\" for even values."
+        },
+        "correct_answer": "A",
+        "answer_description": "The compiler will complain because of incompatible types (line 4), the if expects a boolean but it gets an integer."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public class While \n{\n    public void loop() \n    {\n        int x= 0;\n        while ( 1 ) /* Line 6 */\n        {\n            System.out.print(\"x plus one is \" + (x + 1)); /* Line 8 */\n        }\n    }\n}Which statement is true?",
+        "options": {
+            "A": "There is a syntax error on line 1.",
+            "B": "There are syntax errors on lines 1 and 6.",
+            "C": "There are syntax errors on lines 1, 6, and 8.",
+            "D": "There is a syntax error on line 6."
+        },
+        "correct_answer": "D",
+        "answer_description": "Using the integer1in the while statement, or any other looping or conditional construct for that matter, will result in a compiler error. This is old C Program syntax, not valid Java.A, B and C are incorrect because line 1 is valid (Java is case sensitive so While is a valid class name). Line 8 is also valid because an equation may be placed in a String operation as shown."
+    }
+]

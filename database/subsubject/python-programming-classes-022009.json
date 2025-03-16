@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Car:\r\n    def __init__(self, make, model, year):\r\n        self.make = make\r\n        self.model = model\r\n        self.year = year\r\n\r\n# Create an instance of the Car class\r\nmy_car = Car(\"Toyota\", \"Camry\", 2022)# What does the 'my_car' instance represent?",
+        "options": {
+            "A": "Car class",
+            "B": "Toyota class",
+            "C": "Camry class",
+            "D": "An individual car object"
+        },
+        "correct_answer": "D",
+        "answer_description": "The 'my_car' instance represents a specific car object with the make \"Toyota,\" model \"Camry,\" and year 2022."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Book:\r\n    def __init__(self, title, author):\r\n        self.title = title\r\n        self.author = author\r\n\r\n# Create an instance of the Book class\r\nmy_book = Book(\"Python Programming\", \"John Doe\")# What does the 'my_book' instance represent?",
+        "options": {
+            "A": "Book class",
+            "B": "Python Programming class",
+            "C": "John Doe class",
+            "D": "An individual book object"
+        },
+        "correct_answer": "D",
+        "answer_description": "The 'my_book' instance represents a specific book object with the title \"Python Programming\" and author \"John Doe.\""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Rectangle:\r\n    def __init__(self, length, width):\r\n        self.length = length\r\n        self.width = width\r\n\r\n    def calculate_area(self):\r\n        return self.length * self.width\r\n\r\n# Create an instance of the Rectangle class\r\nmy_rectangle = Rectangle(5, 8)# What does the 'my_rectangle.calculate_area()' represent?",
+        "options": {
+            "A": "The Rectangle class",
+            "B": "The area of a rectangle",
+            "C": "A specific length of a rectangle",
+            "D": "An individual rectangle object"
+        },
+        "correct_answer": "B",
+        "answer_description": "'my_rectangle.calculate_area()' represents the calculated area of the specific rectangle object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Animal:\r\n    def __init__(self, species):\r\n        self.species = species\r\n\r\n# Create an instance of the Animal class\r\nmy_animal = Animal(\"Lion\")# What does the 'my_animal.species' represent?",
+        "options": {
+            "A": "Animal class",
+            "B": "Lion class",
+            "C": "An individual animal object",
+            "D": "A specific species of animal"
+        },
+        "correct_answer": "D",
+        "answer_description": "'my_animal.species' represents the specific species attribute of the individual animal object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Laptop:\r\n    def __init__(self, brand, model):\r\n        self.brand = brand\r\n        self.model = model\r\n\r\n# Create an instance of the Laptop class\r\nmy_laptop = Laptop(\"Dell\", \"XPS 13\")# What does the 'my_laptop.brand' represent?",
+        "options": {
+            "A": "Laptop class",
+            "B": "Dell class",
+            "C": "XPS 13 class",
+            "D": "An individual laptop object"
+        },
+        "correct_answer": "B",
+        "answer_description": "'my_laptop.brand' represents the specific brand attribute of the individual laptop object."
+    }
+]

@@ -1,0 +1,275 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Look carefully at the sequence of symbols to find the pattern. Select correct pattern.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "B",
+          "answer_description": "Each arrow in this continuing series moves a few degrees in a clockwise direction. Think of these arrows as the big hand on a clock. The first arrow is at noon. The last arrow before the blank would be 12:40. Choice b, the correct answer, is at 12:45."
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 3)A good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+          "image_path": null,
+          "question": "Play is to actor as concert is to",
+          "options": {
+               "A": "symphony",
+               "B": "musician",
+               "C": "piano",
+               "D": "percussion"
+          },
+          "correct_answer": "B",
+          "answer_description": "An actor performs in a play. A musician performs at a  concert. Choices a, c, and d are incorrect because none is people who perform."
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 3)A good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+          "image_path": null,
+          "question": "Odometer is to mileage as compass is to",
+          "options": {
+               "A": "speed",
+               "B": "hiking",
+               "C": "needle",
+               "D": "direction"
+          },
+          "correct_answer": "D",
+          "answer_description": "An odometer is an instrument used to measure mileage.  A compass is an instrument used to determine direction. Choices a, b, and  c are incorrect because none is an instrument."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Choose the picture that would go in the empty box so that the two bottom pictures are related in the same way as the top two are related.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "D",
+          "answer_description": "Batteries are to a flashlight as telephone wires are to a telephone. The batteries provide power to the flashlight; the wires send power to the telephone."
+     },
+     {
+          "direction": "Direction (Q.No. 5)Each question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+          "image_path": null,
+          "question": "Mark is working with a realtor to find a location for the toy store he plans to open in his town. He is looking for a place that is either in, or not too far from, the center of town and one that would attract the right kind of foot traffic. Which of the following locations should Mark's realtor call to his attention?",
+          "options": {
+               "A": "a storefront in a new high-rise building near the train station in the center of town whose occupants are mainly young, childless professionals who use the train to commute to their offices each day.",
+               "B": "a little shop three blocks away from the town's main street, located across the street from an elementary school and next door to an ice cream store",
+               "C": "a stand-alone storefront on a quiet residential street ten blocks away from the town's center",
+               "D": "a storefront in a small strip mall located on the outskirts of town that is also occupied by a pharmacy and a dry cleaner"
+          },
+          "correct_answer": "B",
+          "answer_description": "This option is both near the center of town and in a location (near a school and an ice cream store) where children and their parents are sure to be around. This is the only option that meets both of Mark's requirements."
+     },
+     {
+          "direction": "Direction (Q.No. 6)In each of the following questions, a statement/group of statements is given followed by some conclusions. Without resolving anything yourself choose the conclusion which logically follows from the given statements).",
+          "image_path": null,
+          "question": "In the university examination, most of the candidates write in Hindi medium.",
+          "options": {
+               "A": "Some candidates of this examination write in Hindi.",
+               "B": "Mostly candidates with Hindi medium appear in this examination.",
+               "C": "In this examination no candidate writes answers in medium other than Hindi,",
+               "D": "All the candidates who appear in this examination write answers in Hindi."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 7 - 8)In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+          "image_path": null,
+          "question": "Statements:All the schools in the area had to be kept closed for most part of the week.Many parents have withdrawn their children from the local schools.",
+          "options": {
+               "A": "Statement I is the cause and statement II is its effect",
+               "B": "Statement II is the cause and statement I is its effect",
+               "C": "Both the statements I and II are independent causes",
+               "D": "Both the statements I and II are effects of independent causes",
+               "E": "Both the statements I and II are effects of some common cause"
+          },
+          "correct_answer": "D",
+          "answer_description": "Closing the schools for a week and the parents withdrawing their wards from the local schools are independent issues, which must have been triggered by different individual causes."
+     },
+     {
+          "direction": "Direction (Q.Nos. 7 - 8)In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+          "image_path": null,
+          "question": "Statements:The prices of petrol and diesel in the domestic market have remained unchanged for the past few months.The crude oil prices in the international market have gone up substantially in the last few months.",
+          "options": {
+               "A": "Statement I is the cause and statement II is its effect",
+               "B": "Statement II is the cause and statement I is its effect",
+               "C": "Both the statements I and II are independent causes",
+               "D": "Both the statements I and II are effects of independent causes",
+               "E": "Both the statements I and II are effects of some common cause"
+          },
+          "correct_answer": "D",
+          "answer_description": "The prices of petrol and diesel being stagnant in the domestic market and the increase in the same in the international market must be backed by independent causes."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Please do not use lift while going down - an instruction on the top floor of a five-storey building.Assumptions:While going down, the lift is unable to carry any load.Provision of lift is a matter of facility and not of right.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The statement requests people not to use lift while moving down. This implies that the lift may be used to move up and the request has been made so that more people can use the lift for ascending which would otherwise cause more physical stress than going down the stairs. So, only II is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The government has decided to disinvest large chunk of its equity in select public sector undertakings for a better fiscal management.Assumptions:The amount generated out of the disinvestment process may reduce substantially the mounting fiscal deficits.There will be enough demand in the market for the shares of these undertakings.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "The fact given in I directly follows from the phrase '..... for a better fiscal management' in the statement. So, I is implicit. However, the public response to the new policy cannot be ascertained. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Nobody can predict as to how long our country would take to contain the unfortunate and disastrous terrorist activities.Assumptions:It is impossible to put on end to terrorist activitiesEfforts to control the terrorist activities are on.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The statement expresses concern over the issue as to when our country would be able to curb terrorism completely. This means that efforts are on and it is quite possible to put an end to terrorist activities although it could take longer. So, only II is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:I cannot contact you on phone from Karshik.Assumptions:Telephone facility is not available at Karshik.Nowadays it is difficult to contact on phone.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "The statement indicates the impossibility of phone contact from Karshik. Thus, the fact in I may be assumed from the given statement. So, I is implicit However, II indicates difficulty, not the impossibility of contact as is indicated in the statement. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"To buy a X - T.V, contact Y - the sole agent of X-T.V.\" - An advertisement.Assumptions:People generally prefer to buy T.V. through sole agent.The T.V. producing companies do not sell their products directly.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "D",
+          "answer_description": "The advertisement persuades the people to meet the sole agent Y to buy X-T. V. This does not mean that the people prefer to buy TV. through the sole agent or that the TV. companies only sell their products through the sole agents. So, both I and II are not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 14)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"Blue tie would help us identify our staff from others.\" - A suggestion in a company.Assumptions:The company needs to identify its staff.Blue tie is the latest fashion.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the suggestion is given for providing a method of identification. This means that the staff needs to be identified. So, I is implicit. The statement does not mention anything about the fashion. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 15)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"A visit of school children to forest to widen their knowledge of natural resources has been arranged.\" - A notice in the school.Assumptions:Forests are full of natural resources.Children are likely to learn from their interaction with the new environment.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "The forests shall be visited to increase the knowledge of natural resources. This means that forests abound in natural resources. So, I is implicit. The children are being taken to forests to help them learn more practically. So, II is also implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 16)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should all the colleges in India be allowed to devise their own curriculum and syllabus for the vocational courses promoting self-employment?Arguments:Yes. This is an important step to generate employment opportunities.No. This will affect the quality of education due to lack of uniformity in syllabus.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, colleges, if given a free hand, would through individual efforts come up with fresh, competent courses to draw in more students. This would open up new avenues for employment. So, argument I holds strong. In the light of this, argument II appears to be vague."
+     },
+     {
+          "direction": "Direction (Q.No. 17)In each of the following questions, two statements are given followed by three or four conclusions numbered I, II, III and IV. You have to take the given statements to be true even if they seem to be at variance from the commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:All politicians are honest. All honest are fair.Conclusions:Some honest are politicians.No honest is politician.Some fair are politicians.All fair are politicians.",
+          "options": {
+               "A": "None follows.",
+               "B": "Only I follows.",
+               "C": "Only I and II follow.",
+               "D": "Only I and III follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "Clearly, it follows that 'All politicians are fair'. I is the converse of the first premise, while III is the converse of the above conclusion. So, both I and III hold."
+     },
+     {
+          "direction": "Direction (Q.No. 18)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:In the recently held All India Commerce Conference the session on 'Management of Service Sector in India' surprisingly attracted large number of participants and also received a very good media coverage in the leading newspapers.Assumptions:People were not expecting such an encouraging response for service sector.Service sector is not managed properly in India.Media is always very positive towards service sector.",
+          "options": {
+               "A": "None is implicit",
+               "B": "Only I is implicit",
+               "C": "All are implicit",
+               "D": "Only II and III are implicit",
+               "E": "Only either I or III is implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "Since the response was 'surprising', so I is implicit. Nothing about the real management of service sector can be deduced from the statement. So, II is not implicit. Also, the statement talks of the media's response to only a particular session on service sector and not all in general. So, III is also not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 19)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:To improve the employment situation in India, there is a need to recast the present educational system towards implementation of scientific discoveries in daily life.Assumptions:The students after completing such education may be able to earn their livelihood.This may bring meaning of education in the minds of the youth.The state may earn more revenue as more and more people will engage themselves in self-employment.",
+          "options": {
+               "A": "None is implicit",
+               "B": "Only I and II are implicit",
+               "C": "Only III is implicit",
+               "D": "Only I and III are implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "The statement mentions that such education can improve employment situation. So, both I and II are implicit. Nothing about the aspect of revenue collection is mentioned in the statement. So, III is not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 20)In each of the questions below are given three statements followed by three conclusions numbered I, II and III, You have to take the given statements to be true even if they seem to be at variance from the commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:Some blades are hammers. Some hammers are knives. Some knives are axes.Conclusions:Some axes are hammers.Some knives are blades.Some axes are blades.",
+          "options": {
+               "A": "None follows",
+               "B": "Only I follows",
+               "C": "Only II follows",
+               "D": "Only III follows",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Since each combination of premises has two particular premises, so no definite conclusion follows."
+     }
+]

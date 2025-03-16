@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When assessing the table structure of an acquired set of tables with data, determining foreign keys is (part of) the:",
+        "options": {
+            "A": "first step.",
+            "B": "second step.",
+            "C": "third step.",
+            "D": "fourth step."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Creating a read-only database is a task that is ________ assigned to beginning database professionals.",
+        "options": {
+            "A": "always",
+            "B": "commonly",
+            "C": "seldom",
+            "D": "never"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Each answer below shows example data from a table. Which answer is an example of the general-purpose remarks column problem?",
+        "options": {
+            "A": "Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row.",
+            "B": "Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column.",
+            "C": "Three rows have the values Brown, NULL, and Blue in the same column.",
+            "D": "One row has the value \"He is interested in a Silver Porsche from the years 1978-1988\" in a column."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For a number of reasons, normalizations is not often an advantage for a(n) ________ database.",
+        "options": {
+            "A": "read-only",
+            "B": "updateable",
+            "C": "either a read-only or an updateable",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Most of the time, modification anomalies are serious enough that tables should be normalized into:",
+        "options": {
+            "A": "1NF.",
+            "B": "2NF.",
+            "C": "3NF.",
+            "D": "BCNF."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

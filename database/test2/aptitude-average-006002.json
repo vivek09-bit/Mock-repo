@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
+        "options": {
+            "A": "23 years",
+            "B": "24 years",
+            "C": "25 years",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the average age of the whole team byxyears.11x- (26 + 29) = 9(x-1)11x- 9x= 462x= 46x= 23.So, average age of the team is 23 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:",
+        "options": {
+            "A": "3500",
+            "B": "4000",
+            "C": "4050",
+            "D": "5000"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let P, Q and R represent their respective monthly incomes. Then, we have:P + Q = (5050 x 2) = 10100 .... (i)Q + R = (6250 x 2) = 12500 .... (ii)P + R = (5200 x 2) = 10400 .... (iii)Adding (i), (ii) and (iii), we get:  2(P + Q + R) = 33000  or   P + Q + R = 16500 .... (iv)Subtracting (ii) from (iv), we get P = 4000.P's monthly income = Rs. 4000."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:",
+        "options": {
+            "A": "35 years",
+            "B": "40 years",
+            "C": "50 years",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Sum of the present ages of husband, wife and child = (27 x 3 + 3 x 3) years = 90 years.Sum of the present ages of wife and child = (20 x 2 + 5 x 2) years = 50 years.Husband's present age = (90 - 50) years = 40 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?",
+        "options": {
+            "A": "Rs. 7.98",
+            "B": "Rs. 8",
+            "C": "Rs. 8.50",
+            "D": "Rs. 9"
+        },
+        "correct_answer": "A",
+        "answer_description": "Total quantity of petrolconsumed in 3 years=4000+4000+4000litres7.5088.50= 40002+1+2litres15817=76700litres51Total amount spent = Rs. (3 x 4000) = Rs. 12000.Average cost = Rs.12000 x 51= Rs.6120= Rs. 7.9876700767"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother does not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
+        "options": {
+            "A": "67 kg.",
+            "B": "68 kg.",
+            "C": "69 kg.",
+            "D": "Data inadequate",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let Arun's weight by X kg.According to Arun, 65 < X < 72According to Arun's brother, 60 < X < 70.According to Arun's mother, X <= 68The values satisfying all the above conditions are 66, 67 and 68.Required average =66 + 67 + 68=201= 67 kg.33"
+    }
+]

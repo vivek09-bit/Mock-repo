@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a flash analog-to-digital converter, the output of each comparator is connected to an input of a ________.",
+        "options": {
+            "A": "decoder",
+            "B": "priority encoder",
+            "C": "multiplexer",
+            "D": "demultiplexer"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which term applies to the maintaining of a given signal level until the next sampling?",
+        "options": {
+            "A": "Holding",
+            "B": "Aliasing",
+            "C": "Shannon frequency sampling",
+            "D": "\"Stair-stepping\""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An op-amp has very ________.",
+        "options": {
+            "A": "high voltage gain",
+            "B": "high input impedance",
+            "C": "low output impedance",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For a 4-bit DAC, the least significant bit (LSB) is ________.",
+        "options": {
+            "A": "6.25% of full scale",
+            "B": "0.625% of full scale",
+            "C": "12% of full scale",
+            "D": "1.2% of full scale"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The dual-slope analog-to-digital converter finds extensive use in ________.",
+        "options": {
+            "A": "digital voltmeters",
+            "B": "function generators",
+            "C": "frequency counters",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

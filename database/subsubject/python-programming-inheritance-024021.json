@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of the__str__()method in a class?",
+        "options": {
+            "A": "To define class attributes",
+            "B": "To create a new instance of the class",
+            "C": "To represent the object as a string for debugging",
+            "D": "To provide a human-readable string representation of the object"
+        },
+        "correct_answer": "D",
+        "answer_description": "The__str__()method is used to provide a human-readable string representation of the object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following code:class Bird:\r\n    def __init__(self, species):\r\n        self.species = species\r\n\r\nclass Parrot(Bird):\r\n    def __init__(self, species, color):\r\n        super().__init__(species)\r\n        self.color = colorWhat is the primary purpose of usingsuper().__init__(species)in theParrotclass constructor?",
+        "options": {
+            "A": "To call the constructor of theParrotclass",
+            "B": "To create a new instance of theBirdclass",
+            "C": "To initialize attributes of theBirdclass in theParrotclass",
+            "D": "To access superclass attributes directly"
+        },
+        "correct_answer": "C",
+        "answer_description": "super().__init__(species)is used to call the constructor of the superclassBirdand initialize thespeciesattribute."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of the@propertydecorator?",
+        "options": {
+            "A": "To create a new instance of the class",
+            "B": "To define a method that can be accessed like an attribute",
+            "C": "To access class attributes directly",
+            "D": "To define a method that can be accessed as a read-only attribute"
+        },
+        "correct_answer": "D",
+        "answer_description": "The@propertydecorator is used to define a method that can be accessed as a read-only attribute, providing a getter method."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does Python handle multiple inheritance conflicts for attribute resolution?",
+        "options": {
+            "A": "By automatically resolving conflicts using the first defined attribute",
+            "B": "By raising an error and requiring explicit resolution usingsuper()",
+            "C": "By using the C3 linearization algorithm to determine attribute resolution order",
+            "D": "Multiple inheritance conflicts are not allowed in Python"
+        },
+        "correct_answer": "A",
+        "answer_description": "Python automatically resolves attribute conflicts in multiple inheritance by using the attribute defined in the first class."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__slots__attribute in Python classes?",
+        "options": {
+            "A": "To define class attributes",
+            "B": "To create a new instance of the class",
+            "C": "To restrict the set of attributes that can be assigned to instances",
+            "D": "To access superclass attributes directly"
+        },
+        "correct_answer": "C",
+        "answer_description": "The__slots__attribute is used to restrict the set of attributes that can be assigned to instances, providing memory optimization."
+    }
+]

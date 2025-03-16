@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ is an open source DBMS product that runs on UNIX, Linux and Windows.",
+        "options": {
+            "A": "MySQL",
+            "B": "JSP/SQL",
+            "C": "JDBC/SQL",
+            "D": "Sun ACCESS"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is sent to the user via HTTP, invoked using the HTTP protocol on the user's computer, and run on the user's computer as an application?",
+        "options": {
+            "A": "A Java application",
+            "B": "A Java applet",
+            "C": "A Java servlet",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What MySQL property is used to create a surrogate key in MySQL?",
+        "options": {
+            "A": "UNIQUE",
+            "B": "SEQUENCE",
+            "C": "AUTO_INCREMENT",
+            "D": "None of the above -- Surrogate keys are not implemented in MySQL."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What isnottrue of a Java bean?",
+        "options": {
+            "A": "There are no public instance variables.",
+            "B": "All persistent values are accessed using getxxxand setxxxmethods.",
+            "C": "It may have many constructors as necessary.",
+            "D": "All of the above are true of a Java bean."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A JSP is transformed into a(n):",
+        "options": {
+            "A": "Java applet.",
+            "B": "Java servlet.",
+            "C": "Either 1 or 2 above.",
+            "D": "Neither 1 nor 2 above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

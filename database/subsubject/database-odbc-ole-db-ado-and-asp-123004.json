@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In OLE DB, a service provider:",
+        "options": {
+            "A": "does not own data only.",
+            "B": "transforms data through OLE DB interfaces only.",
+            "C": "is both a consumer and a provider of data only.",
+            "D": "All of the above are true of an OLE DB service provider."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In OLE DB, a tabular data provider:",
+        "options": {
+            "A": "does not own data.",
+            "B": "transforms data through ODE DB interfaces.",
+            "C": "is both a consumer and a provider of data.",
+            "D": "exposes data via rowsets."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ODBC Level 2 API contains which the following functions?",
+        "options": {
+            "A": "Commit or rollback transactions only",
+            "B": "Connect to data sources with driver-specific information only",
+            "C": "Connect to data sources only",
+            "D": "All of the above are contained in the OBDC Level 2 API"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In ODBC, a data source that is local to a single computer is called a:",
+        "options": {
+            "A": "system data source.",
+            "B": "file data source.",
+            "C": "user data source.",
+            "D": "SQL text file."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ is a cover for utilizing OLE DB that is designed for use by almost any language.",
+        "options": {
+            "A": "ODBC",
+            "B": "ASP",
+            "C": "JPCD",
+            "D": "ADO"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

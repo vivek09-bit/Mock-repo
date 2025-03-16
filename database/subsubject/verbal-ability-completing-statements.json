@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "Despite his best efforts to conceal his anger ......",
+        "options": {
+            "A": "we could detect that he was very happy",
+            "B": "he failed to give us an impression of his agony",
+            "C": "he succeeded in camouflaging his emotions",
+            "D": "he could succeed in doing it easily",
+            "E": "people came to know that he was annoyed"
+        },
+        "correct_answer": "E",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "Even if it rains I shall come means ......",
+        "options": {
+            "A": "if I come it will not rain",
+            "B": "if it rains I shall not come",
+            "C": "I will certainly come whether it rains or not",
+            "D": "whenever there is rain I shall come",
+            "E": "I am less likely to come if it rains"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "His appearance is unsmiling but ......",
+        "options": {
+            "A": "his heart is full of compassion for others",
+            "B": "he looks very serious on most occasions",
+            "C": "people are afraid of him",
+            "D": "he is uncompromising on matters of task performance",
+            "E": "he is full of jealousy towards his colleagues"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "She never visits any zoo because she is strong opponent of the idea of ......",
+        "options": {
+            "A": "setting the animals free into forest",
+            "B": "feeding the animals while others are watching",
+            "C": "watching the animals in their natural abode",
+            "D": "going out of the house on a holiday",
+            "E": "holding the animals in captivity for our joy"
+        },
+        "correct_answer": "E",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "I felt somewhat more relaxed ......",
+        "options": {
+            "A": "but tense as compared to earlier",
+            "B": "and tense as compared to earlier",
+            "C": "as there was already no tension at all",
+            "D": "and tension-free as compared to earlier",
+            "E": "because the worry had already captured by mind"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

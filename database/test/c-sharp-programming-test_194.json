@@ -1,0 +1,271 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are NOT true about .NET Framework?It provides a consistent object-oriented programming environment whether object code is stored and executed locally, executed locally but Internet-distributed, or executed remotely.It provides a code-execution environment that minimizes software deployment and versioning conflicts.It provides a code-execution environment that promotes safe execution of code, including code created by an unknown or semi-trusted third party.It provides different programming models for Windows-based applications and Web-based applications.It provides an event driven programming model for building Windows Device Drivers.",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 4",
+               "C": "4, 5",
+               "D": "1, 2, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?int val;\nfor (val = -5; val <= 5; val++)\n{\n    switch (val)\n    {\n        case 0:\n            Console.Write (\"India\"); \n            break;\n    }\n    \n    if (val > 0)\n        Console.Write (\"B\"); \n    else if (val < 0)\n        Console.Write (\"X\");\n}",
+          "options": {
+               "A": "XXXXXIndia",
+               "B": "IndiaBBBBB",
+               "C": "XXXXXIndiaBBBBB",
+               "D": "BBBBBIndiaXXXXX",
+               "E": "Zero"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following CANNOT occur multiple number of times in a program?",
+          "options": {
+               "A": "namespace",
+               "B": "Entrypoint",
+               "C": "Class",
+               "D": "Function",
+               "E": "Subroutine"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about functions and subroutines used in C#.NET?A function cannot be called from a subroutine.Therefkeyword causes arguments to be passed by reference.While using ref keyword any changes made to the parameter in the method will be reflected in that variable when control passes back to the calling method.A subroutine cannot be called from a function.Functions and subroutines can be called recursively.",
+          "options": {
+               "A": "1, 2, 4",
+               "B": "2, 3, 5",
+               "C": "3, 5",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{ \n    class Sample\n    { \n        public int index; \n        public int[] arr = new int[10]; \n        \n        public void fun(int i, int val)\n        { \n            arr[i] = val;\n        }\n    }\n     \n    class MyProgram\n    { \n        static void Main(string[] args)\n        {\n            Sample s = new Sample(); \n            s.index = 20; \n            Sample.fun(1, 5); \n            s.fun(1, 5); \n        } \n    } \n}",
+          "options": {
+               "A": "s.index = 20will report an error since index ispublic.",
+               "B": "The calls.fun(1, 5)will work correctly.",
+               "C": "Sample.fun(1, 5)will set a value5inarr[ 1 ].",
+               "D": "The callSample.fun(1, 5)cannot work sincefun()is not a shared function.",
+               "E": "arrbeing a data member, we cannot declare it aspublic."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to create an object of theclass Sample?Sample s = new Sample();Sample s;Sample s; s = new Sample();s = new Sample();",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 4",
+               "C": "1, 2, 3",
+               "D": "1, 4",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct?Data members ofa class are by defaultpublic.Data members of a class are by defaultprivate.Member functions of a class are by defaultpublic.A private function of a class can access apublicfunction within the same class.Member function of a class are by defaultprivate.",
+          "options": {
+               "A": "1, 3, 5",
+               "B": "1, 4",
+               "C": "2, 4, 5",
+               "D": "1, 2, 3",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to define the constructor(s) of theSampleclass if we are to create objects as per the C#.NET code snippet given below?Sample s1 = new Sample(); \nSample s2 = new Sample(9, 5.6f);",
+          "options": {
+               "A": "public Sample()\n{\n    i = 0; \n    j = 0.0f;\n}\npublic Sample (int ii, Single jj)\n{\n    i = ii;\n    j = jj;\n}",
+               "B": "public Sample (Optional int ii = 0, Optional Single jj = 0.0f)\n{\n    i = ii;\n    j = jj;\n}",
+               "C": "public Sample (int ii, Single jj)\n{\n    i = ii;\n    j = jj;\n}",
+               "D": "Sample s;",
+               "E": "s = new Sample();"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "There is no private or protected inheritance in C#.NET.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a base class contains a member functionfunc(), and a derived class does not contain a function with this name, an object of the derived class cannot accessfunc().",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "It depends upon how the functionfunc()has been defined in the base class. If the functionfunc()is defined public in base class then an object of the derived class can access the functionfunc()."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ifs1ands2are references to two strings, then which of the following is the correct way to compare the two references?",
+          "options": {
+               "A": "s1 is s2",
+               "B": "s1 = s2",
+               "C": "s1 == s2",
+               "D": "strcmp(s1, s2)",
+               "E": "s1.Equals(s2)"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Creating empty structures is allowed in C#.NET.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "With which of the following can therefkeyword be used?Static dataInstance dataStatic function/subroutineInstance function/subroutine",
+          "options": {
+               "A": "1, 2",
+               "B": "3, 4",
+               "C": "1, 3",
+               "D": "2, 4",
+               "E": "All of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is incorrect about a delegate?",
+          "options": {
+               "A": "A single delegate can invoke more than one method.",
+               "B": "Delegates can be shared.",
+               "C": "Delegate is a value type.",
+               "D": "Delegates are type-safe wrappers for function pointers.",
+               "E": "The signature of a delegate must match the signature of the method that is to be called using it."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which  of the  following  statements  is incorrect  about delegate?",
+          "options": {
+               "A": "Delegates are reference types.",
+               "B": "Delegates are object oriented.",
+               "C": "Delegates are type-safe.",
+               "D": "Delegates serve the same purpose as function pointers in C and pointers to member function operators in C++.",
+               "E": "Only one method can be called using a delegate."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The [Serializable()] attribute gets inspected at",
+          "options": {
+               "A": "Compile-time",
+               "B": "Run-time",
+               "C": "Design-time",
+               "D": "Linking-time",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about Attributes in C#.NET?On compiling a C#.NET program the attibutes applied are recorded in the metadata of the assembly.On compilation all the attribute's tags are deleted from the program.It is not possible to create custom attributes..The attributes applied can be read from an assembly using Reflection class.An attribute can have parameters.",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "2 and 4 only",
+               "C": "1, 4 and 5 only",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following C#.NET code snippets will correctly print \"Hello C#.NET\"?",
+          "options": {
+               "A": "import System; \nnamespace IndiabixConsoleApplication\n{ \n    class MyProgram\n    { \n        static void Main(string[] args)\n        { \n            Console.WriteLine(\"Hello C#.NET\");\n        } \n    } \n}",
+               "B": "using System;\nnamespace IndiabixConsoleApplication\n{ \n    class MyProgram\n    { \n        static void Main(string[ ] args)\n        { \n            WriteLine(\"Hello C#.NET\");\n        } \n    } \n}",
+               "C": "using System.Console; \nnamespace IndiabixConsoleApplication\n{ \n    class MyProgram\n    { \n        static void Main (string[ ] args)\n        { \n            WriteLine(\"Hello C#.NET\");\n        } \n    } \n}",
+               "D": "using System;\nnamespace IndiabixConsoleApplication\n{ \n    class MyProgram\n    { \n        static void Main(string[] args)\n        { \n            Console.WriteLine(\"Hello C#.NET\");\n        }\n    }\n}"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is absolutely neccessary to use a classPointpresent in namespaceGraphstored in library?",
+          "options": {
+               "A": "Use fully qualified name of thePointclass.",
+               "B": "Use using statement before using thePointclass.",
+               "C": "Add Reference of the library before using thePointclass.",
+               "D": "Use using statement before using thePointclass.",
+               "E": "Copy the library into the current project directory before using thePointclass."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?",
+          "options": {
+               "A": "The conditional logical operators cannot be overloaded.",
+               "B": "When a binary operator is overloaded the corresponding assignment operator, if any, must be explicitly overloaded.",
+               "C": "We can use the default equality operator in an overloaded implementation of the equality operator.",
+               "D": "A public or nested public reference type does not overload the equality operator.",
+               "E": "The array indexing operator can be overloaded."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

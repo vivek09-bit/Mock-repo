@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a calculation is embedded in a form",
+          "options": {
+               "A": "the result of the calculations are stored with the form",
+               "B": "the calculations are stored with the form",
+               "C": "the result of the calculations are printed in report",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A list consists of last names, first names, addresses, and pin codes if all people in the list have the same last and the same pin code, a useful key would be",
+          "options": {
+               "A": "the pin code",
+               "B": "the last name",
+               "C": "a compound key consisting of the first name and the last name",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A large computer information system maintains many different computer files. Which amongst them is called a perpetual file?",
+          "options": {
+               "A": "Specialized file",
+               "B": "Log file",
+               "C": "Master file",
+               "D": "Update file",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In SQL, which command(s) is(are) used to enable/disable a database trigger?",
+          "options": {
+               "A": "MODIFY USER",
+               "B": "CHANGE USER",
+               "C": "ALTER TRIGGER",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When you have finished entering information into a form",
+          "options": {
+               "A": "the template is written to the data file",
+               "B": "the  contents  of the  form  are written to the data file",
+               "C": "the contents of the form can be printed",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A number of related records that are treated as a unit is called",
+          "options": {
+               "A": "file",
+               "B": "field",
+               "C": "data",
+               "D": "batch",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In SQL, which command is used to add a column/integrity constraint to a table",
+          "options": {
+               "A": "ADD COLUMN",
+               "B": "INSERT COLUMN",
+               "C": "MODIFY TABLE",
+               "D": "ALTER TABLE",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the DBM approach, application programs perform the",
+          "options": {
+               "A": "storage function",
+               "B": "processing functions",
+               "C": "access control",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Internal auditors should review data system design before they are",
+          "options": {
+               "A": "developed",
+               "B": "implemented",
+               "C": "modified",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An audit trail",
+          "options": {
+               "A": "is used to make back-up copies",
+               "B": "is    the    recorded    history    of operations performed on a file",
+               "C": "can   be   used   to   restore   lost information",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A database management system might consist of application programs and a software package called",
+          "options": {
+               "A": "FORTRAN",
+               "B": "AUTOFLOW",
+               "C": "BPL",
+               "D": "TOTAL",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What name is given to the collection of facts, items of information or data which are related in some way?",
+          "options": {
+               "A": "Database",
+               "B": "Directory information",
+               "C": "Information tree",
+               "D": "Information provider",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The model for a _____ resembles the hierarchical model in many respects.",
+          "options": {
+               "A": "Network database",
+               "B": "Relational database",
+               "C": "Distributed database",
+               "D": "Hierarchical database",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which language has recently become the de-facto standard for interfacing application programs with relational database system?",
+          "options": {
+               "A": "Oracle",
+               "B": "SQL",
+               "C": "dBASE",
+               "D": "4GL",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to select distinct subject (SUB) from the table (BOOK)?",
+          "options": {
+               "A": "SELECT ALL FROM BOOK",
+               "B": "SELECT    DISTINCT  SUB  FROM BOOK",
+               "C": "SELECT SUB FROM BOOK",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Versatile  report  generators  can provide",
+          "options": {
+               "A": "Columnar totals",
+               "B": "Subtotals",
+               "C": "Calculations",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A report form",
+          "options": {
+               "A": "appears on the computer monitor during data entry",
+               "B": "is used during report generation to format data",
+               "C": "both (a) and (b)",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A file that is organized in uniform format is formally referred to as a _____ or a database file.",
+          "options": {
+               "A": "Document",
+               "B": "Database",
+               "C": "Record",
+               "D": "Structured data file",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "It is more accurate to define a _____ as a variety of different record types that are treated as a single unit",
+          "options": {
+               "A": "Database",
+               "B": "Table",
+               "C": "Record",
+               "D": "Flat File",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Subschema can be used to",
+          "options": {
+               "A": "create very different, personalized views of the same data",
+               "B": "present information in different formats",
+               "C": "hide sensitive information by omitting fields from the subÂ¬schema's description",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

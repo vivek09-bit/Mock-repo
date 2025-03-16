@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifxandyare the two digits of the number 653xysuch that this number is divisible by 80, thenx+y= ?",
+        "options": {
+            "A": "2 or 6",
+            "B": "4",
+            "C": "4 or 8",
+            "D": "8",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "80 = 2 x 5 x 8Since 653xyis divisible by 2 and 5 both, soy= 0.Now, 653xis divisible by 8, so 13xshould be divisible by 8.This happens whenx= 6.x+y= (6 + 0) = 6."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference of the squares of two consecutive odd integers is divisible by which of the following integers ?",
+        "options": {
+            "A": "3",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the two consecutive odd integers be (2n+ 1) and (2n+ 3). Then,(2n+ 3)2- (2n+ 1)2= (2n+ 3 + 2n+ 1) (2n+ 3 - 2n- 1)= (4n+ 4) x 2= 8(n+ 1), which is divisible by 8."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the unit digit in (4137)754?",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "7",
+            "D": "9"
+        },
+        "correct_answer": "D",
+        "answer_description": "Unit digit in (4137)754= Unit digit in {[(4137)4]188x (4137)2}=Unit digit in { 292915317923361 x 17114769 }= (1 x 9) = 9"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "587 x 999 = ?",
+        "options": {
+            "A": "586413",
+            "B": "587523",
+            "C": "614823",
+            "D": "615173"
+        },
+        "correct_answer": "A",
+        "answer_description": "587 x 999= 587 x (1000 - 1)= 587 x 1000 - 587 x 1= 587000 - 587= 586413."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A number was divided successively in order by 4, 5 and 6. The remainders were respectively 2, 3 and 4. The number is:",
+        "options": {
+            "A": "214",
+            "B": "476",
+            "C": "954",
+            "D": "1908"
+        },
+        "correct_answer": "A",
+        "answer_description": "4 |xz= 6 x 1 + 4  = 10\n -----------\n 5 |y-2y= 5 xz+ 3  = 5 x 10 + 3  = 53\n -----------\n 6 |z- 3x= 4 xy+ 2  = 4 x 53 + 2  = 214\n -----------\n   | 1 - 4\n   \nHence, required number = 214."
+    }
+]

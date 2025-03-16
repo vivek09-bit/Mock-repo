@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, which module is commonly used for handling dates and times?",
+        "options": {
+            "A": "math",
+            "B": "datetime",
+            "C": "random",
+            "D": "os"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thedatetimemodule in Python is used for working with dates and times, providing classes and functions to manipulate and format date and time values."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which function from theosmodule is used to change the current working directory?",
+        "options": {
+            "A": "os.getcwd()",
+            "B": "os.chdir()",
+            "C": "os.path()",
+            "D": "os.dir()"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theos.chdir()function is used to change the current working directory in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which module is used for sending emails?",
+        "options": {
+            "A": "email",
+            "B": "smtplib",
+            "C": "mail",
+            "D": "sendmail"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thesmtplibmodule in Python is commonly used for sending emails using the Simple Mail Transfer Protocol (SMTP)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is used to remove an element from a set?",
+        "options": {
+            "A": "set.remove()",
+            "B": "set.pop()",
+            "C": "set.delete()",
+            "D": "set.discard()"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thediscard()method is used to remove a specified element from a set, if the element is present."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which module in Python provides functionality to work with compressed files, such as ZIP files?",
+        "options": {
+            "A": "gzip",
+            "B": "zipfile",
+            "C": "compress",
+            "D": "archive"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thezipfilemodule in Python provides tools for creating, reading, and extracting ZIP files."
+    }
+]

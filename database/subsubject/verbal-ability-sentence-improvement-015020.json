@@ -1,0 +1,28 @@
+[
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "He diedin the year 1960 at 11pm on 14 July.",
+        "options": {
+            "A": "on 14 July in the year 1960 at 11pm",
+            "B": "in the year 1960 on 14 July at 11pm",
+            "C": "at 11pm on 14 July in the year 1960",
+            "D": "No improvement"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "Due to these reasonwe are all in favour of universal compulsory education.",
+        "options": {
+            "A": "Out of these reasons",
+            "B": "For these reasons",
+            "C": "By these reasons",
+            "D": "No improvement"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

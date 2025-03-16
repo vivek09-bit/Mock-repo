@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train always has",
+        "options": {
+            "A": "Rails",
+            "B": "Driver",
+            "C": "Guard",
+            "D": "Engine"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is always found in 'Bravery'?",
+        "options": {
+            "A": "Experience",
+            "B": "Power",
+            "C": "Courage",
+            "D": "Knowledge"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A song always has",
+        "options": {
+            "A": "Word",
+            "B": "Chorus",
+            "C": "Musician",
+            "D": "Tymbal"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Yesterday I saw an ice cube which had already melted due to heat of a nearby furnace.",
+        "options": {
+            "A": "Always",
+            "B": "Never",
+            "C": "Often",
+            "D": "Sometimes"
+        },
+        "correct_answer": "B",
+        "answer_description": "Since the ice cube had already melted due to the heat of a nearby furnace so after this ice cannot remain as ice cube."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is found necessarily in milk?",
+        "options": {
+            "A": "Cream",
+            "B": "Curd",
+            "C": "Water",
+            "D": "Whiteness"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

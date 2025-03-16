@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but, not together?",
+        "options": {
+            "A": "5 min. past 7",
+            "B": "52min. past 711",
+            "C": "53min. past 711",
+            "D": "55min. past 711"
+        },
+        "correct_answer": "D",
+        "answer_description": "When the hands of the clock are in the same straight line but not together, they are 30 minute spaces apart.At 7 o'clock, they are 25 min. spaces apart.Minute hand will have to gain only 5 min. spaces.55 min. spaces are gained in 60 min.5 min. spaces are gained in60x 5min= 55min.5511Required time = 55min. past 7.11"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At what time between 5.30 and 6 will the hands of a clock be at right angles?",
+        "options": {
+            "A": "435min. past 511",
+            "B": "437min. past 511",
+            "C": "40 min. past 5",
+            "D": "45 min. past 5"
+        },
+        "correct_answer": "B",
+        "answer_description": "At 5 o'clock, the hands are 25 min. spaces apart.To be at right angles and that too between 5.30 and 6, the minute hand has to gain (25 + 15) = 40 min. spaces.55 min. spaces are gained in 60 min.40 min. spaces are gained in60x 40min=437min.5511Required time = 437min. past 5.11"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+        "options": {
+            "A": "0°",
+            "B": "10°",
+            "C": "5°",
+            "D": "20°"
+        },
+        "correct_answer": "B",
+        "answer_description": "Angle traced by hour hand in13hrs =360x13°= 130°.3123Angle traced by min. hand in 20 min. =360x 20°= 120°.60Required angle = (130 - 120)° = 10°."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
+        "options": {
+            "A": "581°2",
+            "B": "64°",
+            "C": "671°2",
+            "D": "721°2"
+        },
+        "correct_answer": "C",
+        "answer_description": "Angle traced by hour hand in21hrs =360x21°=1571°41242Angle traced by min. hand in 15 min. =360x 15°= 90°.60Required angle =1571°- 90° = 671°22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of:",
+        "options": {
+            "A": "120°",
+            "B": "125°",
+            "C": "130°",
+            "D": "135°"
+        },
+        "correct_answer": "C",
+        "answer_description": "Angle traced by hour hand in 12 hrs. = 360°.Angle traced by it in11hrs =360x11°= 110°.3123Angle traced by minute hand in 60 min. = 360°.Angle traced by it in 40 min. =360x 40°= 240°.60Required angle (240 - 110)° = 130°."
+    }
+]

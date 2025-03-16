@@ -1,0 +1,16 @@
+[
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The committee appointed by the Government on the fee structure of the professional courses has drastically reduced the fees of various courses in comparison to those charged in the last year.The parents of aspiring students seeking admission to professional courses had launched a severe agitation protesting against the high fees charged by the professional institutes and the admission process was delayed considerably.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "B",
+        "answer_description": "Since the parents of aspiring students seeking admission to professional courses had launched a severe agitation protesting against the high fess changed by the professional institutes.So, the committee was appointed by the Government on the fee structure of professional courses has drastically reduced the fess of previous course."
+    }
+]

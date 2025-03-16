@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following network types have a designated router and a backup designated router assigned?BroadcastPoint-to-pointNBMANBMA point-to-point",
+        "options": {
+            "A": "1, 2 and 3",
+            "B": "1 and 3",
+            "C": "3 and 4",
+            "D": "All of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No DR is assigned on any type of point-to-point link. No DR/BDR is assigned on the NBMA point-to-multipoint due to the hub/spoke topology. DR and BDR are elected on broadcast and non-broadcast multi-access networks. Frame Relay is a non-Broadcast Multi-Access (NBMA) network by default."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of OSPF network will elect a backup designated router?Broadcast multi-accessNon-broadcast multi-accessPoint-to-pointBroadcast multipoint",
+        "options": {
+            "A": "1 and 2",
+            "B": "3 and 4",
+            "C": "3 only",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "DR and BDR are elected on broadcast and non-broadcast multi-access networks. Frame Relay is a non-broadcast multi-access (NBMA) network by default. No DR is assigned on any type of point-to-point link. No DR/BDR is assigned on the NBMA point-to-multipoint due to the hub/spoke topology."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need the IP address of the devices with which the router has established an adjacency. Also, the retransmit interval and the queue counts for the adjacent routers need to be checked. What command will display the required information?",
+        "options": {
+            "A": "show ip eigrp adjacency",
+            "B": "show ip eigrp topology",
+            "C": "show ip eigrp interfaces",
+            "D": "show ip eigrp neighbors"
+        },
+        "correct_answer": "D",
+        "answer_description": "Theshow ip eigrp neighborscommand allows you to check the IP addresses as well as the retransmit interval and queue counts for the neighbors that have established an adjacency."
+    }
+]

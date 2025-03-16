@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The load and index is which of the following?",
+        "options": {
+            "A": "A process to reject data from the data warehouse and to create the necessary indexes",
+            "B": "A process to load the data in the data warehouse and to create the necessary indexes",
+            "C": "A process to upgrade the quality of data after it is moved into a data warehouse",
+            "D": "A process to upgrade the quality of data before it is moved into a data warehouse"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The extract process is which of the following?",
+        "options": {
+            "A": "Capturing all of the data contained in various operational systems",
+            "B": "Capturing a subset of the data contained in various operational systems",
+            "C": "Capturing all of the data contained in various decision support systems",
+            "D": "Capturing a subset of the data contained in various decision support systems"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A star schema has what type of relationship between a dimension and fact table?",
+        "options": {
+            "A": "Many-to-many",
+            "B": "One-to-one",
+            "C": "One-to-many",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Transient data is which of the following?",
+        "options": {
+            "A": "Data in which changes to existing records cause the previous version of the records to be eliminated",
+            "B": "Data in which changes to existing records do not cause the previous version of the records to be eliminated",
+            "C": "Data that are never altered or deleted once they have been added",
+            "D": "Data that are never deleted once they have been added"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A multifield transformation does which of the following?",
+        "options": {
+            "A": "Converts data from one field into multiple fields",
+            "B": "Converts data from multiple fields into one field",
+            "C": "Converts data from multiple fields into multiple fields",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

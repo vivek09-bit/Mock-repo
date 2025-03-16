@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who is the father of Geometry?",
+        "options": {
+            "A": "Aristotle",
+            "B": "Euclid",
+            "C": "Pythagoras",
+            "D": "Kepler"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is common between Kutty, Shankar, Laxman and Sudhir Dar?",
+        "options": {
+            "A": "Film Direction",
+            "B": "Drawing Cartoons",
+            "C": "Instrumental Music",
+            "D": "Classical Dance"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who was known as Iron man of India?",
+        "options": {
+            "A": "Govind Ballabh Pant",
+            "B": "Jawaharlal Nehru",
+            "C": "Subhash Chandra Bose",
+            "D": "Sardar Vallabhbhai Patel"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Indian to beat the computers in mathematical wizardry is",
+        "options": {
+            "A": "Ramanujam",
+            "B": "Rina Panigrahi",
+            "C": "Raja Ramanna",
+            "D": "Shakunthala Devi"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Jude Felix is a famous Indian player in which of the fields?",
+        "options": {
+            "A": "Volleyball",
+            "B": "Tennis",
+            "C": "Football",
+            "D": "Hockey"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

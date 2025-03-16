@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ODBC minimum SQL grammar contains which of the following?",
+        "options": {
+            "A": "INSERT, UPDATE, DELETE only",
+            "B": "Stored Procedures only",
+            "C": "Literals for date, time and timestamp only",
+            "D": "CREATE VIEW, DROP VIEW only"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When using ODBC, which of the following processes ODBC requests and submits specific SQL statements to a given type of data source?",
+        "options": {
+            "A": "Data source",
+            "B": "Driver",
+            "C": "Driver manager",
+            "D": "DBMS"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ODBC core API consists of which of the following functions?",
+        "options": {
+            "A": "Commit or rollback transactions only",
+            "B": "Connect to data sources with driver-specific information only",
+            "C": "Connect to data sources only",
+            "D": "Both 1 and 3 above are in the OBDC core API."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ is a simple object model that is easier to understand and use than OLE DB, and is frequently used for database applications.",
+        "options": {
+            "A": "ASP",
+            "B": "XML",
+            "C": "ODBC",
+            "D": "ADO"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ODBC core SQL grammar contains which of the following?:",
+        "options": {
+            "A": "INSERT, UPDATE, DELETE only",
+            "B": "Stored procedures only",
+            "C": "Full SELECT (includes subqueries) only",
+            "D": "Both 1 and 3 above are contained in the ODBC core SQL."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

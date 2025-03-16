@@ -1,0 +1,269 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "There is no question",
+               "B": "of my failing",
+               "C": "in the examination.",
+               "D": "No error."
+          },
+          "correct_answer": "B",
+          "answer_description": "of me failing"
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 3)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Mr.Raman  said that",
+               "B": "he had a difference",
+               "C": "with",
+               "D": "the chairman at his statement.",
+               "E": "No error."
+          },
+          "correct_answer": "D",
+          "answer_description": "the chairman over his statement"
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 3)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "I will put on",
+               "B": "a note in this regard",
+               "C": "for your consideration",
+               "D": "and necessary decision.",
+               "E": "No error."
+          },
+          "correct_answer": "A",
+          "answer_description": "I will put up"
+     },
+     {
+          "direction": "Direction (Q.No. 4)In each of the sentences given below a word is printed in bold. Below it four choices are given. Pick up the one which is most nearly the same in meaning as the word printer in bold and can replaces it without altering the meaning of the sentence.",
+          "image_path": null,
+          "question": "He was wanted at theoutsetof his career.",
+          "options": {
+               "A": "end",
+               "B": "beginning",
+               "C": "middle",
+               "D": "entrance"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "I listened, but I had no idea what he was ...... about.",
+          "options": {
+               "A": "saying",
+               "B": "talking",
+               "C": "telling",
+               "D": "discussing"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "He lives near a lovely ...... of countryside.",
+          "options": {
+               "A": "length",
+               "B": "piece",
+               "C": "section",
+               "D": "stretch"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "Owing to the power cut in the area, factories are being forced to ...... men",
+          "options": {
+               "A": "throw away",
+               "B": "send off",
+               "C": "put off",
+               "D": "lay off"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 8)Find the correctly spelt words.",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Hindrance",
+               "B": "Hinderrance",
+               "C": "Hindrence",
+               "D": "Hinderence"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)In each sentence below, four words which are lettered (A), (B), (C) and (D) have been printed inbold type, one whichmay be either inappropriatein the context of the sentence orwrongly spelt.The letter of that word is answer.If all the four words are appropriate and also correctly spelt, mark 'E', i.e., 'All Correct' as the answer.",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "He is a man ofamiable",
+               "B": "disposition",
+               "C": "andemenable",
+               "D": "to rule anddiscipline",
+               "E": "All correct"
+          },
+          "correct_answer": "C",
+          "answer_description": "Amenable"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)In each sentence below, four words which are lettered (A), (B), (C) and (D) have been printed inbold type, one whichmay be either inappropriatein the context of the sentence orwrongly spelt.The letter of that word is answer.If all the four words are appropriate and also correctly spelt, mark 'E', i.e., 'All Correct' as the answer.",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Stereotypes",
+               "B": "aredysfunctional",
+               "C": "inprojecting",
+               "D": "an image of anunbiasedindividual",
+               "E": "All correct"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "Since the beginning of historyP :have managed to catchQ :the Eskimos and Red IndiansR :by a very difficulty methodS :a few specimens of this aquatic animalThe Proper sequence should be:",
+          "options": {
+               "A": "QRPS",
+               "B": "SQPR",
+               "C": "SQRP",
+               "D": "QPSR"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "We wentP :along the railway lineQ :and had a right toR :where other people not allowed to goS :but daddy belonged to the railwayThe Proper sequence should be:",
+          "options": {
+               "A": "RPQS",
+               "B": "PRSQ",
+               "C": "RSQP",
+               "D": "PRQS"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 13)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "I wasP :and stay fro few days in DelhiQ :when my father told meR :very excitedS :that I could go with himThe Proper sequence should be:",
+          "options": {
+               "A": "PQRS",
+               "B": "RQSP",
+               "C": "QRSP",
+               "D": "SPQR"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 15)Which of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+          "image_path": null,
+          "question": "Ramesh isas tall if not,taller than Mahesh.",
+          "options": {
+               "A": "not as tall but",
+               "B": "not so tall but as",
+               "C": "as tall as, if not",
+               "D": "as if not",
+               "E": "No correction required"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 15)Which of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+          "image_path": null,
+          "question": "\"Friends and comrades, the light has goneaway fromour lives and there is darkness everywhere\"",
+          "options": {
+               "A": "off",
+               "B": "out of",
+               "C": "out from",
+               "D": "out off",
+               "E": "No correction required"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 16)In each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+          "image_path": null,
+          "question": "Practically, very little work could be completed in the last week as it was ......",
+          "options": {
+               "A": "full of working days",
+               "B": "a very hectic week",
+               "C": "full of holidays",
+               "D": "a very busy week",
+               "E": "loaded with work"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 17)In questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+          "image_path": null,
+          "question": "S1:Ms. Parasuram started a Petrol Pump in Madras.P :A total to 12 girls now work at the pump.Q :She advertised in newspapers for women staff.R :They operate in 2 shifts.S :The response was good.S6:Thus she has shown the way for many others.The Proper sequence should be:",
+          "options": {
+               "A": "PQSR",
+               "B": "SQPR",
+               "C": "QSPR",
+               "D": "PQRS"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 19)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "Iran out ofmoney on my European tour.",
+          "options": {
+               "A": "exhausted my stock of",
+               "B": "did not have enough",
+               "C": "lost",
+               "D": "carried a lot"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 19)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "The robbertook to his heelswhen the police arrived.",
+          "options": {
+               "A": "opened fire",
+               "B": "hid himself",
+               "C": "ran off",
+               "D": "surrendered"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 20)Each question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+          "image_path": null,
+          "question": "GRAVITY:PULL",
+          "options": {
+               "A": "iron:metal",
+               "B": "north pole:directions",
+               "C": "magnetism:attraction",
+               "D": "dust:desert"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

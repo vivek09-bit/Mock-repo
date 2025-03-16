@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log 2 = 0.30103, the number of digits in 264is:",
+        "options": {
+            "A": "18",
+            "B": "19",
+            "C": "20",
+            "D": "21"
+        },
+        "correct_answer": "C",
+        "answer_description": "log (264)= 64 x log 2= (64 x 0.30103)= 19.26592Its characteristic is 19.Hence, then number of digits in 264is 20."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If logx9= -1, thenxis equal to:162",
+        "options": {
+            "A": "-34",
+            "B": "34",
+            "C": "81256",
+            "D": "25681"
+        },
+        "correct_answer": "D",
+        "answer_description": "logx9= -1162x-1/2=9161=9x16x=169x=1629x=25681"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifax=by, then:",
+        "options": {
+            "A": "loga=xby",
+            "B": "loga=xlogby",
+            "C": "loga=ylogbx",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "ax=bylogax= logbyxloga=ylogbloga=y.logbx"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If logxy= 100 and log2x= 10, then the value ofyis:",
+        "options": {
+            "A": "210",
+            "B": "2100",
+            "C": "21000",
+            "D": "210000"
+        },
+        "correct_answer": "C",
+        "answer_description": "log2x= 10x= 210.logxy= 100y=x100y= (210)100[put value ofx]y= 21000."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The value of log216 is:",
+        "options": {
+            "A": "18",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let log216 =n.Then, 2n= 16 = 24n= 4.log216 = 4."
+    }
+]

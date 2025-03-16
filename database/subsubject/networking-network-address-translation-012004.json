@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is considered to be the destination host after translation?",
+        "options": {
+            "A": "Inside local",
+            "B": "Outside local",
+            "C": "Inside global",
+            "D": "Outside global"
+        },
+        "correct_answer": "D",
+        "answer_description": "The host on the global network after translation is considered to be an outside global host."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will create a dynamic pool named Todd that will provide you with 30 global addresses?",
+        "options": {
+            "A": "ip nat pool Todd 171.16.10.65 171.16.10.94 net 255.255.255.240",
+            "B": "ip nat pool Todd 171.16.10.65 171.16.10.94 net 255.255.255.224",
+            "C": "ip nat pool todd 171.16.10.65 171.16.10.94 net 255.255.255.224",
+            "D": "ip nat pool Todd 171.16.10.1 171.16.10.254 net 255.255.255.0"
+        },
+        "correct_answer": "B",
+        "answer_description": "The commandip nat pool <name>creates the pool that hosts can use to get onto the global Internet. What makes option B correct is that the range 171.16.10.65 through 171.16.10.94 includes 30 hosts, but the mask has to match 30 hosts as well, and that mask is 255.255.255.224. Option C is wrong because the pool name has a lower case \"T\" in the pool name. Pool name's are case sensitive."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will clear all the translations active on your router?",
+        "options": {
+            "A": "show ip nat translations",
+            "B": "show ip nat statistics",
+            "C": "debug ip nat",
+            "D": "clear ip nat translations *"
+        },
+        "correct_answer": "D",
+        "answer_description": "The commandclear ip nat translations *will clear all the active NAT entries in your translation table."
+    }
+]

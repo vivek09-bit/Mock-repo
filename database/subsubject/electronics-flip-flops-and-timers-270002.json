@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One example of the use of an S-R flip-flop is as a(n):",
+        "options": {
+            "A": "transition pulse generator",
+            "B": "astable oscillator",
+            "C": "racer",
+            "D": "switch debouncer"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If both inputs of an S-R NAND latch are LOW, what will happen to the output?",
+        "options": {
+            "A": "The output would become unpredictable.",
+            "B": "The output will toggle.",
+            "C": "The output will reset.",
+            "D": "No change will occur in the output."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The equation for the output frequency of a 555 timer operating in the astable mode is:.What value of C1will be required if R1= 1 k, R2= 1 k, and f = 1 kHz?",
+        "options": {
+            "A": "0.33F",
+            "B": "0.48F",
+            "C": "480F",
+            "D": "33 nF"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An astable multivibrator is a circuit that:",
+        "options": {
+            "A": "has two stable states",
+            "B": "is free-running",
+            "C": "produces a continuous output signal",
+            "D": "is free-running and produces a continuous output signal"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is another name for a one-shot?",
+        "options": {
+            "A": "monostable",
+            "B": "bistable",
+            "C": "astable",
+            "D": "tristable"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

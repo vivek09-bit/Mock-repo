@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the first Indian private company to sign an accord with Government of Myanmar for oil exploration in two offshore blocks in that country?",
+          "options": {
+               "A": "Reliance Energy",
+               "B": "Essar Oil",
+               "C": "GAIL",
+               "D": "ONGC"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "John F. Kennedy was",
+          "options": {
+               "A": "one the most popular Presidents of USA",
+               "B": "the first Roman Catholic President",
+               "C": "writer ofWhy England sleptandProfile in Courage",
+               "D": "All the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Salal Project is on the river",
+          "options": {
+               "A": "Chenab",
+               "B": "Jhelum",
+               "C": "Ravi",
+               "D": "Sutlej"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Light from the star, Alpha Centauri, which is nearest to the earth after the sun, reaches the earth in",
+          "options": {
+               "A": "4.2 seconds",
+               "B": "42 seconds",
+               "C": "4.2 years",
+               "D": "42 years"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "CORN FLAKES - Who made them first?",
+          "options": {
+               "A": "Nabisco",
+               "B": "Kellogg",
+               "C": "Quaker",
+               "D": "Archers"
+          },
+          "correct_answer": "B",
+          "answer_description": "Will Keith Kellogg discovered the corn flake, by mistake, in 1906. They were the result of an experiment which went wrong."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many wickets did Yograj Singh take in his 1st ODI match?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "4",
+               "D": "3"
+          },
+          "correct_answer": "B",
+          "answer_description": "Yograj Singh was a bowler, but his son Yuvraj Singh, also nicknamed as Yuvi, turned out to be a smashing batsman."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "\"FET\" is a type of transistor, Its full name is ________ Effect Transistor...?",
+          "options": {
+               "A": "Field",
+               "B": "Factor",
+               "C": "Flash",
+               "D": "Force"
+          },
+          "correct_answer": "A",
+          "answer_description": "The terminals of FETs are called gate, drain and source. You might be more familiar with bipolar junction transistors (BJTs), which have terminals called base, collector and emitter. FETs were conceptualized first, but BJTs were easier to produce and so developed sooner."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A program that neither replicates or copies itself, but does damage or compromises the security of the computer. Which 'Computer Virus' it is?",
+          "options": {
+               "A": "Joke Program",
+               "B": "Worm",
+               "C": "Trojan",
+               "D": "Hoax"
+          },
+          "correct_answer": "C",
+          "answer_description": "Typically it relies on someone emailing it to you, it does not email itself, it may arrive in the form of a joke program or software of some sort."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The mass number of an atom is equal to",
+          "options": {
+               "A": "the number of protons",
+               "B": "the number of protons and electrons",
+               "C": "the number of nucleons",
+               "D": "the number of neutrons"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The language spoken in Sikkim are",
+          "options": {
+               "A": "Nepali, Hindi, Lepcha, Bhutani",
+               "B": "Marathi",
+               "C": "Bengali, Tripuri",
+               "D": "Manipuri"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The largest airport in the world is",
+          "options": {
+               "A": "Palam Airport",
+               "B": "Indira Gandhi International Airport",
+               "C": "Cochin International Airport",
+               "D": "King Khalid International Airport"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The term cover point in cricket means",
+          "options": {
+               "A": "the position given by the bowler to the fielder on the offside, in front of a wicket",
+               "B": "if the ball goes off the batsman's leg",
+               "C": "an off-break ball bowled by a left-handed bowler to a right-handed batsman",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The velocity of light was first measured by",
+          "options": {
+               "A": "Einstein",
+               "B": "Newton",
+               "C": "Romer",
+               "D": "Galileo"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The world's largest international organisation and a successor to the League of Nations is",
+          "options": {
+               "A": "UNESCO",
+               "B": "UNO",
+               "C": "UNICEF",
+               "D": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the capital of Dadra and Nagar Haveli?",
+          "options": {
+               "A": "Daman",
+               "B": "Silvassa",
+               "C": "Dispur",
+               "D": "Shilling"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Bahadur Singh is famous in which of the following?",
+          "options": {
+               "A": "Athletics",
+               "B": "Swimming",
+               "C": "Boxing",
+               "D": "Weight Lifting"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "India first won the Olympic Hockey gold at",
+          "options": {
+               "A": "London",
+               "B": "Rome",
+               "C": "Berlin",
+               "D": "Amsterdam"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following fields A. Nageshwara Rao is associated with?",
+          "options": {
+               "A": "Sports",
+               "B": "Literature",
+               "C": "Motion Pictures",
+               "D": "Politics"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Who is the author of the book 'The Future of Freedom'?",
+          "options": {
+               "A": "Richard Wolfee",
+               "B": "Peter Hudson",
+               "C": "Tamara Lipper",
+               "D": "Fareed Zakaria"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The average salinity of sea water is",
+          "options": {
+               "A": "3%",
+               "B": "3.5%",
+               "C": "2.5%",
+               "D": "2%"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

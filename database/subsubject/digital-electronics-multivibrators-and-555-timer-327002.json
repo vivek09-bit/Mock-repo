@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Pulse stretching, time-delay, and pulse generation are all easily accomplished with which type of multivibrator circuit?",
+        "options": {
+            "A": "astable",
+            "B": "monostable",
+            "C": "multistable",
+            "D": "bistable"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The internal circuitry of the 555 timer consists of ________, anR-Sflip-flop, a transistor switch, an output buffer amplifier, and a voltage divider.",
+        "options": {
+            "A": "a comparator",
+            "B": "a voltage amplifier",
+            "C": "two comparators",
+            "D": "a peak detector"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With most monostable multivibrators, what is theQoutput when no input trigger has occurred?",
+        "options": {
+            "A": "LOW",
+            "B": "+5 V",
+            "C": "SET",
+            "D": "HIGH"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An astable multivibrator requires:",
+        "options": {
+            "A": "balanced time constants",
+            "B": "a pair of matched transistors",
+            "C": "no input signal",
+            "D": "dualJ-Kflip-flops"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A crystal demonstrates the ________ effect when a mechanical force across the crystal causes a small voltage to be generated.",
+        "options": {
+            "A": "photoelectric",
+            "B": "Co-pitts",
+            "C": "piezoelectric",
+            "D": "flywheel"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The DBMS that is most difficult to use is ________ .",
+        "options": {
+            "A": "Microsoft's SQL Server",
+            "B": "Microsoft's Access",
+            "C": "IBM's DB2",
+            "D": "Oracle Corporation's Oracle"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

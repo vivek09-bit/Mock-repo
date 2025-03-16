@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Judge, Thieves and Criminals ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "All the thieves are criminals while judge is different from these."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between India, Haryana and World ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D",
+        "answer_description": "Haryana is in India and India is in the World."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Pigeon, Bird and Dog ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "All the pigeons are birds while dog is different from these."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Earth, Sea and Sun ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "Sea is a part of Earth while Sun is different from these two."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Hockey, Football and Cricket ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "All these three games are different from each other."
+    }
+]

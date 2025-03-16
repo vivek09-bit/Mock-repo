@@ -1,0 +1,267 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following constitutes the .NET Framework?ASP.NET ApplicationsCLRFramework Class LibraryWinForm ApplicationsWindows Services",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 3",
+               "C": "3, 4",
+               "D": "2, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the C#.NET code snippet given below?if (age > 18 && no < 11)\n    a = 25;The conditionno < 11will be evaluated onlyif age > 18evaluates toTrue.The statementa = 25will get executedifany one condition isTrue.The conditionno < 11will be evaluated onlyif age > 18evaluates toFalse.The statementa = 25will get executedifboth the conditions areTrue.&& is known as a short circuiting logical operator.",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 5",
+               "C": "1, 4, 5",
+               "D": "3, 4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many values is a function capable of returning?",
+          "options": {
+               "A": "1",
+               "B": "0",
+               "C": "Depends upon how many params arguments does it use.",
+               "D": "Any number of values.",
+               "E": "Depends upon how many ref arguments does it use."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will be the correct output for the C#.NET program given below?namespace IndiabixConsoleApplication\n{ \n    class SampleProgram\n    { \n        static void Main(string[] args)\n        {\n            int a = 5; \n            int s = 0, c = 0;\n            Proc(a, ref s, ref c);\n            Console.WriteLine(s + \" \" + c);\n        }\n        static void Proc(int x, ref int ss, ref int cc)\n        {\n            ss = x * x;\n            cc = x * x * x;\n        } \n    } \n}",
+          "options": {
+               "A": "0 0",
+               "B": "25 25",
+               "C": "125 125",
+               "D": "25 125",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?class Sample\n{\n    private int i;\n    public Single j;\n    private void DisplayData()\n    {\n        Console.WriteLine(i + \" \" + j);\n    }\n    public void ShowData()\n    {\n        Console.WriteLine(i + \" \" + j);\n    }\n}",
+          "options": {
+               "A": "jcannot be declared aspublic.",
+               "B": "DisplayData()cannot be declared asprivate.",
+               "C": "DisplayData()cannot accessj.",
+               "D": "ShowData()cannot access toi.",
+               "E": "There is no error in this class."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the size of the object created by the following C#.NET code snippet?namespace IndiabixConsoleApplication\n{ \n    class Baseclass\n    {\n        private int i; \n        protected int j; \n        public int k;\n    }\n    class Derived: Baseclass\n    {\n        private int x; \n        protected int y; \n        public int z;\n    }\n    class MyProgram\n    { \n        static void Main (string[ ] args)\n        { \n            Derived d = new Derived();\n        } \n    } \n}",
+          "options": {
+               "A": "24 bytes",
+               "B": "12 bytes",
+               "C": "20 bytes",
+               "D": "10 bytes",
+               "E": "16 bytes"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In an inheritance chain which of the following members of base class are accessible to the derived class members?staticprotectedprivatesharedpublic",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 5",
+               "C": "3, 4",
+               "D": "4, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "It is illegal to make objects of one class as members of another class.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to define a variable of the typestruct Empdeclared below?struct Emp\n{\n    private String name; \n    private int age; \n    private Single sal;\n}Emp e(); e = new Emp();Emp e = new Emp;Emp e; e = new Emp;Emp e = new Emp();Emp e;",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 5",
+               "C": "4, 5",
+               "D": "1, 2, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The space required for structure variables is allocated on stack.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following CANNOT be a target for a custom attribute?",
+          "options": {
+               "A": "Enum",
+               "B": "Event",
+               "C": "Delegate",
+               "D": "Interface",
+               "E": "Namespace"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which of the following collections is the Input/Output based on a key?MapStackBitArrayHashTableSortedList",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "2 and 3 only",
+               "C": "1, 2 and 3 only",
+               "D": "4 and 5 only",
+               "E": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a classStudenthas an indexer, then which of the following is the correct way to declare this indexer to make the C#.NET code snippet given below work successfully?Student s = new Student(); \ns[1, 2] = 35;",
+          "options": {
+               "A": "class Student\n{ \n    int[ ] a = new int[5, 5]; \n    public property WriteOnly int this[int i, int j]\n    { \n        set\n        { \n            a[i, j] = value;\n        } \n    }\n}",
+               "B": "class Student\n{ \n    int[ , ] a = new int[5, 5]; \n    public int property WriteOnly\n    { \n        set\n        { \n            a[i, j] = value;\n        } \n    } \n}",
+               "C": "class Student\n{ \n    int[ , ] a = new int[5, 5];\n    public int this[int i, int j] \n    {\n        set\n        { \n            a[i, j] = value;\n        } \n    } \n}",
+               "D": "class Student\n{ \n    int[ , ] a = new int[5, 5];\n    int i, j; \n    public int this\n    { \n        set\n        { \n            a[i, j] = value;\n        } \n    } \n}"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about a namespace in C#.NET?",
+          "options": {
+               "A": "Namespaces help us to control the visibility of the elements present in it.",
+               "B": "A namespace can contain a class but not another namespace.",
+               "C": "If not mentioned, then the name 'root' gets assigned to the namespace.",
+               "D": "It is necessary to use the using statement to be able to use an element of a namespace.",
+               "E": "We need to organise the classes declared in Framework Class Library into different namespaces."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the exception reported below?Unhandled Exception: System.lndexOutOfRangeException:Index was outside the bounds of the array.at IndiabixConsoleApplication.Program.Main(String[] args) inD:\\ConsoleApplication\\Program.cs:line 14The program did not handle an exception calledIndexOutOfRangeException.The program execution continued after the exception occurred.The exception occurred in line number 14.In line number 14, the program attempted to access an array element which was beyond the bounds of the array.The CLR could not handle the exception.",
+          "options": {
+               "A": "1 only",
+               "B": "1, 2 and 3 only",
+               "C": "2 and 5 only",
+               "D": "1, 3 and 4 only",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "It is compulsory for all classes whose objects can be thrown withthrowstatement to be derived fromSystem.Exceptionclass.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In order for an instance of a derived class to completely take over a class member from a base class, the base class has to declare that member as",
+          "options": {
+               "A": "new",
+               "B": "base",
+               "C": "virtual",
+               "D": "overrides",
+               "E": "overloads"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the C#.NET code snippet given below?public class Sample\n{\n    public int x;\n    public virtual void fun()\n    { }\n}\npublic class DerivedSample : Sample\n{\n    new public void fun()\n    { }\n}",
+          "options": {
+               "A": "DerivedSampleclass hides thefun()method of base class.",
+               "B": "TheDerivedSampleclass version offun()method gets called usingSampleclass reference which holdsDerivedSampleclass object.",
+               "C": "The code replaces theDerivedSampleclass version offun()method with itsSampleclass version.",
+               "D": "It is not possible to hideSampleclass version offun()method without use ofnewinDerivedSampleclass."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about an interface used in C#.NET?",
+          "options": {
+               "A": "If a class implements an interface partially, then it should be an abstract class.",
+               "B": "A class cannot implement an interface partially.",
+               "C": "An interface can contain static methods.",
+               "D": "An interface can contain static data.",
+               "E": "Multiple interface inheritance is not allowed."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about an interface used in C#.NET?An interface can contain properties, methods and events.The  keyword  must implement forces  implementation  of an interface.Interfaces can be overloaded.Interfaces can be implemented by a class or a struct.Enhanced implementations of an interface can be developed without breaking existing code.",
+          "options": {
+               "A": "1, 2",
+               "B": "1, 4, 5",
+               "C": "3, 4",
+               "D": "3 only"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

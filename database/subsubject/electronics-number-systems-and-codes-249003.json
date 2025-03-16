@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the resultant binary of the decimal problem 49 + 1 = ?",
+        "options": {
+            "A": "01010101",
+            "B": "00110101",
+            "C": "00110010",
+            "D": "00110001"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "3428 is the decimal value for which of the following binary coded decimal (BCD) groupings?",
+        "options": {
+            "A": "11010001001000",
+            "B": "11010000101000",
+            "C": "011010010000010",
+            "D": "110100001101010"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result when a decimal 5238 is converted to base 16?",
+        "options": {
+            "A": "327.375",
+            "B": "12166",
+            "C": "1388",
+            "D": "1476"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

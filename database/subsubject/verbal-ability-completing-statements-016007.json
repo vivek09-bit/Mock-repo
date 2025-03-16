@@ -1,0 +1,44 @@
+[
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "The officer who had neglected to files his income tax returns had to ......",
+        "options": {
+            "A": "return the files",
+            "B": "pay a fine",
+            "C": "be rewarded",
+            "D": "play mischief",
+            "E": "give warning"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "Unless you work harder you will fail, means ......",
+        "options": {
+            "A": "if you fail you will work harder",
+            "B": "you must at least plan well than you will not fail",
+            "C": "hardly you will fail if you do not desire so",
+            "D": "if you do not put more efforts, then you will fail",
+            "E": "if you only work and work alone, you will fail"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "His behaviour is so unpredictable that he ......",
+        "options": {
+            "A": "never depends upon others for getting his work done",
+            "B": "is seldom trusted by others",
+            "C": "always finds it difficult to keep his word",
+            "D": "always insists on getting the work completed on time",
+            "E": "seldom trusts others as far as the work schedule is concerned"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

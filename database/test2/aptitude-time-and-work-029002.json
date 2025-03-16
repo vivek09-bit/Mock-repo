@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:",
+        "options": {
+            "A": "4 days",
+            "B": "5 days",
+            "C": "6 days",
+            "D": "7 days"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let 1 man's 1 day's work =xand 1 boy's 1 day's work =y.Then, 6x+ 8y=1and 26x+ 48y=1.102Solving these two equations, we get :x=1andy=1.100200(15 men + 20 boy)'s 1 day's work =15+20=1.100200415 men and 20 boys can do the work in 4 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?",
+        "options": {
+            "A": "8 hours",
+            "B": "10 hours",
+            "C": "12 hours",
+            "D": "24 hours"
+        },
+        "correct_answer": "C",
+        "answer_description": "A's 1 hour's work =1;4(B + C)'s 1 hour's work =1;3(A + C)'s 1 hour's work =1.2(A + B + C)'s 1 hour's work =1+1=7.4312B's 1 hour's work =7-1=1.12212B alone will take 12 hours to do the work."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do it in:",
+        "options": {
+            "A": "15 days",
+            "B": "20 days",
+            "C": "25 days",
+            "D": "30 days"
+        },
+        "correct_answer": "C",
+        "answer_description": "(A + B)'s 1 day's work =110C's 1 day's work =150(A + B + C)'s 1 day's work =1+1=6=3. .... (i)10505025A's 1 day's work = (B + C)'s 1 day's work .... (ii)From (i) and (ii), we get: 2 x (A's 1 day's work) =325A's 1 day's work =3.50B's 1 day's work1-3=2=1.10505025So, B alone could do the work in 25 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?",
+        "options": {
+            "A": "23 days",
+            "B": "37 days",
+            "C": "37",
+            "D": "40 days"
+        },
+        "correct_answer": "C",
+        "answer_description": "Whole work is done by A in20 x5= 25 days.4Now,1 -4i.e.,1work is done by A and B in 3 days.55Whole work will be done by A and B in (3 x 5) = 15 days.A's 1 day's work =1, (A + B)'s 1 day's work =1.2515B's 1 day's work =1-1=4=2.152515075So, B alone would do the work in75= 371days.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?",
+        "options": {
+            "A": "11:30 A.M.",
+            "B": "12 noon",
+            "C": "12:30 P.M.",
+            "D": "1:00 P.M."
+        },
+        "correct_answer": "D",
+        "answer_description": "(P + Q + R)'s 1 hour's work =1+1+1=37.81012120Work done by P, Q and R in 2 hours =37x 2=37.12060Remaining work =1 -37=23.6060(Q + R)'s 1 hour's work =1+1=11.101260Now,11work is done by Q and R in 1 hour.60So,23work will be done by Q and R in60x23=23hours2 hours.60116011So, the work will be finished approximately 2 hours after 11 A.M., i.e., around 1 P.M."
+    }
+]

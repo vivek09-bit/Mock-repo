@@ -1,0 +1,270 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct ways to set a value3.14in a variablepisuch that it cannot be modified?",
+          "options": {
+               "A": "float pi = 3.14F;",
+               "B": "#define pi 3.14F;",
+               "C": "const float pi = 3.14F;",
+               "D": "const float pi; pi = 3.14F;",
+               "E": "pi = 3.14F;"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement correctly assigns a value33to a variablec?byte a = 11, b = 22, c;",
+          "options": {
+               "A": "c = (byte) (a + b);",
+               "B": "c = (byte) a + (byte) b;",
+               "C": "c = (int) a + (int) b;",
+               "D": "c = (int)(a + b);",
+               "E": "c = a + b;"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about Bitwise|operator used in C#.NET?",
+          "options": {
+               "A": "The|operator can be used to put OFF a bit.",
+               "B": "The|operator can be used to Invert a bit.",
+               "C": "The|operator can be used to check whether a bit is ON.",
+               "D": "The|operator can be used to check whether a bit is OFF.",
+               "E": "The|operator can be used to put ON a bit."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the Bitwise&operator used in C#.NET?The&operator can be used to Invert a bit.The&operator can be used to put ON a bit.The&operator can be used to put OFF a bit.The&operator can be used to check whether a bit is ON.The&operator can be used to check whether a bit is OFF.",
+          "options": {
+               "A": "1, 2, 4",
+               "B": "2, 3, 5",
+               "C": "3, 4",
+               "D": "3, 4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A function can be used in an expression, whereas a subroutine cannot be.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?",
+          "options": {
+               "A": "There   is  one  garbage  collector per program  running  in memory.",
+               "B": "There is one common garbage collector for all programs.",
+               "C": "An object is destroyed by the garbage collector when only one reference refers to it.",
+               "D": "We  have  to  specifically  run  the  garbage  collector after executing Visual Studio.NET."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Can static procedures access instance data?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{ \n    class index\n    {\n        protected int count;\n        public index()\n        {\n            count = 0;\n        }\n    }\n    class index1: index\n    {\n        public void increment()\n        {\n            count = count +1;\n        }\n    }\n    class MyProgram\n    {\n        static void Main(string[] args)\n        {\n            index1 i = new index1(); \n            i.increment(); \n        }\n    }\n}countshould be declared aspublicif it is to become available in the inheritance chain.countshould be declared asprotectedif it is to become available in the inheritance chain.While constructing an object referred to byifirstly constructor of index class will be called followed by constructor ofindex1class.Constructor of index class does not get inherited inindex1class.countshould be declared as Friend if it is to become available in the inheritance chain.",
+          "options": {
+               "A": "1, 2, 5",
+               "B": "2, 3, 4",
+               "C": "3, 5",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements should be added to the subroutine fun( ) if the C#.NET code snippet given below is to output 9 13?class BaseClass\n{\n    protected int i = 13;\n}\nclass Derived: BaseClass\n{\n    int i = 9; \n    public void fun()\n    {\n        // [*** Add statement here ***]\n    } \n}",
+          "options": {
+               "A": "Console.WriteLine(base.i + \" \" + i);",
+               "B": "Console.WriteLine(i + \" \" + base.i);",
+               "C": "Console.WriteLine(mybase.i + \" \" + i);",
+               "D": "Console.WriteLine(i + \" \" + mybase.i);",
+               "E": "Console.WriteLine(i + \" \" + this.i);"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When would a structure variable get destroyed?",
+          "options": {
+               "A": "When no reference refers to it, it will get garbage collected.",
+               "B": "Depends upon whether it is created usingnewor without usingnew.",
+               "C": "When it goes out of scope.",
+               "D": "Depends   upon   the   Project   Settings   made   in   Visual Studio.NET.",
+               "E": "Depends upon whether we free it's memory usingfree()ordelete()."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the structure declaration given below?struct Book\n{\n    private String name; \n    protected int totalpages; \n    public Single price; \n    public void Showdata()\n    {\n        Console.WriteLine(name + \" \" + totalpages + \" \" + price);\n    } \n    Book()\n    {\n        name = \" \"; \n        totalpages = 0;\n        price = 0.0f; \n    } \n} \nBook b = new Book();We cannot declare the access modifier oftotalpagesasprotected.We cannot declare the access modifier ofnameasprivate.We  cannot define  a zero-argument constructor inside  a structure.We cannot declare the access modifier of price aspublic.We can define aShowdata()method inside a structure.",
+          "options": {
+               "A": "1, 2",
+               "B": "1, 3, 5",
+               "C": "2, 4",
+               "D": "3, 4, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which   of   the   following   is   the   necessary   condition   for implementing delegates?",
+          "options": {
+               "A": "Class declaration",
+               "B": "Inheritance",
+               "C": "Run-time Polymorphism",
+               "D": "Exceptions",
+               "E": "Compile-time Polymorphism"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about a delegate?Inheritance is a prerequisite for using delegates.Delegates are type-safe.Delegates provide wrappers for function pointers.The declaration of a delegate must match the signature of the method that we intend to call using it.Functions called using delegates are always late-bound.",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "1, 2 and 3 only",
+               "C": "2, 3 and 4 only",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Attributes can be applied toMethodClassAssemblyNamespaceEnum",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "1, 2 and 3",
+               "C": "4 and 5 only",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are valid about generics in .NET Framework?Generics is a language feature.We can create a generic class, however, we cannot create a generic interface in C#.NET.Generics delegates are not allowed in C#.NET.Generics are useful in collection classes in .NET framework.None of the above",
+          "options": {
+               "A": "1 and 2 Only",
+               "B": "1, 2 and 3 Only",
+               "C": "1 and 4 Only",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct aboutenumused in C#.NET?Everyenumis derived from an Object class.Everyenumis a value type.There does not exist a way to print an element of anenumas a string.Everyenumis a reference type.Thedefaultunderlying datatype of anenumisint.",
+          "options": {
+               "A": "1, 2, 5",
+               "B": "1, 4",
+               "C": "3, 5",
+               "D": "2, 3, 4"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about anenumused inC#.NET?To use the keywordenum, we should either use [enum] orSystem.Enum.enumis a keyword.Enum is class declared inSystem.Typenamespace.Enum is a class declared in the current project's root namespace.Enum is a class declared inSystemnamespace.",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 4",
+               "C": "2, 5",
+               "D": "3, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n( \nclass Sample\n{ \n    private enum color : int\n    { \n        red, \n        green, \n        blue\n    }\n    public void fun()\n    {\n        Console.WriteLine(color.red); \n    }\n}\nclass Program\n{ \n    static void Main(string[ ] args)\n    { \n        // Use enum color here\n    } \n} \n}To define a variable of typeenumcolor inMain(), we should use the statement,color c;.enum colorbeingprivateit cannot be used inMain().We must declareenum coloraspublicto be able to use it outside theclass Sample.To define a variable of type enum color inMain(), we should use the statement,Sample.color c;.We must declareprivate enum coloroutside the class to be able to use it inMain().",
+          "options": {
+               "A": "1, 2, 3",
+               "B": "2, 3, 4",
+               "C": "3, 4",
+               "D": "4, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the using statement used in C#.NET?",
+          "options": {
+               "A": "usingstatement can be placed anywhere in the C#.NET source code file.",
+               "B": "It is permitted to define a member at namespace level as ausingalias.",
+               "C": "A C#.NET source code file can contain any number ofusingstatement.",
+               "D": "By usingusingstatement it is possible to create an alias for the namespace but not for the namespace element.",
+               "E": "By usingusingstatement it is possible to create an alias for the namespace element but not for the namespace."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is correct way to rewrite the C#.NET code snippet given below?using Microsoft.VisualBasic;\nusing System.Windows.Forms;\nMessageBox.Show(\"Wait for a\" + ControlChars.CrLf + \"miracle\");",
+          "options": {
+               "A": "using System.Windows.Forms;\nusing CtrlChars = Microsoft.VisualBasic.ControlChars; \nMessageBox.Show(\"Wait for a\" + CrLf + \"miracle\");",
+               "B": "using Microsoft.VisualBasic; \nusing System.Windows.Forms; \nCtrlChars = ControlChars;\nMessageBox.Show(\"Wait for a\" + CtrlChars.CrLf + \"miracle\");",
+               "C": "using Microsoft.VisualBasic; \nusing System.Windows.Forms; \nCtrlChars = ControlChars; \nMessageBox.Show (\"Wait for a\" + CrLf + \"miracle\");",
+               "D": "using System.Windows.Forms;\nusing CtrlChars = Microsoft.VisualBasic.ControlChars; \nMessageBox.Show(\"Wait for a\" + CtrlChars.CrLf + \"miracle\");"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

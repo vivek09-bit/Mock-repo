@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many flip-flops are required to produce a divide-by-128 device?",
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not an Altera primitive port identifier?",
+        "options": {
+            "A": "clk",
+            "B": "ena",
+            "C": "clr",
+            "D": "prn"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The timing network that sets the output frequency of a 555 astable circuit contains ________.",
+        "options": {
+            "A": "three external resistors are used",
+            "B": "two external resistors and an external capacitor are used",
+            "C": "an external resistor and two external capacitors are used",
+            "D": "no external resistor or capacitor is required"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between the enable input of the 7475 and the clock input of the 7474?",
+        "options": {
+            "A": "The 7475 is edge-triggered.",
+            "B": "The 7474 is edge-triggered."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The phenomenon of interpreting unwanted signals onJandKwhileCp(clock pulse) is HIGH is called ________.",
+        "options": {
+            "A": "parity error checking",
+            "B": "ones catching",
+            "C": "digital discrimination",
+            "D": "digital filtering"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

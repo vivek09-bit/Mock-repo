@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{\n    public int aMethod()\n    {\n        static int i = 0;\n        i++;\n        return i;\n    }\n    public static void main(String args[])\n    {\n        Test test = new Test();\n        test.aMethod();\n        int j = test.aMethod();\n        System.out.println(j);\n    }\n}",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "Compilation failed becausestaticwas an illegal start of expression - method variables do not have a modifier (they are always considered local)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Equals \n{\n    public static void main(String [] args) \n    {\n        int x = 100;\n        double y = 100.1;\n        boolean b = (x = y); /* Line 7 */\n        System.out.println(b);\n    }\n}",
+          "options": {
+               "A": "true",
+               "B": "false",
+               "C": "Compilation fails",
+               "D": "An exception is thrown at runtime"
+          },
+          "correct_answer": "C",
+          "answer_description": "The code will not compile because in line 7, the line will work only if we use(x==y)in the line. The==operator compares values to produce a boolean, whereas the=operator assigns a value to variables.Option A, B, and D are incorrect because the code does not get as far as compiling. If we corrected this code, the output would be false."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Bitwise \n{\n    public static void main(String [] args) \n    {\n        int x = 11 & 9;\n        int y = x ^ 3;\n        System.out.println( y | 12 );\n    }\n}",
+          "options": {
+               "A": "0",
+               "B": "7",
+               "C": "8",
+               "D": "14"
+          },
+          "correct_answer": "D",
+          "answer_description": "The&operator produces a 1 bit when both bits are 1. The result of the&operation is 9. The^operator produces a 1 bit when exactly one bit is 1; the result of this operation is 10. The|operator produces a 1 bit when at least one bit is 1; the result of this operation is 14."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class SSBool \n{\n    public static void main(String [] args) \n    {\n        boolean b1 = true;\n        boolean b2 = false;\n        boolean b3 = true;\n        if ( b1 & b2 | b2 & b3 | b2 ) /* Line 8 */\n            System.out.print(\"ok \");\n        if ( b1 & b2 | b2 & b3 | b2 | b1 ) /*Line 10*/\n            System.out.println(\"dokey\");\n    }\n}",
+          "options": {
+               "A": "ok",
+               "B": "dokey",
+               "C": "ok dokey",
+               "D": "No output is produced",
+               "E": "Compilation error"
+          },
+          "correct_answer": "B",
+          "answer_description": "The&operator has a higher precedence than the|operator so that on line 8b1andb2are evaluated together as areb2 & b3. The final b1 in line 10 is what causes that if test to be true. Hence it prints \"dokey\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class PassA \n{\n    public static void main(String [] args) \n    {\n        PassA p = new PassA();\n        p.start();\n    }\n\n    void start() \n    {\n        long [] a1 = {3,4,5};\n        long [] a2 = fix(a1);\n        System.out.print(a1[0] + a1[1] + a1[2] + \" \");\n        System.out.println(a2[0] + a2[1] + a2[2]);\n    }\n\n    long [] fix(long [] a3) \n    {\n        a3[1] = 7;\n        return a3;\n    }\n}",
+          "options": {
+               "A": "12 15",
+               "B": "15 15",
+               "C": "3 4 5 3 7 5",
+               "D": "3 7 5 3 7 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Output: 15 15The reference variablesa1anda3refer to the same long array object. When the[1]element is updated in thefix()method, it is updating the array referred to bya1. The reference variablea2refers to the same array object.So Output: 3+7+5+\" \"3+7+5Output: 15 15 Because Numeric values will be added"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int x = 3; \nint y = 1; \nif (x = y) /* Line 3 */\n{\n    System.out.println(\"x =\" + x); \n}",
+          "options": {
+               "A": "x = 1",
+               "B": "x = 3",
+               "C": "Compilation fails.",
+               "D": "The code runs with no output."
+          },
+          "correct_answer": "C",
+          "answer_description": "Line 3 uses an assignment as opposed to comparison. Because of this, the if statement receives an integer value instead of a boolean. And so the compilation fails."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int x = l, y = 6; \nwhile (y--) \n{\n    x++; \n} \nSystem.out.println(\"x = \" + x +\" y = \" + y);",
+          "options": {
+               "A": "x = 6 y = 0",
+               "B": "x = 7 y = 0",
+               "C": "x = 6 y = -1",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "Compilation fails because the while loop demands a boolean argument for it's looping condition, but in the code, it's given an int argument.while(true) { //insert code here }"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?for (int i = 0; i < 4; i += 2) \n{ \n    System.out.print(i + \" \"); \n} \nSystem.out.println(i); /* Line 5 */",
+          "options": {
+               "A": "0 2 4",
+               "B": "0 2 4 5",
+               "C": "0 1 2 3 4",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "Compilation fails on the line 5 -System.out.println(i);as the variableihas only been declared within the for loop. It is not a recognised variable outside the code block of loop."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class X \n{  \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod();  \n            System.out.print(\"A\");  \n        } \n        catch (RuntimeException ex) /* Line 10 */\n        { \n            System.out.print(\"B\"); \n        } \n        catch (Exception ex1) \n        { \n            System.out.print(\"C\"); \n        } \n        finally \n        {\n            System.out.print(\"D\"); \n        } \n        System.out.print(\"E\"); \n    } \n    public static void badMethod() \n    { \n        throw new RuntimeException(); \n    } \n}",
+          "options": {
+               "A": "BD",
+               "B": "BCD",
+               "C": "BDE",
+               "D": "BCDE"
+          },
+          "correct_answer": "C",
+          "answer_description": "A Run time exception is thrown and caught in the catch statement on line 10. All the code after the finally statement is run because the exception has been caught."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class ExceptionTest \n{ \n    class TestException extends Exception {} \n    public void runTest() throws TestException {} \n    public void test() /* Point X */ \n    { \n        runTest(); \n    } \n}At Point X on line 5, which code is necessary to make the code compile?",
+          "options": {
+               "A": "No code is necessary.",
+               "B": "throws Exception",
+               "C": "catch ( Exception e )",
+               "D": "throws RuntimeException"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct. This works because it DOES throw an exception if an error occurs.Option A is wrong. If you compile the code as given the compiler will complain:\"unreported exception  must be caught or declared to be thrown\" The class extendsExceptionso we are forced to test for exceptions.Option C is wrong. The catch statement belongs in a method body not a method specification.Option D is wrong.TestExceptionis a subclass ofExceptiontherefore the test method, in this example, must throwTestExceptionor some other class further up theExceptiontree. ThrowingRuntimeExceptionis just not on as this belongs in thejava.lang.RuntimeExceptionbranch (it is not a superclass ofTestException). The compiler complains with the same error as in A above."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?",
+          "options": {
+               "A": "java.util.SortedMap",
+               "B": "java.util.TreeMap",
+               "C": "java.util.TreeSet",
+               "D": "java.util.Hashtable"
+          },
+          "correct_answer": "D",
+          "answer_description": "Hashtableis the only class listed that provides synchronized methods. If you need synchronization great; otherwise, useHashMap, it's faster."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the numerical range of char?",
+          "options": {
+               "A": "0 to 32767",
+               "B": "0 to 65535",
+               "C": "-256 to 255",
+               "D": "-32768 to 32767"
+          },
+          "correct_answer": "B",
+          "answer_description": "The char type is integral but unsigned. The range of a variable of type char is from0 to 216-1or0 to 65535. Java characters are Unicode, which is a 16-bit encoding capable of representing a wide range of international characters. If the most significant nine bits of acharare0, then the encoding is the same as seven-bit ASCII."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need to store elements in a collection that guarantees that no duplicates are stored. Which one of the following interfaces provide that capability?",
+          "options": {
+               "A": "Java.util.Map",
+               "B": "Java.util.List",
+               "C": "Java.util.Collection",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct. AMapcannot contain duplicate keys.Option B is wrong.Liststypically allow duplicate elements.Option C is wrong.Collectionallows duplicate elements."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are true statements?TheIteratorinterface declares only three methods:hasNext,nextandremove.TheListIteratorinterface extends both theListandIteratorinterfaces.TheListIteratorinterface provides forward and backward iteration capabilities.TheListIteratorinterface provides the ability to modify the List during iteration.TheListIteratorinterface provides the ability to determine its position in the List.",
+          "options": {
+               "A": "2, 3, 4 and 5",
+               "B": "1, 3, 4 and 5",
+               "C": "3, 4 and 5",
+               "D": "1, 2 and 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "TheListIteratorinterface extends theIteratorinterface and declares additional methods to provide forward and backward iteration capabilities, List modification capabilities, and the ability to determine the position of the iterator in the List."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which method must be defined by a class implementing thejava.lang.Runnableinterface?",
+          "options": {
+               "A": "void run()",
+               "B": "public void run()",
+               "C": "public void start()",
+               "D": "void run(int priority)"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct because in an interface all methods are abstract by default therefore they must be overridden by the implementing class. TheRunnableinterface only contains 1 method, thevoid run()method therefore it must be implemented.Option A and D are incorrect because they are narrowing the access privileges i.e. package(default) access is narrower than public access.Option C is not method in theRunnableinterface therefore it is incorrect."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements are true?Deadlock will not occur ifwait()/notify()is usedA thread will resume execution as soon as its sleep duration expires.Synchronization can prevent two objects from being accessed by the same thread.Thewait()method is overloaded to accept a duration.Thenotify()method is overloaded to accept a duration.Bothwait()andnotify()must be called from a synchronized context.",
+          "options": {
+               "A": "1 and 2",
+               "B": "3 and 5",
+               "C": "4 and 6",
+               "D": "1 and 3"
+          },
+          "correct_answer": "C",
+          "answer_description": "Statements (4) and (6) are correct. (4) is correct because thewait()method is overloaded to accept a wait duration in milliseconds. If the thread has not been notified by the time the wait duration has elapsed, then the thread will move back to runnable even without having been notified.(6) is correct becausewait()/notify()/notifyAll()must all be called from within a synchronized, context. A thread must own the lock on the object its invokingwait()/notify()/notifyAll()on.(1) is incorrect becausewait()/notify()will not prevent deadlock.(2) is incorrect because a sleeping thread will return to runnable when it wakes up, but it might not necessarily resume execution right away. To resume executing, the newly awakened thread must still be moved from runnable to running by the scheduler.(3) is incorrect because synchronization prevents two or more threads from accessing the same object.(5) is incorrect becausenotify()is not overloaded to accept a duration."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is true?",
+          "options": {
+               "A": "If assertions are compiled into a source file, and if no flags are included at runtime, assertions will execute by default.",
+               "B": "As of Java version 1.4, assertion statements are compiled by default.",
+               "C": "With the proper use of runtime arguments, it is possible to instruct the VM to disable assertions for a certain class, and to enable assertions for a certain package, at the same time.",
+               "D": "When evaluating command-line arguments, the VM gives-eaflags precedence over-daflags."
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is true because multiple VM flags can be used on a single invocation of a Java program.Option A is incorrect because at runtime assertions are ignored by default.Option B is incorrect because as of Java 1.4 you must add the argument-source1.4 to the command line if you want the compiler to compile assertion statements.Option D is incorrect because the VM evaluates all assertion flags left to right."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?try \n{\n    Float f1 = new Float(\"3.0\");\n    int x = f1.intValue();\n    byte b = f1.byteValue();\n    double d = f1.doubleValue();\n    System.out.println(x + b + d);\n}\ncatch (NumberFormatException e) /* Line 9 */\n{\n    System.out.println(\"bad number\"); /* Line 11 */\n}",
+          "options": {
+               "A": "9.0",
+               "B": "bad number",
+               "C": "Compilation fails on line 9.",
+               "D": "Compilation fails on line 11."
+          },
+          "correct_answer": "A",
+          "answer_description": "ThexxxValue()methods convert any numeric wrapper object's value to any primitive type. When narrowing is necessary, significant bits are dropped and the results are difficult to calculate."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class ExamQuestion6 \n{\n    static int x; \n    boolean catch()\n    {\n        x++; \n        return true; \n    } \n    public static void main(String[] args)\n    {\n        x=0; \n        if ((catch() | catch()) || catch()) \n            x++; \n        System.out.println(x); \n    } \n}",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "Compilation Fails"
+          },
+          "correct_answer": "D",
+          "answer_description": "Initially this looks like a question about the logical and logical shortcut operators \"|\" and \"||\" but on closer inspection it should be noticed that the name of the boolean method in this code is \"catch\". \"catch\" is a reserved keyword in the Java language and cannot be used as a method name. Hence Compilation will fail."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?String s = \"hello\"; \nObject o = s; \nif( o.equals(s) )\n{\n    System.out.println(\"A\"); \n} \nelse\n{\n    System.out.println(\"B\"); \n} \nif( s.equals(o) )\n{\n    System.out.println(\"C\"); \n} \nelse\n{ \n    System.out.println(\"D\"); \n}ABCD",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "3 and 4",
+               "D": "1 and 2"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

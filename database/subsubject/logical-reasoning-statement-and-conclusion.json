@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners.Conclusions:80% of the team consists of spinners.The opening batsmen were spinners.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "According to the statement, 80% of the total runs were made by spinners. So, I does not follow. Nothing about the opening batsmen is mentioned in the statement. So, II also does not follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:The old order changed yielding place to new.Conclusions:Change is the law of nature.Discard old ideas because they are old.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, I directly follows from the given statement. Also, it is mentioned that old ideas are replaced by new ones, as thinking changes with the progressing time. So, II does not follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Government has spoiled many top ranking financial institutions by appointing bureaucrats as Directors of these institutions.Conclusions:Government should appoint Directors of the financial institutes taking into consideration the expertise of the person in the area of finance.The Director of the financial institute should have expertise commensurate with the financial work carried out by the institute.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "According to the statement, Government has spoiled financial institutions by appointing bureaucrats as Directors. This means that only those persons should be appointed as Directors who are experts in finance and are acquainted with the financial work of the institute. So, both I and II follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Population increase coupled with depleting resources is going to be the scenario of many developing countries in days to come.Conclusions:The population of developing countries will not continue to increase in future.It will be very difficult for the governments of developing countries to provide its people decent quality of life.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "The fact given in I is quite contrary to the given statement. So, I does not follow. II mentions the direct implications of the state discussed in the statement. Thus, II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Prime age school-going children in urban India have now become avid as well as more regular viewers of television, even in households without a TV. As a result there has been an alarming decline in the extent of readership of newspapers.Conclusions:Method of increasing the readership of newspapers should be devised.A team of experts should be sent to other countries to study the impact of TV. on the readership of newspapers.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "The statement concentrates on the increasing viewership of TV. and does not stress either on increasing the readership of newspapers or making studies regarding the same. So, neither I nor II follows."
+    }
+]

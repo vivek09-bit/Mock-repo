@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the input to a comparator is a sine wave, the output is a",
+        "options": {
+            "A": "ramp voltage",
+            "B": "sine wave",
+            "C": "rectangular wave",
+            "D": "sawtooth wave"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A basic series regulator has",
+        "options": {
+            "A": "an error detector",
+            "B": "a load",
+            "C": "a reference voltage",
+            "D": "both an error detector and a reference voltage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A comparator is an example of a(n)",
+        "options": {
+            "A": "active filter",
+            "B": "current source",
+            "C": "linear circuit",
+            "D": "nonlinear circuit"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Initially, the closed-loop gain (Acl) of a Wien-bridge oscillator should be",
+        "options": {
+            "A": "Acl< 3",
+            "B": "Acl> 3",
+            "C": "0",
+            "D": "Acl1"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In an averaging amplifier, the input resistances are",
+        "options": {
+            "A": "equal to the feedback resistance",
+            "B": "less than the feedback resistance",
+            "C": "greater than the feedback resistance",
+            "D": "unequal"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

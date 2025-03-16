@@ -1,0 +1,280 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On the PC side, the printer port is a:",
+          "options": {
+               "A": "25 pin female serial connector",
+               "B": "15 pin female parallel connector",
+               "C": "25 pin male serial connector",
+               "D": "15 pin female serial connector",
+               "E": "25 pin female parallel connector"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What could cause a fixed disk error.",
+          "options": {
+               "A": "No-CD installed",
+               "B": "bad ram",
+               "C": "slow processor",
+               "D": "Incorrect CMOS settings",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which part of the laser printer should NOT be exposed to sunlight?",
+          "options": {
+               "A": "Transfer corona assembly",
+               "B": "PC drum",
+               "C": "Primary corona wire",
+               "D": "Toner cartridge",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which DOS driver is used to emulate expanded memory?",
+          "options": {
+               "A": "Himem.sys",
+               "B": "EMM386.exe",
+               "C": "Mem386.sys",
+               "D": "Ramdrive.sys",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When is the risk for electrostatic discharge the greatest?",
+          "options": {
+               "A": "Day time",
+               "B": "High humidity",
+               "C": "Low humidity",
+               "D": "Night time",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The ESD wrist strap is designed to protect PC Components or Service Technicians ?",
+          "options": {
+               "A": "PC Components",
+               "B": "Service Technicians",
+               "C": "Both"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the Binary numbering system, a (1) represents a jumper being shorted and a (0) represents a jumper being open. On a three-bit jumper block on a SCSI drive, how would an ID of logical 3 be set?",
+          "options": {
+               "A": "100",
+               "B": "010",
+               "C": "011",
+               "D": "101",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A PC with a 486DX2 processor runs internally at 50Mhz. What speed would its external logic be running?",
+          "options": {
+               "A": "l0Mhz",
+               "B": "25Mhz",
+               "C": "50Mhz",
+               "D": "100 Mhz",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the i/o address for com1?",
+          "options": {
+               "A": "3e8",
+               "B": "3bc",
+               "C": "5f8",
+               "D": "3f8",
+               "E": "008"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the main communication method from one PDA to another PDA?",
+          "options": {
+               "A": "IR",
+               "B": "USB",
+               "C": "RS-232",
+               "D": "IEEE 1394",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How can you totally protect a PC from damage during an electrical storm?",
+          "options": {
+               "A": "Disconnect the AC power cable",
+               "B": "Disconnect all external cables and power cords",
+               "C": "Use a surge protector",
+               "D": "Turn off the AC power",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What Does EISA stand for?",
+          "options": {
+               "A": "Extended Industry Standard Architecture",
+               "B": "Expanded Industry Standard Architecture",
+               "C": "Enhanced Industry Standard Architecture",
+               "D": "Electronics   Industry  Standard Architecture",
+               "E": "All of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What device prevents power interruptions, resulting in corrupted data?",
+          "options": {
+               "A": "Battery back-up unit",
+               "B": "Surge protector",
+               "C": "Multiple SIMMs strips",
+               "D": "Data guard system",
+               "E": "Turn off the AC power"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is the easiest component to environmentally recycle?",
+          "options": {
+               "A": "Motherboards",
+               "B": "CMOS batteries",
+               "C": "Toner cartridges",
+               "D": "Cathode ray tubes",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to hand up a MODEM when using the \"AT Answer Command set\"?",
+          "options": {
+               "A": "ATZ",
+               "B": "ATD",
+               "C": "ATR",
+               "D": "ATH",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have a 15 pin female connector with the pins in two rows. What could you connect with this?",
+          "options": {
+               "A": "Serial device",
+               "B": "Parallel device",
+               "C": "MIDI device",
+               "D": "Video device",
+               "E": "Joystick"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is a type of preventative maintenance used on a hard drive?",
+          "options": {
+               "A": "Disk check diagnostics",
+               "B": "Head alignment diagnostics",
+               "C": "Initializing",
+               "D": "Uninstalling programs",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A brownout is defined as:",
+          "options": {
+               "A": "a slightly elevated voltage lasting from seconds to minutes or more",
+               "B": "a slightly decreased voltage lasting from seconds to minutes or more",
+               "C": "complete power out lasting a few minutes",
+               "D": "alternating power out, power on lasting a few minutes",
+               "E": "has nothing to do with electricity"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A PC with a 486DX2 processor runs internally at 50Mhz. What speed would its external logic be running?",
+          "options": {
+               "A": "l0Mhz",
+               "B": "25Mhz",
+               "C": "50Mhz",
+               "D": "100 Mhz",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You are testing the resistance in Ohms of a fuse on a 2 amp system. If the fuse is good, the meter should read?",
+          "options": {
+               "A": "0.0",
+               "B": "0.2",
+               "C": "5.0",
+               "D": "2.0",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

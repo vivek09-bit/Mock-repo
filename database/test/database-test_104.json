@@ -1,0 +1,242 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Because it contains a description of its own structure, a database is considered to be ________ .",
+          "options": {
+               "A": "described",
+               "B": "metadata compatible",
+               "C": "self-describing",
+               "D": "an application program"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The command to eliminate a table from a database is:",
+          "options": {
+               "A": "REMOVE TABLE CUSTOMER;",
+               "B": "DROP TABLE CUSTOMER;",
+               "C": "DELETE TABLE CUSTOMER;",
+               "D": "UPDATE TABLE CUSTOMER;"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When the parent entity is required, a new child row can always be inserted.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is an SQL virtual table that is constructed from other tables?",
+          "options": {
+               "A": "Just another table",
+               "B": "A view",
+               "C": "A relation",
+               "D": "Query results"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which prefixes are available to Oracle triggers?",
+          "options": {
+               "A": ":new only",
+               "B": ":old only",
+               "C": "Both :new and :old",
+               "D": "Neither :new nor :old"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which JDBC driver Types are for use over communications networks?",
+          "options": {
+               "A": "Type 3 only",
+               "B": "Type 4 only",
+               "C": "Both Type 3 and Type 4",
+               "D": "Neither Type 3 nor Type 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is bytecode?",
+          "options": {
+               "A": "Machine-specific code",
+               "B": "Java code",
+               "C": "Machine-independent code",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What servlet processor was developed by Apache Foundation and Sun?",
+          "options": {
+               "A": "Apache Tomcat",
+               "B": "Apache Web server",
+               "C": "Sun servlet processor",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Java bytecode is machine-specific code.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Even though Java is machine-independent, JSPs are not.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a common form of RFM analysis, customers are sorted in five groups and given a score of 1 to 5 depending on their group.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The database approach requires additional costs and risks.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A time stamp is a time value that is associated with a data value.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true concerning triggers?",
+          "options": {
+               "A": "You do not create them with SQL.",
+               "B": "They execute against only some applications that access a database.",
+               "C": "They have an event, condition, and action.",
+               "D": "They cannot cascade (cause another trigger to fire)."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A fat client is a PC configured for handling user interfaces and some application processing, usually with no or limited local data storage.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Information repositories are replacing data dictionaries in many organizations.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A distributed database is which of the following?",
+          "options": {
+               "A": "A single logical database that is spread to multiple locations and is interconnected by a network",
+               "B": "A loose collection of file that is spread to multiple locations and is interconnected by a network",
+               "C": "A single logical database that is limited to one location.",
+               "D": "A loose collection of file that is limited to one location."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is true concerning objects and/or classes?",
+          "options": {
+               "A": "An object is an instance of a class.",
+               "B": "A class is an instance of an object.",
+               "C": "An object includes encapsulates only data.",
+               "D": "A class includes encapsulates only data."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The UML notation is useful for graphically depicting an object-oriented analysis or design model.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The ODMG Object Model requires that a relationship be specified in both directions.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

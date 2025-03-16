@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "WAN:COLOUR",
+        "options": {
+            "A": "corpulent:weight",
+            "B": "insipid:flavour",
+            "C": "pallid:complexion",
+            "D": "enigmatic:puzzle"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "PORK:PIG",
+        "options": {
+            "A": "rooster:chicken",
+            "B": "mutton:sheep",
+            "C": "steer:beef",
+            "D": "lobster:crustacean"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "AFTER:BEFORE",
+        "options": {
+            "A": "first:second",
+            "B": "present:past",
+            "C": "contemporary:historic",
+            "D": "successor:predecessor"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "INDIGENT:WEALTHY",
+        "options": {
+            "A": "angry:rich",
+            "B": "native:affluent",
+            "C": "gauche:graceful",
+            "D": "scholarly:erudite"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "DISTANCE:MILE",
+        "options": {
+            "A": "liquid:litre",
+            "B": "bushel:corn",
+            "C": "weight:scale",
+            "D": "fame:television"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Deficit financing implies",
+        "options": {
+            "A": "printing new currency notes",
+            "B": "replacing new currency with worn out currency",
+            "C": "public expenditure in excess of public revenue",
+            "D": "public revenue in excess of public expenditure"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which of the following sequences the change in quantity of money leads to change in price level in the Keynesian models?",
+        "options": {
+            "A": "Change in quantity of money - change in investment - change in employment and output - change in rate of interest - change in price level",
+            "B": "Change in quantity of money - change in employment and output - change in investment - change in the rate of interest - change in price level",
+            "C": "Change in quantity of money - change in investment - change in rate of interest - change in employment and output - change in price level",
+            "D": "Change in quantity of money - change in rate of interest - change in investment - change in employment and output - change in price level"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Foreign Direct Investment ceilings in the telecom sector have been raised from 74 percent to",
+        "options": {
+            "A": "80 percent",
+            "B": "83 percent",
+            "C": "90 percent",
+            "D": "100 percent"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a part of machinery that settles industrial disputes?",
+        "options": {
+            "A": "Wage Court",
+            "B": "Works Committee",
+            "C": "Conciliation officers",
+            "D": "Board of Conciliation"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

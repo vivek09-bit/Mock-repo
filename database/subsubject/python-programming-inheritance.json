@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thesuper()function in Python when working with inheritance?",
+        "options": {
+            "A": "To call the superclass constructor",
+            "B": "To create a new instance of the subclass",
+            "C": "To access class attributes directly",
+            "D": "To override a method in the superclass"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesuper()function is used to call the constructor of the superclass, allowing the subclass to initialize its own attributes while reusing the superclass's initialization code."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is method overriding?",
+        "options": {
+            "A": "Creating a new method in the subclass",
+            "B": "Modifying the implementation of a method in the subclass",
+            "C": "Calling a method of the superclass",
+            "D": "Creating a new instance of the subclass"
+        },
+        "correct_answer": "B",
+        "answer_description": "Method overriding in Python involves redefining a method in the subclass with the same name and parameters as in the superclass, thereby providing a new implementation."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is multiple inheritance implemented?",
+        "options": {
+            "A": "By using theextendskeyword",
+            "B": "By using theinheritkeyword",
+            "C": "By using thesuper()function",
+            "D": "By specifying multiple parent classes in the class definition"
+        },
+        "correct_answer": "D",
+        "answer_description": "Multiple inheritance in Python is implemented by specifying multiple parent classes in the class definition, separated by commas."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theisinstance()function?",
+        "options": {
+            "A": "To check if an object is an instance of a specific class",
+            "B": "To create a new instance of a class",
+            "C": "To access class attributes directly",
+            "D": "To call a method of the superclass"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theisinstance()function is used to determine if an object is an instance of a specified class or a tuple of classes."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the order in which classes are searched when resolving a method or attribute?",
+        "options": {
+            "A": "Bottom-up: From subclass to superclass",
+            "B": "Top-down: From superclass to subclass",
+            "C": "Random: No specific order",
+            "D": "Alphabetical: Based on class names"
+        },
+        "correct_answer": "B",
+        "answer_description": "In Python, the method resolution order (MRO) follows a top-down approach, searching for methods or attributes first in the current class, then in its superclass, and so on."
+    }
+]

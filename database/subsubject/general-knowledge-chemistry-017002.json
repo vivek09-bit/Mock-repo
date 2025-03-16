@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The metallurgical process in which a metal is obtained in a fused state is called",
+        "options": {
+            "A": "smelting",
+            "B": "roasting",
+            "C": "calcinations",
+            "D": "froth floatation"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The molecules of which gas have highest speed?",
+        "options": {
+            "A": "H2at -73oC",
+            "B": "CH4at 300 K",
+            "C": "N2at 1,027oC",
+            "D": "O2at 0oC"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The oldest rocks in the earth's crust were once molten, and came from deep inside the earth. The molten rock, called magma, spewed out in volcanic eruptions during the earth;s early life and solidified into hard rock's called",
+        "options": {
+            "A": "granite",
+            "B": "basalt",
+            "C": "igneous rocks",
+            "D": "sedimentary rocks"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The law which states that the amount of gas dissolved in a liquid is proportional to its partial pressure is",
+        "options": {
+            "A": "Dalton's law",
+            "B": "Gay Lussac's law",
+            "C": "Henry's law",
+            "D": "Raoult's law"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The main buffer system of the human blood is",
+        "options": {
+            "A": "H2CO3- HCO3",
+            "B": "H2CO3- CO32-",
+            "C": "CH3COOH - CH3COO-",
+            "D": "NH2CONH2- NH2CONH+"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

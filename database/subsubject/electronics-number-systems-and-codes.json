@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Base 10 refers to which number system?",
+        "options": {
+            "A": "binary coded decimal",
+            "B": "decimal",
+            "C": "octal",
+            "D": "hexadecimal"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert the decimal number 151.75 to binary.",
+        "options": {
+            "A": "10000111.11",
+            "B": "11010011.01",
+            "C": "00111100.00",
+            "D": "10010111.11"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert the binary number 1011010 to hexadecimal.",
+        "options": {
+            "A": "5B",
+            "B": "5F",
+            "C": "5A",
+            "D": "5C"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The number of bits used to store a BCD digit is:",
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "1",
+            "D": "2"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sample-and-hold circuits in ADCs are designed to:",
+        "options": {
+            "A": "sample and hold the output of the binary counter during the conversion process",
+            "B": "stabilize the ADCs threshold voltage during the conversion process",
+            "C": "stabilize the input analog signal during the conversion process",
+            "D": "sample and hold the ADC staircase waveform during the conversion process"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the distinct functions of layer 2 switching that increase available bandwidth on the network?Address learningRoutingForwarding and filteringCreating network loopsLoop avoidanceIP addressing",
+        "options": {
+            "A": "1, 3 and 5",
+            "B": "2, 4 and 6",
+            "C": "2 and 6",
+            "D": "3 and 5"
+        },
+        "correct_answer": "A",
+        "answer_description": "Layer 2 features include address learning, forwarding and filtering of the network, and loop avoidance."
+    }
+]

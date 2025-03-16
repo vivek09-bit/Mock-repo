@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of join is needed when you wish to include rows that do not have matching values?",
+        "options": {
+            "A": "Equi-join",
+            "B": "Natural join",
+            "C": "Outer join",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of join is needed when you wish to return rows that do have matching values?",
+        "options": {
+            "A": "Equi-join",
+            "B": "Natural join",
+            "C": "Outer join",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning a procedure?",
+        "options": {
+            "A": "You do not create them with SQL.",
+            "B": "They do not need to have a unique name.",
+            "C": "They include procedural and SQL statements.",
+            "D": "They are the same thing as a function."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A CASE SQL statement is which of the following?",
+        "options": {
+            "A": "A way to establish an IF-THEN-ELSE in SQL.",
+            "B": "A way to establish a loop in SQL.",
+            "C": "A way to establish a data definition in SQL.",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true concerning routines and triggers?",
+        "options": {
+            "A": "Both consist of procedural code.",
+            "B": "Both have to be called to operate.",
+            "C": "Both run automatically.",
+            "D": "Both are stored in the database."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

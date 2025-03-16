@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is a fast-look-ahead carry circuit used in the 7483 4-bit full-adder?",
+        "options": {
+            "A": "to decrease the cost",
+            "B": "to make it smaller",
+            "C": "to slow down the circuit",
+            "D": "to speed up the circuit"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the 2's complement of –1101102.",
+        "options": {
+            "A": "1101002",
+            "B": "1010102",
+            "C": "0010012",
+            "D": "0010102"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What logic function is the sum output of a half-adder?",
+        "options": {
+            "A": "AND",
+            "B": "exclusive-OR",
+            "C": "exclusive-NOR",
+            "D": "NAND"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The binary adder circuit is designed to add ________ binary numbers at the same time.",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

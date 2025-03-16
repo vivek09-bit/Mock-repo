@@ -1,0 +1,71 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+        "options": {
+            "A": "159",
+            "B": "194",
+            "C": "205",
+            "D": "209",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "We may have (1 boy and 3 girls) or (2 boys and 2 girls) or (3 boys and 1 girl) or (4 boys).Required numberof ways= (6C1x4C3) + (6C2x4C2) + (6C3x4C1) + (6C4)= (6C1x4C1) + (6C2x4C2) + (6C3x4C1) + (6C2)= (6 x 4) +6 x 5x4 x 3+6 x 5 x 4x 4+6 x 52 x 12 x 13 x 2 x 12 x 1= (24 + 90 + 80 + 15)= 209."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+        "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since each desired number is divisible by 5, so we must have 5 at the unit place. So, there is 1 way of doing it.The tens place can now be filled by any of the remaining 5 digits (2, 3, 6, 7, 9). So, there are 5 ways of filling the tens place.The hundreds place can now be filled by any of the remaining 4 digits. So, there are 4 ways of filling it.Required number of numbers = (1 x 5 x 4) = 20."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
+        "options": {
+            "A": "266",
+            "B": "5040",
+            "C": "11760",
+            "D": "86400",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required number of ways= (8C5x10C6)= (8C3x10C4)=8 x 7 x 6x10 x 9 x 8 x 73 x 2 x 14 x 3 x 2 x 1= 11760."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+        "options": {
+            "A": "32",
+            "B": "48",
+            "C": "64",
+            "D": "96",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "We may have(1 black and 2 non-black) or (2 black and 1 non-black) or (3 black).Required number of ways= (3C1x6C2) + (3C2x6C1) + (3C3)=3 x6 x 5+3 x 2x 6+ 12 x 12 x 1= (45 + 18 + 1)= 64."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+        "options": {
+            "A": "32",
+            "B": "48",
+            "C": "36",
+            "D": "60",
+            "E": "120"
+        },
+        "correct_answer": "C",
+        "answer_description": "There are 6 letters in the given word, out of which there are 3 vowels and 3 consonants.Let us mark these positions as under:(1) (2) (3) (4) (5) (6)Now, 3 vowels can be placed at any of the three places, marked 1, 3, 5.Number of ways of arranging the vowels =3P3= 3! = 6.Also, the 3 consonants can be arranged at the remaining 3 positions.Number of ways of these arrangements =3P3= 3! = 6.Total number of ways = (6 x 6) = 36."
+    }
+]

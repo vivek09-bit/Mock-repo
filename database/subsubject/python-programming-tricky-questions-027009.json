@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following Python code?a = [1, 2, 3]\r\nb = a\r\na = a + [4, 5]\r\nprint(b)",
+        "options": {
+            "A": "[1, 2, 3]",
+            "B": "[1, 2, 3, 4, 5]",
+            "C": "This code will result in an error.",
+            "D": "[1, 2, 3, 4, 5] (but with a warning)"
+        },
+        "correct_answer": "A",
+        "answer_description": "The concatenation creates a new list, andbstill refers to the original list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following Python code?class Parent:\r\n    def __init__(self, x):\r\n        self.x = x\r\n\r\nclass Child(Parent):\r\n    def __init__(self, x, y):\r\n        super().__init__(x)\r\n        self.y = y\r\n\r\nobj = Child(10, 20)\r\nresult = obj.x * obj.y\r\nprint(result)",
+        "options": {
+            "A": "30",
+            "B": "200",
+            "C": "This code will result in an error.",
+            "D": "10"
+        },
+        "correct_answer": "B",
+        "answer_description": "The child classChildinitializesxandy, and the result is the product of these attributes."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:def my_generator():\r\n    for i in range(5):\r\n        yield i * 2\r\n\r\nresult = list(my_generator())\r\nprint(result)What will be the output of this code?",
+        "options": {
+            "A": "[0, 2, 4, 6, 8]",
+            "B": "[0, 1, 4, 9, 16]",
+            "C": "[0, 2, 4, 8, 16]",
+            "D": "This code will result in an error."
+        },
+        "correct_answer": "A",
+        "answer_description": "The generator yields values multiplied by 2 in the range [0, 2, 4, 6, 8]."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following Python code?x = [1, 2, 3]\r\ny = x\r\nx += [4, 5]\r\nprint(y)",
+        "options": {
+            "A": "[1, 2, 3]",
+            "B": "[1, 2, 3, 4, 5]",
+            "C": "[1, 2, 3, 4, 5] (but with a warning)",
+            "D": "This code will result in an error."
+        },
+        "correct_answer": "B",
+        "answer_description": "The+=operator modifies the list in-place, andyreflects this change."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following Python code?class MyClass:\n    x = 10\n\nobj1 = MyClass()\nobj2 = MyClass()\nobj1.x += 5\nresult = obj2.x\nprint(result)",
+        "options": {
+            "A": "10",
+            "B": "5",
+            "C": "15",
+            "D": "This code will result in an error."
+        },
+        "correct_answer": "A",
+        "answer_description": "The code defines a class calledMyClasswith a class variablexset to 10.obj1andobj2are both instances of theMyClassclass.Whenobj1.x += 5is executed, it modifies thexattribute ofobj1by adding5to its current value. Sinceobj1does not have its ownxattribute, it accesses the class variablexand performs the addition. As a result,obj1.xbecomes 15.Whenresult = obj2.xis executed, it assigns the value ofobj2.xto the variableresult. Sinceobj2does not have its ownxattribute, it also accesses the class variablex. Therefore, result is10.Finally,10is printed to the console as the output of the code."
+    }
+]

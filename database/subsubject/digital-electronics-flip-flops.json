@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Determine the output frequency for a frequency division circuit that contains 12 flip-flops with an input clock frequency of 20.48 MHz.",
+        "options": {
+            "A": "10.24 kHz",
+            "B": "5 kHz",
+            "C": "30.24 kHz",
+            "D": "15 kHz"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement BEST describes the operation of a negative-edge-triggered D flip-flop?",
+        "options": {
+            "A": "The logic level at theDinput is transferred toQon NGT ofCLK.",
+            "B": "TheQoutput is ALWAYS identical to theCLKinput if theDinput is HIGH.",
+            "C": "TheQoutput is ALWAYS identical to theDinput whenCLK= PGT.",
+            "D": "TheQoutput is ALWAYS identical to theDinput."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Propagation delay time, tPLH, is measured from the ________.",
+        "options": {
+            "A": "triggering edge of the clock pulse to the LOW-to-HIGH transition of the output",
+            "B": "triggering edge of the clock pulse to the HIGH-to-LOW transition of the output",
+            "C": "preset input to the LOW-to-HIGH transition of the output",
+            "D": "clear input to the HIGH-to-LOW transition of the output"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is aJ-Kflip-flop made to toggle?",
+        "options": {
+            "A": "J= 0,K= 0",
+            "B": "J= 1,K= 0",
+            "C": "J= 0,K= 1",
+            "D": "J= 1,K= 1"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many flip-flops are in the 7475 IC?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

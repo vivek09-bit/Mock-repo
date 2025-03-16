@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "There was a sharp class division at Harappa and Mohen-jodaro. This is clear from the",
+          "options": {
+               "A": "Indus seals excavated",
+               "B": "religious beliefs of the Harappans",
+               "C": "tools and implements used by the Harappans",
+               "D": "different types of dwellings excavated"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "We can know about early vedic period from",
+          "options": {
+               "A": "archaeological  excavations",
+               "B": "the Rig Veda",
+               "C": "Jatak Katha",
+               "D": "contemporary culture"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "We hear of two envoys being sent to the Roman kings, one in 27-28 AD to the court of Augustus and the other in 110-20 AD to the court of",
+          "options": {
+               "A": "Cartius",
+               "B": "Trajan",
+               "C": "Nero",
+               "D": "Brutus"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The initial increase of magnetic field in magnetic storms is caused",
+          "options": {
+               "A": "when the shock wave, associated with the gusty solar wind, compresses the magnetosphere",
+               "B": "when there is a large decrease in field intensity",
+               "C": "when the gust wind itself engulfs the magnetosphere",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Jesus Christ was crucified in",
+          "options": {
+               "A": "4 BC",
+               "B": "4 AD",
+               "C": "20 AD",
+               "D": "1 AD"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Rabindranath Tagore is also known as",
+          "options": {
+               "A": "Guruji",
+               "B": "Gurudev",
+               "C": "Mahamana",
+               "D": "Netaji"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following crops is regarded as a plantation crop?",
+          "options": {
+               "A": "Coconut",
+               "B": "Cotton",
+               "C": "Sugarcane",
+               "D": "Rice"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Who invented Electric Generator?",
+          "options": {
+               "A": "Sir Alexander Graham Bell",
+               "B": "Michael Faraday",
+               "C": "Alfred B. Nobel",
+               "D": "Thomas Alva Edison"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What inspired reflecting road lights to be invented?",
+          "options": {
+               "A": "Car door reflecting mirrors",
+               "B": "The light a cat's eyes gave off on a fence",
+               "C": "Sun light on steel posts on road sides",
+               "D": "The sun light on the windshield"
+          },
+          "correct_answer": "B",
+          "answer_description": "In 1933, Englishman Percy Shaw was driving home when he saw a cat's eyes reflecting. He had been headed straight towards a fence with the cat on it, but on the other side was a drop of hundreds of feet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which year did Ajay Sharma play his only Test match?",
+          "options": {
+               "A": "1990",
+               "B": "1989",
+               "C": "1985",
+               "D": "1988"
+          },
+          "correct_answer": "D",
+          "answer_description": "Ajay Sharma scored 30 and 23 runs in the 1st and 2nd innings respectively of that match."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A coating of dust on a computer's main circuit boards has this probable consequence",
+          "options": {
+               "A": "Overheating",
+               "B": "Short circuits",
+               "C": "Slower hard disk",
+               "D": "None"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The maximum capacity of any orbital is",
+          "options": {
+               "A": "2",
+               "B": "6",
+               "C": "14",
+               "D": "Cannot be determined unless the principal quantum number is known"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Most highly intelligent mammals are",
+          "options": {
+               "A": "whales",
+               "B": "dolphins",
+               "C": "elephants",
+               "D": "kangaroos"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Photosynthesis is a process",
+          "options": {
+               "A": "reductive and exergonic",
+               "B": "reductive and catabolic",
+               "C": "reductive, endergonic and catabolic",
+               "D": "reductive, endergonic and anabolic"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Deforestation in the uplands may cause pollution in rivers through",
+          "options": {
+               "A": "leaching of salts",
+               "B": "erosion and silting",
+               "C": "inflow of forest material",
+               "D": "increased discharge rate"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What was the purpose of establishment of NATO?",
+          "options": {
+               "A": "To maintain and develop individual and collective capacity to resist armed attack",
+               "B": "To defend economic and trade interests of the developing nations of the world",
+               "C": "TO provide collective defence and economic cooperation in south-east Asia",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The main properties of cosmic ray particles are",
+          "options": {
+               "A": "its electric charge",
+               "B": "its rest mass",
+               "C": "its energy",
+               "D": "All of these are its properties"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The periods of different eras are further divided into",
+          "options": {
+               "A": "eons",
+               "B": "epochs",
+               "C": "stages",
+               "D": "Any of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Pandit Vishwa Mohan Bhatt, who has won the prestigious 'Grammy Awards' is an exponent in which of the following musical instruments?",
+          "options": {
+               "A": "Guitar",
+               "B": "Violin",
+               "C": "sarod",
+               "D": "Tabla"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The 'satellite freight city' is being developed near which of the following cities?",
+          "options": {
+               "A": "New Delhi",
+               "B": "Orissa",
+               "C": "Gurgaon",
+               "D": "Kolkata"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

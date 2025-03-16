@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The term Complete for a UML has the same meaning as which of the following for an EER diagram?",
+        "options": {
+            "A": "Overlapping rule",
+            "B": "Disjoint rule",
+            "C": "Total specialization rule",
+            "D": "Partial specialization rule"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A UML diagram includes which of the following?",
+        "options": {
+            "A": "Class name",
+            "B": "List of attributes",
+            "C": "List of operations",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An object can have which of the following multiplicities?",
+        "options": {
+            "A": "Zero",
+            "B": "One",
+            "C": "More than one",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statement is true concerning objects and/or classes?",
+        "options": {
+            "A": "An object is an instance of a class.",
+            "B": "A class is an instance of an object.",
+            "C": "An object includes encapsulates only data.",
+            "D": "A class includes encapsulates only data."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following applies to a class rather than an object?",
+        "options": {
+            "A": "Query",
+            "B": "Update",
+            "C": "Scope",
+            "D": "Constructor"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

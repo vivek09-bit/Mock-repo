@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The object definition language (ODL) is which of the following?",
+        "options": {
+            "A": "Used to develop logical schemas",
+            "B": "A data definition language for OODB",
+            "C": "A method to implement a logical schema",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An atomic literal is which of the following?",
+        "options": {
+            "A": "Strings",
+            "B": "Boolean",
+            "C": "Long",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning an ODBMS?",
+        "options": {
+            "A": "They have the ability to store complex data types on the Web.",
+            "B": "They are overtaking RDBMS for all applications.",
+            "C": "They are most useful for traditional, two-dimensional database table applications.",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The reserved word enum is used for which of the following?",
+        "options": {
+            "A": "To define a range for an attribute.",
+            "B": "To define a range for a class.",
+            "C": "To define a range for a relationship.",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an unordered collection of elements that may contain duplicates?",
+        "options": {
+            "A": "Set",
+            "B": "Bag",
+            "C": "List",
+            "D": "Dictionary"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

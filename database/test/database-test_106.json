@@ -1,0 +1,246 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A database design may be based on existing data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "SQL is:",
+          "options": {
+               "A": "a programming language.",
+               "B": "an operating system.",
+               "C": "a data sublanguage.",
+               "D": "a DBMS."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The result of a SQL SELECT statement is a(n) ________ .",
+          "options": {
+               "A": "report",
+               "B": "form",
+               "C": "file",
+               "D": "table"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To sort the results of a query use:",
+          "options": {
+               "A": "SORT BY.",
+               "B": "GROUP BY.",
+               "C": "ORDER BY.",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A relation in this form is free of all modification anomalies.",
+          "options": {
+               "A": "First normal form",
+               "B": "Second normal form",
+               "C": "Third normal form",
+               "D": "Domain/key normal form"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a relation, the columns are sometimes called \"attributes.\"",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Proper normalization eliminates duplicated data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "One common design problem when designing a database from existing data is the presence of inconsistent values in the received data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An identifier typically uses more than one attribute.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The default extension for an Oracle SQL*Plus file is:",
+          "options": {
+               "A": ".txt.",
+               "B": ".pls.",
+               "C": ".ora.",
+               "D": ".sql."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An SQL Server 2000 language that adds programming elements like parameters, variables, IF, WHILE loops, and so forth, to the basic capabilities of SQL is called:",
+          "options": {
+               "A": "COBOL.",
+               "B": "VB.NET.",
+               "C": "TRANSACT SQL.",
+               "D": "Visual Basic."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "READ COMMITTED is the default isolation level.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "OLE DB tabular data providers present data in the form of rowsets.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many JDBC driver types does Sun define?",
+          "options": {
+               "A": "One",
+               "B": "Two",
+               "C": "Three",
+               "D": "Four"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The \"F\" in RFM analysis stands for ________ .",
+          "options": {
+               "A": "frequently",
+               "B": "freshness",
+               "C": "fast food",
+               "D": "fantasy"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The following SQL is which type of join: SELECT CUSTOMER_T. CUSTOMER_ID, ORDER_T. CUSTOMER_ID, NAME, ORDER_ID FROM CUSTOMER_T,ORDER_T WHERE CUSTOMER_T. CUSTOMER_ID = ORDER_T. CUSTOMER_ID",
+          "options": {
+               "A": "Equi-join",
+               "B": "Natural join",
+               "C": "Outer join",
+               "D": "Cartesian join"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A benefit of the three-tier architecture is which of the following?",
+          "options": {
+               "A": "New modules can be built to support specific business needs",
+               "B": "Performance improves for compiled SQL statements",
+               "C": "Results in a thinner client and database server",
+               "D": "All of the above."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is part of an administrative policy to secure a database?",
+          "options": {
+               "A": "Authentication policies",
+               "B": "Limiting particular areas within a building to only authorized people",
+               "C": "Ensure appropriate responses rates are in external maintenance agreements",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A semijoin is which of the following?",
+          "options": {
+               "A": "Only the joining attributes are sent from one site to another and then all of the rows are returned.",
+               "B": "All of the attributes are sent from one site to another and then only the required rows are returned.",
+               "C": "Only the joining attributes are sent from one site to another and then only the required rows are returned.",
+               "D": "All of the attributes are sent from one site to another and then only the required rows are returned."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A collection of literals or object types is called a bag.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

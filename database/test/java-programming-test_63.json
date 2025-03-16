@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two cause a compiler error?float[ ] f = new float(3);float f2[ ] = new float[ ];float[ ]f1 = new float[3];float f3[ ] = new float[3];float f5[ ] = {1.0f, 2.0f, 2.0f};",
+          "options": {
+               "A": "2, 4",
+               "B": "3, 5",
+               "C": "4, 5",
+               "D": "1, 2"
+          },
+          "correct_answer": "D",
+          "answer_description": "(1) causes two compiler errors ( '[' expected and illegal start of expression) because the wrong type of bracket is used,( )instead of[ ]. The following is  the correct syntax:float[ ] f = new float[3];(2) causes a compiler error ( '{' expected ) because the array constructor does not specify the number of elements in the array. The following is the correct syntax:float f2[ ] = new float[3];(3), (4), and (5) compile without error."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class Test { }What is the prototype of the default constructor?",
+          "options": {
+               "A": "Test( )",
+               "B": "Test(void)",
+               "C": "public Test( )",
+               "D": "public Test(void)"
+          },
+          "correct_answer": "C",
+          "answer_description": "Option A and B are wrong because they use the default access modifier and the access modifier for the class ispublic(remember, the default constructor has the same access modifier as the class).Option D is wrong. The void makes the compiler think that this is a method specification - in fact if it were a method specification the compiler would spit it out."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the widest valid returnType for methodA in line 3?public class ReturnIt \n{ \n    returnType methodA(byte x, double y) /* Line 3 */\n    { \n        return (long)x / y * 2; \n    } \n}",
+          "options": {
+               "A": "int",
+               "B": "byte",
+               "C": "long",
+               "D": "double"
+          },
+          "correct_answer": "D",
+          "answer_description": "However A, B and C are all wrong. Each of these would result in a narrowing conversion. Whereas we want a widening conversion, therefore the only correct answer is D. Don't be put off by thelongcast, this applies only to the variable x and not the rest of the expression. It is the variable y (of typedouble) that forces the widening conversion todouble.Java's widening conversions are:- From a byte to a short, an int, a long, a float, or a double.- From a short, an int, a long, a float, or a double.- From a char to an int, a long, a float, or a double.- From an int to a long, a float, or a double.- From a long to a float, or a double.- From a float to a double."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{  \n    public static void main(String args[])\n    { \n        class Foo \n        {\n            public int i = 3;\n        } \n        Object o = (Object)new Foo();\n        Foo foo = (Foo)o;\n        System.out.println(\"i = \" + foo.i);\n    }\n}",
+          "options": {
+               "A": "i = 3",
+               "B": "Compilation fails.",
+               "C": "i = 5",
+               "D": "AClassCastExceptionwill occur."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class A\n{ \n    void A() /* Line 3 */\n    {\n        System.out.println(\"Class A\"); \n    } \n    public static void main(String[] args) \n    { \n        new A(); \n    } \n}",
+          "options": {
+               "A": "Class A",
+               "B": "Compilation fails.",
+               "C": "An exception is thrown at line 3.",
+               "D": "The code executes with no output."
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct. The specification at line 3 is for a method and not a constructor and this method is never called therefore there is no output. The constructor that is called is the default constructor."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        int x= 0;\n        int y= 0;\n        for (int z = 0; z < 5; z++) \n        {\n            if (( ++x > 2 ) || (++y > 2)) \n            {\n                x++;\n            }\n        }\n    System.out.println(x + \" \" + y);\n    }\n}",
+          "options": {
+               "A": "5 3",
+               "B": "8 2",
+               "C": "8 3",
+               "D": "8 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "The first two iterations of theforloop bothxandyare incremented. On the third iterationxis incremented, and for the first time becomes greater than 2. The short circuit or operator||keepsyfrom ever being incremented again andxis incremented twice on each of the last three iterations."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "import java.awt.Button;\nclass CompareReference \n{\n    public static void main(String [] args) \n    {\n        float f = 42.0f;\n        float [] f1 = new float[2];\n        float [] f2 = new float[2];\n        float [] f3 = f1;\n        long x = 42;\n        f1[0] = 42.0f;\n    }\n}which three statements are true?f1 == f2f1 == f3f2 == f1[1]x == f1[0]f == f1[0]",
+          "options": {
+               "A": "1, 2 and 3",
+               "B": "2, 4 and 5",
+               "C": "3, 4 and 5",
+               "D": "1, 4 and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) is correct because the reference variablesf1andf3refer to the same array object.(4) is correct because it is legal to compare integer and floating-point types.(5) is correct because it is legal to compare a variable with an array element.(3) is incorrect becausef2is an array object andf1[1]is an array element."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class MyProgram \n{\n    public static void main(String args[])\n    {\n        try \n        {\n            System.out.print(\"Hello world \");\n        }\n        finally \n        {\n            System.out.println(\"Finally executing \");\n        }\n    }\n}",
+          "options": {
+               "A": "Nothing. The program will not compile because no exceptions are specified.",
+               "B": "Nothing. The program will not compile because no catch clauses are specified.",
+               "C": "Hello world.",
+               "D": "Hello world Finally executing"
+          },
+          "correct_answer": "D",
+          "answer_description": "Finally clauses are always executed. The program will first execute thetryblock, printing Hello world, and will then execute the finally block, printing Finally executing.Option A, B, and C are incorrect based on the program logic described above. Remember that either a catch or a finally statement must follow a try. Since the finally is present, the catch is not required."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "System.out.print(\"Start \");\ntry \n{\n    System.out.print(\"Hello world\");\n    throw new FileNotFoundException();\n}\nSystem.out.print(\" Catch Here \"); /* Line 7 */\ncatch(EOFException e) \n{\n    System.out.print(\"End of file exception\");\n}\ncatch(FileNotFoundException e) \n{\n    System.out.print(\"File not found\");\n}and given thatEOFExceptionandFileNotFoundExceptionare both subclasses ofIOException, and further assuming this block of code is placed into a class, which statement is most true concerning this code?",
+          "options": {
+               "A": "The code will not compile.",
+               "B": "Code output: Start Hello world File Not Found.",
+               "C": "Code output: Start Hello world End of file exception.",
+               "D": "Code output: Start Hello world Catch Here File not found."
+          },
+          "correct_answer": "A",
+          "answer_description": "Line 7 will cause a compiler error. The only legal statements aftertryblocks are eithercatchor finally statements.Option B, C, and D are incorrect based on the program logic described above. If line 7 was removed, the code would compile and the correct answer would be Option B."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which class does not override theequals()andhashCode()methods, inheriting them directly from class Object?",
+          "options": {
+               "A": "java.lang.String",
+               "B": "java.lang.Double",
+               "C": "java.lang.StringBuffer",
+               "D": "java.lang.Character"
+          },
+          "correct_answer": "C",
+          "answer_description": "java.lang.StringBufferis the only class in the list that uses the default methods provided by classObject."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need to store elements in a collection that guarantees that no duplicates are stored and all elements can be accessed in natural order. Which interface provides that capability?",
+          "options": {
+               "A": "java.util.Map",
+               "B": "java.util.Set",
+               "C": "java.util.List",
+               "D": "java.util.Collection"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct. A set is a collection that contains no duplicate elements. The iterator returns the elements in no particular order (unless this set is an instance of some class that provides a guarantee). A map cannot contain duplicate keys but it may contain duplicate values.ListandCollectionallow duplicate elements.Option A is wrong. A map is an object that maps keys to values. A map cannot contain duplicate keys; each key can map to at most one value. TheMapinterface provides three collection views, which allow a map's contents to be viewed as a set of keys, collection of values, or set of key-value mappings. The order of a map is defined as the order in which the iterators on the map's collection views return their elements. Some map implementations, like theTreeMapclass, make specific guarantees as to their order (ascending key order); others, like theHashMapclass, do not (does not guarantee that the order will remain constant over time).Option C is wrong. A list is an ordered collection (also known as a sequence). The user of this interface has precise control over where in the list each element is inserted. The user can access elements by their integer index (position in the list), and search for elements in the list. Unlike sets, lists typically allow duplicate elements.Option D is wrong. A collection is also known as a sequence. The user of this interface has precise control over where in the list each element is inserted. The user can access elements by their integer index (position in the list), and search for elements in the list. Unlike sets, lists typically allow duplicate elements."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "/* Missing Statement ? */\npublic class foo \n{\n    public static void main(String[]args)throws Exception \n    {\n        java.io.PrintWriter out = new java.io.PrintWriter(); \n        new java.io.OutputStreamWriter(System.out,true); \n        out.println(\"Hello\"); \n    } \n}What line of code should replace the missing statement to make this program compile?",
+          "options": {
+               "A": "No statement required.",
+               "B": "import java.io.*;",
+               "C": "include java.io.*;",
+               "D": "import java.io.PrintWriter;"
+          },
+          "correct_answer": "A",
+          "answer_description": "The usual method for using/importing the java packages/classes is by using an import statement at the top of your code. However it is possible to explicitly import the specific class that you want to use as you use it which is shown in the code above. The disadvantage of this however is that every time you create a new object you will have to use the class path in the case \"java.io\" then the class name in the long run leading to a lot more typing."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class MyOuter \n{\n    public static class MyInner \n    {\n        public static void foo() { }\n    }\n}which statement, if placed in a class other thanMyOuterorMyInner, instantiates an instance of the nested class?",
+          "options": {
+               "A": "MyOuter.MyInner m = new MyOuter.MyInner();",
+               "B": "MyOuter.MyInner mi = new MyInner();",
+               "C": "MyOuter m = new MyOuter();MyOuter.MyInner mi = m.new MyOuter.MyInner();",
+               "D": "MyInner mi = new MyOuter.MyInner();"
+          },
+          "correct_answer": "A",
+          "answer_description": "MyInneris a static nested class, so it must be instantiated using the fully-scoped name ofMyOuter.MyInner.Option B is incorrect because it doesn't use the enclosing name in the new.Option C is incorrect because it uses incorrect syntax. When you instantiate a nested class by invoking new on an instance of the enclosing class, you do not use the enclosing name. The difference between Option A and C is that Option C is calling new on an instance of the enclosing class rather than just new by itself.Option D is incorrect because it doesn't use the enclosing class name in the variable declaration."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is true about an anonymous inner class?",
+          "options": {
+               "A": "It can extend exactly one class and implement exactly one interface.",
+               "B": "It can extend exactly one class and can implement multiple interfaces.",
+               "C": "It can extend exactly one class or implement exactly one interface.",
+               "D": "It can implement multiple interfaces regardless of whether it also extends a class."
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is correct because the syntax of an anonymous inner class allows for only one named type after the new, and that type must be either a single interface (in which case the anonymous class implements that one interface) or a single class (in which case the anonymous class extends that one class).Option A, B, D, and E are all incorrect because they don't follow the syntax rules described in the response for answer Option C."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Under which conditions will a currently executing thread stop?When an interrupted exception occurs.When a thread of higher priority is ready (becomes runnable).When the thread creates a new thread.When thestop()method is called.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1 and 4",
+               "D": "2 and 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "The statements (2) and (4) makes currently executing thread to stop."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two are valid constructors for Thread?Thread(Runnable r, String name)Thread()Thread(int priority)Thread(Runnable r, ThreadGroup g)Thread(Runnable r, int priority)",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1 and 2",
+               "D": "2 and 5"
+          },
+          "correct_answer": "C",
+          "answer_description": "(1) and (2) are both valid constructors forThread.(3), (4), and (5) are not legalThreadconstructors, although (4) is close. If you reverse the arguments in (4), you'd have a valid constructor."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two of the following methods are defined in class Thread?start()wait()notify()run()terminate()",
+          "options": {
+               "A": "1 and 4",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "2 and 4"
+          },
+          "correct_answer": "A",
+          "answer_description": "(1) and (4). Onlystart()andrun()are defined by theThreadclass.(2) and (3) are incorrect because they are methods of theObjectclass. (5) is incorrect because there's no such method in any thread-related class."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "ThenotifyAll()method must be called from a synchronized context.",
+               "B": "To callwait(), an object must own the lock on the thread.",
+               "C": "Thenotify()method is defined in class java.lang.Thread.",
+               "D": "Thenotify()method causes a thread to immediately release its locks."
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct because thenotifyAll()method (along withwait()andnotify()) must always be called from within a synchronized context.Option B is incorrect because to callwait(), the thread must own the lock on the object thatwait()is being invoked on, not the other way around.Option C is wrong becausenotify()is defined injava.lang.Object.Option D is wrong becausenotify()will not cause a thread to release its locks. The thread can only release its locks by exiting the synchronized code."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public Object m() \n{  \n    Object o = new Float(3.14F); \n    Object [] oa = new Object[l];\n    oa[0] = o; /* Line 5 */\n    o = null;  /* Line 6 */\n    oa[0] = null; /* Line 7 */\n    return o; /* Line 8 */\n}When is theFloatobject, created in line 3, eligible for garbage collection?",
+          "options": {
+               "A": "just after line 5",
+               "B": "just after line 6",
+               "C": "just after line 7",
+               "D": "just after line 8"
+          },
+          "correct_answer": "C",
+          "answer_description": "Option A is wrong. This simply copies the object reference into the array.Option B is wrong. The reference o is set to null, but,oa[0]still maintains the reference to theFloatobject.Option C is correct. The thread of execution will then not have access to the object."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?String a = \"ABCD\"; \nString b = a.toLowerCase(); \nb.replace('a','d'); \nb.replace('b','c'); \nSystem.out.println(b);",
+          "options": {
+               "A": "abcd",
+               "B": "ABCD",
+               "C": "dccd",
+               "D": "dcba"
+          },
+          "correct_answer": "A",
+          "answer_description": "Stringobjects are immutable, they cannot be changed, in this case we are \ntalking about the replace method which returns a newStringobject resulting from \nreplacing all occurrences ofoldCharin this string withnewChar.b.replace(char oldChar, char newChar);But since this is only a temporaryStringit must either be put to use straight away i.e.System.out.println(b.replace('a','d'));Or a new variable must be assigned its value i.e.String c = b.replace('a','d');"
+     }
+]

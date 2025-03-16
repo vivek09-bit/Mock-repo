@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What are the two main types of access control lists (ACLs)?StandardIEEEExtendedSpecialized",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "3 and 4",
+               "D": "1 and 2"
+          },
+          "correct_answer": "A",
+          "answer_description": "Standard and extended access control lists (ACLs) are used to configure security on a router."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Segmentation of a data stream happens at which layer of the OSI model?",
+          "options": {
+               "A": "Physical",
+               "B": "Data Link",
+               "C": "Network",
+               "D": "Transport"
+          },
+          "correct_answer": "D",
+          "answer_description": "The Transport layer receives large data streams from the upper layers and breaks these up into smaller pieces called segments."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When data is encapsulated, which is the correct order?",
+          "options": {
+               "A": "Data, frame, packet, segment, bit",
+               "B": "Segment, data, packet, frame, bit",
+               "C": "Data, segment, packet, frame, bit",
+               "D": "Data, segment, frame, packet, bit"
+          },
+          "correct_answer": "C",
+          "answer_description": "The encapsulation method is data, segment, packet, frame, bit."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statements are true regarding ICMP packets?They acknowledge receipt of a TCP segment.They guarantee datagram delivery.They can provide hosts with information about network problems.They are encapsulated within IP datagrams.",
+          "options": {
+               "A": "1 only",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "2, 3 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Internet Control Message Protocol (ICMP) is used to send error messages through the network, but they do not work alone. Every segment or ICMP payload must be encapsulated within an IP datagram (or packet)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have a network that needs 29 subnets while maximizing the number of host addresses available on each subnet. How many bits must you borrow from the host field to provide the correct subnet mask?",
+          "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "A 240 mask is 4 subnet bits and provides 16 subnets, each with 14 hosts. We need more subnets, so let's add subnet bits. One more subnet bit would be a 248 mask. This provides 5 subnet bits (32 subnets) with 3 host bits (6 hosts per subnet). This is the best answer."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To test the IP stack on your local host, which IP address would you ping?",
+          "options": {
+               "A": "127.0.0.0",
+               "B": "1.0.0.127",
+               "C": "127.0.0.1",
+               "D": "127.0.0.255"
+          },
+          "correct_answer": "C",
+          "answer_description": "To test the local stack on your host, ping the loopback interface of 127.0.0.1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What keystroke will terminate setup mode?",
+          "options": {
+               "A": "Ctrl+Z",
+               "B": "Ctrl+^",
+               "C": "Ctrl+C",
+               "D": "Ctrl+Shift+^"
+          },
+          "correct_answer": "C",
+          "answer_description": "You can exit setup mode at any time by using the keystrokeCtrl+C."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands sets the secret password to Cisco?",
+          "options": {
+               "A": "enable secret password Cisco",
+               "B": "enable secret cisco",
+               "C": "enable secret Cisco",
+               "D": "enable password Cisco"
+          },
+          "correct_answer": "C",
+          "answer_description": "The enable secret password is case sensitive, so the second option is wrong. To set theenable secret <password>, use theenable secret <password>command from global configuration mode."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are true regarding the commandip route 172.16.4.0 255.255.255.0 192.168.4.2?The command is used to establish a static route.The default administrative distance is used.The command is used to configure the default route.The subnet mask for the source address is 255.255.255.0.",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 4",
+               "C": "3 and 4",
+               "D": "All of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Although answer D almost seems right, it is not; the mask is the mask used on the remote \nnetwork, not the source network. Since there is no number at the end of the static route, it is \nusing the default administrative distance of 1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will show you all the translations active on your router?",
+          "options": {
+               "A": "show ip nat translations",
+               "B": "show ip nat statistics",
+               "C": "debug ip nat",
+               "D": "clear ip nat translations *"
+          },
+          "correct_answer": "A",
+          "answer_description": "The commandshow ip nat translationswill show you the translation table containing all the active NAT entries."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will show you the summary of the NAT configuration?",
+          "options": {
+               "A": "show ip nat translations",
+               "B": "show ip nat statistics",
+               "C": "debug ip nat",
+               "D": "clear ip nat translations *"
+          },
+          "correct_answer": "B",
+          "answer_description": "Theshow ip nat statisticscommand displays a summary of the NAT configuration as well as counts of active translation types, hits to an existing mapping, misses (causing an attempt to create a mapping), and expired translations."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will create a dynamic pool named Todd that will provide you with 30 global addresses?",
+          "options": {
+               "A": "ip nat pool Todd 171.16.10.65 171.16.10.94 net 255.255.255.240",
+               "B": "ip nat pool Todd 171.16.10.65 171.16.10.94 net 255.255.255.224",
+               "C": "ip nat pool todd 171.16.10.65 171.16.10.94 net 255.255.255.224",
+               "D": "ip nat pool Todd 171.16.10.1 171.16.10.254 net 255.255.255.0"
+          },
+          "correct_answer": "B",
+          "answer_description": "The commandip nat pool <name>creates the pool that hosts can use to get onto the global Internet. What makes option B correct is that the range 171.16.10.65 through 171.16.10.94 includes 30 hosts, but the mask has to match 30 hosts as well, and that mask is 255.255.255.224. Option C is wrong because the pool name has a lower case \"T\" in the pool name. Pool name's are case sensitive."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which are considered the methods of NAT?StaticIP NAT poolDynamicNAT double-translationOverload",
+          "options": {
+               "A": "1 and 6",
+               "B": "3 only",
+               "C": "1, 3 and 5",
+               "D": "All of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "You can configure NAT three ways on a Cisco router: static, dynamic, and NAT Overload (PAT)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is considered to be the address before translation?",
+          "options": {
+               "A": "Inside local",
+               "B": "Outside local",
+               "C": "Inside global",
+               "D": "Outside global"
+          },
+          "correct_answer": "A",
+          "answer_description": "The host on the private network before translation is considered to be an inside local host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is considered to be the destination host before translation?",
+          "options": {
+               "A": "Inside local",
+               "B": "Outside local",
+               "C": "Inside global",
+               "D": "Outside global"
+          },
+          "correct_answer": "B",
+          "answer_description": "The host on the global network before translation is considered to be an outside local host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the maximum data rate for the 802.11g standard?",
+          "options": {
+               "A": "6Mbps",
+               "B": "11Mbps",
+               "C": "22Mbps",
+               "D": "54Mbps"
+          },
+          "correct_answer": "D",
+          "answer_description": "The IEEE 802.11g standard provides a maximum data rate of up to 54Mbps."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the maximum distance with maximum data rate for 802.11b?",
+          "options": {
+               "A": "About 65-75 feet",
+               "B": "About 90-100 feet",
+               "C": "About 150 feet",
+               "D": "Over 200 feet"
+          },
+          "correct_answer": "C",
+          "answer_description": "The IEEE 802.11b standard provides a maximum data rate of up to only 11Mbps, and you can be around 150 feet, maybe farther, depending on conditions."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true when describing a link-local address?",
+          "options": {
+               "A": "Packets addressed to a unicast address are delivered to a single interface.",
+               "B": "These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",
+               "C": "These are like private addresses in IPv4 in that they are not meant to be routed.",
+               "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+          },
+          "correct_answer": "C",
+          "answer_description": "Link-local addresses are meant for throwing together a temporary LAN for meetings or a small LAN that is not going to be routed but needs to share and access files and services locally."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A default Frame Relay WAN is classified as what type of physical network?",
+          "options": {
+               "A": "Point-to-point",
+               "B": "Broadcast multi-access",
+               "C": "Non-broadcast multi-access",
+               "D": "Non-broadcast multipoint"
+          },
+          "correct_answer": "C",
+          "answer_description": "Frame Relay, by default, is a non-broadcast multi-access (NBMA) network, which means that broadcasts, such as RIP updates, will not be forwarded across the link by default."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which WAN encapsulations can be configured on an asynchronous serial connection?PPPATMHDLCSDLCFrame Relay",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 4",
+               "C": "3, 4 and 5",
+               "D": "All of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Please do not freak out because ATM is an answer to this question. ATM is not covered in depth on the CCNA exam. PPP is mostly used for dial-up (async) services, but ATM could be used as well, though it typically is not used anymore since PPP is so efficient."
+     }
+]

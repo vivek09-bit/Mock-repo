@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Pollen grains in plants are produced in",
+        "options": {
+            "A": "roots",
+            "B": "leaves",
+            "C": "flower",
+            "D": "stem"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Nitrogen is fixed in ecosystems in ways stated below. Which one of the statements below is false?",
+        "options": {
+            "A": "By cyanobacteria",
+            "B": "By electrical discharges in the atmosphere",
+            "C": "By industrially synthesised fertilizer",
+            "D": "By denitrification"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ptyalin is an enzyme produced in the",
+        "options": {
+            "A": "salivary glands",
+            "B": "pituitary glands",
+            "C": "thyroid glands",
+            "D": "pancreas"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Mycobacterium lepraecauses leprosy,Corynebacterium diphtheriacauses diphtheria andVibrio commacauses",
+        "options": {
+            "A": "tetanus",
+            "B": "influenza",
+            "C": "cholera",
+            "D": "typhoid"
+        },
+        "correct_answer": "C",
+        "answer_description": "Vibrio cholerae (also Kommabacillus) is a gram negative comma-shaped bacterium with a polar flagellum that causes cholera in humans"
+    }
+]

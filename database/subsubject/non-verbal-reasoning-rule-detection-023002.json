@@ -1,0 +1,15 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, choose the set of figures which follows the given rule.",
+        "image_path": null,
+        "question": "Choose the set of figures which follows the given rule.Rule:Closed figures become more and more open and open figures become more and more closed.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

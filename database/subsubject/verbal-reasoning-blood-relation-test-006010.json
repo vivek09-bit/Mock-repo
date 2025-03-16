@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If P + Q means P is the brother of Q; P x Q means P is the wife of Q and P % Q means P is the daughter of Q then which of the following means D is the uncle of A?",
+        "options": {
+            "A": "A % B x C + D",
+            "B": "A x B + C % D",
+            "C": "A + C % B x D",
+            "D": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A is the son of C; C and Q are sisters; Z is the mother of Q and P is the son of Z. Which of the following statements is true?",
+        "options": {
+            "A": "P and A are cousins",
+            "B": "P is the maternal uncle of A",
+            "C": "Q is the maternal grandfather of A",
+            "D": "C and P are sisters"
+        },
+        "correct_answer": "B",
+        "answer_description": "C and Q are sisters and A is the son of C. Hence, C is the mother of A or Z is the mother Q.Hence, Z is the maternal grandmother of A. P is the son of Z. Hence, P is the maternal uncle of A."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "M is the father of N who is the son of V. In order to know the relation of M to P, which of the statement/statements is/are necessary?P is the brother of V.The daughter of N is the granddaughter of V.",
+        "options": {
+            "A": "Only (1)",
+            "B": "Only (2)",
+            "C": "Either (1) or (2)",
+            "D": "(1) and (2) both"
+        },
+        "correct_answer": "A",
+        "answer_description": "M is the father of N and N is the son of V.Hence, V is the mother of N.From (1), P is the brother of VTherefore, M is the brother-in-law of P because V is the wife of M.From (2), the daughter of N, is the granddaughter of V. From this we do not get any relation of M to P."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If X + Y means X is the daughter of Y; X - Y means X is the brother of Y; X % Y means X is the father of Y and X x Y means X is the sister of Y. Which of the following means I is the niece of J?",
+        "options": {
+            "A": "J - N % C x I",
+            "B": "I x C - N % J",
+            "C": "J + M x C % I",
+            "D": "I x C + N - J"
+        },
+        "correct_answer": "D",
+        "answer_description": "I x C → I is the sister of CC + N → C is the daughter of Nand N - J → N is the brother of I.Hence, I is niece of J."
+    }
+]

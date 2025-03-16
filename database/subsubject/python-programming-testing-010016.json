@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does theunittest.mock.patch.objectdecorator do in Python testing?",
+        "options": {
+            "A": "Decorates a test method with a patch for an object attribute",
+            "B": "Skips a test method based on a condition",
+            "C": "Marks a test as skipped",
+            "D": "Adds a setup function to be run before the test method"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theunittest.mock.patch.objectdecorator is used to decorate a test method with a patch for an object attribute in Python testing."
+    }
+]

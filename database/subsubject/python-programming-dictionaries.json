@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you check if a key is present in a dictionary?",
+        "options": {
+            "A": "key.exists()",
+            "B": "key.in()",
+            "C": "key.present()",
+            "D": "key in dictionary"
+        },
+        "correct_answer": "D",
+        "answer_description": "Theinkeyword is used to check if a key is present in a dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you retrieve all keys from a dictionary?",
+        "options": {
+            "A": "dictionary.keys()",
+            "B": "dictionary.get_keys()",
+            "C": "dictionary.extract_keys()",
+            "D": "dictionary.all_keys()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thekeys()method is used to retrieve all keys from a dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thedictionary.setdefault(key, default_value)method?",
+        "options": {
+            "A": "Sets the default value for a key.",
+            "B": "Retrieves the default value for a key.",
+            "C": "Adds a new key-value pair with a default value.",
+            "D": "Removes a key from the dictionary."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesetdefault()method sets the default value for a key if the key is not present in the dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you remove a key-value pair from a dictionary?",
+        "options": {
+            "A": "dictionary.remove_key(key)",
+            "B": "dictionary.delete(key)",
+            "C": "dictionary.remove(key)",
+            "D": "dictionary.pop(key)"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thepop()method is used to remove a key-value pair from a dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the expressionlen(dictionary)?",
+        "options": {
+            "A": "Returns the number of keys in the dictionary.",
+            "B": "Returns the number of values in the dictionary.",
+            "C": "Returns the total number of key-value pairs.",
+            "D": "Raises aTypeError."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thelen()function returns the number of keys in a dictionary."
+    }
+]

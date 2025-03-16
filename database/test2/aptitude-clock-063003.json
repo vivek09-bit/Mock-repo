@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many times are the hands of a clock at right angle in a day?",
+        "options": {
+            "A": "22",
+            "B": "24",
+            "C": "44",
+            "D": "48"
+        },
+        "correct_answer": "C",
+        "answer_description": "In 12 hours, they are at right angles 22 times.In 24 hours, they are at right angles 44 times."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The angle between the minute hand and the hour hand of a clock when the time is 8.30, is:",
+        "options": {
+            "A": "80°",
+            "B": "75°",
+            "C": "60°",
+            "D": "105°"
+        },
+        "correct_answer": "B",
+        "answer_description": "Angle traced by hour hand in17hrs =360x17°= 255°.2122Angle traced by min. hand in 30 min. =360x 30°= 180°.60Required angle = (255 - 180)° = 75°."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many times in a day, are the hands of a clock in straight line but opposite in direction?",
+        "options": {
+            "A": "20",
+            "B": "22",
+            "C": "24",
+            "D": "48"
+        },
+        "correct_answer": "B",
+        "answer_description": "The hands of a clock point in opposite directions (in the same straight line) 11 times in every 12 hours. (Because between 5 and 7 they point in opposite directions at 6 o'clock only).So, in a day, the hands point in the opposite directions 22 times."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At what time between 4 and 5 o'clock will the hands of a watch point in opposite directions?",
+        "options": {
+            "A": "45 min. past 4",
+            "B": "40 min. past 4",
+            "C": "504min. past 411",
+            "D": "546min. past 411"
+        },
+        "correct_answer": "D",
+        "answer_description": "At 4 o'clock, the hands of the watch are 20 min. spaces apart.To be in opposite directions, they must be 30 min. spaces apart.Minute hand will have to gain 50 min. spaces.55 min. spaces are gained in 60 min.50 min. spaces are gained in60x 50min. or 546min.5511Required time = 546min. past 4.11"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At what time between 9 and 10 o'clock will the hands of a watch be together?",
+        "options": {
+            "A": "45 min. past 9",
+            "B": "50 min. past 9",
+            "C": "491min. past 911",
+            "D": "482min. past 911"
+        },
+        "correct_answer": "C",
+        "answer_description": "To be together between 9 and 10 o'clock, the minute hand has to gain 45 min. spaces.55 min. spaces gained in 60 min.45 min. spaces are gained in60x 45min or 491min.5511The hands are together at 491min. past 9.11"
+    }
+]

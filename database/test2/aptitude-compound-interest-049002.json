@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the compound interest on a sum of Rs. 25,000 after 3 years at the rate of 12 p.c.p.a.?",
+        "options": {
+            "A": "Rs. 9000.30",
+            "B": "Rs. 9720",
+            "C": "Rs. 10123.20",
+            "D": "Rs. 10483.20",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Amount= Rs.25000 x1 +123100= Rs.25000 x28x28x28252525= Rs. 35123.20C.I. = Rs. (35123.20 - 25000) = Rs. 10123.20"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+        "options": {
+            "A": "6%",
+            "B": "6.5%",
+            "C": "7%",
+            "D": "7.5%"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the rate be R% p.a.Then, 1200 x1 +R2= 1348.321001 +R2=134832=11236100120000100001 +R2=10621001001 +R=106100100R = 6%"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The least number of complete years in which a sum of money put out at 20% compound interest will be more than doubled is:",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "B",
+        "answer_description": "P1 +20n> 2P6n> 2.1005Now,6x6x6x6> 2.5555So,n= 4 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Albert invested an amount of Rs. 8000 in a fixed deposit scheme for 2 years at compound interest rate 5 p.c.p.a. How much amount will Albert get on maturity of the fixed deposit?",
+        "options": {
+            "A": "Rs. 8600",
+            "B": "Rs. 8620",
+            "C": "Rs. 8820",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Amount= Rs.8000 x1 +52100= Rs.8000 x21x212020= Rs. 8820."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The effective annual rate of interest corresponding to a nominal rate of 6% per annum payable half-yearly is:",
+        "options": {
+            "A": "6.06%",
+            "B": "6.07%",
+            "C": "6.08%",
+            "D": "6.09%"
+        },
+        "correct_answer": "D",
+        "answer_description": "Amount of Rs. 100 for 1 yearwhen compounded half-yearly= Rs.100 x1 +32= Rs. 106.09100Effective rate = (106.09 - 100)% = 6.09%"
+    }
+]

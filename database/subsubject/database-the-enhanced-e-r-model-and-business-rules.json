@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An action assertion must include which of the following?",
+        "options": {
+            "A": "Anchor object",
+            "B": "Action",
+            "C": "Corresponding object",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An oval represents which of the following in an EER?",
+        "options": {
+            "A": "Attribute",
+            "B": "Entity",
+            "C": "Optional One",
+            "D": "Relationship"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Inheritance is which of the following?",
+        "options": {
+            "A": "When a supertype entity inherits values of the subtype attribute",
+            "B": "When a subtype entity inherits values of the supertype attribute",
+            "C": "When a supertype entity inherits values of another supertype attribute",
+            "D": "When a subtype entity inherits values of another subtype attribute"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When an entity instance must be a member of only one subtype, it is which of the following?",
+        "options": {
+            "A": "Disjoint with total specialization",
+            "B": "Disjoint with partial specialization",
+            "C": "Overlap with total specialization",
+            "D": "Overlap with partial specialization"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A supertype/subtype hierarchy is which of the following?",
+        "options": {
+            "A": "Each subtype has only one attribute.",
+            "B": "Each supertype has only one attribute.",
+            "C": "Each subtype has only one supertype.",
+            "D": "Each supertype has only one subtype."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

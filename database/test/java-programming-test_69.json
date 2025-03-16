@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?import java.util.*;\npublic class NewTreeSet2 extends NewTreeSet \n{\n    public static void main(String [] args) \n    {\n        NewTreeSet2 t = new NewTreeSet2();\n        t.count();\n    }\n}\nprotected class NewTreeSet\n{\n    void count() \n    {\n        for (int x = 0; x < 7; x++,x++ ) \n        {\n            System.out.print(\" \" + x);\n        }\n    }\n}",
+          "options": {
+               "A": "0 2 4",
+               "B": "0 2 4 6",
+               "C": "Compilation fails at line 2",
+               "D": "Compilation fails at line 10"
+          },
+          "correct_answer": "D",
+          "answer_description": "Nonnested classes cannot be markedprotected(orfinalfor that matter), so the compiler will fail atprotected class NewTreeSet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Super\n{ \n    public int i = 0; \n\n    public Super(String text) /* Line 4 */\n    {\n        i = 1; \n    } \n} \n\nclass Sub extends Super\n{\n    public Sub(String text)\n    {\n        i = 2; \n    } \n\n    public static void main(String args[])\n    {\n        Sub sub = new Sub(\"Hello\"); \n        System.out.println(sub.i); \n    } \n}",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "A default no-args constructor is not created because there is a constructor supplied that has an argument, line 4. Therefore the sub-class constructor must explicitly make a call to the super class constructor:public Sub(String text)\n{ \n    super(text); // this must be the first line constructor \n    i = 2; \n}"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Base\n{ \n    Base()\n    {\n        System.out.print(\"Base\");\n    }\n} \npublic class Alpha extends Base\n{ \n    public static void main(String[] args)\n    { \n        new Alpha(); /* Line 12 */\n        new Base(); /* Line 13 */\n    } \n}",
+          "options": {
+               "A": "Base",
+               "B": "BaseBase",
+               "C": "Compilation fails",
+               "D": "The code runs with no output"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct. It would be correct if the code had compiled, and the subclassAlphahad been saved in its own file. In this case Java supplies an implicit call from the sub-class constructor to the no-args constructor of the super-class therefore line 12 causesBaseto be output. Line 13 also causesBaseto be output.Option A is wrong. It would be correct if either the main class or the subclass had not been instantiated.Option C is wrong. The code compiles.Option D is wrong. There is output."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements are true for any concrete class implementing the java.lang.Runnable interface?You can extend theRunnableinterface as long as you override thepublic run()method.The class must contain a method calledrun()from which all code for that thread will be initiated.The class must contain an emptypublic voidmethod namedrun().The class must contain apublic voidmethod namedrunnable().The class definition must include the words implementsThreadsand contain a method calledrun().The mandatory method must bepublic, with a return type ofvoid, must be calledrun(), and cannot take any arguments.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1 and 5",
+               "D": "2 and 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "(2) and (6). When a thread'srun()method completes, the thread will die. Therun()method must be declared public void and not take any arguments.(1) is incorrect because classes can neverextendinterfaces. (3) is incorrect because therun()method is typically not empty; if it were, the thread would do nothing. (4) is incorrect because the mandatory method isrun(). (5) is incorrect because the classimplements Runnable."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class X \n{  \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod(); /* Line 7 */\n            System.out.print(\"A\"); \n        } \n        catch (Exception ex) /* Line 10 */\n        {\n            System.out.print(\"B\"); /* Line 12 */\n        } \n        finally /* Line 14 */\n        {\n            System.out.print(\"C\"); /* Line 16 */\n        }  \n        System.out.print(\"D\"); /* Line 18 */\n    } \n    public static void badMethod() \n    {\n        throw new RuntimeException(); \n    } \n}",
+          "options": {
+               "A": "AB",
+               "B": "BC",
+               "C": "ABC",
+               "D": "BCD"
+          },
+          "correct_answer": "D",
+          "answer_description": "(1) ARuntimeExceptionis thrown, this is a subclass of exception.(2) The exception causes thetryto complete abruptly (line 7) therefore line 8 is never executed.(3) The exception is caught (line 10) and \"B\" is output (line 12)(4) Thefinallyblock (line 14) is always executed and \"C\" is output (line 16).(5) The exception was caught, so the program continues with line 18 and outputs \"D\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class X \n{  \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod();  \n            System.out.print(\"A\"); \n        }  \n        catch (Exception ex) \n        {\n            System.out.print(\"B\");  \n        } \n        finally \n        {\n            System.out.print(\"C\"); \n        } \n        System.out.print(\"D\"); \n    }  \n    public static void badMethod() \n    {\n        throw new Error(); /* Line 22 */\n    } \n}",
+          "options": {
+               "A": "ABCD",
+               "B": "Compilation fails.",
+               "C": "C is printed before exiting with an error message.",
+               "D": "BC is printed before exiting with an error message."
+          },
+          "correct_answer": "C",
+          "answer_description": "Erroris thrown but not recognised line(22) because the only catch attempts to catch anExceptionandExceptionis not a superclass ofError. Therefore only the code in thefinallystatement can be run before exiting with a runtime error (Exception in thread \"main\"java.lang.Error)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which interface doesjava.util.Hashtableimplement?",
+          "options": {
+               "A": "Java.util.Map",
+               "B": "Java.util.List",
+               "C": "Java.util.HashTable",
+               "D": "Java.util.Collection"
+          },
+          "correct_answer": "A",
+          "answer_description": "Hash table based implementation of theMapinterface."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?package foo; \nimport java.util.Vector; /* Line 2 */\nprivate class MyVector extends Vector \n{\n    int i = 1; /* Line 5 */\n    public MyVector() \n    { \n        i = 2; \n    } \n} \npublic class MyNewVector extends MyVector \n{\n    public MyNewVector () \n    { \n        i = 4; /* Line 15 */\n    } \n    public static void main (String args []) \n    { \n        MyVector v = new MyNewVector(); /* Line 19 */\n    } \n}",
+          "options": {
+               "A": "Compilation will succeed.",
+               "B": "Compilation will fail at line 3.",
+               "C": "Compilation will fail at line 5.",
+               "D": "Compilation will fail at line 15."
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct. The compiler complains with the error \"modifier private not allowed here\". The class is created private and is being used by another class on line 19."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What two statements are true about properly overriddenhashCode()andequals()methods?hashCode()doesn't have to be overridden ifequals()is.equals()doesn't have to be overridden ifhashCode()is.hashCode()can always return the same value, regardless of the object that invoked it.equals()can be true even if it's comparing different objects.",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "1 and 3"
+          },
+          "correct_answer": "C",
+          "answer_description": "(3) and (4) are correct.(1) and (2) are incorrect because by contracthashCode()andequals()can't be overridden unless both are overridden."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which method registers a thread in a thread scheduler?",
+          "options": {
+               "A": "run();",
+               "B": "construct();",
+               "C": "start();",
+               "D": "register();"
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is correct. Thestart()method causes this thread to begin execution; the Java Virtual Machine calls the run method of this thread.Option A is wrong. Therun()method of a thread is like themain()method to an application. Starting the thread causes the object's run method to be called in that separately executing thread.Option B is wrong. There is noconstruct()method in theThreadclass.Option D is wrong. There is noregister()method in theThreadclass."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which cannot directly cause a thread to stop executing?",
+          "options": {
+               "A": "Calling theSetPriority()method on aThreadobject.",
+               "B": "Calling thewait()method on an object.",
+               "C": "Callingnotify()method on an object.",
+               "D": "Callingread()method on anInputStreamobject."
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is correct.notify()- wakes up a single thread that is waiting on this object's monitor."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three are methods of the Object class?notify();notifyAll();isInterrupted();synchronized();interrupt();wait(long msecs);sleep(long msecs);yield();",
+          "options": {
+               "A": "1, 2, 4",
+               "B": "2, 4, 5",
+               "C": "1, 2, 6",
+               "D": "2, 3, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "(1), (2), and (6) are correct. They are all related to the list of threads waiting on the specified object.(3), (5), (7), and (8) are incorrect answers. The methodsisInterrupted()andinterrupt()are instance methods ofThread.The methodssleep()andyield()are static methods ofThread.D is incorrect becausesynchronizedis a keyword and thesynchronized()construct is part of the Java language."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class MyRunnable implements Runnable \n{\n    public void run() \n    {\n        // some code here\n    }\n}which of these will create and start this thread?",
+          "options": {
+               "A": "new Runnable(MyRunnable).start();",
+               "B": "new Thread(MyRunnable).run();",
+               "C": "new Thread(new MyRunnable()).start();",
+               "D": "new MyRunnable().start();"
+          },
+          "correct_answer": "C",
+          "answer_description": "Because the class implementsRunnable, an instance of it has to be passed to theThreadconstructor, and then the instance of theThreadhas to be started.A is incorrect. There is no constructor like this forRunnablebecauseRunnableis an interface, and it is illegal to pass a class or interface name to any constructor.B is incorrect for the same reason; you can't pass a class or interface name to any constructor.D is incorrect becauseMyRunnabledoesn't have astart()method, and the onlystart()method that can start a thread of execution is thestart()in theThreadclass."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class X2 \r\n{\r\n    public X2 x;\r\n    public static void main(String [] args) \r\n    {\r\n        X2 x2 = new X2();  /* Line 6 */\r\n        X2 x3 = new X2();  /* Line 7 */\r\n        x2.x = x3;\r\n        x3.x = x2;\r\n        x2 = new X2();\r\n        x3 = x2; /* Line 11 */\r\n        doComplexStuff();\r\n    }\r\n}after line 11 runs, how many objects are eligible for garbage collection?",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "3"
+          },
+          "correct_answer": "C",
+          "answer_description": "This is an example of the islands of isolated objects. By the time line 11 has run, the objects instantiated in lines 6 and 7 are referring to each other, but no live thread can reach either of them."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "void start() {  \n    A a = new A(); \n    B b = new B(); \n    a.s(b);  \n    b = null; /* Line 5 */\n    a = null;  /* Line 6 */\n    System.out.println(\"start completed\"); /* Line 7 */\n}When is the B object, created in line 3, eligible for garbage collection?",
+          "options": {
+               "A": "after line 5",
+               "B": "after line 6",
+               "C": "after line 7",
+               "D": "There is no way to be absolutely certain."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following would compile without error?",
+          "options": {
+               "A": "int a = Math.abs(-5);",
+               "B": "int b = Math.abs(5.0);",
+               "C": "int c = Math.abs(5.5F);",
+               "D": "int d = Math.abs(5L);"
+          },
+          "correct_answer": "A",
+          "answer_description": "The return value of theMath.abs()method is always the same as the type of the parameter passed into that method.In the case ofA, an integer is passed in and so the result is also an integer which is fine for assignment to \"int a\".The values used in B, C & D respectively are adouble, a float and a long. The compiler will complain about a possible loss of precision if we try to assign the results to an \"int\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?String x = new String(\"xyz\");\nString y = \"abc\";\nx = x + y;How many String objects have been created?",
+          "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5"
+          },
+          "correct_answer": "C",
+          "answer_description": "Line 1 creates two, one referred to by x and the lost String \"xyz\". Line 2 creates one (for a total of three). Line 3 creates one more (for a total of four), the concatenated String referred to byxwith a value of \"xyzabc\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?System.out.println(Math.sqrt(-4D));",
+          "options": {
+               "A": "-2",
+               "B": "NaN",
+               "C": "Compile Error",
+               "D": "Runtime Exception"
+          },
+          "correct_answer": "B",
+          "answer_description": "It is not possible in regular mathematics to get a value for the square-root of a negative number therefore aNaNwill be returned because the code is valid."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{ \n    public static void main(String[] args) \n    {\n        final StringBuffer a = new StringBuffer(); \n        final StringBuffer b = new StringBuffer(); \n\n        new Thread() \n        { \n            public void run() \n            {\n                System.out.print(a.append(\"A\")); \n                synchronized(b) \n                { \n                    System.out.print(b.append(\"B\")); \n                } \n            } \n        }.start(); \n            \n        new Thread() \n        {\n            public void run() \n            {\n                System.out.print(b.append(\"C\")); \n                synchronized(a) \n                {\n                    System.out.print(a.append(\"D\")); \n                } \n            } \n        }.start(); \n    } \n}",
+          "options": {
+               "A": "ACCBAD",
+               "B": "ABBCAD",
+               "C": "CDDACB",
+               "D": "Indeterminate output"
+          },
+          "correct_answer": "D",
+          "answer_description": "It gives different output while executing the same compiled code at different times.C:\\>javac Test.java\nC:\\>java Test\nABBCAD\nC:\\>java Test\nACADCB\nC:\\>java Test\nACBCBAD\nC:\\>java Test\nABBCAD\nC:\\>java Test\nACBCBAD\nC:\\>java Test\nACBCBAD\nC:\\>java Test\nABBCAD"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true given the following?Double d = Math.random();",
+          "options": {
+               "A": "0.0 < d <= 1.0",
+               "B": "0.0 <= d < 1.0",
+               "C": "Compilation fail",
+               "D": "Cannot say."
+          },
+          "correct_answer": "B",
+          "answer_description": "TheMath.random()method returns adoublevalue with a positive sign, greater than or equal to0.0and less than1.0"
+     }
+]

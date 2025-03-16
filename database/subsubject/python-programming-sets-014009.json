@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the expressionset([1, 2, 3, 4]).intersection(set([3, 4, 5, 6]))?",
+        "options": {
+            "A": "{3, 4}",
+            "B": "{}",
+            "C": "{1, 2, 3, 4, 5, 6}",
+            "D": "{1, 2}"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theintersection()method finds the common elements between two sets."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is used to remove and return an arbitrary element from a set?",
+        "options": {
+            "A": "set.pop()",
+            "B": "set.remove()",
+            "C": "set.extract()",
+            "D": "set.take()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thepop()method removes and returns an arbitrary element from a set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you find the elements that are unique to each set?",
+        "options": {
+            "A": "set.symmetric_difference(other_set)",
+            "B": "set.difference(other_set)",
+            "C": "set.unique_elements(other_set)",
+            "D": "set.unique_difference(other_set)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesymmetric_difference()method returns elements that are unique to each set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does theset.symmetric_difference_update(other_set)method do?",
+        "options": {
+            "A": "Updates the set with common elements.",
+            "B": "Removes common elements from the set.",
+            "C": "Updates the set with elements unique to the other set.",
+            "D": "Returns a new set with the common elements."
+        },
+        "correct_answer": "C",
+        "answer_description": "Thesymmetric_difference_update()method updates the set with elements unique to the other set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you convert a list into a set?",
+        "options": {
+            "A": "set(list_variable)",
+            "B": "list_variable.to_set()",
+            "C": "list_variable.as_set()",
+            "D": "convert_set(list_variable)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theset()constructor can be used to convert a list into a set."
+    }
+]

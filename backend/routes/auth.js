@@ -6,7 +6,6 @@ const { User, Test } = require("../models/Structure");
 const verifyToken = require("../middleware/verifyToken");
 const { v4: uuidv4 } = require("uuid");
 const { startTest, submitTest } = require("../controllers/testController");
-
 const authMiddleware = require("../middleware/authMiddleware");
 
 
@@ -14,7 +13,7 @@ const router = express.Router();
 
 // Helper function to handle errors
 const handleError = (res, statusCode, message, error = null) => {
-  if (error) console.error(error);
+  // if (error) console.error(error);
   return res.status(statusCode).json({ success: false, message });
 };
 
@@ -52,7 +51,7 @@ router.post("/register", async (req, res) => {
     await newUser.save();
     res.status(201).json({ message: "User registered successfully", profileURL });
   } catch (error) {
-    console.error("Registration error:", error);
+    // console.error("Registration error:", error);
     res.status(500).json({ message: "Server error. Please try again later." });
   }
 });
@@ -78,7 +77,7 @@ router.post("/login", async (req, res) => {
 
     const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: "7d" });
 
-    console.log("Generated Token:", token); // Debugging log
+    // console.log("Generated Token:", token); // Debugging log
 
     res.status(200).json({
       token,
@@ -123,7 +122,7 @@ router.get("/profile/:username", async (req, res) => {
 
     res.status(200).json(user);
   } catch (error) {
-    console.error("Error fetching user profile:", error);
+    // console.error("Error fetching user profile:", error);
     res.status(500).json({ message: "Server error. Please try again later." });
   }
 });
@@ -143,7 +142,7 @@ router.get("/mocktest/:testId", async (req, res) => {
 
     res.status(200).json({ success: true, test });
   } catch (error) {
-    console.error(error);
+    // console.error(error);
     res.status(500).json({ success: false, message: "Server error" });
   }
 });
@@ -159,7 +158,7 @@ router.get("/quiz/questions", async (req, res) => {
     }
     res.status(200).json({ success: true, questions });
   } catch (error) {
-    console.error("Error fetching questions:", error);
+    // console.error("Error fetching questions:", error);
     res.status(500).json({ success: false, message: "Server error. Please try again later." });
   }
 });
@@ -170,7 +169,7 @@ router.get("/quiz/questions", async (req, res) => {
 router.get("/me", authMiddleware, async (req, res) => {
   try {
     const token = req.header("Authorization")?.split(" ")[1]?.trim();
-    console.log(`My token ${token}`);
+    // console.log(`My token ${token}`);
     res.json({ message: "Authenticated user", user: req.user });
   } catch (error) {
     res.status(500).json({ message: "Server error" });

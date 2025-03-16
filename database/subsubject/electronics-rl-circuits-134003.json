@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true if R = 100and XL= 100in the circuit in the given circuit?",
+        "options": {
+            "A": "Each component drops 5 V.",
+            "B": "The impedance equals 200.",
+            "C": "The power factor equals 1.",
+            "D": "The phase angle equals 45°."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true about a lag network?",
+        "options": {
+            "A": "An increase in frequency causes an increase in phase lag.",
+            "B": "An increase in frequency causes an increase in the magnitude of the output voltage.",
+            "C": "A decrease in frequency causes an increase in phase lag.",
+            "D": "A decrease in frequency causes a decrease in the magnitude of the output voltage."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

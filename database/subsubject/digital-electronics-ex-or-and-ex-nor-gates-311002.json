@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Parity systems are defined as either________ or ________ and will add an extra ________ to the digital information being transmitted.",
+        "options": {
+            "A": "positive, negative, byte",
+            "B": "odd, even, bit",
+            "C": "upper, lower, digit",
+            "D": "on, off, decimal"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of gate can be used to add two bits?",
+        "options": {
+            "A": "Ex-OR",
+            "B": "Ex-NOR",
+            "C": "Ex-NAND",
+            "D": "NOR"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is an exclusive-NOR gate also called an equality gate?",
+        "options": {
+            "A": "The output is false if the inputs are equal.",
+            "B": "The output is true if the inputs are opposite.",
+            "C": "The output is true if the inputs are equal."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Show from the truth table how an exclusive-OR gate can be used to invert the data on one input if the other input is a special control function.",
+        "options": {
+            "A": "UsingAas the control, whenA= 0,Xis the same asB. WhenA= 1,Xis the same asB.",
+            "B": "UsingAas the control, whenA= 0,Xis the same asB. WhenA= 1,Xis the inverse ofB.",
+            "C": "UsingAas the control, whenA= 0,Xis the inverse ofB. WhenA= 1,Xis the same asB.",
+            "D": "UsingAas the control, whenA= 0,Xis the inverse ofB. WhenA= 1,Xis the inverse ofB."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Determine odd parity for each of the following data words:1011101        11110111        1001101",
+        "options": {
+            "A": "P= 1,P= 1,P= 0",
+            "B": "P= 0,P= 0,P= 0",
+            "C": "P= 1,P= 1,P= 1",
+            "D": "P= 0,P= 0,P= 1"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

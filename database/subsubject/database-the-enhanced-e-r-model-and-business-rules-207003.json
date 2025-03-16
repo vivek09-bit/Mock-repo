@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A subtype discriminator is which of the following?",
+        "options": {
+            "A": "An attribute of the supertype whose values determine the subtype",
+            "B": "An attribute of the subtype whose values determine the supertype",
+            "C": "An attribute of the supertype whose values determine the supertype",
+            "D": "An attribute of the subtype whose values determine the subtype"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When an entity instance may be a member of multiple subtypes or it does not have to be a member of a subtype, it is which of the following?",
+        "options": {
+            "A": "Disjoint with total specialization",
+            "B": "Disjoint with partial specialization",
+            "C": "Overlap with total specialization",
+            "D": "Overlap with partial specialization"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A subtype entity name should be which of the following?",
+        "options": {
+            "A": "A singular noun",
+            "B": "Specific to the organization",
+            "C": "Concise",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Use of a supertype/subtype relationship is necessary when which of the following exists?",
+        "options": {
+            "A": "An instance of a subtype participates in a relationship that is unique to that subtype.",
+            "B": "An instance of a subtype participates in a relationship that is the same as the other subtypes.",
+            "C": "Attributes apply to all of the instances of an entity type.",
+            "D": "No attributes apply to any of the instances of an entity type."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not one of the three ways to classify an action assertion?",
+        "options": {
+            "A": "Condition",
+            "B": "Integrity Control",
+            "C": "Authorization",
+            "D": "Enabler"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

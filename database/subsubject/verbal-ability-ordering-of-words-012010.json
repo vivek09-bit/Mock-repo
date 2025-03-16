@@ -1,0 +1,41 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "With her bodyP :dragging her unwilling feetQ :weak and infirmR :doubled with ageS :she persisted in her missionThe Proper sequence should be:",
+        "options": {
+            "A": "PQRS",
+            "B": "QPRS",
+            "C": "RQPS",
+            "D": "SRPQ"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "P:We must readP :if we want to absorb the fruits of great literatureQ :but with concentrationR :them not as we do cricket storiesS :undefinedThe Proper sequence should be:",
+        "options": {
+            "A": "QPSR",
+            "B": "PSQR",
+            "C": "PRSQ",
+            "D": "PRQS"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "I encloseP :and the postageQ :a postal orderR :the price of booksS :which will coverThe Proper sequence should be:",
+        "options": {
+            "A": "RPSQ",
+            "B": "QSPR",
+            "C": "QSRP",
+            "D": "QPSR"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

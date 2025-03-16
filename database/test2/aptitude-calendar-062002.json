@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 6thMarch, 2005 is Monday,what was the day of the week on 6thMarch, 2004?",
+        "options": {
+            "A": "Sunday",
+            "B": "Saturday",
+            "C": "Tuesday",
+            "D": "Wednesday"
+        },
+        "correct_answer": "A",
+        "answer_description": "The year 2004 is a leap year. So, it has 2 odd days.But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.The day on 6thMarch, 2005 will be 1 day beyond the day on 6thMarch, 2004.Given that, 6thMarch, 2005 is Monday.6thMarch, 2004 is Sunday (1 day before to 6thMarch, 2005)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On what dates of April, 2001 did Wednesday fall?",
+        "options": {
+            "A": "1st, 8th, 15th, 22nd, 29th",
+            "B": "2nd, 9th, 16th, 23rd, 30th",
+            "C": "3rd, 10th, 17th, 24th",
+            "D": "4th, 11th, 18th, 25th"
+        },
+        "correct_answer": "D",
+        "answer_description": "We shall find the day on 1stApril, 2001.1stApril, 2001 = (2000 years + Period from 1.1.2001 to 1.4.2001)Odd days in 1600 years = 0Odd days in 400 years = 0Jan. Feb. March April(31 + 28 + 31  +  1)     = 91 days0 odd days.Total number of odd days = (0 + 0 + 0) = 0On 1stApril, 2001 it was Sunday.In April, 2001 Wednesday falls on 4th, 11th, 18thand 25th."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many days are there inxweeksxdays?",
+        "options": {
+            "A": "7x2",
+            "B": "8x",
+            "C": "14x",
+            "D": "7"
+        },
+        "correct_answer": "B",
+        "answer_description": "xweeksxdays = (7x+x) days = 8xdays."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The last day of a century cannot be",
+        "options": {
+            "A": "Monday",
+            "B": "Wednesday",
+            "C": "Tuesday",
+            "D": "Friday"
+        },
+        "correct_answer": "C",
+        "answer_description": "100 years contain 5 odd days.Last day of 1stcentury is Friday.200 years contain (5 x 2)3 odd days.Last day of 2ndcentury is Wednesday.300 years contain (5 x 3) = 151 odd day.Last day of 3rdcentury is Monday.400 years contain 0 odd day.Last day of 4thcentury is Sunday.This cycle is repeated.Last day of a century cannot be Tuesday or Thursday or Saturday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On 8thFeb, 2005 it was Tuesday. What was the day of the week on 8thFeb, 2004?",
+        "options": {
+            "A": "Tuesday",
+            "B": "Monday",
+            "C": "Sunday",
+            "D": "Wednesday"
+        },
+        "correct_answer": "C",
+        "answer_description": "The year 2004 is a leap year. It has 2 odd days.The day on 8thFeb, 2004 is 2 days before the day on 8thFeb, 2005.Hence, this day is Sunday."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 20% ofa=b, thenb% of 20 is the same as:",
+        "options": {
+            "A": "4% ofa",
+            "B": "5% ofa",
+            "C": "20% ofa",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "20% ofa=b20a=b.100b% of 20 =bx 20=20ax1x 20=4a= 4% ofa.100100100100"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age isof the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+        "options": {
+            "A": "72",
+            "B": "80",
+            "C": "120",
+            "D": "150",
+            "E": "100"
+        },
+        "correct_answer": "E",
+        "answer_description": "Let the number of students bex. Then,Number of students above 8 years of age = (100 - 20)% ofx= 80% ofx.80% ofx= 48 +2of 48380x= 80100x= 100.Video Explanation:https://youtu.be/yPfocU6DA2M"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.",
+        "options": {
+            "A": "2 : 3",
+            "B": "1 : 1",
+            "C": "3 : 4",
+            "D": "4 : 3"
+        },
+        "correct_answer": "D",
+        "answer_description": "5% of A + 4% of B =2(6% of A + 8% of B)35A +4B=26A +8B10010031001001A +1B=1A +4B202525751-1A =4-1B202575251A =1B10075A=100=4.B753Required ratio = 4 : 3Video Explanation:YouTube Video"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A student multiplied a number by3instead of5.53What is the percentage error in the calculation?",
+        "options": {
+            "A": "34%",
+            "B": "44%",
+            "C": "54%",
+            "D": "64%"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the number bex.Then, error =5x-3x=16x.3515Error% =16xx3x 100% = 64%.155x"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In an election between two candidates,  one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
+        "options": {
+            "A": "2700",
+            "B": "2900",
+            "C": "3000",
+            "D": "3100"
+        },
+        "correct_answer": "A",
+        "answer_description": "Number of valid votes = 80% of 7500 = 6000.Valid votes polled by other candidate = 45% of 6000=45x 6000= 2700.100"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "parsley",
+            "B": "basil",
+            "C": "dill",
+            "D": "mayonnaise"
+        },
+        "correct_answer": "D",
+        "answer_description": "Parsley, basil, and dill are types of herbs. Mayonnaise is not an herb."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "inch",
+            "B": "ounce",
+            "C": "centimeter",
+            "D": "yard"
+        },
+        "correct_answer": "B",
+        "answer_description": "An ounce measures weight; the other choices measure length."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "tyre",
+            "B": "steering wheel",
+            "C": "engine",
+            "D": "car"
+        },
+        "correct_answer": "D",
+        "answer_description": "Tyre, steering wheel, and engine are all parts of a car."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "tulip",
+            "B": "rose",
+            "C": "bud",
+            "D": "daisy"
+        },
+        "correct_answer": "C",
+        "answer_description": "Tulip, rose, and daisy are all types of flowers. A bud is not."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "rye",
+            "B": "sourdough",
+            "C": "pumpernickel",
+            "D": "loaf"
+        },
+        "correct_answer": "A",
+        "answer_description": "Loaf, sourdough, and pumpernickel are types of bread. A rye is not a bread type.Loaf - Bread that is shaped and baked in one piece and usually sliced before being eaten.Pumpernickel - Dark, dense German bread made from coarsely ground whole-grain rye.Sourdough - Leaven for making bread, consisting of fermenting dough, typically that left over from a previous batch.Rye - A wheatlike cereal plant that tolerates poor soils and low temperatures."
+    }
+]

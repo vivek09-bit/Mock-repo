@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The central banking functions in India are performed by theCentral Bank of IndiaReserve Bank of IndiaState Bank of IndiaPunjab National Bank",
+        "options": {
+            "A": "I, II",
+            "B": "II",
+            "C": "I",
+            "D": "II, III"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Development expenditure of the Central government does not include",
+        "options": {
+            "A": "defence expenditure",
+            "B": "expenditure on economic services",
+            "C": "expenditure on social and community services",
+            "D": "grant to states"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ICICI is the name of a",
+        "options": {
+            "A": "chemical industry",
+            "B": "bureau",
+            "C": "corporation",
+            "D": "financial institution"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Gilt-edged market means",
+        "options": {
+            "A": "bullion market",
+            "B": "market of government securities",
+            "C": "market of guns",
+            "D": "market of pure metals"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the last one decade, which one among the following sectors has attracted the highest foreign direct investment inflows into India?",
+        "options": {
+            "A": "Chemicals other than fertilizers",
+            "B": "Services sector",
+            "C": "Food processing",
+            "D": "Telecommunication"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

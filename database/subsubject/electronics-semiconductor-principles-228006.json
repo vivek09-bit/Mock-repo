@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following cannot actually move?",
+        "options": {
+            "A": "majority carriers",
+            "B": "ions",
+            "C": "holes",
+            "D": "free electrons"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What electrical characteristic of intrinsic semiconductor material is controlled by the addition of impurities?",
+        "options": {
+            "A": "conductivity",
+            "B": "resistance",
+            "C": "power",
+            "D": "all of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

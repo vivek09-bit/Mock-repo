@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The total inductance of a series inductor circuit is:",
+          "options": {
+               "A": "equal to the sum of the individual inductance values",
+               "B": "equal    to    the    sum    of    the individual   inductive-reactance values",
+               "C": "less than the value of the smallest inductor",
+               "D": "equal to the source voltage divided by total current",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Doubling the number of turns of wire in an inductor:",
+          "options": {
+               "A": "reduces the value of inductance by one-half",
+               "B": "multiplies the value of inductance by two",
+               "C": "multiplies the value of inductance by four",
+               "D": "reduces the value of inductance by one-fourth",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following statements best describes magnetic hysteresis?",
+          "options": {
+               "A": "Hysteresis is the amount of magnetic flux that is not confined to the core material of an electromagnet",
+               "B": "Hysteresis is most apparent when a steady amount of current is lowing through the coil of an electromagnet",
+               "C": "Hysteresis is most apparent when the current through the coil of an electromagnet changes frequently",
+               "D": "Hysteresis is most apparent when the core material is saturated",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What form of energy is used for creating static electricity?",
+          "options": {
+               "A": "Solar energy",
+               "B": "Mechanical energy",
+               "C": "Chemical energy",
+               "D": "Light energy",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A device that converts mechanical into electrical energy is?",
+          "options": {
+               "A": "solar cell",
+               "B": "thermocouple",
+               "C": "chemical cell",
+               "D": "generator",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of. the following phrases most accurately describes the nature of a pulsating dc voltage?",
+          "options": {
+               "A": "The voltage remains at one polarity and at a steady level",
+               "B": "The voltage remains at one polarity but changes value periodically",
+               "C": "The voltage causes current to flow in two directions at the same time",
+               "D": "The   voltage  reverses  polarity periodically",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Current and voltage are said to be in phase when:",
+          "options": {
+               "A": "their waveforms are both ac or both dc",
+               "B": "they have the same amplitude and frequency",
+               "C": "their waveforms cross through zero and reach positive and negative peaks at the same time",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For normal operation of the transistor, the collector diode has to be",
+          "options": {
+               "A": "Forward-biased",
+               "B": "Reverse-biased",
+               "C": "Nonconducting",
+               "D": "Operating   in   the   breakdown region",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following devices is most often used for measuring electrical potential difference?",
+          "options": {
+               "A": "Voltmeter",
+               "B": "Ohmmeter",
+               "C": "Ammeter",
+               "D": "Wattmeter",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a step-down transformer, which is larger?",
+          "options": {
+               "A": "Primary voltage",
+               "B": "Secondary voltage",
+               "C": "Neither",
+               "D": "Impossible to say",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How much power is being dissipated by a 1000 W resistance that has 25 V applied to it?",
+          "options": {
+               "A": "0.24 W",
+               "B": "0.625 W",
+               "C": "80 W",
+               "D": "325 kW",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following is a statement of Kirchhoffs current law?",
+          "options": {
+               "A": "The current through a resistance is proportional to the value of resistance and the IR drop across it",
+               "B": "The total current in a parallel circuit is less than the value of the smallest current",
+               "C": "The algebraic sum of currents in a loop is equal to zero",
+               "D": "The algebraic sum of currents entering and leaving a point is equal to zero",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following statements is true for the impedance of a series RC circuit?",
+          "options": {
+               "A": "The impedance is greater than the sum of the resistance and capacitive reactance",
+               "B": "The impedance is equal to the sum of the resistance and capacitive reactance",
+               "C": "The impedance is greater than either the resistance or capacitive reactance but less than their sum",
+               "D": "The impedance is less than the sum of the resistance and capacitive reactance",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a transistor operates at the middle of the load line, an increase in the current gain will move the Q point",
+          "options": {
+               "A": "down",
+               "B": "up",
+               "C": "nowhere",
+               "D": "off the load line",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To get the Thevenin voltage, you have to",
+          "options": {
+               "A": "Short the load resistor",
+               "B": "Open the load resister",
+               "C": "Short the voltage source",
+               "D": "Open the voltage source",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following statements is true?",
+          "options": {
+               "A": "Power dissipation of a pure capacitor increases with operating frequency",
+               "B": "Power dissipation of a pure capacitor decreases with operating frequency",
+               "C": "There is no meaningful relationship between the power dissipation of a pure capacitor and its operating frequency",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Assuming 100% efficiency, what is the power being consumed at the secondary winding of the transformer described in question 91?",
+          "options": {
+               "A": "200 W",
+               "B": "1000 W",
+               "C": "20 W",
+               "D": "100 W",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The direction of conventional current flow is:",
+          "options": {
+               "A": "from negative to positive",
+               "B": "from positive to negative",
+               "C": "from left to right",
+               "D": "from neutral to positive",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following statements is true?",
+          "options": {
+               "A": "Capacitive reactance is at a minimum for dc source voltages",
+               "B": "Capacitive reactance decreases as the operating frequency increases",
+               "C": "There is no meaningful relationship between capacitive reactance and operating frequency",
+               "D": "Capacitive reactance increases as the operating frequency increases",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following equations most directly leads to the resistance of an ordinary household light bulb, assuming that you know the power and voltage rating?",
+          "options": {
+               "A": "R = E2/P",
+               "B": "P = PR",
+               "C": "P = E2/R",
+               "D": "I = P/E",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

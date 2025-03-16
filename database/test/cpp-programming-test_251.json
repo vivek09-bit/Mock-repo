@@ -1,0 +1,268 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "C++ allows static type checking.",
+               "B": "C++ allows dynamic type checking.",
+               "C": "C++ allows static member function be of type const.",
+               "D": "Both A and B."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following concepts means adding new components to a program as it runs?",
+          "options": {
+               "A": "Data hiding",
+               "B": "Dynamic typing",
+               "C": "Dynamic binding",
+               "D": "Dynamic loading"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "The order of the default argument will be right to left.",
+               "B": "The order of the default argument will be left to right.",
+               "C": "The order of the default argument will be alternate.",
+               "D": "The order of the default argument will be random."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "Only one parameter of a function can be a default parameter.",
+               "B": "Minimum one parameter of a function must be a default parameter.",
+               "C": "All the parameters of a function can be default parameters.",
+               "D": "No parameter of a function can be default."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nclass IndiabixSample\n{\n    public:\n        int   a; \n        float b;\n        void BixFunction(int a, float b, float c = 100.0f)\n        {\n            cout<< a % 20 + c * --b;\n        } \n}; \nint main()\n{   IndiabixSample objBix;\n    objBix.BixFunction(20, 2.000000f, 5.0f);\n    return 0; \n}",
+          "options": {
+               "A": "0",
+               "B": "5",
+               "C": "100",
+               "D": "-5",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nclass AreaFinder\n{\n    float l, b, h; \n    float result; \n    public:\n    AreaFinder(float hh = 0, float ll = 0, float bb = 0) \n    {\n        l = ll; \n        b = bb; \n        h = hh;\n    }\n    void Display(int ll)\n    {\n        if(l = 0)\n            result = 3.14f * h * h; \n        else\n            result = l * b; \n        cout<< result; \n    }\n};\nint main()\n{\n    AreaFinder objAF(10, 10, 20);\n    objAF.Display(0); \n    return 0; \n}",
+          "options": {
+               "A": "0",
+               "B": "314",
+               "C": "314.0000",
+               "D": "200.0000"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nclass IndiaBix\n{ \n    public:\n    void Bix(int x = 15)\n    {\n        x = x/2; \n        if(x > 0)\n            Bix(); \n        else\n            cout<< x % 2; \n    } \n};\nint main()\n{\n    IndiaBix objIB;\n    objIB.Bix();\n    return 0; \n}",
+          "options": {
+               "A": "The program will display 1.",
+               "B": "The program will display 2.",
+               "C": "The program will display 15.",
+               "D": "The program will go into an infinite loop.",
+               "E": "The program will report error on compilation."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h>\nconst double BixConstant(const int, const int = 0);\nint main()\n{\n    const int c = 2 ;\n    cout<< BixConstant(c, 10)<< \" \"; \n    cout<< BixConstant(c, 20)<< endl; \n    return 0;\n}\nconst double BixConstant(const int x, const int y)\n{\n    return( (y + (y * x) * x % y) * 0.2);\n}",
+          "options": {
+               "A": "The program will print the output 2 4.",
+               "B": "The program will print the output 20 40.",
+               "C": "The program will print the output 10 20.",
+               "D": "The program will print the output 20 4.50.",
+               "E": "The program will report compile time error."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nclass IndiaBix\n{\n    int K; \n    public:\n    void BixFunction(float, int , char);\n    void BixFunction(float, char, char);\n    \n};\nint main()\n{\n    IndiaBix objIB;\n    objIB.BixFunction(15.09, 'A', char('A' + 'A'));\n    return 0;\n}\nvoid IndiaBix::BixFunction(float, char y, char z)\n{\n    K = int(z);\n    K = int(y);\n    K = y + z;\n    cout<< \"K = \" << K << endl; \n}",
+          "options": {
+               "A": "The program will print the output M = 130.",
+               "B": "The program will print the output M = 195.",
+               "C": "The program will print the output M = -21.",
+               "D": "The program will print the output M = -61.",
+               "E": "The program will report compile time error."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h>\nvoid Tester(float xx, float yy = 5.0);\nclass IndiaBix\n{\n    float x; \n    float y; \n    public:\n    void Tester(float xx, float yy = 5.0)\n    {\n        x = xx;\n        y = yy;\n        cout<< ++x % --y; \n    }\n};\nint main()\n{\n    IndiaBix objBix;\n    objBix.Tester(5.0, 5.0);\n    return 0; \n}",
+          "options": {
+               "A": "The program will print the output 0.",
+               "B": "The program will print the output 1.",
+               "C": "The program will print the output 2.",
+               "D": "The program will print the output garbage value.",
+               "E": "The program will report compile time error."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?We can return a global variable by reference.We cannot return a local variable by reference.",
+          "options": {
+               "A": "Only 1 is correct.",
+               "B": "Only 2 is correct.",
+               "C": "Both 1 and 2 are correct.",
+               "D": "Both 1 and 2 are incorrect."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nclass IndiaBix\n{\n    int x, y; \n    public:\n    IndiaBix(int &xx, int &yy)\n    {\n        x = xx;\n        y = yy;\n        Display();\n    }\n    void Display()\n    {\n        cout<< x << \" \" << y;\n    }\n};\nint main()\n{\n    int x1 = 10; \n    int &p = x1;\n    int y1 = 20; \n    int &q = y1; \n    IndiaBix objBix(p, q); \n    return 0; \n}",
+          "options": {
+               "A": "It will result in a compile time error.",
+               "B": "The program will print the output 10 20.",
+               "C": "The program will print two garbage values.",
+               "D": "The program will print the address of variable x1 and y1."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many objects can be created from an abstract class?",
+          "options": {
+               "A": "Zero",
+               "B": "One",
+               "C": "Two",
+               "D": "As many as we want"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nclass IndiaBix\n{\n    static int x; \n    public:\n    static void SetData(int xx)\n    {\n        x = xx; \n    }\n    static void Display() \n    {\n        cout<< x ;\n    }\n};\nint IndiaBix::x = 0; \nint main()\n{\n    IndiaBix::SetData(44);\n    IndiaBix::Display();\n    return 0; \n}",
+          "options": {
+               "A": "The program will print the output 0.",
+               "B": "The program will print the output 44.",
+               "C": "The program will print the output Garbage.",
+               "D": "The program will report compile time error."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nclass BixTeam\n{\n    int x, y; \n    public:\n    BixTeam(int xx)\n    {\n        x = ++xx;\n    }\n    void Display()\n    {\n        cout<< --x << \" \";\n    }\n};\nint main()\n{\n    BixTeam objBT(45);\n    objBT.Display();\n    int *p = (int*)&objBT;\n    *p = 23;\n    objBT.Display();\n    return 0; \n}",
+          "options": {
+               "A": "45 22",
+               "B": "46 22",
+               "C": "45 23",
+               "D": "46 23"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nclass Point\n{\n    int x, y; \n    public:\n    Point(int xx = 10, int yy = 20)\n    {\n        x = xx;\n        y = yy; \n    }\n    Point operator + (Point objPoint)\n    {\n        Point objTmp;\n        objTmp.x = objPoint.x + this->x; \n        objTmp.y = objPoint.y + this->y;\n        return objTmp;\n    }\n    void Display(void)\n    {\n        cout<< x << \" \" << y;\n    }\n};\nint main()\n{\n    Point objP1;\n    Point objP2(1, 2);\n    Point objP3 = objP1 + objP2;\n    objP3.Display(); \n    return 0; \n}",
+          "options": {
+               "A": "1 2",
+               "B": "10 20",
+               "C": "11 22",
+               "D": "Garbage Garbage",
+               "E": "The program will report compile time error."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "A constructor of a derived class can access any public and protected member of the base class.",
+               "B": "Constructor cannot be inherited but the derived class can call them.",
+               "C": "A constructor of a derived class cannot access any public and protected member of the base class.",
+               "D": "Both A and B."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following implicitly creates a default constructor when the programmer does not explicitly define at least one constructor for a class?",
+          "options": {
+               "A": "Preprocessor",
+               "B": "Linker",
+               "C": "Loader",
+               "D": "Compiler"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For automatic objects, constructors and destructors are called each time the objects",
+          "options": {
+               "A": "enter and leave scope",
+               "B": "inherit parent class",
+               "C": "are constructed",
+               "D": "are destroyed"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Copy constructor must receive its arguments by __________ .",
+          "options": {
+               "A": "either pass-by-value or pass-by-reference",
+               "B": "only pass-by-value",
+               "C": "only pass-by-reference",
+               "D": "only pass by address"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

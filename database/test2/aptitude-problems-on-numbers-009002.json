@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?",
+        "options": {
+            "A": "69",
+            "B": "78",
+            "C": "96",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the ten's digit bexand unit's digit bey.Then,x+y= 15 andx-y= 3   ory-x= 3.Solvingx+y= 15   andx-y= 3, we get:x= 9,y= 6.Solvingx+y= 15   andy-x= 3, we get:x= 6,y= 9.So, the number is either 96 or 69.Hence, the number cannot be determined."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of the squares of three numbers is 138, while the sum of their products taken two at a time is 131. Their sum is:",
+        "options": {
+            "A": "20",
+            "B": "30",
+            "C": "40",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the numbers bea,bandc.Then,a2+b2+c2= 138 and (ab+bc+ca) = 131.(a + b + c)2=a2+b2+c2+ 2(ab+bc+ca) = 138 + 2 x 131 = 400.(a+b+c) =400= 20.Video Explanation:https://youtu.be/qmJ-0X8j_xQ"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "9",
+            "D": "11"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the ten's digit bexand unit's digit bey.Then, number = 10x+y.Number obtained by interchanging the digits = 10y+x.(10x+y) + (10y+x) = 11(x+y), which is divisible by 11.Video Explanation:https://youtu.be/lytJE8GqRvM"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a two-digit, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is:",
+        "options": {
+            "A": "24",
+            "B": "26",
+            "C": "42",
+            "D": "46"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the ten's digit bex.Then, unit's digit =x+ 2.Number = 10x+ (x+ 2) = 11x+ 2.Sum of digits =x+ (x+ 2) = 2x+ 2.(11x+ 2)(2x+ 2) = 14422x2+ 26x- 140 = 011x2+ 13x- 70 = 0(x- 2)(11x+ 35) = 0x= 2.Hence, required number = 11x+ 2 = 24."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number.",
+        "options": {
+            "A": "3",
+            "B": "10",
+            "C": "17",
+            "D": "20"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the number bex.Then,x+ 17 =60xx2+ 17x- 60 = 0(x+ 20)(x- 3) = 0x= 3."
+    }
+]

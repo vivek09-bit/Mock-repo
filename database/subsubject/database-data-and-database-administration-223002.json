@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The transaction log includes which of the following?",
+        "options": {
+            "A": "The before-image of a record",
+            "B": "The after-image of a record",
+            "C": "The before and after-image of a record",
+            "D": "The essential data of the record"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following could cause data to be unavailable?",
+        "options": {
+            "A": "Data becoming lost or inaccurate",
+            "B": "The database server",
+            "C": "Planned database maintenance activities",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A shared lock allows which of the following types of transactions to occur?",
+        "options": {
+            "A": "Delete",
+            "B": "Insert",
+            "C": "Read",
+            "D": "Update"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Locking may cause which of the following problems?",
+        "options": {
+            "A": "Erroneous updates",
+            "B": "Deadlock",
+            "C": "Versioning",
+            "D": "All of the above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Performance analysis and tuning is which of the following?",
+        "options": {
+            "A": "Undertaken one time at the time of a DBMS installation",
+            "B": "Undertaken one time at the time of the implementation of a new application",
+            "C": "Undertaken as an ongoing part of the backup of a database",
+            "D": "Undertaken as an ongoing part of managing a database"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

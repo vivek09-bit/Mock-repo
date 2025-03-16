@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the given circuit, what must the pulse width and time between pulses be to allow the capacitor to completely charge by the end of each pulse and to completely discharge between each pulse?",
+        "options": {
+            "A": "940s",
+            "B": "2.82 ms",
+            "C": "3.76 ms",
+            "D": "4.7 ms"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The given circuit is an",
+        "options": {
+            "A": "RL integrator",
+            "B": "RC differentiator",
+            "C": "RL differentiator",
+            "D": "RC integrator"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true for a capacitor?",
+        "options": {
+            "A": "A capacitor acts like a short to instantaneous changes in current.",
+            "B": "A capacitor's voltage cannot change instantaneously.",
+            "C": "A capacitor acts like an open to dc.",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the capacitor in anRCintegrator shorts, the output",
+        "options": {
+            "A": "is at ground",
+            "B": "would measure the same as the input",
+            "C": "would measure zero volts",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What has the voltage across the resistor decayed to by the end of the pulse in the given circuit?",
+        "options": {
+            "A": "0 V",
+            "B": "0.75 V",
+            "C": "5.55 V",
+            "D": "14.25 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a group of one or more attributes that uniquely identifies a row?",
+        "options": {
+            "A": "Key",
+            "B": "Determinant",
+            "C": "Tuple",
+            "D": "Relation"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n):",
+        "options": {
+            "A": "transitive dependency.",
+            "B": "insertion anomaly.",
+            "C": "referential integrity constraint.",
+            "D": "normal form."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A relation is considered a:",
+        "options": {
+            "A": "Column.",
+            "B": "one-dimensional table.",
+            "C": "two-dimensional table.",
+            "D": "three-dimensional table."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the relational model, relationships between relations or tables are created by using:",
+        "options": {
+            "A": "composite keys.",
+            "B": "determinants.",
+            "C": "candidate keys.",
+            "D": "foreign keys."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A functional dependency is a relationship between or among:",
+        "options": {
+            "A": "tables.",
+            "B": "rows.",
+            "C": "relations.",
+            "D": "attributes."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

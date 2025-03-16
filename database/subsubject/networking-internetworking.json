@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which layer 1 devices can be used to enlarge the area covered by a single LAN segment?SwitchNICHubRepeaterRJ45 transceiver",
+        "options": {
+            "A": "1 only",
+            "B": "1 and 3",
+            "C": "3 and 4",
+            "D": "5 only"
+        },
+        "correct_answer": "C",
+        "answer_description": "Not that you really want to enlarge a single collision domain, but a hub (multiport repeater) will provide this for you."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Routers operate at layer _____. LAN switches operate at layer _____. Ethernet hubs operate at layer _____. Word processing operates at layer _____.",
+        "options": {
+            "A": "3, 3, 1, 7",
+            "B": "3, 2, 1, none",
+            "C": "3, 2, 1, 7",
+            "D": "3, 3, 2, none"
+        },
+        "correct_answer": "B",
+        "answer_description": "Routers operate at layer 3. LAN switches operate at layer 2. Ethernet hubs operate at layer 1. Word processing applications communicate to the Application layer interface, but do not operate at layer 7, so the answer would be none."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following describe router functions?",
+        "options": {
+            "A": "Packet switching",
+            "B": "Packet filtering",
+            "C": "Internetwork communication",
+            "D": "Path selection",
+            "E": "All of the above"
+        },
+        "correct_answer": "E",
+        "answer_description": "Routers provide packet switching, packet filtering, internetwork communication, and path selection."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why does the data communication industry use the layered OSI reference model?It divides the network communication process into smaller and simpler components, thus aiding component development, design, and troubleshooting.It enables equipment from different vendors to use the same electronic components, thus saving research and development funds.It supports the evolution of multiple competing standards and thus provides business opportunities for equipment manufacturers.It encourages industry standardization by defining what functions occur at each layer of the model.",
+        "options": {
+            "A": "1 only",
+            "B": "1 and 4",
+            "C": "2 and 3",
+            "D": "3 only"
+        },
+        "correct_answer": "B",
+        "answer_description": "The main advantage of a layered model is that it can allow application developers to \nchange aspects of a program in just one layer of the layer model's specifications.Advantages \nof using the OSI layered model include, but are not limited to, the following:It divides the \nnetwork communication process into smaller and simpler components, thus aiding compo-\nnent development, design, and troubleshooting;it allows multiple-vendor development \nthrough standardization of network components;it encourages industry standardization by \ndefining what functions occur at each layer of the model;it allows various types of network \nhardware and software to communicate;and it prevents changes in one layer from affecting \nother layers, so it does not hamper development."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A receiving host has failed to receive all of the segments that it should acknowledge. What can the host do to improve the reliability of this communication session?",
+        "options": {
+            "A": "Send a different source port number.",
+            "B": "Restart the virtual circuit.",
+            "C": "Decrease the sequence number.",
+            "D": "Decrease the window size."
+        },
+        "correct_answer": "D",
+        "answer_description": "A receiving host can control the transmitter by using flow control (TCP uses Windowing by default). By decreasing the window size, the receiving host can slow down the transmitting host so the receiving host does not overflow its buffers."
+    }
+]

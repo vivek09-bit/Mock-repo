@@ -1,0 +1,39 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the major advantage of theJ-Kflip-flop over theS-Rflip-flop?",
+        "options": {
+            "A": "TheJ-Kflip-flop is much faster.",
+            "B": "TheJ-Kflip-flop does not have propagation delay problems.",
+            "C": "TheJ-Kflip-flop has a toggle state.",
+            "D": "TheJ-Kflip-flop has two outputs."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Decoupling capacitors should be tied fromVCCon one device to ground on a different device.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One example for the use of a Schmitt trigger is as a(n):",
+        "options": {
+            "A": "switch debouncer",
+            "B": "racer",
+            "C": "astable oscillator",
+            "D": "transition pulse generator"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

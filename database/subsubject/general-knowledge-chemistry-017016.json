@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The method of concentrating the ore which makes use of the difference in density between ore and impurities is called",
+        "options": {
+            "A": "liquation",
+            "B": "leaching",
+            "C": "levigation",
+            "D": "magnetic separation"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The inert gases are ____ in water",
+        "options": {
+            "A": "sparingly soluble",
+            "B": "insoluble",
+            "C": "soluble",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The molecular formula of phosphorous is",
+        "options": {
+            "A": "P1",
+            "B": "P2",
+            "C": "P3",
+            "D": "P4"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The names of the scientists, Newlands, Mendeleev, and Meyer are associated with the development of",
+        "options": {
+            "A": "atomic structure",
+            "B": "metallurgy",
+            "C": "periodic table of contents",
+            "D": "discovery of elements"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

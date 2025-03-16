@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The greatest possible length which can be used to measure exactly the lengths 7 m, 3 m 85 cm, 12 m 95 cm is:",
+        "options": {
+            "A": "15 cm",
+            "B": "25 cm",
+            "C": "35 cm",
+            "D": "42 cm"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required length = H.C.F. of 700 cm, 385 cm and 1295 cm = 35 cm."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073. The sum of the three numbers is:",
+        "options": {
+            "A": "75",
+            "B": "81",
+            "C": "85",
+            "D": "89"
+        },
+        "correct_answer": "C",
+        "answer_description": "Since the numbers are co-prime, they contain only 1 as the common factor.Also, the given two products have the middle number in common.So, middle number = H.C.F. of 551 and 1073 = 29;First number =551= 19;    Third number =1073= 37.2929Required sum = (19 + 29 + 37) = 85."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the highest common factor of 36 and 84.",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "12",
+            "D": "18"
+        },
+        "correct_answer": "C",
+        "answer_description": "36 = 22x 3284 = 22x 3 x 7H.C.F.  = 22x 3 =  12."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following fraction is the largest ?",
+        "options": {
+            "A": "78",
+            "B": "1316",
+            "C": "3140",
+            "D": "6380"
+        },
+        "correct_answer": "A",
+        "answer_description": "L.C.M. of 8, 16, 40 and 80 = 80.7=70;13=65;31=6288016804080Since,70>65>63>62, so7>13>63>31808080808168040So,7is the largest.8"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The least number, which when divided by 12, 15, 20 and 54 leaves in each case a remainder of 8 is:",
+        "options": {
+            "A": "504",
+            "B": "536",
+            "C": "544",
+            "D": "548"
+        },
+        "correct_answer": "D",
+        "answer_description": "Required number = (L.C.M. of 12, 15, 20, 54) + 8= 540 + 8= 548."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ is considered to be one of the foundations of data access in the Microsoft world.",
+        "options": {
+            "A": "ODBC",
+            "B": "OLE DB",
+            "C": "JPCD",
+            "D": "ADO"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ is an interface by which application programs can access and process SQL databases in a DBMS-independent manner.",
+        "options": {
+            "A": "ODBC",
+            "B": "OLE DB",
+            "C": "JPCD",
+            "D": "ADO"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are goals of OLE DB?",
+        "options": {
+            "A": "Create object interfaces for DBMS functionality pieces only.",
+            "B": "Increase flexibility only.",
+            "C": "Object interface over any type of data only.",
+            "D": "All of the above as goals of OLE DB."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An ODBC data structure that identifies a database and the DBMS that processes it is called a(n):",
+        "options": {
+            "A": "data source.",
+            "B": "driver manager.",
+            "C": "driver.",
+            "D": "API."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In OLE DB, actions that an object can perform are called:",
+        "options": {
+            "A": "properties.",
+            "B": "collections.",
+            "C": "methods.",
+            "D": "abstractions."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

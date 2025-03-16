@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "\"Half-splitting\" is",
+        "options": {
+            "A": "a means for nuclear fuel cells to produce electricity",
+            "B": "a means of isolating a problem in a circuit",
+            "C": "a means for reducing a high ac voltage to a low dc voltage",
+            "D": "a means of limiting current in a circuit"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If doubling the voltage across a resistor doubles the current through the resistor then",
+        "options": {
+            "A": "the resistor value decreased",
+            "B": "the resistor value did not change",
+            "C": "the resistor value increased",
+            "D": "it is impossible to determine the change in the resistor value"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the voltage across a fixed value of resistance is increased five times, what does the current do?",
+        "options": {
+            "A": "It increases by a factor of five.",
+            "B": "It decreases by a factor of five.",
+            "C": "It stays the same.",
+            "D": "Not enough information"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the resistance in a circuit with constant voltage increases, the current will",
+        "options": {
+            "A": "increase",
+            "B": "decrease",
+            "C": "stay the same",
+            "D": "Not enough information"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the power in the given circuit?",
+        "options": {
+            "A": "3.6 W",
+            "B": "35 W",
+            "C": "175 W",
+            "D": "245 W"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

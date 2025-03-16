@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method registers a thread in a thread scheduler?",
+        "options": {
+            "A": "run();",
+            "B": "construct();",
+            "C": "start();",
+            "D": "register();"
+        },
+        "correct_answer": "C",
+        "answer_description": "Option C is correct. Thestart()method causes this thread to begin execution; the Java Virtual Machine calls the run method of this thread.Option A is wrong. Therun()method of a thread is like themain()method to an application. Starting the thread causes the object's run method to be called in that separately executing thread.Option B is wrong. There is noconstruct()method in theThreadclass.Option D is wrong. There is noregister()method in theThreadclass."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Assume the following method is properly synchronized and called from a thread A on an object B:wait(2000);After calling this method, when will the thread A become a candidate to get another turn at the CPU?",
+        "options": {
+            "A": "After threadAis notified, or after two seconds.",
+            "B": "After the lock onBis released, or after two seconds.",
+            "C": "Two seconds after threadAis notified.",
+            "D": "Two seconds after lockBis released."
+        },
+        "correct_answer": "A",
+        "answer_description": "Option A. Either of the two events (notification or wait time expiration) will make the thread become a candidate for running again.Option B is incorrect because a waiting thread will not return to runnable when the lock is released, unless a notification occurs.Option C is incorrect because the thread will become a candidate immediately after notification, not two seconds afterwards.Option D is also incorrect because a thread will not come out of a waiting pool just because a lock has been released."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following will not directly cause a thread to stop?",
+        "options": {
+            "A": "notify()",
+            "B": "wait()",
+            "C": "InputStream access",
+            "D": "sleep()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Option A is correct.notify()- wakes up a single thread that is waiting on this object's monitor.Option B is wrong.wait()causes the current thread to wait until another thread invokes thenotify()method or thenotifyAll()method for this object.Option C is wrong. Methods of the InputStream class block until input data is available, the end of the stream is detected, or an exception is thrown. Blocking means that a thread may stop until certain conditions are met.Option D is wrong.sleep()- Causes the currently executing thread to sleep (temporarily cease execution) for a specified number of milliseconds. The thread does not lose ownership of any monitors."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which class or interface defines thewait(),notify(),andnotifyAll()methods?",
+        "options": {
+            "A": "Object",
+            "B": "Thread",
+            "C": "Runnable",
+            "D": "Class"
+        },
+        "correct_answer": "A",
+        "answer_description": "TheObjectclass defines these thread-specific methods.Option B, C, and D are incorrect because they do not define these methods. And yes, the Java API does define a class calledClass, though you do not need to know it for the exam."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public class MyRunnable implements Runnable \n{\n    public void run() \n    {\n        // some code here\n    }\n}which of these will create and start this thread?",
+        "options": {
+            "A": "new Runnable(MyRunnable).start();",
+            "B": "new Thread(MyRunnable).run();",
+            "C": "new Thread(new MyRunnable()).start();",
+            "D": "new MyRunnable().start();"
+        },
+        "correct_answer": "C",
+        "answer_description": "Because the class implementsRunnable, an instance of it has to be passed to theThreadconstructor, and then the instance of theThreadhas to be started.A is incorrect. There is no constructor like this forRunnablebecauseRunnableis an interface, and it is illegal to pass a class or interface name to any constructor.B is incorrect for the same reason; you can't pass a class or interface name to any constructor.D is incorrect becauseMyRunnabledoesn't have astart()method, and the onlystart()method that can start a thread of execution is thestart()in theThreadclass."
+    }
+]

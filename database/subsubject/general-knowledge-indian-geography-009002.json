@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The principal copper deposits of India lie in which of the following places?",
+        "options": {
+            "A": "Hazaribag and Singbhum of Bihar",
+            "B": "Khetri and Daribo areas of Rajasthan",
+            "C": "Anantapur in Andhra Pradesh",
+            "D": "Siwaliks in Uttar Pradesh and in Karnataka"
+        },
+        "correct_answer": "A",
+        "answer_description": "India's copper ore reserves have been estimated at 400 million tonnes, with a metal content of 5 million tones. The principal copper belt of India lies in Singhbhum and Hazaribagh in Jharkhand. The mining centres are located at Mosabani, Ghatsila, Thobani and Badia of Singbhbum, Hazaribagh of Bihar, the Khetri and Dariba areas of Rajasthan, and Agnigundala of Andhra Pradesh. Total production is 2.6 million tones."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are true regarding Jhum cultivation in India?It is largely practiced in AssamIt is referred to as 'slash and burn' techniqueIn it, the fertility is exhausted in a few years",
+        "options": {
+            "A": "I, II and III",
+            "B": "II and III",
+            "C": "I and II",
+            "D": "I and III"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Yarlung Zangbo river, in India, is known as",
+        "options": {
+            "A": "Ganga",
+            "B": "Indus",
+            "C": "Brahmaputra",
+            "D": "Mahanadi"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Salal Project is on the river",
+        "options": {
+            "A": "Chenab",
+            "B": "Jhelum",
+            "C": "Ravi",
+            "D": "Sutlej"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The only zone in the country that produces gold is also rich in iron is",
+        "options": {
+            "A": "North-eastern zone",
+            "B": "North-western zone",
+            "C": "Southern zone",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

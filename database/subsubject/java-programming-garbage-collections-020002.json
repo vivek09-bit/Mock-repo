@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public Object m() \n{  \n    Object o = new Float(3.14F); \n    Object [] oa = new Object[l];\n    oa[0] = o; /* Line 5 */\n    o = null;  /* Line 6 */\n    oa[0] = null; /* Line 7 */\n    return o; /* Line 8 */\n}When is theFloatobject, created in line 3, eligible for garbage collection?",
+        "options": {
+            "A": "just after line 5",
+            "B": "just after line 6",
+            "C": "just after line 7",
+            "D": "just after line 8"
+        },
+        "correct_answer": "C",
+        "answer_description": "Option A is wrong. This simply copies the object reference into the array.Option B is wrong. The reference o is set to null, but,oa[0]still maintains the reference to theFloatobject.Option C is correct. The thread of execution will then not have access to the object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "class X2 \r\n{\r\n    public X2 x;\r\n    public static void main(String [] args) \r\n    {\r\n        X2 x2 = new X2();  /* Line 6 */\r\n        X2 x3 = new X2();  /* Line 7 */\r\n        x2.x = x3;\r\n        x3.x = x2;\r\n        x2 = new X2();\r\n        x3 = x2; /* Line 11 */\r\n        doComplexStuff();\r\n    }\r\n}after line 11 runs, how many objects are eligible for garbage collection?",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "correct_answer": "C",
+        "answer_description": "This is an example of the islands of isolated objects. By the time line 11 has run, the objects instantiated in lines 6 and 7 are referring to each other, but no live thread can reach either of them."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What allows the programmer to destroy an object x?",
+        "options": {
+            "A": "x.delete()",
+            "B": "x.finalize()",
+            "C": "Runtime.getRuntime().gc()",
+            "D": "Only the garbage collection system can destroy an object."
+        },
+        "correct_answer": "D",
+        "answer_description": "Option D is correct. When an object is no longer referenced, it may be reclaimed by the garbage collector. If an object declares a finalizer, the finalizer is executed before the object is reclaimed to give the object a last chance to clean up resources that would not otherwise be released. When a class is no longer needed, it may be unloaded.Option A is wrong. I found 4delete()methods in all of the Java class structure. They are:delete()- Method in classjava.io.File: Deletes the file or directory denoted by this abstract pathname.delete(int, int)- Method in classjava.lang.StringBuffer: Removes the characters in a substring of thisStringBuffer.delete(int, int)- Method in interfacejavax.accessibility.AccessibleEditableText: Deletes the text between two indicesdelete(int, int)- Method in class :javax.swing.text.JTextComponent.AccessibleJTextComponent; Deletes the text between two indicesNone of these destroy the object to which they belong.Option B is wrong. I found 19finalize()methods. The most interesting, from this questions point of view, was thefinalize()method in classjava.lang.Objectwhich is called by the garbage collector on an object when garbage collection determines that there are no more references to the object. This method does not destroy the object to which it belongs.Option C is wrong. But it is interesting. TheRuntimeclass has many methods, two of which are:getRuntime()- Returns the runtime object associated with the current Java application.gc()- Runs the garbage collector. Calling this method suggests that the Java virtual machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the virtual machine has made its best effort to recycle all discarded objects. Interesting as this is, it doesn't destroy the object."
+    }
+]

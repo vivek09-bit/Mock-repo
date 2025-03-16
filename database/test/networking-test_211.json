@@ -1,0 +1,146 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have 10 users plugged into a hub running 10Mbps half-duplex. There is a server connected to the switch running 10Mbps half-duplex as well. How much bandwidth does each \nhost have to the server?",
+          "options": {
+               "A": "100 kbps",
+               "B": "1 Mbps",
+               "C": "2 Mbps",
+               "D": "10 Mbps"
+          },
+          "correct_answer": "D",
+          "answer_description": "Each device has 10 Mbps\tto the server."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What PPP protocol provides dynamic addressing, authentication, and multilink?",
+          "options": {
+               "A": "NCP",
+               "B": "HDLC",
+               "C": "LCP",
+               "D": "X.25"
+          },
+          "correct_answer": "C",
+          "answer_description": "Link Control Protocol in the PPP stack provides dynamic addressing, authentication, and multilink."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?",
+          "options": {
+               "A": "192.168.168.129-190",
+               "B": "192.168.168.129-191",
+               "C": "192.168.168.128-190",
+               "D": "192.168.168.128-192"
+          },
+          "correct_answer": "A",
+          "answer_description": "256 - 192 = 64. 64 + 64 = 128. 128 + 64 = 192. The subnet is 128, the broadcast address \nis 191, and the valid host range is the numbers in between, or 129-190."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are unique characteristics of half-duplex Ethernet when compared to full-duplex Ethernet?Half-duplex Ethernet operates in a shared collision domain.Half-duplex Ethernet operates in a private collision domain.Half-duplex Ethernet has higher effective throughput.Half-duplex Ethernet has lower effective throughput.",
+          "options": {
+               "A": "2 only",
+               "B": "1,2 and 3",
+               "C": "1 and 4",
+               "D": "4 only"
+          },
+          "correct_answer": "C",
+          "answer_description": "Unlike full duplex, half-duplex Ethernet operates in a shared collision domain, and it has a lower effective throughput than full duplex."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What type of RJ45 UTP cable do you use to connect a PC's COM port to a router or switch console port?",
+          "options": {
+               "A": "Straight-through",
+               "B": "Crossover cable",
+               "C": "Crossover with a CSU/DSU",
+               "D": "Rolled"
+          },
+          "correct_answer": "D",
+          "answer_description": "To connect to a router or switch console port, you would use an RJ45 UTP rolled cable."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A network administrator is connecting hosts A and B directly through their Ethernet interfaces, as shown in the illustration. Ping attempts between the hosts are unsuccessful. What can be \ndone to provide connectivity between the hosts?A crossover cable should be used in place of the straight-through cable.A rollover cable should be used in place of the straight-through cable.The subnet masks should be set to 255.255.255.192.A default gateway needs to be set on each host.The subnet masks should be set to 255.255.255.0.",
+          "options": {
+               "A": "1 only",
+               "B": "2 only",
+               "C": "3 and 4 only",
+               "D": "1 and 5 only",
+               "E": "2 and 5 only"
+          },
+          "correct_answer": "D",
+          "answer_description": "First, if you have two hosts directly connected, as shown in the graphic, then you need \na crossover cable. A straight-through cable won't work. Second, the hosts have different \nmasks, which puts them in different subnets. The easy solution is just to set both masks to \n255.255.255.0 (/24)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You set the console password, but when you display the configuration, the password doesn't show up; it looks like this:[output cut]\nLine console 0\n    Exec-timeout 1 44\n    Password 7098C0BQR\n    Login\n[output cut]What cause the password to be stored like this?",
+          "options": {
+               "A": "encrypt password",
+               "B": "service password-encryption",
+               "C": "service-password-encryption",
+               "D": "exec-timeout 1 35"
+          },
+          "correct_answer": "B",
+          "answer_description": "The commandservice password-encryption, from global configuration mode, will encrypt the passwords."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The configuration register setting of 0x2102 provides what function to a router?",
+          "options": {
+               "A": "Tells the router to boot into ROM monitor mode",
+               "B": "Provides password recovery",
+               "C": "Tells the router to look in NVRAM for the boot sequence",
+               "D": "Boots the IOS from a TFTP server"
+          },
+          "correct_answer": "C",
+          "answer_description": "The default configuration setting of 0x2102 tells the router to look in NVRAM for the boot sequence."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What are the distinct functions of layer 2 switching that increase available bandwidth on the network?Address learningRoutingForwarding and filteringCreating network loopsLoop avoidanceIP addressing",
+          "options": {
+               "A": "1, 3 and 5",
+               "B": "2, 4 and 6",
+               "C": "2 and 6",
+               "D": "3 and 5"
+          },
+          "correct_answer": "A",
+          "answer_description": "Layer 2 features include address learning, forwarding and filtering of the network, and loop avoidance."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Layer 2 switching provides which of the following?Hardware-based bridging (ASIC)Wire speedLow latencyLow cost",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1, 2 and 4",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Switches, unlike bridges, are hardware based. Cisco says its switches are wire speed and provide low latency, and I guess they are low cost compared to their prices in the 1990s."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What multicast addresses does EIGRPv6 use?",
+          "options": {
+               "A": "FF02::A",
+               "B": "FF02::9",
+               "C": "FF02::5",
+               "D": "FF02::6"
+          },
+          "correct_answer": "A",
+          "answer_description": "EIGRPv6's multicast address stayed very near the same. In IPv4 it was224.0.0.10; now it isFF02::A(A=10 in hexadecimal notation)."
+     }
+]

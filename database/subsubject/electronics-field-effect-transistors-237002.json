@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When testing an n-channel D-MOSFET, resistance G to D =, resistance G to S =, resistance D to SS =and 500, depending on the polarity of the ohmmeter, and resistance D to S = 500. What is wrong?",
+        "options": {
+            "A": "short D to S",
+            "B": "open G to D",
+            "C": "open D to SS",
+            "D": "nothing"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the constant-current region, how will the IDSchange in an n-channel JFET?",
+        "options": {
+            "A": "As VGSdecreases IDdecreases.",
+            "B": "As VGSincreases IDincreases.",
+            "C": "As VGSdecreases IDremains constant.",
+            "D": "As VGSincreases IDremains constant."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A MOSFET has how many terminals?",
+        "options": {
+            "A": "2 or 3",
+            "B": "3",
+            "C": "4",
+            "D": "3 or 4"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "IDSScan be defined as:",
+        "options": {
+            "A": "the minimum possible drain current",
+            "B": "the maximum possible current with VGSheld at –4 V",
+            "C": "the maximum possible current with VGSheld at 0 V",
+            "D": "the maximum drain current with the source shorted"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the input impedance of a common-gate configured JFET?",
+        "options": {
+            "A": "very low",
+            "B": "low",
+            "C": "high",
+            "D": "very high"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

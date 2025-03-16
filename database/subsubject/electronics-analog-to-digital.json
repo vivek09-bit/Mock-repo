@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The two basic types of signals are analog and:",
+        "options": {
+            "A": "digilog",
+            "B": "digital",
+            "C": "vetilog",
+            "D": "sine wave"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following characterizes an analog quantity?",
+        "options": {
+            "A": "Discrete levels represent changes in a quantity.",
+            "B": "Its values follow a logarithmic response curve.",
+            "C": "It can be described with a finite number of steps.",
+            "D": "It has a continuous set of values over a given range."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ASCII stands for:",
+        "options": {
+            "A": "American Serial Communication Interface",
+            "B": "Additive Signal Coupling Interface",
+            "C": "American Standard Code for Information Interchange",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of signal is represented by discrete values?",
+        "options": {
+            "A": "noisy signal",
+            "B": "nonlinear",
+            "C": "analog",
+            "D": "digital"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A data conversion system may be used to interface a digital computer system to:",
+        "options": {
+            "A": "an analog output device",
+            "B": "a digital output device",
+            "C": "an analog input device",
+            "D": "a digital printer"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

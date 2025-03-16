@@ -1,0 +1,44 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:He stressed the need to stop the present examination system and its replacement by other methods which would measure the real merit of the students.Conclusions:Examinations should be abolished.The present examination system does not measure the real merit of the students.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "The statement stresses the need to adopt a new method of examination. So, I does not follow. However, II directly follows from the given statement."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Fashion is a form of ugliness so intolerable that we have to alter it every six months.Conclusions:Fashion designers do not understand the public mind very well.The public by and large is highly susceptible to novelty.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "The statement asserts that people cannot stand any particular trend for long and seek change quite often. So, only II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Until our country achieves economic equality, political freedom and democracy would be meaningless.Conclusions:Political freedom and democracy go hand in hand.Economic equality leads to real political freedom and democracy.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "Nothing about the relation between political freedom and democracy is mentioned in the statement. So, I does not follow. But II directly follows from the given statement."
+    }
+]

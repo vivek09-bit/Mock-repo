@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following fractions is greater than3and less than5?46",
+        "options": {
+            "A": "12",
+            "B": "23",
+            "C": "45",
+            "D": "910"
+        },
+        "correct_answer": "C",
+        "answer_description": "3= 0.75,5= 0.833,1= 0.5,2= 0.66,4= 0.8,9= 0.9.4623510Clearly, 0.8 lies between 0.75 and 0.833.4lies between3and5.546"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The rational number for recurring decimal 0.125125.... is:",
+        "options": {
+            "A": "63487",
+            "B": "119993",
+            "C": "125999",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "0.125125... = 0.125=125999"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "617 + 6.017 + 0.617 + 6.0017 = ?",
+        "options": {
+            "A": "6.2963",
+            "B": "62.965",
+            "C": "629.6357",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "617.00\n    6.017\n    0.617\n +  6.0017\n  --------\n  629.6357\n  ---------"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The value of489.1375 x 0.0483 x 1.956is closest to:0.0873 x 92.581 x 99.749",
+        "options": {
+            "A": "0.006",
+            "B": "0.06",
+            "C": "0.6",
+            "D": "6"
+        },
+        "correct_answer": "B",
+        "answer_description": "489.1375 x 0.0483 x 1.956489 x 0.05 x 20.0873 x 92.581 x 99.7490.09 x 93 x 100=4899 x 93 x 10=163x127910=0.5810= 0.0580.06."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "0.002 x 0.5 = ?",
+        "options": {
+            "A": "0.0001",
+            "B": "0.001",
+            "C": "0.01",
+            "D": "0.1"
+        },
+        "correct_answer": "B",
+        "answer_description": "2 x 5 = 10.Sum of decimal places = 40.002 x 0.5 = 0.001"
+    }
+]

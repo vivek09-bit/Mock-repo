@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following countries won the final of the triangular cricket series held in durban in February 1997?",
+        "options": {
+            "A": "India",
+            "B": "New zealand",
+            "C": "South africa",
+            "D": "Zimbabwe"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who has scored the most runs in a single First-class innings?",
+        "options": {
+            "A": "Hanif Mohammad",
+            "B": "Brian Lara",
+            "C": "Sir Donald Bradman",
+            "D": "Sachin Tendulkar"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

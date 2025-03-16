@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thetryandexceptblocks in Python exception handling allow you to do?",
+        "options": {
+            "A": "Define custom exception classes",
+            "B": "Raise exceptions intentionally",
+            "C": "Handle and catch exceptions",
+            "D": "Terminate the program"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thetryblock is used to enclose code that might raise an exception, and theexceptblock is used to handle and catch the raised exceptions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:try:\r\n    num = int(\"abc\")\r\nexcept ValueError:\r\n    print(\"Invalid conversion\")\r\nelse:\r\n    print(\"Conversion successful\")What will be the output of this code?",
+        "options": {
+            "A": "Invalid conversion",
+            "B": "Conversion successful",
+            "C": "ValueError: invalid literal for int() with base 10: 'abc'",
+            "D": "No output, it will raise an exception"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thetryblock attempts to convert the string \"abc\" to an integer, resulting in a ValueError. Theexceptblock is executed, printing \"Invalid conversion.\""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is NOT a built-in exception in Python for handling errors related to accessing a key that does not exist in a dictionary?",
+        "options": {
+            "A": "KeyError",
+            "B": "ValueError",
+            "C": "NoSuchKeyError",
+            "D": "NameError"
+        },
+        "correct_answer": "D",
+        "answer_description": "NameErroris not specifically related to accessing keys in a dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what will happen if an exception is not caught?",
+        "options": {
+            "A": "The program will continue executing normally",
+            "B": "The program will terminate immediately",
+            "C": "The program will prompt the user to handle the exception",
+            "D": "The program will enter an infinite loop"
+        },
+        "correct_answer": "B",
+        "answer_description": "If an exception is not caught, the program will terminate abruptly, and an error message will be displayed."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thefinallyblock in Python exception handling?",
+        "options": {
+            "A": "Define custom exception classes",
+            "B": "Terminate the program",
+            "C": "Execute code regardless of whether an exception is raised or not",
+            "D": "Raise exceptions intentionally"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thefinallyblock contains code that will be executed no matter what, whether an exception is raised or not. It is useful for cleanup operations or releasing resources."
+    }
+]

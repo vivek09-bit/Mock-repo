@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of failure occurs when Oracle fails due to an operating system or computer hardware failure?",
+        "options": {
+            "A": "Application failure",
+            "B": "Instance Failure",
+            "C": "Media Failure",
+            "D": "Rollback failure"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement about sequences is not true?",
+        "options": {
+            "A": "A sequence is an object that generates a sequential series of unique numbers.",
+            "B": "Sequences are most often used to provide values for surrogate keys.",
+            "C": "NextValandCurrValare both sequence methods.",
+            "D": "Sequences guarantee valid surrogate key values."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which prefixes are available to Oracle triggers?",
+        "options": {
+            "A": ":new only",
+            "B": ":old only",
+            "C": "Both :new and :old",
+            "D": "Neither :new nor :old"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In creating a procedure, you may get a message if you have compile errors. Which of the following is true?",
+        "options": {
+            "A": "The line numbers reported match the line numbers you see in your text editor.",
+            "B": "SQL*Plus will automatically show the errors to you.",
+            "C": "To see the errors, enter SHOW ERRORS in SQL*Plus.",
+            "D": "If there are no syntax errors, you will receive the message \"NO ERRORS.\""
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following isnottrue about indexes?",
+        "options": {
+            "A": "Indexes are created to enforce uniqueness on columns.",
+            "B": "Indexes are created to enable fast retrieval by column values.",
+            "C": "Columns that are frequently used with equal conditions in WHERE clauses are good candidates for indexes.",
+            "D": "Indexes are created with the ALTER TABLE command."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

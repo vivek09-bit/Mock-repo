@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you prompt the user to enter a series of numbers until they enter a negative number, and then print the sum of the positive numbers?",
+        "options": {
+            "A": "positive_sum(get_positive_numbers())",
+            "B": "sum_positive_numbers(input(\"Enter numbers (negative to stop): \"))",
+            "C": "total = 0; while True: num = int(input(\"Enter a number: \")); if num < 0: break; total += num; print(total)",
+            "D": "print(\"Sum of positives:\", calculate_positive_sum(get_input_numbers()))"
+        },
+        "correct_answer": "C",
+        "answer_description": "To prompt the user to enter a series of numbers until they enter a negative number, and then print the sum of the positive numbers, use awhileloop with a break condition."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you read a string from the console, count the number of vowels and consonants, and print the result?",
+        "options": {
+            "A": "vowel_consonant_count(input(\"Enter a string: \"))",
+            "B": "print(count_vowels_consonants(get_user_string()))",
+            "C": "string_input = input(\"Enter a string: \"); print(\"Vowels:\", count_vowels(string_input), \"Consonants:\", count_consonants(string_input))",
+            "D": "print(\"Vowels:\", vowels_count(input(\"Enter a string: \")), \"Consonants:\", consonants_count(input()))"
+        },
+        "correct_answer": "C",
+        "answer_description": "To read a string from the console, count the number of vowels and consonants, and print the result, usestring_input = input(\"Enter a string: \"); print(\"Vowels:\", count_vowels(string_input), \"Consonants:\", count_consonants(string_input))."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you prompt the user to enter a list of words, sort them alphabetically, and print the result?",
+        "options": {
+            "A": "sorted_words(get_user_words())",
+            "B": "print(\"Sorted words:\", sort_alphabetically(input(\"Enter words separated by spaces: \").split()))",
+            "C": "words = input(\"Enter words separated by spaces: \").split(); print(\"Sorted words:\", sort_words(words))",
+            "D": "sort_input_words(input(\"Enter a list of words: \"))"
+        },
+        "correct_answer": "C",
+        "answer_description": "To prompt the user to enter a list of words, sort them alphabetically, and print the result, usewords = input(\"Enter words separated by spaces: \").split(); print(\"Sorted words:\", sort_words(words))."
+    }
+]

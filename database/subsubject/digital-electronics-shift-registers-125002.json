@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can parallel data be taken out of a shift register simultaneously?",
+        "options": {
+            "A": "Use theQoutput of the first FF.",
+            "B": "Use theQoutput of the last FF.",
+            "C": "Tie all of theQoutputs together.",
+            "D": "Use theQoutput of each FF."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is meant by parallel load of a shift register?",
+        "options": {
+            "A": "All FFs are preset with data.",
+            "B": "Each FF is loaded with data, one at a time."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the output enable do on the 74395A chip?",
+        "options": {
+            "A": "It determines when data can be loaded.",
+            "B": "It forces all outputs to go HIGH.",
+            "C": "It forces all outputs to go LOW.",
+            "D": "It activates the three-state buffer."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To operate correctly, starting a ring shift counter requires:",
+        "options": {
+            "A": "clearing all the flip-flops",
+            "B": "presetting one flip-flop and clearing all others",
+            "C": "clearing one flip-flop and presetting all others",
+            "D": "presetting all the flip-flops"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 6-bit Johnson counter sequence there are a total of how many states, or bit patterns?",
+        "options": {
+            "A": "2",
+            "B": "6",
+            "C": "12",
+            "D": "24"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Ex-NOR is sometimes called the ________.",
+        "options": {
+            "A": "parity gate",
+            "B": "equality gate",
+            "C": "inverted OR",
+            "D": "parity gate or the equality gate"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

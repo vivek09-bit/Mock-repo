@@ -1,0 +1,275 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)In these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+          "image_path": null,
+          "question": "JAK, KBL, LCM, MDN, _____",
+          "options": {
+               "A": "OEP",
+               "B": "NEO",
+               "C": "MEN",
+               "D": "PFQ"
+          },
+          "correct_answer": "B",
+          "answer_description": "This is an alternating series in alphabetical order. The middle letters follow the order ABCDE. The first and third letters are alphabetical beginning with J. The third letter is repeated as a first letter in each subsequent three-letter segment."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)In these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+          "image_path": null,
+          "question": "SCD, TEF, UGH, ____, WKL",
+          "options": {
+               "A": "CMN",
+               "B": "UJI",
+               "C": "VIJ",
+               "D": "IJT"
+          },
+          "correct_answer": "C",
+          "answer_description": "There are two alphabetical series here. The first series is with the first letters only: STUVW. The second series involves the remaining letters: CD, EF, GH, IJ, KL."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Find the word that names a necessary part of the underlined word.",
+          "image_path": null,
+          "question": "purchase",
+          "options": {
+               "A": "trade",
+               "B": "money",
+               "C": "bank",
+               "D": "acquisition"
+          },
+          "correct_answer": "D",
+          "answer_description": "A purchase is an acquisition of something. A purchase  may be made by trade (choice a) or with money (choice b), so those are not essential elements. A bank (choice c) may or may not be involved in a purchase."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 5)The words in the bottom row are related in the same way as the words in the top row. For each item, find the word that completes the bottom row of words.",
+          "image_path": null,
+          "question": "snowmountainskiwarmthlake?",
+          "options": {
+               "A": "sand",
+               "B": "swim",
+               "C": "sunburn",
+               "D": "vacation"
+          },
+          "correct_answer": "B",
+          "answer_description": "The relationship above the line is that snow on a mountain creates conditions for skiing. Below the line, the relationship is that warmth at a lake creates conditions for swimming."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 5)The words in the bottom row are related in the same way as the words in the top row. For each item, find the word that completes the bottom row of words.",
+          "image_path": null,
+          "question": "applesfruitsupermarketnovelbook?",
+          "options": {
+               "A": "bookstore",
+               "B": "magazine",
+               "C": "vegetable",
+               "D": "shopping"
+          },
+          "correct_answer": "A",
+          "answer_description": "The relationship above the line is as follows; apples  are a kind of fruit; fruit is sold in a supermarket. Below the line, the relationship is: a novel is a kind of book; books are sold in a bookstore."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Every one of the following questions consists of a related pair of words, followed by five pairs of words. Choose the pair that best represents a similar relationship to the one expressed in the original pair of words.",
+          "image_path": null,
+          "question": "PULSATE : THROB",
+          "options": {
+               "A": "walk : run",
+               "B": "tired : sleep",
+               "C": "examine : scrutinize",
+               "D": "ballet : dancer",
+               "E": "find : lose"
+          },
+          "correct_answer": "C",
+          "answer_description": "Pulsate and throb are synonyms, as are examine and scrutinize."
+     },
+     {
+          "direction": "Direction (Q.No. 7)First, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+          "image_path": null,
+          "question": "Here are some words translated from an artificial language.dionotmeans oak treeblyonotmeans oak leafblycrinmeans maple leafWhich word could mean \"maple syrup\"?",
+          "options": {
+               "A": "blymuth",
+               "B": "hupponot",
+               "C": "patricrin",
+               "D": "crinweel"
+          },
+          "correct_answer": "C",
+          "answer_description": "In this language, the adjective follows the noun. Fromdionotandblyonot, you can determine that 'onot' means oak. Fromblyonotandblycrin, you can determine thatblymeans leaf. Therefore,crinmeans maple. Because the adjective maple comes after the noun,patricrinis the only possible choice."
+     },
+     {
+          "direction": "Direction (Q.No. 8)Each of the following questions contains a small paragraph followed by a question on it. Read each paragraph carefully and answer the question given below it.",
+          "image_path": null,
+          "question": "Though the waste of time or the expenditure on fashions is very large, yet fashions have come to stay. They will not go, come what may. However, what is now required is that strong efforts should be made to displace the excessive craze for fashion from the minds of these youngsters.The passage best supports the statement that:",
+          "options": {
+               "A": "fashion is the need of the day.",
+               "B": "the excessive craze for fashion is detrimental to one's personality.",
+               "C": "the hoard for fashion should be done away with so as not to let down the constructive development.",
+               "D": "work and other activities should be valued more than the outward appearance."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:In a recent survey report, it has been stated that those who undertake physical exercise for at least half an hour a day are less prone to have any heart ailments.Conclusions:Moderate level of physical exercise is necessary for leading a healthy life.All people who do desk-bound jobs definitely suffer from heart ailments.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "A",
+          "answer_description": "The statement mentions that chances of heart ailments are greatly reduced by a regular half-hour exercise. So, I follows. However, it talks of only reducing the probability which does not mean that persons involved in sedentary jobs shall definitely suffer from heart ailments. So, II does not follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:People who speak too much against dowry are those who had taken it themselves.Conclusions:It is easier said than done.People have double standards.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "The statement clearly implies that it is easier to say than to do something and what people say is different from what they do. So, both I and II follow."
+     },
+     {
+          "direction": "Direction (Q.No. 11)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:The best way to escape from a problem is to solve it.Conclusions:Your life will be dull if you don't face a problem.To escape from problems, you should always have some solutions with you.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "Clearly, both I and II do not follow from the given statement."
+     },
+     {
+          "direction": "Direction (Q.No. 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Never before such a lucid book was available on the topic.Assumptions:Some other books were available on this topic.You can write lucid books on very few topics.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "It follows from the statement that books on this topic were available before also but they were not 'lucid'. So, I is implicit. But a general comment as II cannot be made from the given statement. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 14)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should cottage industries be encouraged in rural areas?Arguments:Yes. Rural people are creative.Yes. This would help to solve the problem of unemployment to some extent.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, cottage industries need to be promoted to create more job opportunities for rural people in the villages themselves. The reason that rural people are creative is vague. So, only argument II holds."
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 14)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should so much money be spent on advertisements?Arguments:Yes. It is an essential concomitant in a capitalist economy.No. It leads to wastage of resources.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the advertisements are/the means to introduce people with the product and its advantages. So, argument I holds strong. But argument II is vague because advertisements are an investment for better gain and not a, wastage."
+     },
+     {
+          "direction": "Direction (Q.No. 15)In each question below is given a statement followed by three courses of action numbered I, II and III. You have to assume everything in the statement to be true, then decide which of the three given suggested courses of action logically follows for pursuing.",
+          "image_path": null,
+          "question": "Statement:The meteorological department has reported that a severe storm is likely to hit the city during the next forty-eight hours.Courses of Action:The administration should advise all the business and educational establishments to close down for two days.The administration should not make the information public as it could create panic among the residents of the city.The administration should activate its disaster management program to tackle any possible emergency situation.",
+          "options": {
+               "A": "Only I and II follow",
+               "B": "Only III follows",
+               "C": "Only II and III follow",
+               "D": "Only I and III follow",
+               "E": "All follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "The administration should strive to prevent the residents of the city from the ensuing danger. This can be done by persuading residents to stay indoors and putting emergency relief operation mechanism to work. Thus, both I and III follow. Further, the storm is likely to play havoc with the lives of general public if it comes as a surprise to them. So, II does not follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 17)Each question given below consists of a statement, followed by three or four arguments numbered I, II, III and IV. You have to decide which of the arguments is/are 'strong' arguments) and which is/are 'weak' arguments) and accordingly choose your answer from the alternatives given below each question.",
+          "image_path": null,
+          "question": "Statement:Should government established higher level Institutes of Technology (IIT's) be privatized?Arguments:Yes. Privatization will make these institutes financially healthy, competitive and quality conscious.Yes. Privatization is the key of the new era - can we survive without it?No. Standard of education of these institutes will fall.",
+          "options": {
+               "A": "None is strong",
+               "B": "All are strong",
+               "C": "Only I is strong",
+               "D": "Only I and III are strong",
+               "E": "Only II and III are strong"
+          },
+          "correct_answer": "C",
+          "answer_description": "Clearly, privatization leads to betterment in a bid to win over the others in the field and earn both good reputation and money. So, argument I holds strong. Besides, privatization cannot be opted for just because it is the present trend. Also, privatization would, in no way, deteriorate the educational standards. So, neither II nor III holds."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 17)Each question given below consists of a statement, followed by three or four arguments numbered I, II, III and IV. You have to decide which of the arguments is/are 'strong' arguments) and which is/are 'weak' arguments) and accordingly choose your answer from the alternatives given below each question.",
+          "image_path": null,
+          "question": "Statement:Should trade unions be banned completely?Arguments:Yes. Workers can concentrate on production.No. This is the only way through which employees can put their demands before the management.Yes. Employees get their illegal demands fulfilled through these unions.No. Trade unions are not banned in other economically advanced countries.",
+          "options": {
+               "A": "Only I is strong",
+               "B": "Only II is strong",
+               "C": "Only I and II are strong",
+               "D": "Only I, II and III are strong",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, trade unions provide a common platform for the workers to voice their demands and protests and thus ensure that they are not subdued or exploited. So, argument II holds strong, while I and III do not. Besides, the idea of imitation of other countries in the implementation of a certain policy holds no relevance. So, argument IV also does not hold strong."
+     },
+     {
+          "direction": "Direction (Q.No. 18)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:During pre-harvest kharif season, the government has decided to release vast quantity of food grains from FCI.Assumptions:There may be a shortage of food grains in the market during this season.The kharif crop may be able to replenish the stock of FCI.There may be a demand from the farmers to procure kharif crop immediately after harvest.",
+          "options": {
+               "A": "All are implicit",
+               "B": "Only II and III are implicit",
+               "C": "None is implicit",
+               "D": "Only I and II are implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Assumptions I and II provide the most probable reasons for the step taken by the government. So, both I and II are implicit. Since the foodgrains have been released during pre-harvest kharif season, it is evident that the next kharif crop would replenish the stock. So, III is also implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:Bill Clinton is the second democrat to be re-elected as President of America, the other being the legendary Roosevelt.Assumptions:Clinton has the same qualities that Roosevelt had.The majority of people in America have faith in Clinton.The election campaign of Clinton's rivals was not impressive.",
+          "options": {
+               "A": "Only I is implicit",
+               "B": "Only II is implicit",
+               "C": "Only III is implicit",
+               "D": "Either I or III is implicit",
+               "E": "Either II or III is implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The statement simply mentions that Clinton and Roosevelt were the only two persons who were re-elected as President of America. But this does not imply that they were liked by the public for the same reasons or qualities. So, I is not implicit. However, it is clear that that majority of people adore Clinton. So, II is implicit. Nothing about the reasons of Clinton's victory or the election campaign of Clinton's rivals can be assumed from the given statement. So, III is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:\"Television X - the neighbour's envy, the owner's pride\" - A T.V. advertisement.Assumptions:Catchy slogans appeal to people.People are envious of their neighbours superior possessions.People want to be envied by their neighbours.",
+          "options": {
+               "A": "Only I and II are implicit",
+               "B": "Only II and III are implicit",
+               "C": "Only I and III are implicit",
+               "D": "All are implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, both I and II directly follow from the statement. Also, it is clear that people wish to buy a thing which they can be proud of. So, III is not implicit."
+     }
+]

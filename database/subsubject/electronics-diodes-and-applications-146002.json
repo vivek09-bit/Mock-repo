@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When matching polarity connections have been made and the potential difference (PD) is above 0.7 V, the diode is considered to be:",
+        "options": {
+            "A": "not working",
+            "B": "forward biased",
+            "C": "reverse biased",
+            "D": "an open switch"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a power supply diagram, which block indicates a smooth dc output?",
+        "options": {
+            "A": "transformer",
+            "B": "filter",
+            "C": "rectifier",
+            "D": "regulator"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a 169.7 V half-wave peak has an average voltage of 54 V, what is the average of two full-wave peaks?",
+        "options": {
+            "A": "119.9 V",
+            "B": "108.0 V",
+            "C": "115.7 V",
+            "D": "339.4 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the current through the LED?",
+        "options": {
+            "A": "0 mA",
+            "B": "23 mA",
+            "C": "18 mA",
+            "D": "13 mA"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The characteristic curve for the complex model of a silicon diode shows that",
+        "options": {
+            "A": "the barrier potential is 0 V",
+            "B": "the barrier potential stays fixed at 0.7 V",
+            "C": "the barrier potential increases slightly with an increase in current",
+            "D": "the barrier potential decreases slightly with an increase in current"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

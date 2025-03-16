@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man  has  Rs.480 in the denominations of one-rupee notes, five-rupee notes and ten-rupee notes. The number of notes of each denomination is equal. What is the total number of notes that he has ?",
+        "options": {
+            "A": "45",
+            "B": "60",
+            "C": "75",
+            "D": "90"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let number of notes of each denomination bex.Thenx+ 5x+ 10x= 48016x= 480x= 30.Hence, total number of notes = 3x= 90."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "There are two examinations rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. The number of students in room A is:",
+        "options": {
+            "A": "20",
+            "B": "80",
+            "C": "100",
+            "D": "200"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the number of students in rooms A and B bexandyrespectively.Then,x- 10 =y+ 10x-y= 20 .... (i)andx+ 20 = 2(y- 20)x- 2y= -60 .... (ii)Solving (i) and (ii) we get:x= 100 ,y= 80.The required answer A = 100."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The price of 10 chairs is equal to that of 4 tables. The price of 15 chairs and 2 tables together is Rs. 4000. The total price of 12 chairs and 3 tables is:",
+        "options": {
+            "A": "Rs. 3500",
+            "B": "Rs. 3750",
+            "C": "Rs. 3840",
+            "D": "Rs. 3900"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the cost of a chair and that of a table be Rs.xand Rs.yrespectively.Then, 10x= 4yory=5x.215x+ 2y= 400015x+ 2 x5x= 4000220x= 4000x= 200.So,y=5x 200= 500.2Hence, the cost of 12 chairs and 3 tables = 12x+ 3y= Rs. (2400 + 1500)= Rs. 3900."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifa-b= 3 anda2+b2= 29, find the value ofab.",
+        "options": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "18"
+        },
+        "correct_answer": "A",
+        "answer_description": "2ab= (a2+b2) - (a-b)2= 29 - 9 = 20ab= 10."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The price of 2 sarees and 4 shirts is Rs. 1600. With the same money one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay ?",
+        "options": {
+            "A": "Rs. 1200",
+            "B": "Rs. 2400",
+            "C": "Rs. 4800",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the price of a saree and a shirt be Rs.xand Rs.yrespectively.Then, 2x+ 4y= 1600  .... (i)andx+ 6y= 1600 .... (ii)Divide equation (i) by 2, we get the below equation. \n\n=> x +  2y =  800. --- (iii)\n\nNow subtract (iii) from (ii)\n\n x +  6y = 1600  (-)\n x +  2y =  800  \n----------------\n      4y =  800\n----------------\n\nTherefore, y = 200.\n\nNow apply value of y in (iii)\n\n=>  x + 2 x 200 = 800\n\n=>  x + 400 = 800\n\nTherefore x = 400Solving (i) and (ii) we getx= 400,y= 200.Cost of 12 shirts = Rs. (12 x 200) = Rs. 2400."
+    }
+]

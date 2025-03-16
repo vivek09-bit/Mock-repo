@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "CUP : LIP :: BIRD : ?",
+        "options": {
+            "A": "BUSH",
+            "B": "GRASS",
+            "C": "FOREST",
+            "D": "BEAK"
+        },
+        "correct_answer": "D",
+        "answer_description": "Cup is used to drink something with the help of lips. Similarly birds collects grass with the help of beak to make her nest."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Flow : River :: Stagnant : ?",
+        "options": {
+            "A": "Rain",
+            "B": "Stream",
+            "C": "Pool",
+            "D": "Canal"
+        },
+        "correct_answer": "C",
+        "answer_description": "As Water of a River flows similarly water of Pool is Stagnant."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Paw : Cat :: Hoof : ?",
+        "options": {
+            "A": "Lamb",
+            "B": "Elephant",
+            "C": "Lion",
+            "D": "Horse"
+        },
+        "correct_answer": "D",
+        "answer_description": "As cat has Paw similarly Horse has Hoof."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Ornithologist : Bird :: Archaeologist : ?",
+        "options": {
+            "A": "Islands",
+            "B": "Mediators",
+            "C": "Archaeology",
+            "D": "Aquatic"
+        },
+        "correct_answer": "C",
+        "answer_description": "As Ornithologist is a specialist of Birds similarly Archaeologist is a specialist of Archaeology."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions find out the alternative which will replace the question mark.",
+        "image_path": null,
+        "question": "Peacock : India :: Bear : ?",
+        "options": {
+            "A": "Australia",
+            "B": "America",
+            "C": "Russia",
+            "D": "England"
+        },
+        "correct_answer": "C",
+        "answer_description": "As Peacock is the national bird of India, similarly Bear is the national animal of Russia."
+    }
+]

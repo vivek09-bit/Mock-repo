@@ -1,0 +1,236 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a database, data is stored in spreadsheets which have rows and columns.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A benefit of using a stored procedure is that it can be distributed to client computers.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "SERIALIZABLE is the strictest isolation level.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "SQL Server indexes are special data structures used to improve performance.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "FOR XML EXPLICIT tells SQL Server to place the values of the columns as attributes in the resulting XML document.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "JDBC stands for:",
+          "options": {
+               "A": "Java Database Connectivity",
+               "B": "Java Database Components",
+               "C": "Java Database Control",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "With JSP, the coding is done in Java and only in Java.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Business Intelligence (BI) systems donotobtain their data by which of the following means?",
+          "options": {
+               "A": "Read and process data from an operational database",
+               "B": "Process transactions",
+               "C": "Process extracts from operational databases",
+               "D": "Process data purchased from data vendors"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "All enterprise resource planning (ERP) systems are heavily dependent on databases to store the data required by the ERP applications.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A relationship is an association representing the interaction between attributes.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Weak entities do not get mapped into a relation.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Denormalization and clustering can work well to minimize data access time for small records.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many tables may be included with a join?",
+          "options": {
+               "A": "One",
+               "B": "Two",
+               "C": "Three",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The code to create triggers and routines is stored in only one location and is administered centrally.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Client-side extensions:",
+          "options": {
+               "A": "add functionality to the server.",
+               "B": "add functionality to the browser.",
+               "C": "add functionality to the firewall.",
+               "D": "add functionality to the network."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true about ColdFusion Markup Language (CFML)?",
+          "options": {
+               "A": "It is stored in .asp files.",
+               "B": "It is executed on the client.",
+               "C": "It does not use tags.",
+               "D": "It allows for coding of custom tags in an HTML file."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Reconciled data is which of the following?",
+          "options": {
+               "A": "Data stored in the various operational systems throughout the organization.",
+               "B": "Current data intended to be the single source for all decision support systems.",
+               "C": "Data stored in one operational system in the organization.",
+               "D": "Data that has been selected and formatted for end-user support applications."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Concurrency control is important for which of the following reasons?",
+          "options": {
+               "A": "To ensure data integrity when updates occur to the database in a multiuser environment",
+               "B": "To ensure data integrity when updates occur to the database in a single-user environment",
+               "C": "To ensure data integrity while reading data occurs to the database in a multiuser environment",
+               "D": "To ensure data integrity while reading data occurs to the database in a single-user environment"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "With asynchronous technology, if any copy of a data item is updated anywhere on the network, the same update is immediately applied to all other copies or it is aborted.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Object Model supports different literal types, but does not support atomic literals, collection literals, and structured literals.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the double underscore prefix in Python, as in__variable?",
+        "options": {
+            "A": "To indicate a protected variable",
+            "B": "To indicate a private variable",
+            "C": "To indicate a global variable",
+            "D": "To indicate a constant variable"
+        },
+        "correct_answer": "B",
+        "answer_description": "The double underscore prefix in Python, as in__variable, is used to indicate a private variable."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following best describes encapsulation?",
+        "options": {
+            "A": "Combining data and methods into a single unit and allowing unrestricted access to internal details",
+            "B": "Hiding implementation details of an object and exposing only the necessary functionalities",
+            "C": "Inheriting attributes and behaviors from another class",
+            "D": "Using global variables for data encapsulation"
+        },
+        "correct_answer": "B",
+        "answer_description": "Encapsulation in Python involves hiding the implementation details of an object and exposing only the necessary functionalities."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can encapsulation be achieved?",
+        "options": {
+            "A": "By using public access specifiers for all class members",
+            "B": "By allowing unrestricted access to the internal details of an object",
+            "C": "By using access specifiers to control access to class members",
+            "D": "By avoiding the use of classes and objects"
+        },
+        "correct_answer": "C",
+        "answer_description": "Encapsulation in Python can be achieved by using access specifiers, such as private, protected, and public, to control access to class members."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which access specifier in Python is used to indicate that a variable or method should be accessible by subclasses?",
+        "options": {
+            "A": "Public",
+            "B": "Private",
+            "C": "Protected",
+            "D": "Global"
+        },
+        "correct_answer": "C",
+        "answer_description": "Protected access specifier in Python is denoted by a single underscore (_), and it indicates that the variable or method should be accessible by subclasses."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class BankAccount:\r\n    def __init__(self, balance):\r\n        self.__balance = balance\r\n\r\n    def get_balance(self):\r\n        return self.__balance\r\n\r\n    def deposit(self, amount):\r\n        self.__balance += amount\r\n\r\n    def withdraw(self, amount):\r\n        if amount <= self.__balance:\r\n            self.__balance -= amount\r\n            return True\r\n        else:\r\n            return FalseWhat concept of encapsulation is demonstrated in this code?",
+        "options": {
+            "A": "Public access specifier",
+            "B": "Private access specifier",
+            "C": "Protected access specifier",
+            "D": "Global variable"
+        },
+        "correct_answer": "B",
+        "answer_description": "The double underscore prefix (__) in the variable__balanceindicates that it is a private variable, demonstrating encapsulation by hiding the implementation details."
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following instructions will move the contents of the accumulator to register 6?",
+        "options": {
+            "A": "MOV 6R, A",
+            "B": "MOV R6, A",
+            "C": "MOV A, 6R",
+            "D": "MOV A, R6"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following command will rotate the 8 bits of the accumulator one position to the left:RL A",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An alternate function of port pin P3.0 (RXD) in the 8051 is:",
+        "options": {
+            "A": "serial port input",
+            "B": "serial port output",
+            "C": "memory write strobe",
+            "D": "memory read strobe"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

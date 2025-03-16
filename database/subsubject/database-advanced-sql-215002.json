@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is one of the basic approaches for joining tables?",
+        "options": {
+            "A": "Subqueries",
+            "B": "Union Join",
+            "C": "Natural join",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning systems information in an RDBMS?",
+        "options": {
+            "A": "RDBMS store database definition information in system-created tables.",
+            "B": "This information can be accessed using SQL.",
+            "C": "This information often cannot be updated by a user.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following SQL is which type of join: SELECT CUSTOMER_T. CUSTOMER_ID, ORDER_T. CUSTOMER_ID, NAME, ORDER_ID FROM CUSTOMER_T,ORDER_T WHERE CUSTOMER_T. CUSTOMER_ID = ORDER_T. CUSTOMER_ID",
+        "options": {
+            "A": "Equi-join",
+            "B": "Natural join",
+            "C": "Outer join",
+            "D": "Cartesian join"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Embedded SQL is which of the following?",
+        "options": {
+            "A": "Hard-coded SQL statements in a program language such as Java.",
+            "B": "The process of making an application capable of generating specific SQL code on the fly.",
+            "C": "Hard-coded SQL statements in a procedure.",
+            "D": "Hard-coded SQL statements in a trigger."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A UNION query is which of the following?",
+        "options": {
+            "A": "Combines the output from no more than two queries and must include the same number of columns.",
+            "B": "Combines the output from no more than two queries and does not include the same number of columns.",
+            "C": "Combines the output from multiple queries and must include the same number of columns.",
+            "D": "Combines the output from multiple queries and does not include the same number of columns."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The present ages of three persons in proportions 4 : 7 : 9. Eight years ago, the sum of their ages was 56. Find their present ages (in years).",
+        "options": {
+            "A": "8, 20, 28",
+            "B": "16, 28, 36",
+            "C": "20, 35, 45",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let their present ages be 4x, 7xand 9xyears respectively.Then, (4x- 8) + (7x- 8) + (9x- 8) = 5620x= 80x= 4.Their present ages are 4x= 16 years, 7x= 28 years and 9x= 36 years respectively."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ayesha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of her parents?",
+        "options": {
+            "A": "2 years",
+            "B": "4 years",
+            "C": "6 years",
+            "D": "8 years"
+        },
+        "correct_answer": "C",
+        "answer_description": "Mother's age when Ayesha's brother was born = 36 years.Father's age when Ayesha's brother was born = (38 + 4) years = 42 years.Required difference = (42 - 36) years = 6 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
+        "options": {
+            "A": "32 years",
+            "B": "36 years",
+            "C": "40 years",
+            "D": "48 years"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the mother's present age bexyears.Then, the person's present age =2xyears.52x+ 8=1(x+ 8)522(2x+ 40) = 5(x+ 8)x= 40."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+        "options": {
+            "A": "1 year",
+            "B": "2 years",
+            "C": "25 years",
+            "D": "Data inadequate",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given that:1. The difference of age b/w R and Q = The difference of age b/w Q and T.2. Sum of age of R and T is 50 i.e. (R + T) = 50.Question: R - Q = ?.Explanation:R - Q = Q - T(R + T) = 2QNow given that, (R + T) = 50So, 50 = 2Q and therefore Q = 25.Question is (R - Q) = ?Here we know the value(age) of Q (25), but we don't know the age of R.Therefore, (R-Q) cannot be determined."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:",
+        "options": {
+            "A": "5 : 2",
+            "B": "7 : 3",
+            "C": "9 : 2",
+            "D": "13 : 4"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the ages of father and son 10 years ago be 3xandxyears respectively.Then, (3x+ 10) + 10 = 2[(x+ 10) + 10]3x+ 20 = 2x+ 40x= 20.Required ratio = (3x+ 10) : (x+ 10) = 70 : 30 = 7 : 3."
+    }
+]

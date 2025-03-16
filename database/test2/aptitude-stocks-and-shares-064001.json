@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In order to obtain an income of Rs. 650 from 10% stock at Rs. 96, one must make an investment of:",
+        "options": {
+            "A": "Rs. 3100",
+            "B": "Rs. 6240",
+            "C": "Rs. 6500",
+            "D": "Rs. 9600"
+        },
+        "correct_answer": "B",
+        "answer_description": "To obtain Rs. 10, investment = Rs. 96.To obtain Rs. 650, investment = Rs.96x 650= Rs. 6240.10"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man bought 20 shares of Rs. 50 at 5 discount, the rate of dividend being 13. The rate of interest obtained is:",
+        "options": {
+            "A": "121%2",
+            "B": "131%2",
+            "C": "15%",
+            "D": "162%3"
+        },
+        "correct_answer": "C",
+        "answer_description": "Investment = Rs. [20 x (50 - 5)] = Rs. 900.Face value = Rs. (50 x 20) = Rs. 1000.Dividend = Rs.27x1000= Rs. 135.2100Interest obtained =135x 100%= 15%900"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is better investment:  11% stock at 143  or  9% stock at 117?",
+        "options": {
+            "A": "11% stock at 143",
+            "B": "93% stock at 1174",
+            "C": "Both are equally good",
+            "D": "Cannot be compared, as the total amount of investment is not given."
+        },
+        "correct_answer": "B",
+        "answer_description": "Let investment in each case be Rs. (143 x 117).Income in 1stcase = Rs.11x 143 x 117= Rs. 1287.143Income in 2ndcase = Rs.39x 143 x 117= Rs. 1394.254 x 117Clearly, 93% stock at 117 is better.4"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man buys Rs. 20 shares paying 9% dividend. The man wants to have an interest of 12% on his money. The market value of each share is:",
+        "options": {
+            "A": "Rs. 12",
+            "B": "Rs. 15",
+            "C": "Rs. 18",
+            "D": "Rs. 21"
+        },
+        "correct_answer": "B",
+        "answer_description": "Dividend on Rs. 20 = Rs.9x 20= Rs.9.1005Rs. 12 is an income on Rs. 100.Rs.9is an income on Rs.100x9= Rs. 15.5125"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "By investing in 16% stock at 64, one earns Rs. 1500. The investment made is:",
+        "options": {
+            "A": "Rs. 5640",
+            "B": "Rs. 5760",
+            "C": "Rs. 7500",
+            "D": "Rs. 9600"
+        },
+        "correct_answer": "B",
+        "answer_description": "To earn Rs.50, investment = Rs. 64.3To earn Rs. 1500, investment = Rs.64 x3x 1500= Rs. 5760.50"
+    }
+]

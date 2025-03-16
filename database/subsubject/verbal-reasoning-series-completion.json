@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "120, 99, 80, 63, 48, ?",
+        "options": {
+            "A": "35",
+            "B": "38",
+            "C": "39",
+            "D": "40"
+        },
+        "correct_answer": "A",
+        "answer_description": "The pattern is - 21, - 19, - 17, - 15,.....So, missing term = 48 - 13 = 35."
+    },
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "589654237, 89654237, 8965423, 965423, ?",
+        "options": {
+            "A": "58965",
+            "B": "65423",
+            "C": "89654",
+            "D": "96542"
+        },
+        "correct_answer": "D",
+        "answer_description": "The digits are removed one by one from the beginning and the end in order alternatelyso as to obtain the subsequent terms of the series."
+    },
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "3, 10, 101,?",
+        "options": {
+            "A": "10101",
+            "B": "10201",
+            "C": "10202",
+            "D": "11012"
+        },
+        "correct_answer": "C",
+        "answer_description": "Each term in the series is obtained by adding 1 to the square of the preceding term.So, missing term = (101)2+ 1 = 10202."
+    },
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
+        "options": {
+            "A": "4370",
+            "B": "4374",
+            "C": "7443",
+            "D": "7434"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, 2 x 3 = 6, 6 x 3 = 18, 18 x 3 = 54,.....So, the series is a G.P. in which a = 2, r = 3.Therefore 8th term = ar8-1= ar7= 2 x 37= (2 x 2187) = 4374."
+    },
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "125,80,45,20,?",
+        "options": {
+            "A": "5",
+            "B": "8",
+            "C": "10",
+            "D": "12"
+        },
+        "correct_answer": "A",
+        "answer_description": "The pattern is - 45, - 35, - 25, .....So, missing term = 20 - 15 = 5."
+    }
+]

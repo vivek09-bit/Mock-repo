@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement below best describes a Karnaugh map?",
+        "options": {
+            "A": "It is simply a rearranged truth table.",
+            "B": "The Karnaugh map eliminates the need for using NAND and NOR gates.",
+            "C": "Variable complements can be eliminated by using Karnaugh maps.",
+            "D": "A Karnaugh map can be used to replace Boolean rules."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the examples below expresses the commutative law of multiplication?",
+        "options": {
+            "A": "A + B = B + A",
+            "B": "A • B = B + A",
+            "C": "A • (B • C) = (A • B) • C",
+            "D": "A • B = B • A"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Boolean expressionis logically equivalent to what single gate?",
+        "options": {
+            "A": "NAND",
+            "B": "NOR",
+            "C": "AND",
+            "D": "OR"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The observation that a bubbled input OR gate is interchangeable with a bubbled output AND gate is referred to as:",
+        "options": {
+            "A": "a Karnaugh map",
+            "B": "DeMorgan's second theorem",
+            "C": "the commutative law of addition",
+            "D": "the associative law of multiplication"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The systematic reduction of logic circuits is accomplished by:",
+        "options": {
+            "A": "symbolic reduction",
+            "B": "TTL logic",
+            "C": "using Boolean algebra",
+            "D": "using a truth table"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

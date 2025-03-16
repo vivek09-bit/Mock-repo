@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On dividing a number by 357, we get 39 as remainder. On dividing the same number 17, what will be the remainder ?",
+        "options": {
+            "A": "0",
+            "B": "3",
+            "C": "5",
+            "D": "11"
+        },
+        "correct_answer": "C",
+        "answer_description": "Letxbe the number andybe the quotient. Then,x= 357 xy+ 39= (17 x 21 xy) + (17 x 2) + 5= 17 x (21y+ 2) + 5)Required remainder = 5."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the product 4864 x 9 P 2 is divisible by 12, then the value of P is:",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "6",
+            "D": "8",
+            "E": "None of these"
+        },
+        "correct_answer": "E",
+        "answer_description": "Clearly, 4864 is divisible by 4.So, 9P2 must be divisible by 3. So, (9 + P + 2) must be divisible by 3.P = 1."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is the common factor of (4743+ 4343) and (4747+ 4347) ?",
+        "options": {
+            "A": "(47 - 43)",
+            "B": "(47 + 43)",
+            "C": "(4743+ 4343)",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Whennis odd, (xn+an) is always divisible by (x+a).Each one of (4743+ 4343) and (4747+ 4347) is divisible by (47 + 43)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "-84 x 29 + 365 = ?",
+        "options": {
+            "A": "2436",
+            "B": "2801",
+            "C": "-2801",
+            "D": "-2071",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given Exp.= -84 x (30 - 1) + 365= -(84 x 30) + 84 + 365= -2520 + 449= -2071"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A number when divided by 296 leaves 75 as remainder. When the same number is divided by 37, the remainder will be:",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "8",
+            "D": "11"
+        },
+        "correct_answer": "A",
+        "answer_description": "Letx= 296q+ 75= (37 x 8q+ 37 x 2) + 1= 37 (8q+ 2) + 1Thus, when the number is divided by 37, the remainder is 1."
+    }
+]

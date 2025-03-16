@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who composed the famous song 'Sare Jahan SeAchha'?",
+        "options": {
+            "A": "Jaidev",
+            "B": "Mohammad Iqbal",
+            "C": "Bankim Chandra Chattopadhyay",
+            "D": "Rabindranath Tagore"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which of the following festivals are boat races a special feature?",
+        "options": {
+            "A": "Onam",
+            "B": "Rongali Bihu",
+            "C": "Navratri",
+            "D": "Pongal"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Kalchakra ceremony is associated with which of the following ceremonies?",
+        "options": {
+            "A": "Hinduism",
+            "B": "Buddhism",
+            "C": "Jainism",
+            "D": "Islam"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following places is famous for Chikankari work, which is a traditional art of embroidery?",
+        "options": {
+            "A": "Lucknow",
+            "B": "Hyderabad",
+            "C": "Jaipur",
+            "D": "Mysore"
+        },
+        "correct_answer": "A",
+        "answer_description": "Lucknow, in Uttar Pradesh (India), is the centre of chikankari , a skill of more than 200 years old. It literally means 'embroidery'. It was originally done with a white thread on a white cloth, hence the name 'white embroidery'. Now, it is done on a variety of fabrics and in a spectrum of colours."
+    }
+]

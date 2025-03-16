@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "class Foo \n{\n    class Bar{ }\n}\nclass Test \n{\n    public static void main (String [] args) \n    {\n        Foo f = new Foo();\n        /* Line 10: Missing statement ? */\n    }\n}which statement, inserted at line 10, creates an instance ofBar?",
+        "options": {
+            "A": "Foo.Bar b = new Foo.Bar();",
+            "B": "Foo.Bar b = f.new Bar();",
+            "C": "Bar b = new f.Bar();",
+            "D": "Bar b = f.new Bar();"
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct because the syntax is correct-using both names (the enclosing class and the inner class) in the reference declaration, then using a reference to the enclosing class to invoke new on the inner class.Option A, C and D all use incorrect syntax. A is incorrect because it doesn't use a reference to the enclosing class, and also because it includes both names in the new.C is incorrect because it doesn't use the enclosing class name in the reference variable declaration, and because the new syntax is wrong.D is incorrect because it doesn't use the enclosing class name in the reference variable declaration."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public class MyOuter \n{\n    public static class MyInner \n    {\n        public static void foo() { }\n    }\n}which statement, if placed in a class other thanMyOuterorMyInner, instantiates an instance of the nested class?",
+        "options": {
+            "A": "MyOuter.MyInner m = new MyOuter.MyInner();",
+            "B": "MyOuter.MyInner mi = new MyInner();",
+            "C": "MyOuter m = new MyOuter();MyOuter.MyInner mi = m.new MyOuter.MyInner();",
+            "D": "MyInner mi = new MyOuter.MyInner();"
+        },
+        "correct_answer": "A",
+        "answer_description": "MyInneris a static nested class, so it must be instantiated using the fully-scoped name ofMyOuter.MyInner.Option B is incorrect because it doesn't use the enclosing name in the new.Option C is incorrect because it uses incorrect syntax. When you instantiate a nested class by invoking new on an instance of the enclosing class, you do not use the enclosing name. The difference between Option A and C is that Option C is calling new on an instance of the enclosing class rather than just new by itself.Option D is incorrect because it doesn't use the enclosing class name in the variable declaration."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does theitertools.tee()function behave when used with a generator that contains mutable objects?",
+        "options": {
+            "A": "It raises aTypeError",
+            "B": "It creates independent iterators, and changes in one iterator affect the others",
+            "C": "It creates independent iterators, and changes in one iterator do not affect the others",
+            "D": "It raises aValueError"
+        },
+        "correct_answer": "C",
+        "answer_description": "itertools.tee()creates independent iterators, and changes in one iterator do not affect the others. Each iterator maintains its own state.import itertools\r\n\r\ndef generator_with_mutable():\r\n    mutable_list = [1, 2, 3]\r\n    for item in mutable_list:\r\n        yield item\r\n\r\ngen1, gen2 = itertools.tee(generator_with_mutable(), 2)\r\n\r\n# Modify gen1 without affecting gen2\r\nnext(gen1)          \r\ngen1_list = list(gen1)\r\ngen2_list = list(gen2)\r\n\r\nprint(gen1_list)   # Output: [2, 3]\r\nprint(gen2_list)   # Output: [1, 2, 3]"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does theitertools.count()function behave when used with a specified step value?",
+        "options": {
+            "A": "It raises aTypeError",
+            "B": "It creates an infinite sequence of integers with the specified step value",
+            "C": "It stops after reaching the specified step value",
+            "D": "It raises aValueError"
+        },
+        "correct_answer": "B",
+        "answer_description": "itertools.count()creates an infinite sequence of integers, and if a step value is specified, it increments each subsequent element by that step value.import itertools\r\n\r\ncount_by_twos = itertools.count(start=0, step=2)\r\n\r\nresult = [next(count_by_twos) for _ in range(5)]\r\nprint(result)  # Output: [0, 2, 4, 6, 8]"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does theitertools.zip_longest()function behave when used with generators of unequal lengths?",
+        "options": {
+            "A": "It raises aTypeError",
+            "B": "It stops when the shortest generator is exhausted",
+            "C": "It raises aValueError",
+            "D": "It continues until the longest generator is exhausted, filling in missing values with a specified fillvalue"
+        },
+        "correct_answer": "D",
+        "answer_description": "itertools.zip_longest()continues until the longest iterable is exhausted, filling in missing values with a specified fillvalue.import itertools\r\n\r\ngen1 = (1, 2, 3)\r\ngen2 = ('a', 'b')\r\n\r\nzipped_iterable = itertools.zip_longest(gen1, gen2, fillvalue=None)\r\n\r\nprint(list(zipped_iterable))  # Output: [(1, 'a'), (2, 'b'), (3, None)]"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does theyield fromstatement do when used in a generator?",
+        "options": {
+            "A": "It yields a single value from the generator",
+            "B": "It raises aTypeError",
+            "C": "It delegates part of the generator's operation to another generator or iterable",
+            "D": "It stops the generator and raises aStopIterationexception"
+        },
+        "correct_answer": "C",
+        "answer_description": "yield fromis used to delegate part of the generator's operation to another generator or iterable. It simplifies the syntax for generators that yield from another iterable.def generator_delegator():\r\n    yield from range(3)\r\n    yield from 'abc'\r\n\r\nresult = list(generator_delegator())\r\nprint(result)  # Output: [0, 1, 2, 'a', 'b', 'c']"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following operators is used to perform floor division?",
+        "options": {
+            "A": "//",
+            "B": "%",
+            "C": "/",
+            "D": "*"
+        },
+        "correct_answer": "A",
+        "answer_description": "The//operator performs floor division, which returns the largest integer value that is less than or equal to the result of the division."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code snippet?x = \"Hello\"\ny = \"World\"\nz = x + y\nprint(z)",
+        "options": {
+            "A": "Hello World",
+            "B": "HelloWorld",
+            "C": "Hello + World",
+            "D": "Error"
+        },
+        "correct_answer": "B",
+        "answer_description": "The+operator is used to concatenate two strings, which combines the characters of the two strings into a single string."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an example of a comparison operator?",
+        "options": {
+            "A": "+",
+            "B": "or",
+            "C": "and",
+            "D": "=="
+        },
+        "correct_answer": "D",
+        "answer_description": "The==operator is a comparison operator in Python, used to check if two values are equal or not.The other options (+,or, andand) are arithmetic operator, logical operator, and logical operator respectively."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the following expression in Python:7 != '7'?",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "None",
+            "D": "Error"
+        },
+        "correct_answer": "A",
+        "answer_description": "The expression7 != '7'compares the integer value7with the string value'7'to check if they are not equal.In Python, values of different types are considered not equal. Therefore, the result of this expression isTrue."
+    }
+]

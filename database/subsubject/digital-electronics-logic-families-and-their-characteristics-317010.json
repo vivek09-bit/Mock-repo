@@ -1,0 +1,38 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does the 4000 series of CMOS logic compare in terms of speed and power dissipation to the standard family of TTL logic?",
+        "options": {
+            "A": "more power dissipation and slower speed",
+            "B": "more power dissipation and faster speed",
+            "C": "less power dissipation and faster speed",
+            "D": "less power dissipation and slower speed"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What should be done with unused inputs to a TTL NAND gate?",
+        "options": {
+            "A": "let them float",
+            "B": "tie them LOW",
+            "C": "tie them HIGH"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The TTL HIGH level source current is higher than the LOW level sinking current.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

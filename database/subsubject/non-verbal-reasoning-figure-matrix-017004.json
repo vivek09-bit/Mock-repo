@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "The two parts of the first figure are rearranged and joined along the longer sides. The common side is then lost to form the second figure."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "The second figure is a part of the first figure (but is not exactly the same as the first figure)."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "In each row, the central part of the first figure rotates either 90oCW or 90oACW to form the central part of the second figure and the central part of the first figure rotates through 180oto form the central part of the third figure. Also, in each row, there are 3 types of side elements - rectangles, circles and triangles."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "In each column, the third figure (lowermost figure) contains one less number of hexagons as the first figure (uppermost figure) and the same number of trees as the second figure (middle figure)."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "There are 3 types of faces, 3 types of bodies, 3 types of hands and 3 types of legs, each of which is used only once in a single row. So, the features which have not been used in the first two figures of the third row would combine to produce the missing figure."
+    }
+]

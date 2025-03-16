@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Fastest shorthand writer was",
+          "options": {
+               "A": "Dr. G.  D. Bist",
+               "B": "J.R.D. Tata",
+               "C": "J.M. Tagore",
+               "D": "Khudada Khan"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Fathometer is used to measure",
+          "options": {
+               "A": "Earthquakes",
+               "B": "Rainfall",
+               "C": "Ocean depth",
+               "D": "Sound intensity"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Film and TV institute of India is located at",
+          "options": {
+               "A": "Pune (Maharashtra)",
+               "B": "Rajkot (Gujarat)",
+               "C": "Pimpri (Maharashtra)",
+               "D": "Perambur (Tamilnadu)"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "FRS stands for",
+          "options": {
+               "A": "Fellow Research System",
+               "B": "Federation of Regulation Society",
+               "C": "Fellow of Royal Society",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following food grain crops occupies the largest part of the cropped area in India?",
+          "options": {
+               "A": "Barley and maize",
+               "B": "Jowar and bajra",
+               "C": "Rice",
+               "D": "Wheat"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "oil raise up the wick in a lamp. The principle involves",
+          "options": {
+               "A": "the diffusion of oil through the wick",
+               "B": "the liquid state of oil",
+               "C": "capillary action phenomenon",
+               "D": "volatility of oil"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Radiocarbon is produced in the atmosphere as a result of",
+          "options": {
+               "A": "collision between fast neutrons and nitrogen nuclei present in the atmosphere",
+               "B": "action of ultraviolet light from the sun on atmospheric oxygen",
+               "C": "action of solar radiations particularly cosmic rays on carbon dioxide present in the atmosphere",
+               "D": "lightning discharge in atmosphere"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Superconductors are substances which",
+          "options": {
+               "A": "conduct electricity at low temperature",
+               "B": "offer high resistance to the flow of current",
+               "C": "offer no resistance to the flow of electricity",
+               "D": "conduct electricity at high temperatures"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which county did Javagal Srinath sign for in 2003?",
+          "options": {
+               "A": "Surrey",
+               "B": "Durham",
+               "C": "Sussex",
+               "D": "Essex"
+          },
+          "correct_answer": "B",
+          "answer_description": "Srinath was drafted as cover for Australian Martin Love."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Made from a variety of materials, such as carbon, which inhibits the flow of current...?",
+          "options": {
+               "A": "Choke",
+               "B": "Inductor",
+               "C": "Resistor",
+               "D": "Capacitor"
+          },
+          "correct_answer": "C",
+          "answer_description": "So named because it resists (or inhibits) the flow of current."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Larger buildings may be supplied with a medium voltage electricity supply, and will required a substation or mini-sub. What is the main item of equipment contained in these?",
+          "options": {
+               "A": "Transformer",
+               "B": "Transponder",
+               "C": "Transducer",
+               "D": "Converter"
+          },
+          "correct_answer": "A",
+          "answer_description": "The transformer is used to transform a medium voltage supply to a low voltage supply, e.g. from 11 000 V to 400 V. A transformer is rated in kVA, kilo-Volt-Amps, which is a measurement of electrical power."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The main chemical constituent of the oil of cardamom which is responsible for flavour of this oil is",
+          "options": {
+               "A": "cineole",
+               "B": "engenol",
+               "C": "geraniol",
+               "D": "limonene"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Myopia is connected with",
+          "options": {
+               "A": "ears",
+               "B": "eyes",
+               "C": "lungs",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Potato is a modified form (outgrowth) of",
+          "options": {
+               "A": "root",
+               "B": "stem",
+               "C": "fruit",
+               "D": "leaf"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Treaty of Versailles was signed in",
+          "options": {
+               "A": "1917",
+               "B": "1918",
+               "C": "1919",
+               "D": "1920"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To which country does the present UN Secretary-General belongs?",
+          "options": {
+               "A": "Ghana",
+               "B": "South Korea",
+               "C": "Spain",
+               "D": "Portugal"
+          },
+          "correct_answer": "D",
+          "answer_description": "Antonio Guterres is the first former head of government to become Secretary-General, and the first secretary-general born after the establishment of the United Nations. He was Prime Minister of Portugal from 1995 to 2002"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When did Christopher Columbus discovered the West Indies?",
+          "options": {
+               "A": "1455 AD",
+               "B": "1492 AD",
+               "C": "1139 AD",
+               "D": "1556 AD"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Where did the three leaders, F.D. Roosevelt, Winston Churchill and Joseph Stalin, meet in 1943 and agreed on the need for maintaining international peace?",
+          "options": {
+               "A": "Moscow",
+               "B": "San Francisco",
+               "C": "Teheran",
+               "D": "Washington D.C."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The region that has a typical dispersed rural settlement pattern is the",
+          "options": {
+               "A": "Kerala coastal plain",
+               "B": "western Ganga plain",
+               "C": "eastern Rajasthan",
+               "D": "Telengana plateau"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The headquarters of Food and Agriculture Organisation is in",
+          "options": {
+               "A": "Washington",
+               "B": "Paris",
+               "C": "Madrid",
+               "D": "Rome"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a built-in exception in Python for handling errors related to importing modules that do not exist?",
+        "options": {
+            "A": "ImportError",
+            "B": "ModuleNotFoundError",
+            "C": "NoSuchModuleError",
+            "D": "ModuleImportError"
+        },
+        "correct_answer": "B",
+        "answer_description": "ModuleNotFoundError is raised when attempting to import a module that does not exist."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thewithstatement in Python for file handling?",
+        "options": {
+            "A": "It raises exceptions",
+            "B": "It terminates the program",
+            "C": "It ensures proper resource cleanup",
+            "D": "It defines custom exception classes"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thewithstatement is used for file handling in Python and ensures proper resource cleanup by automatically closing the file when the block is exited, even if an exception occurs."
+    }
+]

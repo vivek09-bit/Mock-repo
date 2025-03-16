@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An ideal operational amplifier has",
+        "options": {
+            "A": "infinite output impedance",
+            "B": "zero input impedance",
+            "C": "infinite bandwidth",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Another name for a unity gain amplifier is:",
+        "options": {
+            "A": "difference amplifier",
+            "B": "comparator",
+            "C": "single ended",
+            "D": "voltage follower"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The open-loop voltage gain (Aol) of an op-amp is the",
+        "options": {
+            "A": "external voltage gain the device is capable of",
+            "B": "internal voltage gain the device is capable of",
+            "C": "most controlled parameter",
+            "D": "same asAcl"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output waveform?",
+        "options": {
+            "A": "sine wave",
+            "B": "square wave",
+            "C": "sawtooth wave",
+            "D": "triangle wave"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A series dissipative regulator is an example of a:",
+        "options": {
+            "A": "linear regulator",
+            "B": "switching regulator",
+            "C": "shunt regulator",
+            "D": "dc-to-dc converter"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should India encourage exports, when most things are insufficient for internal use itself?Arguments:Yes. We have to earn foreign exchange to pay for our imports.No. Even selective encouragement would lead to shortages.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, India can export only the surplus and that which can be saved after fulfilling its own needs, to pay for its imports. Encouragement to export cannot lead to shortages as it shall provide the resources for imports. So, only argument I holds."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should all the drugs patented and manufactured in Western countries be first tried out on sample basis before giving licence for sale to general public in India?Arguments:Yes. Many such drugs require different doses and duration for Indian population and hence it is necessary.No. This is just not feasible and hence cannot be implemented.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, health of the citizens is an issue of major concern for the Government. So, a product like drugs, must be first studied and tested in the Indian context before giving licence for its sale. So, only argument I holds strong."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should India make efforts to harness solar energy to fulfil its energy requirements?Arguments:Yes, Most of the energy sources used at present is exhaustible.No. Harnessing solar energy requires a lot of capital, which India lacks in.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, harnessing solar energy will be helpful as it is an inexhaustible resource unlike other resources. So, argument I holds. But argument II is vague as solar energy is the cheapest form of energy."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should there be students union in college/university?Arguments:No. This will create a political atmosphere in the campus.Yes, it is very necessary Students are future political leaders.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "E",
+        "answer_description": "The students union formation shall be a step towards giving to students the basic education in the field of politics. However, it shall create the same political atmosphere in the campus. Thus, both the arguments hold strong."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should India give away Kashmir to Pakistan?Arguments:No. Kashmir is a beautiful state. It earns a lot of foreign exchange for India.Yes. This would help settle conflicts.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, India cannot part with a state that is a major foreign exchange earner to it. So, argument I holds strong. Further, giving away a piece of land unconditionally and unreasonably is no solution to settle disputes. So, argument II is vague."
+    }
+]

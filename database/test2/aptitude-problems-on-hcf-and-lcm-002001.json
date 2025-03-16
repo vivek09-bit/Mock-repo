@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+        "options": {
+            "A": "4",
+            "B": "7",
+            "C": "9",
+            "D": "13"
+        },
+        "correct_answer": "A",
+        "answer_description": "Required number = H.C.F. of (91 - 43), (183 - 91) and (183 - 43)= H.C.F. of 48, 92 and 140 = 4."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:",
+        "options": {
+            "A": "276",
+            "B": "299",
+            "C": "322",
+            "D": "345"
+        },
+        "correct_answer": "C",
+        "answer_description": "Clearly, the numbers are (23 x 13) and (23 x 14).Larger number = (23 x 14) = 322."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?",
+        "options": {
+            "A": "4",
+            "B": "10",
+            "C": "15",
+            "D": "16"
+        },
+        "correct_answer": "D",
+        "answer_description": "L.C.M. of 2, 4, 6, 8, 10, 12 is 120.So, the bells will toll together after every 120 seconds(2 minutes).In 30 minutes, they will toll together30+ 1 = 16 times.2"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "A",
+        "answer_description": "N = H.C.F. of (4665 - 1305), (6905 - 4665) and (6905 - 1305)= H.C.F. of 3360, 2240 and 5600 = 1120.Sum of digits in N = ( 1 + 1 + 2 + 0 ) = 4"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",
+        "options": {
+            "A": "9000",
+            "B": "9400",
+            "C": "9600",
+            "D": "9800"
+        },
+        "correct_answer": "C",
+        "answer_description": "Greatest number of 4-digits is 9999.L.C.M. of 15, 25, 40 and 75 is 600.On dividing 9999 by 600, the remainder is 399.Required number (9999 - 399) = 9600."
+    }
+]

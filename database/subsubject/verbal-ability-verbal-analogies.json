@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "DIVA:OPERA",
+        "options": {
+            "A": "producer:theatre",
+            "B": "director:drama",
+            "C": "conductor:bus",
+            "D": "thespian:play"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "GRAIN:SALT",
+        "options": {
+            "A": "shard:pottery",
+            "B": "shred:wood",
+            "C": "blades:grass",
+            "D": "chip:glass"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "THRUST:SPEAR",
+        "options": {
+            "A": "mangle:iron",
+            "B": "scabbard:sword",
+            "C": "bow:arrow",
+            "D": "fence:epee"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "PAIN:SEDATIVE",
+        "options": {
+            "A": "comfort:stimulant",
+            "B": "grief:consolation",
+            "C": "trance:narcotic",
+            "D": "ache:extraction"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "LIGHT:BLIND",
+        "options": {
+            "A": "speech:dumb",
+            "B": "language:deaf",
+            "C": "tongue:sound",
+            "D": "voice:vibration"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

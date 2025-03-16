@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many outputs are on a BCD decoder?",
+        "options": {
+            "A": "4",
+            "B": "16",
+            "C": "8",
+            "D": "10"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a Gray code, each number is 3 greater than the binary representation of that number.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Use the weighting factors to convert the following BCD numbers to binary.0101 0011        0010 0110 1000",
+        "options": {
+            "A": "01010011    001001101000",
+            "B": "11010100    100001100000",
+            "C": "110101        100001100",
+            "D": "101011        001100001"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which digital system translates coded characters into a more useful form?",
+        "options": {
+            "A": "encoder",
+            "B": "display",
+            "C": "counter",
+            "D": "decoder"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "From the following list of input conditions, determine the state of the five output leads on a 74148 octal-to-binary encoder.I0= 1I3= 1I6= 1I1= 1I4= 0I7= 1I2= 1I5= 1EI= 0",
+        "options": {
+            "A": "GS= L,A0= L,A1= L,A2= H,EO= H",
+            "B": "GS= L,A0= H,A1= L,A2= L,EO= H",
+            "C": "GS= L,A0= L,A1= H,A2= L,EO= H",
+            "D": "GS= L,A0= H,A1= H,A2= L,EO= H"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

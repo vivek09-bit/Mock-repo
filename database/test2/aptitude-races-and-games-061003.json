@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 300 m race A beats B by 22.5 m  or 6 seconds. B's time over the course is:",
+        "options": {
+            "A": "86 sec",
+            "B": "80 sec",
+            "C": "76 sec",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "B runs45m in 6 sec.2B covers 300 m in6 x2x 300sec= 80 sec.45"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A runs 1times as fast as B. If A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time?",
+        "options": {
+            "A": "200 m",
+            "B": "300 m",
+            "C": "270 m",
+            "D": "160 m"
+        },
+        "correct_answer": "A",
+        "answer_description": "Ratio of the speeds of A and B =5: 1 = 5 : 3.3Thus, in race of 5 m, A gains 2 m over B.2 m are gained by A in a race of 5 m.80 m will be gained by A in race of5x 80m= 200 m.2Winning post is 200 m away from the starting point."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat C by:",
+        "options": {
+            "A": "21 m",
+            "B": "26 m",
+            "C": "28 m",
+            "D": "29 m"
+        },
+        "correct_answer": "C",
+        "answer_description": "A : B = 100 : 75B : C = 100 : 96.A : C =AxB=100x100=100= 100 : 72.BC759672A beats C by (100 - 72) m = 28 m."
+    }
+]

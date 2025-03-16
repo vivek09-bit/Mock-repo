@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What doesR1equal in the given circuit?",
+        "options": {
+            "A": "90",
+            "B": "180",
+            "C": "200",
+            "D": "1.8 k"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total resistance?",
+        "options": {
+            "A": "1.045 k",
+            "B": "1.545 k",
+            "C": "2.045 k",
+            "D": "2.545 k"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is RTfor fifteen 2 Mresistors all connected in parallel?",
+        "options": {
+            "A": "133 k",
+            "B": "300 k",
+            "C": "750 k",
+            "D": "30 M"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is considered to be the common reference for a parallel circuit?",
+        "options": {
+            "A": "Voltage",
+            "B": "Current",
+            "C": "Power",
+            "D": "Resistance"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

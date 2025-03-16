@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is a 3.9 kresistor color-coded?",
+        "options": {
+            "A": "red, white, red, gold",
+            "B": "red, green, orange, silver",
+            "C": "orange, white, red, gold",
+            "D": "orange, green, orange, silver"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What resistor type is found in SIPs and DIPs?",
+        "options": {
+            "A": "metal film",
+            "B": "wirewound",
+            "C": "metal oxide",
+            "D": "thick film"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ohm's law is not:",
+        "options": {
+            "A": "V = IR",
+            "B": "I = V/R",
+            "C": "R = IV",
+            "D": "R = V/I"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the two major categories for resistors?",
+        "options": {
+            "A": "low and high ohmic value",
+            "B": "commercial and industrial",
+            "C": "low and high power value",
+            "D": "fixed and variable"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many connections does a potentiometer have?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "A potentiometer uses three connections, as opposed to a rheostat, which only employs two. Having three connections allows the potentiometer to vary voltage. Both the potentiometer and the rheostat are classified as variable resistors."
+    }
+]

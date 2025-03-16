@@ -1,0 +1,54 @@
+[
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "Code of diplomatic etiquette and precedence",
+        "options": {
+            "A": "Statesmanship",
+            "B": "Formalism",
+            "C": "Hierarchy",
+            "D": "Protocol"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "A fixed orbit in space in relation to earth",
+        "options": {
+            "A": "Geological",
+            "B": "Geo-synchronous",
+            "C": "Geo-centric",
+            "D": "Geo-stationary"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "That which cannot be believed",
+        "options": {
+            "A": "Incredible",
+            "B": "Incredulous",
+            "C": "Implausible",
+            "D": "Unreliable"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "To issue a thunderous verbal attack",
+        "options": {
+            "A": "Languish",
+            "B": "Animate",
+            "C": "Fulminate",
+            "D": "Invigorate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

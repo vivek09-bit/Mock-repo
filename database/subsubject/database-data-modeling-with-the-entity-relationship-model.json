@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following indicates the maximum number of entities that can be involved in a relationship?",
+        "options": {
+            "A": "Minimum cardinality",
+            "B": "Maximum cardinality",
+            "C": "ERD",
+            "D": "Greater Entity Count (GEC)"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of entity cannot exist in the database unless another type of entity also exists in the database, but does not require that the identifier of that other entity be included as part of its own identifier?",
+        "options": {
+            "A": "Weak entity",
+            "B": "Strong entity",
+            "C": "ID-dependent entity",
+            "D": "ID- independent entity"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a one-to-many relationship, the entity that is on the one side of the relationship is called a(n) ________ entity.",
+        "options": {
+            "A": "parent",
+            "B": "child",
+            "C": "instance",
+            "D": "subtype"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of entity represents an actual occurrence of an associated generalized entity?",
+        "options": {
+            "A": "Supertype entity",
+            "B": "Subtype entity",
+            "C": "Archetype entity",
+            "D": "Instance entity"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A recursive relationship is a relationship between an entity and ________ .",
+        "options": {
+            "A": "itself",
+            "B": "a subtype entity",
+            "C": "an archetype entity",
+            "D": "an instance entity"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

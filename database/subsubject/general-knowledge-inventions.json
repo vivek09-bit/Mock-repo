@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who invented the BALLPOINT PEN?",
+        "options": {
+            "A": "Biro Brothers",
+            "B": "Waterman Brothers",
+            "C": "Bicc Brothers",
+            "D": "Write Brothers"
+        },
+        "correct_answer": "A",
+        "answer_description": "The Hungarian brothers, Laszlo and George Biro, made the first ball point pen in 1894. It followed the first workable fountain pen which was invented by L.E. Waterman in 1884."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which decade was the first solid state integrated circuit demonstrated?",
+        "options": {
+            "A": "1950s",
+            "B": "1960s",
+            "C": "1970s",
+            "D": "1980s"
+        },
+        "correct_answer": "A",
+        "answer_description": "On September 12, 1958, Jack Kilby demonstrated the first working IC while working for Texas Instruments, although the U.S. patent office awarded the first patent for an integrated circuit to Robert Noyce of Fairchild."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What J. B. Dunlop invented?",
+        "options": {
+            "A": "Pneumatic rubber tire",
+            "B": "Automobile wheel rim",
+            "C": "Rubber boot",
+            "D": "Model airplanes"
+        },
+        "correct_answer": "A",
+        "answer_description": "John Boyd Dunlop, a veterinary surgeon, invented the pneumatic tyre in 1887."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which scientist discovered the radioactive element radium?",
+        "options": {
+            "A": "Isaac Newton",
+            "B": "Albert Einstein",
+            "C": "Benjamin Franklin",
+            "D": "Marie Curie"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When was barb wire patented?",
+        "options": {
+            "A": "1874",
+            "B": "1840",
+            "C": "1895",
+            "D": "1900"
+        },
+        "correct_answer": "A",
+        "answer_description": "Joseph F. Glidden was born in New York on Jan. 18, 1812. He invented barbed wire in 1873 and was granted the patent on Nov. 24, 1874. After a three year battle over the patent, which he eventually won, Gidden became known as the \"Father of Barbed Wire\"."
+    }
+]

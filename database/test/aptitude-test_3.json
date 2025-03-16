@@ -1,0 +1,266 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:",
+          "options": {
+               "A": "250",
+               "B": "276",
+               "C": "280",
+               "D": "285"
+          },
+          "correct_answer": "D",
+          "answer_description": "Since the month begins with a Sunday, to there will be five Sundays in the month.Required average=510 x 5 + 240 x 2530=855030= 285"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:",
+          "options": {
+               "A": "3500",
+               "B": "4000",
+               "C": "4050",
+               "D": "5000"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let P, Q and R represent their respective monthly incomes. Then, we have:P + Q = (5050 x 2) = 10100 .... (i)Q + R = (6250 x 2) = 12500 .... (ii)P + R = (5200 x 2) = 10400 .... (iii)Adding (i), (ii) and (iii), we get:  2(P + Q + R) = 33000  or   P + Q + R = 16500 .... (iv)Subtracting (ii) from (iv), we get P = 4000.P's monthly income = Rs. 4000."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The sum of two number is 25 and their difference is 13. Find their product.",
+          "options": {
+               "A": "104",
+               "B": "114",
+               "C": "315",
+               "D": "325"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the numbers bexandy.Then,x+y= 25 andx-y= 13.4xy= (x+y)2- (x-y)2= (25)2- (13)2= (625 - 169)= 456xy= 114."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the number?I.The sum of the two digits is 8. The ratio of the two digits is 1 : 3.II.The product of the two digit of a number is 12. The quotient of two digits is 3.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the tens and units digit bexandyrespectively. Then,I.x+y= 8 andx=1y3I gives,4y= 24y= 6.So,x+ 6 = 8x= 2.II.xy= 12 andx=3y1II gives,x2= 36x= 6.So, 3y= 6y= 2.Therefore, Either I or II alone sufficient to answer."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+          "options": {
+               "A": "7",
+               "B": "8",
+               "C": "9",
+               "D": "10",
+               "E": "11"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let C's age bexyears. Then, B's age = 2xyears. A's age = (2x+ 2) years.(2x+ 2) + 2x+x= 275x= 25x= 5.Hence, B's age = 2x= 10 years."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "(17)3.5x (17)?= 178",
+          "options": {
+               "A": "2.29",
+               "B": "2.75",
+               "C": "4.25",
+               "D": "4.5"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let (17)3.5x (17)x= 178.Then, (17)3.5 +x= 178.3.5 +x= 8x= (8 - 3.5)x= 4.5"
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Ifx= 3 + 22, then the value ofx-1is:x",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "22",
+               "D": "33"
+          },
+          "correct_answer": "B",
+          "answer_description": "x-12=x+1- 2xx= (3 + 22) +1- 2(3 + 22)= (3 + 22) +1x(3 - 22)- 2(3 + 22)(3 - 22)= (3 + 22) + (3 - 22) - 2= 4.x-1= 2.x"
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A and B together have Rs. 1210. Ifof A's amount is equal toof B's amount, how much amount does B have?",
+          "options": {
+               "A": "Rs. 460",
+               "B": "Rs. 484",
+               "C": "Rs. 550",
+               "D": "Rs. 664"
+          },
+          "correct_answer": "B",
+          "answer_description": "4A=2B155A =2x15B54A =3B2A=3B2A : B = 3 : 2.B's share = Rs.1210 x2= Rs. 484.5"
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:",
+          "options": {
+               "A": "16 hours",
+               "B": "18 hours",
+               "C": "20 hours",
+               "D": "24 hours"
+          },
+          "correct_answer": "D",
+          "answer_description": "Speed upstream = 7.5 kmph.Speed downstream = 10.5 kmph.Total time taken =105+105hours = 24 hours.7.510.5"
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+          "options": {
+               "A": "Rs. 4462.50",
+               "B": "Rs. 8032.50",
+               "C": "Rs. 8900",
+               "D": "Rs. 8925",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "Principal= Rs.100 x 4016.259 x 5= Rs.40162545= Rs. 8925."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A person takes a loan of Rs. 200 at 5% simple interest. He returns Rs. 100 at the end of 1 year. In order to clear his dues at the end of 2 years, he would pay:",
+          "options": {
+               "A": "Rs. 105",
+               "B": "Rs. 110",
+               "C": "Rs. 115",
+               "D": "Rs. 115.50"
+          },
+          "correct_answer": "C",
+          "answer_description": "Amount to be paid= Rs.100 +200 x 5 x 1+100 x 5 x 1100100= Rs. 115."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:",
+          "options": {
+               "A": "1520 m2",
+               "B": "2420 m2",
+               "C": "2480 m2",
+               "D": "2520 m2"
+          },
+          "correct_answer": "D",
+          "answer_description": "We have: (l-b) = 23 and 2(l+b) = 206 or (l+b) = 103.Solving the two equations, we get:l= 63 andb= 40.Area = (lxb) = (63 x 40) m2= 2520 m2."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "What was the day of the week on 28thMay, 2006?",
+          "options": {
+               "A": "Thursday",
+               "B": "Friday",
+               "C": "Saturday",
+               "D": "Sunday"
+          },
+          "correct_answer": "D",
+          "answer_description": "28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)Odd days in 1600 years = 0Odd days in 400 years = 05 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2)6 odd daysJan.  Feb.   March    April    May \n(31 +  28  +  31   +   30   +   28 ) = 148 days148 days = (21 weeks + 1 day)1 odd day.Total number of odd days = (0 + 0 + 6 + 1) = 70 odd day.Given day is Sunday."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "The angle between the minute hand and the hour hand of a clock when the time is 8.30, is:",
+          "options": {
+               "A": "80°",
+               "B": "75°",
+               "C": "60°",
+               "D": "105°"
+          },
+          "correct_answer": "B",
+          "answer_description": "Angle traced by hour hand in17hrs =360x17°= 255°.2122Angle traced by min. hand in 30 min. =360x 30°= 180°.60Required angle = (255 - 180)° = 75°."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+          "options": {
+               "A": "0°",
+               "B": "10°",
+               "C": "5°",
+               "D": "20°"
+          },
+          "correct_answer": "B",
+          "answer_description": "Angle traced by hour hand in13hrs =360x13°= 130°.3123Angle traced by min. hand in 20 min. =360x 20°= 120°.60Required angle = (130 - 120)° = 10°."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
+          "options": {
+               "A": "581°2",
+               "B": "64°",
+               "C": "671°2",
+               "D": "721°2"
+          },
+          "correct_answer": "C",
+          "answer_description": "Angle traced by hour hand in21hrs =360x21°=1571°41242Angle traced by min. hand in 15 min. =360x 15°= 90°.60Required angle =1571°- 90° = 671°22"
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "At what time between 9 and 10 o'clock will the hands of a watch be together?",
+          "options": {
+               "A": "45 min. past 9",
+               "B": "50 min. past 9",
+               "C": "491min. past 911",
+               "D": "482min. past 911"
+          },
+          "correct_answer": "C",
+          "answer_description": "To be together between 9 and 10 o'clock, the minute hand has to gain 45 min. spaces.55 min. spaces gained in 60 min.45 min. spaces are gained in60x 45min or 491min.5511The hands are together at 491min. past 9.11"
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+          "options": {
+               "A": "63",
+               "B": "90",
+               "C": "126",
+               "D": "45",
+               "E": "135"
+          },
+          "correct_answer": "A",
+          "answer_description": "Required number of ways = (7C5x3C2) = (7C2x3C1) =7 x 6x 3= 63.2 x 1"
+     },
+     {
+          "direction": "Direction (Q.No. 19)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "8, 13, 21, 32, 47, 63, 83",
+          "options": {
+               "A": "47",
+               "B": "63",
+               "C": "32",
+               "D": "83"
+          },
+          "correct_answer": "A",
+          "answer_description": "Go on adding 5, 8, 11, 14, 17, 20.So, the number 47 is wrong and must be replaced by 46."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Insert the missing number.",
+          "image_path": null,
+          "question": "1, 4, 9, 16, 25, 36, 49, (....)",
+          "options": {
+               "A": "54",
+               "B": "56",
+               "C": "64",
+               "D": "81"
+          },
+          "correct_answer": "C",
+          "answer_description": "Numbers are 12, 22, 32, 42, 52, 62, 72.So, the next number is 82= 64."
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "State in which the few govern the many",
+        "options": {
+            "A": "Monarchy",
+            "B": "Oligarchy",
+            "C": "Plutocracy",
+            "D": "Autocracy"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "A style in which a writer makes a display of his knowledge",
+        "options": {
+            "A": "Pedantic",
+            "B": "Verbose",
+            "C": "Pompous",
+            "D": "Ornate"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "List of the business or subjects to be considered at a meeting",
+        "options": {
+            "A": "Schedule",
+            "B": "Timetable",
+            "C": "Agenda",
+            "D": "Plan"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "Leave or remove from a place considered dangerous",
+        "options": {
+            "A": "Evade",
+            "B": "Evacuate",
+            "C": "Avoid",
+            "D": "Exterminate"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "A prima facie case is such",
+        "options": {
+            "A": "As it seems at first sight",
+            "B": "As it is made to seem at first sight",
+            "C": "As it turns out to be at the end",
+            "D": "As it seems to the court after a number of hearings"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Exclusive-OR (XOR) logic gates can be constructed from what other logic gates?",
+        "options": {
+            "A": "OR gates only",
+            "B": "AND gates and NOT gates",
+            "C": "AND gates, OR gates, and NOT gates",
+            "D": "OR gates and NOT gates"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many truth table entries are necessary for a four-input circuit?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "12",
+            "D": "16"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A NAND gate has:",
+        "options": {
+            "A": "LOW inputs and a LOW output",
+            "B": "HIGH inputs and a HIGH output",
+            "C": "LOW inputs and a HIGH output",
+            "D": "None of the these"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The basic logic gate whose output is the complement of the input is the:",
+        "options": {
+            "A": "OR gate",
+            "B": "AND gate",
+            "C": "INVERTER gate",
+            "D": "comparator"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What input values will cause an AND logic gate to produce a HIGH output?",
+        "options": {
+            "A": "At least one input is HIGH.",
+            "B": "At least one input is LOW.",
+            "C": "All inputs are HIGH.",
+            "D": "All inputs are LOW."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

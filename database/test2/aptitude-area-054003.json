@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between the length and breadth of a rectangle is 23 m. If its perimeter is 206 m, then its area is:",
+        "options": {
+            "A": "1520 m2",
+            "B": "2420 m2",
+            "C": "2480 m2",
+            "D": "2520 m2"
+        },
+        "correct_answer": "D",
+        "answer_description": "We have: (l-b) = 23 and 2(l+b) = 206 or (l+b) = 103.Solving the two equations, we get:l= 63 andb= 40.Area = (lxb) = (63 x 40) m2= 2520 m2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The length of a rectangle is halved, while its breadth is tripled. What is the percentage change in area?",
+        "options": {
+            "A": "25% increase",
+            "B": "50% increase",
+            "C": "50% decrease",
+            "D": "75% decrease"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let original length =xand original breadth =y.Original area =xy.New length =x.2New breadth = 3y.New area =xx 3y=3xy.22Increase % =1xyx1x 100%= 50%.2xy"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",
+        "options": {
+            "A": "40",
+            "B": "50",
+            "C": "120",
+            "D": "Data inadequate",
+            "E": "None of these"
+        },
+        "correct_answer": "E",
+        "answer_description": "Let breadth =xmetres.Then, length = (x+ 20) metres.Perimeter =5300m = 200 m.26.502[(x+ 20) +x] = 2002x+ 20 = 1002x= 80x= 40.Hence, length =x+ 20 = 60 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered. If the area of the field is 680 sq. feet, how many feet of fencing will be required?",
+        "options": {
+            "A": "34",
+            "B": "40",
+            "C": "68",
+            "D": "88"
+        },
+        "correct_answer": "D",
+        "answer_description": "We have:l= 20 ft andlb= 680 sq. ft.So,b= 34 ft.Length of fencing = (l+ 2b) = (20 + 68) ft = 88 ft."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A tank is 25 m long, 12 m wide and 6 m deep. The cost of plastering its walls and bottom at 75 paise per sq. m, is:",
+        "options": {
+            "A": "Rs. 456",
+            "B": "Rs. 458",
+            "C": "Rs. 558",
+            "D": "Rs. 568"
+        },
+        "correct_answer": "C",
+        "answer_description": "Area to be plastered= [2(l+b) xh] + (lxb)= {[2(25 + 12) x 6] + (25 x 12)} m2= (444 + 300) m2= 744 m2.Cost of plastering = Rs.744 x75= Rs. 558.100"
+    }
+]

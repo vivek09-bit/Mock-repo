@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Travelers, Train and Bus ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "answer_description": "Bus and Train are different from each other but some travelers travel by bus and some travel by train."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Profit, Dividend and Bonus ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "Bonus and Dividend are different from each other. But both these are parts of profit."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Women, Mothers and Engineers ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "All mothers are women and some mothers and some women may be engineers."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Factory, Product and Machinery ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D",
+        "answer_description": "Product and Machinery are different from each other but both are found in Factory."
+    },
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Author, Lawyer and Singer ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "All the three are different professions."
+    }
+]

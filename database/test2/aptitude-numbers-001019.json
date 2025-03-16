@@ -1,0 +1,72 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is a prime number ?",
+        "options": {
+            "A": "161",
+            "B": "221",
+            "C": "373",
+            "D": "437",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "437> 22All prime numbers less than 22 are : 2, 3, 5, 7, 11, 13, 17, 19.161 is divisible by 7, and 221 is divisible by 13.373 is not divisible by any of the above prime numbers.373 is prime."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The smallest 6 digit number exactly divisible by 111 is:",
+        "options": {
+            "A": "111111",
+            "B": "110011",
+            "C": "100011",
+            "D": "110101",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "The smallest 6-digit number 100000.\n\n 111) 100000 (900\n      999\n      -----\n        100\n        ---\n\n Required number = 100000 + (111 - 100)\n                 = 100011."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The largest 5 digit number exactly divisible by 91 is:",
+        "options": {
+            "A": "99921",
+            "B": "99918",
+            "C": "99981",
+            "D": "99971",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Largest 5-digit number = 99999\n\n 91) 99999 (1098\n     91\n     ---\n     899\n     819\n     ----\n      809\n      728\n      ---\n       81\n      ---\n \n Required number = (99999 - 81)\n                 = 99918."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "768 x 768 x 768 + 232 x 232 x 232= ?768 x 768 - 768 x 232 + 232 x 232",
+        "options": {
+            "A": "1000",
+            "B": "536",
+            "C": "500",
+            "D": "268",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Given Exp. =(a3+b3)= (a+b) = (768 + 232) = 1000(a2-ab+b2)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The smallest 5 digit number exactly divisible by 41 is:",
+        "options": {
+            "A": "1004",
+            "B": "10004",
+            "C": "10045",
+            "D": "10025",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "The smallest 5-digit number = 10000.\n\n 41) 10000 (243\n     82\n     ---\n     180\n     164\n     ----\n      160\n      123\n      ---\n       37\n      --- \n\n Required number = 10000 + (41 - 37)\n                 = 10004."
+    }
+]

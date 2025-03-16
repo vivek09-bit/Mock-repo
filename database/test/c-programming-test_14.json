@@ -1,0 +1,255 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many times \"IndiaBIX\" is get printed?#include<stdio.h>\nint main()\n{\n    int x;\n    for(x=-1; x<=10; x++)\n    {\n        if(x < 5)\n            continue;\n        else\n            break;\n        printf(\"IndiaBIX\");\n    }\n    return 0;\n}",
+          "options": {
+               "A": "Infinite times",
+               "B": "11 times",
+               "C": "0 times",
+               "D": "10 times"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\nint main()\r\n{\r\n    int i=-3, j=2, k=0, m;\r\n    m = ++i && ++j || ++k;\r\n    printf(\"%d, %d, %d, %d\\n\", i, j, k, m);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "1, 2, 0, 1",
+               "B": "-3, 2, 0, 1",
+               "C": "-2, 3, 0, 1",
+               "D": "2, 3, 1, 1"
+          },
+          "correct_answer": "C",
+          "answer_description": "Step 1:int i=-3, j=2, k=0, m;here variablei, j, k, mare declared as an integer type and variablei, j, kare initialized to -3, 2, 0 respectively.Step 2:m = ++i && ++j || ++k;becomesm = (-2 && 3) || ++k;becomesm = TRUE || ++k;.(++k) is not executed because (-2 && 3) alone return TRUE.Hence this statement becomes TRUE. So it returns '1'(one). Hence m=1.Step 3:printf(\"%d, %d, %d, %d\\n\", i, j, k, m);In the previous step the value of i,j are increemented by '1'(one).Hence the output is \"-2, 3, 0, 1\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n\nint addmult(int ii, int jj)\n{\n    int kk, ll;\n    kk = ii + jj;\n    ll = ii * jj;\n    return (kk, ll);\n}\n\nint main()\n{\n    int i=3, j=4, k, l;\n    k = addmult(i, j);\n    l = addmult(i, j);\n    printf(\"%d, %d\\n\", k, l);\n    return 0;\n}",
+          "options": {
+               "A": "12, 12",
+               "B": "7, 7",
+               "C": "7, 12",
+               "D": "12, 7"
+          },
+          "correct_answer": "A",
+          "answer_description": "Step 1:int i=3, j=4, k, l;The variablesi, j, k, lare declared as an integer type and variablei,jare initialized to 3, 4 respectively.The function addmult(i, j); accept 2 integer parameters.Step 2:k = addmult(i, j);becomesk = addmult(3, 4)In the functionaddmult(). The variablekk, llare declared as an integer typeint kk, ll;kk = ii + jj;becomeskk = 3 + 4Now thekkvalue is '7'.ll = ii * jj;becomesll = 3 * 4Now thellvalue is '12'.return (kk, ll);It returns the value of variablellonly.The value 12 is stored in variable'k'.Step 3:l = addmult(i, j);becomesl = addmult(3, 4)kk = ii + jj;becomeskk = 3 + 4Now thekkvalue is '7'.ll = ii * jj;becomesll = 3 * 4Now thellvalue is '12'.return (kk, ll);It returns the value of variablellonly.The value 12 is stored in variable'l'.Step 4:printf(\"%d, %d\\n\", k, l);It prints the value ofkandlHence the output is \"12, 12\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Will the following program print the message infinite number of times?#include<stdio.h>\r\n#define INFINITELOOP while(1)\r\n\r\nint main()\r\n{\r\n    INFINITELOOP\r\n    printf(\"IndiaBIX\");\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Yes, the program prints \"IndiaBIX\" and runs infinitely.The macroINFINITELOOP while(1)replaces the text 'INFINITELOOP' by 'while(1)'In themainfunction,while(1)satisfies the while condition and it prints \"IndiaBIX\". Then it comes towhile(1)and the loop runs infinitely."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the size of integer is 4bytes, What will be the output of the program?#include<stdio.h>\n\nint main()\n{\n    int arr[] = {12, 13, 14, 15, 16};\n    printf(\"%d, %d, %d\\n\", sizeof(arr), sizeof(*arr), sizeof(arr[0]));\n    return 0;\n}",
+          "options": {
+               "A": "10, 2, 4",
+               "B": "20, 4, 4",
+               "C": "16, 2, 2",
+               "D": "20, 2, 2"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\nint *check(static int, static int);\n\nint main()\n{\n    int *c;\n    c = check(10, 20);\n    printf(\"%d\\n\", c);\n    return 0;\n}\nint *check(static int i, static int j)\n{\n    int *p, *q;\n    p = &i;\n    q = &j;\n    if(i >= 45)\n        return (p);\n    else\n        return (q);\n}",
+          "options": {
+               "A": "10",
+               "B": "20",
+               "C": "Error: Non portable pointer conversion",
+               "D": "Error: cannot use static for function parameters"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the following program add a statement in the functionfact()such that the factorial gets stored inj.#include<stdio.h>\nvoid fact(int*);\n\nint main()\n{\n    int i=5;\n    fact(&i);\n    printf(\"%d\\n\", i);\n    return 0;\n}\nvoid fact(int *j)\n{\n    static int s=1;\n    if(*j!=0)\n    {\n        s = s**j;\n        *j = *j-1;\n        fact(j);\n        /* Add a statement here */\n    }\n}",
+          "options": {
+               "A": "j=s;",
+               "B": "*j=s;",
+               "C": "*j=&s;",
+               "D": "&j=s;"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program if the array begins at address 65486?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int arr[] = {12, 14, 15, 23, 45};\r\n    printf(\"%u, %u\\n\", arr, &arr);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "65486, 65488",
+               "B": "65486, 65486",
+               "C": "65486, 65490",
+               "D": "65486, 65487"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:int arr[] = {12, 14, 15, 23, 45};The variablearris declared as an integer array and initialized.Step 2:printf(\"%u, %u\\n\", arr, &arr);Here,The base address of the array is 65486.=>arr, &arris pointing to the base address of the arrayarr.Hence the output of the program is 65486, 65486"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int i;\r\n    char a[] = \"\\0\";\r\n    if(printf(\"%s\", a))\r\n        printf(\"The string is empty\\n\");\r\n    else\r\n        printf(\"The string is not empty\\n\");\r\n    return 0;\r\n}",
+          "options": {
+               "A": "The string is empty",
+               "B": "The string is not empty",
+               "C": "No output",
+               "D": "0"
+          },
+          "correct_answer": "B",
+          "answer_description": "The function printf() returns the number of charecters printed on the console.Step 1:char a[] = \"\\0\";The variableais declared as an array of characters and it initialized with \"\\0\". It denotes that the string is empty.Step 2:if(printf(\"%s\", a))Theprintf()statement does not print anything, so it returns '0'(zero). Hence the if condition is failed.In theelsepart it prints \"The string is not empty\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program in 16 bit platform assuming that 1022 is memory address of the string \"Hello1\" (in Turbo C under DOS) ?#include<stdio.h>\n\nint main()\n{\n    printf(\"%u %s\\n\", &\"Hello1\", &\"Hello2\");\n    return 0;\n}",
+          "options": {
+               "A": "1022 Hello2",
+               "B": "Hello1 1022",
+               "C": "Hello1 Hello2",
+               "D": "1022 1022",
+               "E": "Error"
+          },
+          "correct_answer": "A",
+          "answer_description": "Inprintf(\"%u %s\\n\", &\"Hello\", &\"Hello\");.The%uformat specifier tells the compiler to print the memory address of the\"Hello1\".The%sformat specifier tells the compiler to print the string\"Hello2\".Hence the output of the program is \"1022 Hello2\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a char is 1 byte wide, an integer is 2 bytes wide and a long integer is 4 bytes wide then will the following structure always occupy 7 bytes?struct ex\n{\n    char ch;\n    int i;\n    long int a;\n};",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "A compiler may leave holes in structures by padding the first char in the structure with another byte just to ensures that the integer that follows is stored at an location. Also, there might be 2extra bytes after the integer to ensure that the long integer is stored at an address, which is multiple of 4. Such alignment is done by machines to improve the efficiency of accessing values."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error/warning in the program?#include<stdio.h>\n\nint main()\n{\n    unsigned char ch;\n    FILE *fp;\n    fp=fopen(\"trial\", \"r\");\n    while((ch = getc(fp))!=EOF)\n        printf(\"%c\", ch);\n    fclose(fp);\n    return 0;\n}",
+          "options": {
+               "A": "Error: inunsigned chardeclaration",
+               "B": "Error:whilestatement",
+               "C": "No error",
+               "D": "It prints all characters in file \"trial\""
+          },
+          "correct_answer": "A",
+          "answer_description": "Here, EOF is -1. As 'ch' is declared asunsigned charit cannot deal with any negative value."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program#include<stdio.h>\nvoid fun(int);\n\nint main(int argc)\n{\n    printf(\"%d \", argc);\n    fun(argc);\n    return 0;\n}\nvoid fun(int i)\n{\n    if(i!=4)\n        main(++i);\n}",
+          "options": {
+               "A": "1 2 3",
+               "B": "1 2 3 4",
+               "C": "2 3 4",
+               "D": "1"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the program?#include<stdio.h>\n\nint main()\n{\n    unsigned int num;\n    int i;\n    scanf(\"%u\", &num);\n    for(i=0; i<16; i++)\n    {\n        printf(\"%d\", (num<<i & 1<<15)?1:0);\n    }\n    return 0;\n}",
+          "options": {
+               "A": "It prints all even bits fromnum",
+               "B": "It prints all odd bits fromnum",
+               "C": "It prints binary equivalentnum",
+               "D": "Error"
+          },
+          "correct_answer": "C",
+          "answer_description": "If we give input 4, it will print 00000000 00000100 ;If we give input 3, it will print 00000000 00000011 ;If we give input 511, it will print 00000001 11111111 ;"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\nint fun(int **ptr);\n\nint main()\n{\n    int i=10;\n    const int *ptr = &i;\n    fun(&ptr);\n    return 0;\n}\nint fun(int **ptr)\n{\n    int j = 223;\n    int *temp = &j;\n    printf(\"Before changing ptr = %5x\\n\", *ptr);\n    const *ptr = temp;\n    printf(\"After changing ptr = %5x\\n\", *ptr);\n    return 0;\n}",
+          "options": {
+               "A": "Address of iAddress of j",
+               "B": "10223",
+               "C": "Error: cannot convert parameter 1 from 'const int **' to 'int **'",
+               "D": "Garbage value"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Can I increase the size of dynamically allocated array?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Userealloc(variable_name, value);"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "It is necessary to call the macrova_endifva_startis called in the function.",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What do the following declaration signify?void (*cmp)();",
+          "options": {
+               "A": "cmpis a pointer to an void function type.",
+               "B": "cmpis a void type pointer function.",
+               "C": "cmpis a function that return avoidpointer.",
+               "D": "cmpis a pointer to a function which returnsvoid."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (in Turbo C under DOS)?#include<stdio.h>\n\nint main()\n{\n    char huge *near *far *ptr1;\n    char near *far *huge *ptr2;\n    char far *huge *near *ptr3;\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(ptr2), sizeof(ptr3));\n    return 0;\n}",
+          "options": {
+               "A": "4, 4, 8",
+               "B": "2, 4, 4",
+               "C": "4, 4, 2",
+               "D": "2, 4, 8"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n#include<stdlib.h>\r\n\r\nint main()\r\n{\r\n    char *i = \"55.555\";\r\n    int result1 = 10;\r\n    float result2 = 11.111;\r\n    result1 = result1+atoi(i);\r\n    result2 = result2+atof(i);\r\n    printf(\"%d, %f\", result1, result2);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "55, 55.555",
+               "B": "66, 66.666600",
+               "C": "65, 66.666000",
+               "D": "55, 55"
+          },
+          "correct_answer": "C",
+          "answer_description": "Functionatoi()converts the string to integer.Functionatof()converts the string to float.result1 = result1+atoi(i);Here result1 = 10 + atoi(55.555);result1 = 10 + 55;result1 = 65;result2 = result2+atof(i);Here result2 = 11.111 + atof(55.555);result2 = 11.111 + 55.555000;result2 = 66.666000;So the output is \"65, 66.666000\" ."
+     }
+]

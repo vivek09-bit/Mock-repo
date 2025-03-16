@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+        "options": {
+            "A": "largest railway station",
+            "B": "highest railway station",
+            "C": "longest railway station",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "Grand Central Terminal in New York City, USA: Grand Central Terminal is one of the most iconic and busiest railway stations in the world, serving over 750,000 passengers per day. It is located in midtown Manhattan and has 44 platforms, making it one of the largest railway stations by platform count."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Entomology is the science that studies",
+        "options": {
+            "A": "Behavior of human beings",
+            "B": "Insects",
+            "C": "The origin and history of technical and scientific terms",
+            "D": "The formation of rocks"
+        },
+        "correct_answer": "B",
+        "answer_description": "Entomology: The branch of zoology concerned with the study of insects."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+        "options": {
+            "A": "Asia",
+            "B": "Africa",
+            "C": "Europe",
+            "D": "Australia"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Garampani sanctuary is located at",
+        "options": {
+            "A": "Junagarh, Gujarat",
+            "B": "Diphu, Assam",
+            "C": "Kohima, Nagaland",
+            "D": "Gangtok, Sikkim"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For which of the following disciplines is Nobel Prize awarded?",
+        "options": {
+            "A": "Physics and Chemistry",
+            "B": "Physiology or Medicine",
+            "C": "Literature, Peace and Economics",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

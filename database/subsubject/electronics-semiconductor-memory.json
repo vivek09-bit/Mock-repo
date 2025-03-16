@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A computerized self-diagnostic for a ROM test uses:",
+        "options": {
+            "A": "the check-sum method",
+            "B": "a ROM listing",
+            "C": "ROM comparisons",
+            "D": "a checkerboard test"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many storage locations are available when a memory device has twelve address lines?",
+        "options": {
+            "A": "144",
+            "B": "512",
+            "C": "2048",
+            "D": "4096"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following memories uses a MOSFET and a capacitor as its memory cell?",
+        "options": {
+            "A": "SRAM",
+            "B": "DRAM",
+            "C": "ROM",
+            "D": "DROM"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following best describes nonvolatile memory?",
+        "options": {
+            "A": "memory that retains stored information when electrical power is removed",
+            "B": "memory that loses stored information when electrical power is removed",
+            "C": "magnetic memory",
+            "D": "nonmagnetic memory"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The access time (tacc) of a memory IC is governed by the IC's:",
+        "options": {
+            "A": "internal address buffer",
+            "B": "internal address decoder",
+            "C": "volatility",
+            "D": "internal address decoder and volatility"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

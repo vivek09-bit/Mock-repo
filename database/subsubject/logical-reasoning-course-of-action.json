@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type.Courses of Action:The city municipal authority should take immediate steps to carry out extensive fumigation in ward X.The people in the area should be advised to take steps to avoid mosquito bites.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "Clearly, prevention from mosquitoes and elimination of mosquitoes are two ways to prevent malaria. So, both the courses follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Severe drought is reported to have set in several parts of the country.Courses of Action:Government should immediately make arrangement for providing financial assistance to those affected.Food, water and fodder should immediately be sent to all these areas to save the people and cattle.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "In the break-out of a natural calamity, the basic duty of the government becomes to provide the basic amenities essential to save the lives of people and cattle. Providing financial assistance to all would put undue burden on the country's resources. So, only II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Since its launching in 1981, Vayudoot has so far accumulated losses amounting to Rs 153 crore.Courses of Action:Vayudoot should be directed to reduce wasteful expenditure and to increase passenger fare.An amount of about Rs 300 crore should be provided to Vayudoot to make the airliner economically viable.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, for better economic gain, losses should be reduced and income increased. So, only course I follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Exporters in the capital are alleging that commercial banks are violating a Reserve Bank of India directive to operate a post shipment export credit denominated in foreign currency at international rates from January this year.Courses of Action:The officers concerned in the commercial banks are to be suspended.The RBI should be asked to stop giving such directives to commercial banks.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "The statement mentions that the commercial banks violate a directive issued by the RBI. The remedy is only to make the banks implement the Act. So, none of the courses follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:A large number of people die every year due to drinking polluted water during the summer.Courses of Action:The government should make adequate arrangements to provide safe drinking water to all its citizens.The people should be educated about the dangers of drinking polluted water.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "The situation demands creating awareness among people about the dangers of drinking polluted water so that they themselves refrain from the same, and at the same time taking steps to provide safe drinking water. So, both the courses follow."
+    }
+]

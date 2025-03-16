@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you clear the screen in a Python console application?",
+        "options": {
+            "A": "console.clear()",
+            "B": "os.clear()",
+            "C": "clear()",
+            "D": "os.system(\"clear\")"
+        },
+        "correct_answer": "D",
+        "answer_description": "You can useos.system(\"clear\")to clear the screen in a Python console application."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thesys.stdinstream?",
+        "options": {
+            "A": "Reading input from the console",
+            "B": "Writing output to the console",
+            "C": "Standard error input",
+            "D": "Redirecting output to a file"
+        },
+        "correct_answer": "A",
+        "answer_description": "sys.stdinis the standard input stream in Python, used for reading input from the console."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is used to format the output?",
+        "options": {
+            "A": "format()",
+            "B": "print_format()",
+            "C": "string.format()",
+            "D": "f-string"
+        },
+        "correct_answer": "D",
+        "answer_description": "In Python,f-stringis used for formatting output by embedding expressions inside string literals."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you convert a string input from the console to an integer?",
+        "options": {
+            "A": "int(input())",
+            "B": "convert_int(input())",
+            "C": "input().to_int()",
+            "D": "parse_int(input())"
+        },
+        "correct_answer": "A",
+        "answer_description": "To convert a string input to an integer in Python, you can useint(input())."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will happen if you try to concatenate a string and an integer using the+operator?",
+        "options": {
+            "A": "Error: Cannot concatenate string and integer",
+            "B": "The integer will be converted to a string and concatenated",
+            "C": "The string will be converted to an integer and concatenated",
+            "D": "The program will terminate"
+        },
+        "correct_answer": "A",
+        "answer_description": "In Python, attempting to concatenate a string and an integer using+will result in a TypeError."
+    }
+]

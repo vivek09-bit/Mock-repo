@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The time for which a piece of equipment operates is called",
+          "options": {
+               "A": "Seek time",
+               "B": "Effective time",
+               "C": "Access time",
+               "D": "Real time",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A program component that allows structuring of a program in an unusual way is known as",
+          "options": {
+               "A": "Correlation",
+               "B": "Coroutine",
+               "C": "Diagonalization",
+               "D": "Quene",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which output device is used for translating information from a computer into pictorial form on paper.",
+          "options": {
+               "A": "Mouse",
+               "B": "Plotter",
+               "C": "Touch panel",
+               "D": "Card punch",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not currently a topic in computer science?",
+          "options": {
+               "A": "Speech recognition",
+               "B": "Artificial intelligence",
+               "C": "Thermodynamics",
+               "D": "Multiprocessing",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Backing storage is so named because it",
+          "options": {
+               "A": "is always kept at the back of the CP.U.",
+               "B": "is slow and backward",
+               "C": "backs up the computer's main memory",
+               "D": "lags behind the main memory",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The process of entering data into a storage location",
+          "options": {
+               "A": "adds   to   the   contents   of  the location",
+               "B": "cause variation  in its address number",
+               "C": "is known as a readout operation",
+               "D": "is destructive of previous contents",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An output device that uses words or messages recorded on a magnetic medium to produce audio response is",
+          "options": {
+               "A": "Magnetic tape",
+               "B": "Voice response unit",
+               "C": "Voice recognition unit.",
+               "D": "Voice band",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When was the X Window System born?",
+          "options": {
+               "A": "1984",
+               "B": "1989",
+               "C": "1988",
+               "D": "1990",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A printed document reader which scans the characters and then encodes them in a computer-compatible code for direct transmission to the computer is called",
+          "options": {
+               "A": "Optical character reader",
+               "B": "Kurzweil Data Entry  Machine (KDEM)",
+               "C": "MICR",
+               "D": "Laser scanner",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Punched-card equipment was first introduced in Britain in 1904 by a small company. What was the name of that company?",
+          "options": {
+               "A": "The Tabulator Ltd.",
+               "B": "Tabulator Machine Company",
+               "C": "International Business Machines (IBM)",
+               "D": "Accounting & Tabulating Corpn. of Great Britain",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of a hexadecimal number 3D16to binary number is",
+          "options": {
+               "A": "1111012",
+               "B": "1100112",
+               "C": "110001102",
+               "D": "1100012",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The working principles of today's computers were provided by an English mathematician",
+          "options": {
+               "A": "Charles Babbage",
+               "B": "Dr. Hollerith",
+               "C": "Donald Reach",
+               "D": "Ken Reider",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An identifying label on the first record of magnetic tape is",
+          "options": {
+               "A": "Punched paper tape",
+               "B": "Optical mark reader",
+               "C": "Tape label",
+               "D": "Joystick",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Where was the India's first computer installed and when?",
+          "options": {
+               "A": "Institute of Social Science, Agra, 1955",
+               "B": "Indian   Institute   of  Statistics, Delhi, 1957",
+               "C": "Indian     Statistical     Institute, Calcutta, 1955",
+               "D": "Indian    Institute    of   Science, Bangalore,  1971",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many symbols exist in Baudot code?",
+          "options": {
+               "A": "42",
+               "B": "116",
+               "C": "58",
+               "D": "76",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which most popular input device used today for interactive processing & for the on line entry of data for batch processing.",
+          "options": {
+               "A": "Mouse",
+               "B": "Magnetic disk",
+               "C": "Visual display terminal",
+               "D": "Card punch",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A digital device that processes data is known as",
+          "options": {
+               "A": "Data processor",
+               "B": "Data entry",
+               "C": "DBMS",
+               "D": "Database",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The third generation of computers covers the period:",
+          "options": {
+               "A": "1971-1982",
+               "B": "1982-1994",
+               "C": "1959-1964",
+               "D": "1965-1971",
+               "E": "1995-now"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of an octal number 208to its binary number is",
+          "options": {
+               "A": "100002",
+               "B": "101112",
+               "C": "101102",
+               "D": "111102",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A packet switching network that was sponsored by the Commission of the EEC and became operational in 1979 is",
+          "options": {
+               "A": "LAN",
+               "B": "Broadband network",
+               "C": "Star network",
+               "D": "Euronet",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

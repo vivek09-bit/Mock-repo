@@ -1,0 +1,252 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program, if ashort intis 2 bytes wide?#include<stdio.h>\r\nint main()\r\n{\r\n    short int i = 0;\r\n    for(i<=5 && i>=-1; ++i; i>0)\r\n        printf(\"%u,\", i);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "1 ... 65535",
+               "B": "Expression syntax error",
+               "C": "No output",
+               "D": "0, 1, 2, 3, 4, 5"
+          },
+          "correct_answer": "A",
+          "answer_description": "for(i<=5 && i>=-1; ++i; i>0)so expressioni<=5 && i>=-1initializesforloop.\r\nexpression++iis the loop condition.\r\nexpressioni>0is the increment expression.Infor( i <= 5 && i >= -1; ++i; i>0)expressioni<=5 && i>=-1evaluates to one.Loop condition always get evaluated totrue. Also at this point it increasesiby one.An increment_expressioni>0has no effect on value ofi.so for loop get executed till the limit of integer (ie. 65535)"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\nint main()\r\n{\r\n    float a = 0.7;\r\n    if(0.7 > a)\r\n        printf(\"Hi\\n\");\r\n    else\r\n        printf(\"Hello\\n\");\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Hi",
+               "B": "Hello",
+               "C": "Hi Hello",
+               "D": "None of above"
+          },
+          "correct_answer": "A",
+          "answer_description": "if(0.7 > a)hereais a float variable and0.7is a double constant. The double constant0.7is greater than the float variablea. Hence theifcondition is satisfied and it prints'Hi'Example:#include<stdio.h>\nint main()\n{\n    float a=0.7;\n    printf(\"%.10f %.10f\\n\",0.7, a);\n    return 0;\n}Output:0.7000000000  0.6999999881"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about anif-elsestatements in a C-program?1:Everyif-elsestatement can be replaced by an equivalent statements using?:operators2:Nestedif-elsestatements are allowed.3:Multiple statements in anifblock are allowed.4:Multiple statements in anelseblock are allowed.",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "1, 2 and 4",
+               "D": "2, 3, 4"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Can we use aswitchstatement to switch on strings?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "The cases in aswitchmust either have integer constants or constant expressions."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n#include<math.h>\r\nint main()\r\n{\r\n    printf(\"%f\\n\", sqrt(36.0));\r\n    return 0;\r\n}",
+          "options": {
+               "A": "6.0",
+               "B": "6",
+               "C": "6.000000",
+               "D": "Error: Prototypesqrt()not found."
+          },
+          "correct_answer": "C",
+          "answer_description": "printf(\"%f\\n\", sqrt(36.0));It prints the square root of 36 in the float format(i.e 6.000000).Declaration Syntax:double sqrt(double x)calculates and return the positive square root of the given number."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Is it true that too many recursive calls may result into stack overflow?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Yes, too many recursive calls may result intostack overflow. because when a function is called its return address is stored in stack.After sometime the stack memory will be filled completely. Hencestack overflowerror will occur."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A macro must always be defined in capital letters.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "FALSE, The macro is case insensitive."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a macro call the control is passed to the macro.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "False, Always the macro is substituted by the given text/expression."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A header file contains macros, structure declaration and function prototypes.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "True, the header file contains classes, function prototypes, structure declaration, macros."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following function sets first n characters of a string to a given character?",
+          "options": {
+               "A": "strinit()",
+               "B": "strnset()",
+               "C": "strset()",
+               "D": "strcset()"
+          },
+          "correct_answer": "B",
+          "answer_description": "Declaration:char *strnset(char *s, int ch, size_t n);Sets the firstncharacters ofstoch#include <stdio.h>\n#include <string.h>\n\nint main(void)\n{\n   char *string = \"abcdefghijklmnopqrstuvwxyz\";\n   char letter = 'x';\n\n   printf(\"string before strnset: %s\\n\", string);\n   strnset(string, letter, 13);\n   printf(\"string after  strnset: %s\\n\", string);\n\n   return 0;\n}Output:string before strnset: abcdefghijklmnopqrstuvwxyzstring after  strnset: xxxxxxxxxxxxxnopqrstuvwxyz"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    char str = \"IndiaBIX\";\n    printf(\"%s\\n\", str);\n    return 0;\n}",
+          "options": {
+               "A": "Error",
+               "B": "IndiaBIX",
+               "C": "Base address ofstr",
+               "D": "No output"
+          },
+          "correct_answer": "A",
+          "answer_description": "The linechar str = \"IndiaBIX\";generates \"Non portable pointer conversion\" error.To eliminate the error, we have to change the above line tochar *str = \"IndiaBIX\";(or)char str[] = \"IndiaBIX\";Then it prints \"IndiaBIX\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    char str1[] = \"Hello\";\n    char str2[10];\n    char *t, *s;\n    s = str1;\n    t = str2;\n    while(*t=*s)\n        *t++ = *s++;\n    printf(\"%s\\n\", str2);\n    return 0;\n}",
+          "options": {
+               "A": "Hello",
+               "B": "HelloHello",
+               "C": "No output",
+               "D": "ello"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the size of pointer is 4 bytes then What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    char *str[] = {\"Frogs\", \"Do\", \"Not\", \"Die\", \"They\", \"Croak!\"};\n    printf(\"%d, %d\", sizeof(str), strlen(str[0]));\n    return 0;\n}",
+          "options": {
+               "A": "22, 4",
+               "B": "25, 5",
+               "C": "24, 5",
+               "D": "20, 2"
+          },
+          "correct_answer": "C",
+          "answer_description": "Step 1:char *str[] = {\"Frogs\", \"Do\", \"Not\", \"Die\", \"They\", \"Croak!\"};The variable str is declared as an pointer to the array of 6 strings.Step 2:printf(\"%d, %d\", sizeof(str), strlen(str[0]));sizeof(str)denotes 6 * 4 bytes = 24 bytes. Hence it prints '24'strlen(str[0]));becomesstrlen(Frogs)). Hence it prints '5';Hence the output of the program is 24, 5Hint: If you run the above code in 16 bit platform (Turbo C under DOS) the output will be 12, 5. Because the pointer occupies only 2 bytes. If you run the above code in Linux (32 bit platform), the output will be 24, 5 (because the size of pointer is 4 bytes)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program?#include<stdio.h>\n\nint main()\n{\n    FILE *fp;\n    fp=fopen(\"trial\", \"r\");\n    fseek(fp, \"20\", SEEK_SET);\n    fclose(fp);\n    return 0;\n}",
+          "options": {
+               "A": "Error: unrecognised KeywordSEEK_SET",
+               "B": "Error:fseek()long offset value",
+               "C": "No error",
+               "D": "None of above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Instead of \"20\" use 20L sincefseek()need a long offset value."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?cmd>myprog friday tuesday sunday/* myprog.c */\n#include<stdio.h>\n\nint main(int argc, char *argv[])\n{\n    printf(\"%c\", *++argv[1]);\n    return 0;\n}",
+          "options": {
+               "A": "r",
+               "B": "f",
+               "C": "m",
+               "D": "y"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n\nint main()\n{\n    const int x=5;\n    const int *ptrx;\n    ptrx = &x;\n    *ptrx = 10;\n    printf(\"%d\\n\", x);\n    return 0;\n}",
+          "options": {
+               "A": "5",
+               "B": "10",
+               "C": "Error",
+               "D": "Garbage value"
+          },
+          "correct_answer": "C",
+          "answer_description": "Step 1:const int x=5;The constant variablexis declared as an integer data type and initialized with value '5'.Step 2:const int *ptrx;The constant variableptrxis declared as an integer pointer.Step 3:ptrx = &x;The address of the constant variablexis assigned to integer pointer variable ptrx.Step 4:*ptrx = 10;Here we are indirectly trying to change the value of the constant vaiablex. This will result in an error.To change the value ofconstvariablexwe have to use*(int *)&x = 10;"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program (in Turbo-C).#include<stdio.h>\n#define MAX 128\n\nint main()\n{\n    const int max=128;\n    char array[max];\n    char string[MAX];\n    array[0] = string[0] = 'A';\n    printf(\"%c %c\\n\", array[0], string[0]);\n    return 0;\n}",
+          "options": {
+               "A": "Error: unknown max in declaration/Constant expression required",
+               "B": "Error: invalid array string",
+               "C": "None of above",
+               "D": "No error. It prints A A"
+          },
+          "correct_answer": "A",
+          "answer_description": "Step 1: A macro namedMAXis defined with value 128Step 2:const int max=128;The constant variablemaxis declared as an integer data type and it is initialized with value 128.Step 3:char array[max];This statement reports an error \"constant expression required\". Because, we cannot use variable to define the size of array.To avoid this error, we have to declare the size of an array as static. Eg.char array[10];or use macrochar array[MAX];Note: The above program will print A A as output in Unix platform."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program.#include<stdio.h>\nconst char *fun();\n\nint main()\n{\n    char *ptr = fun();\n    return 0;\n}\nconst char *fun()\n{\n    return \"Hello\";\n}",
+          "options": {
+               "A": "Error: Lvalue required",
+               "B": "Error: cannot convert 'const char *' to 'char *'.",
+               "C": "No error and No output",
+               "D": "None of above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Input/output function prototypes and macros are defined in which header file?",
+          "options": {
+               "A": "conio.h",
+               "B": "stdlib.h",
+               "C": "stdio.h",
+               "D": "dos.h"
+          },
+          "correct_answer": "C",
+          "answer_description": "stdio.h, which stands for \"standard input/output header\", is the header in the C standard library that contains macro definitions, constants, and declarations of functions and types used for various standard input and output operations."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int i;\r\n    char c;\r\n    for(i=1; i<=5; i++)\r\n    {\r\n        scanf(\"%c\", &c); /* given input is 'a' */\r\n        printf(\"%c\", c);\r\n        ungetc(c, stdin);\r\n    }\r\n    return 0;\r\n}",
+          "options": {
+               "A": "aaaa",
+               "B": "aaaaa",
+               "C": "Garbage value.",
+               "D": "Error inungetcstatement."
+          },
+          "correct_answer": "B",
+          "answer_description": "for(i=1; i<=5; i++)Here the for loop runs 5 times.Loop 1:scanf(\"%c\", &c);Here we give 'a' as input.printf(\"%c\", c);prints the character 'a' which is given in the previous \"scanf()\" statement.ungetc(c, stdin);\"ungetc()\" function pushes character 'a' back into input stream.Loop 2:Here thescanf(\"%c\", &c);get the input from \"stdin\" because of \"ungetc\" function.printf(\"%c\", c);Now variablec= 'a'. So it prints the character 'a'.ungetc(c, stdin);\"ungetc()\" function pushes character 'a' back into input stream.This above process will be repeated inLoop 3,Loop 4,Loop 5."
+     }
+]

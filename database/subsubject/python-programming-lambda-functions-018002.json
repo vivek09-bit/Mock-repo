@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a disadvantage of using lambda functions?",
+        "options": {
+            "A": "They cannot be used in higher-order functions",
+            "B": "They can only contain a single expression",
+            "C": "They are less efficient than regular functions",
+            "D": "They cannot be assigned to variables"
+        },
+        "correct_answer": "B",
+        "answer_description": "Lambda functions are limited to a single expression, which may be a disadvantage when more complex logic or multiple statements are required."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the main difference betweenmap()andfilter()functions when used with lambda functions?",
+        "options": {
+            "A": "map()applies the lambda function to each element,filter()creates a filter based on a condition",
+            "B": "map()creates a filter,filter()applies the lambda function to each element",
+            "C": "Both functions create filters based on conditions",
+            "D": "Both functions apply the lambda function to each element"
+        },
+        "correct_answer": "A",
+        "answer_description": "map()applies the lambda function to each element of an iterable, whilefilter()creates a filter object based on a condition specified by the lambda function."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thereduce()function when used with lambda functions?",
+        "options": {
+            "A": "To create a filter based on a condition",
+            "B": "To apply the lambda function to each element of an iterable",
+            "C": "To accumulate values from an iterable using the lambda function",
+            "D": "To sort the elements of an iterable using the lambda function"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thereduce()function is used to accumulate values from an iterable using the lambda function. It successively applies the lambda function to the elements of the iterable."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, can a lambda function have more than one line of code?",
+        "options": {
+            "A": "Yes, as long as each line is indented",
+            "B": "No, lambda functions are limited to a single line",
+            "C": "Yes, but only if the lines are separated by commas",
+            "D": "No, lambda functions can only contain a single expression"
+        },
+        "correct_answer": "B",
+        "answer_description": "Lambda functions in Python are restricted to a single expression and cannot span multiple lines of code."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a valid use case for lambda functions?",
+        "options": {
+            "A": "Defining complex algorithms with multiple statements",
+            "B": "Creating short, throwaway functions for a specific task",
+            "C": "Implementing class methods in Python",
+            "D": "Serving as a replacement for regular functions in all scenarios"
+        },
+        "correct_answer": "B",
+        "answer_description": "Lambda functions are suitable for short-term, specific tasks where a full function definition is not necessary. They are often used for quick, one-time operations."
+    }
+]

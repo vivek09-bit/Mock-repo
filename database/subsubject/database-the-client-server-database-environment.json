@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true about symmetric multiprocessing?",
+        "options": {
+            "A": "A single copy of the operating system resides in each processor.",
+            "B": "Useful for situations where data must remain in memory to process.",
+            "C": "Bottlenecks increase with uniprocessor systems because tasks are not shared.",
+            "D": "The problems of memory contention are unlikely."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following items are not necessary for client/server?",
+        "options": {
+            "A": "Assure that tools will connect with middleware.",
+            "B": "Understand the requirements.",
+            "C": "Determine network bandwidth capabilities.",
+            "D": "Include the use of a file server."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A benefit of the three-tier architecture is which of the following?",
+        "options": {
+            "A": "New modules can be built to support specific business needs",
+            "B": "Performance improves for compiled SQL statements",
+            "C": "Results in a thinner client and database server",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true concerning JDBC?",
+        "options": {
+            "A": "It is language independent.",
+            "B": "It is similar in concept to ODBC.",
+            "C": "It is useful for all object-oriented languages.",
+            "D": "It consists of three main layers."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A characteristic of a file server is which of the following?",
+        "options": {
+            "A": "Manages file operations and is shared on a network.",
+            "B": "Manages file operations and is limited to one PC.",
+            "C": "Acts as a fat client and is shared on a network.",
+            "D": "Acts as a fat client and is limited to one PC."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

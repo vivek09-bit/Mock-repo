@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which decorator can be used to measure the execution time of a Python function?",
+        "options": {
+            "A": "@functools.lru_cache",
+            "B": "@functools.singledispatch",
+            "C": "@functools.wraps",
+            "D": "@functools.timer"
+        },
+        "correct_answer": "D",
+        "answer_description": "There is no built-in@functools.timerdecorator in Python, but a custom timer decorator can be created using external libraries or by measuring time manually."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary purpose of the@functools.singledispatchdecorator?",
+        "options": {
+            "A": "Converts a method to a class method",
+            "B": "Enables function overloading based on argument types",
+            "C": "Indicates a method is an instance method",
+            "D": "Decorates a method with dynamic behavior"
+        },
+        "correct_answer": "B",
+        "answer_description": "The@functools.singledispatchdecorator in Python is used to enable function overloading based on the type of the first argument."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which decorator is used to ensure that a function is only executed after a certain condition is met?",
+        "options": {
+            "A": "@functools.lru_cache",
+            "B": "@functools.wraps",
+            "C": "@functools.singledispatch",
+            "D": "@functools.singledispatchmethod"
+        },
+        "correct_answer": "D",
+        "answer_description": "There is no built-in@functools.singledispatchmethoddecorator in Python, but a custom decorator can be created to execute a function based on a specified condition."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you create a decorator that takes arguments?",
+        "options": {
+            "A": "Using the@staticmethoddecorator",
+            "B": "Using the@functools.wrapsdecorator",
+            "C": "By defining a higher-order function that returns the actual decorator",
+            "D": "By using the@classmethoddecorator"
+        },
+        "correct_answer": "C",
+        "answer_description": "To create a decorator that takes arguments, you can define a higher-order function that returns the actual decorator based on the provided arguments."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When using the@functools.lru_cachedecorator, what is the purpose of themaxsizeparameter?",
+        "options": {
+            "A": "Sets the maximum number of cache entries",
+            "B": "Controls the cache eviction policy",
+            "C": "Determines the cache timeout duration",
+            "D": "Specifies the maximum recursion depth for caching"
+        },
+        "correct_answer": "A",
+        "answer_description": "Themaxsizeparameter in the@functools.lru_cachedecorator specifies the maximum number of entries to be stored in the cache. Once this limit is reached, older entries are evicted."
+    }
+]

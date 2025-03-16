@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the applied voltage for a series RLC circuit when IT= 3 mA, VL= 30 V, VC= 18 V, and R = 1000 ohms?",
+        "options": {
+            "A": "3.00 V",
+            "B": "12.37 V",
+            "C": "34.98 V",
+            "D": "48.00 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the bandwidth of the circuit?",
+        "options": {
+            "A": "31.8 Hz",
+            "B": "32.3 Hz",
+            "C": "142 Hz",
+            "D": "7.2 kHz"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a parallel RLC circuit, which value may always be used as a vector reference?",
+        "options": {
+            "A": "current",
+            "B": "reactance",
+            "C": "resistance",
+            "D": "voltage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How much current will flow in a 100 Hz series RLC circuit if VS= 20 V, RT= 66 ohms, and XT= 47 ohms?",
+        "options": {
+            "A": "1.05 A",
+            "B": "303 mA",
+            "C": "247 mA",
+            "D": "107 mA"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the Q (Quality factor) of a series circuit that resonates at 6 kHz, has equal reactance of 4 kilo-ohms each, and a resistor value of 50 ohms?",
+        "options": {
+            "A": "0.001",
+            "B": "50",
+            "C": "80",
+            "D": "4.0"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

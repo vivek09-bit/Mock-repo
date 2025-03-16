@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "We discussed about the problem so thoroughly",
+            "B": "on the eve of the examination",
+            "C": "that I found it very easy to work it out",
+            "D": "No error."
+        },
+        "correct_answer": "A",
+        "answer_description": "We discussed the problem so thoroughly"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "An Indian ship",
+            "B": "laden with merchandise",
+            "C": "got drowned in the Pacific Ocean.",
+            "D": "No error."
+        },
+        "correct_answer": "C",
+        "answer_description": "sank in the Pacific Ocean"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "I could not put up in a hotel",
+            "B": "because the boarding and lodging charges",
+            "C": "were exorbitant.",
+            "D": "No error."
+        },
+        "correct_answer": "A",
+        "answer_description": "'I could not put up at a hotel'"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "The Indian radio",
+            "B": "which was previously controlled by the British rulers",
+            "C": "is free now from the narrow vested interests.",
+            "D": "No error."
+        },
+        "correct_answer": "C",
+        "answer_description": "is now free from the narrow vested interests."
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "If I had known",
+            "B": "this yesterday",
+            "C": "I will have helped him.",
+            "D": "No error."
+        },
+        "correct_answer": "C",
+        "answer_description": "I would have helped him"
+    }
+]

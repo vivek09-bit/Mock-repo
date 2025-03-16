@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many basic binary subtraction operations are possible?",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many basic binary subtraction combinations are possible?",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Use the two's complement system to add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and  \ntheir sum.",
+        "options": {
+            "A": "–14 and –13; –27",
+            "B": "–113 and –114; 227",
+            "C": "–27 and –13; 40",
+            "D": "–11 and –16; –27"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The selector inputs to an arithmetic-logic unit (ALU) determine the:",
+        "options": {
+            "A": "selection of the IC",
+            "B": "arithmetic or logic function",
+            "C": "data word selection",
+            "D": "clock frequency to be used"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Adding in binary, the decimal values 26 + 27 will produce a sum of:",
+        "options": {
+            "A": "111010",
+            "B": "110110",
+            "C": "110101",
+            "D": "101011"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

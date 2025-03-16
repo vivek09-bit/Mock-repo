@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A relation has which of the following properties?",
+        "options": {
+            "A": "Each row is not unique.",
+            "B": "Attributes can have the same name within a given table.",
+            "C": "Each relation has a unique name.",
+            "D": "The order of the columns is significant."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When mapping a ternary relationship with an associative entity into a relation which of the following is true?",
+        "options": {
+            "A": "One relation is created.",
+            "B": "Two relations are created.",
+            "C": "Three relations are created.",
+            "D": "Four relations are created."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When mapping a regular entity into a relation which of the following is true?",
+        "options": {
+            "A": "One relation is created.",
+            "B": "Two relations are created.",
+            "C": "Three relations are created.",
+            "D": "Four relations are created."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When mapping a supertype/subtype relationship which of the following is true?",
+        "options": {
+            "A": "The supertype primary key is assigned to each subtype.",
+            "B": "The subtype primary key is assigned to each supertype.",
+            "C": "There is no link between the supertype/subtype entities.",
+            "D": "There is no primary key/foreign key relationship between a supertype/subtype."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Relations are:",
+        "options": {
+            "A": "two-dimensional tables.",
+            "B": "three-dimensional tables.",
+            "C": "four-dimensional tables.",
+            "D": "five-dimensional tables."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

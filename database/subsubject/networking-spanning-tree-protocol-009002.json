@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statement is true?",
+        "options": {
+            "A": "A switch creates a single collision domain and a single broadcast domain. A router creates a single collision domain.",
+            "B": "A switch creates separate collision domains but one broadcast domain. A router provides a separate broadcast domain.",
+            "C": "A switch creates a single collision domain and separate broadcast domains. A router provides a separate broadcast domain as well.",
+            "D": "A switch creates separate collision domains and separate broadcast domains. A router provides separate collision domains."
+        },
+        "correct_answer": "B",
+        "answer_description": "Switches break up collision domains, and routers break up broadcast domains."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have two switches connected together with two crossover cables for redundancy, and STP is disabled. Which of the following will happen between the switches?",
+        "options": {
+            "A": "The routing tables on the switches will not update.",
+            "B": "The MAC forward/filter table will not update on the switch.",
+            "C": "Broadcast storms will occur on the switched network.",
+            "D": "The switches will automatically load-balance between the two links."
+        },
+        "correct_answer": "C",
+        "answer_description": "If spanning tree is disabled on a switch and you have redundant links to another switch, broadcast storms will occur, among other possible problems."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Layer 2 switching provides which of the following?Hardware-based bridging (ASIC)Wire speedLow latencyLow cost",
+        "options": {
+            "A": "1 and 3",
+            "B": "2 and 4",
+            "C": "1, 2 and 4",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "Switches, unlike bridges, are hardware based. Cisco says its switches are wire speed and provide low latency, and I guess they are low cost compared to their prices in the 1990s."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Your switch has a port status LED that is alternating between green and amber. What could this indicate?",
+        "options": {
+            "A": "The port is experiencing errors.",
+            "B": "The port is shut down.",
+            "C": "The port is in STP blocking mode.",
+            "D": "Nothing; this is normal."
+        },
+        "correct_answer": "A",
+        "answer_description": "When you connect to a switch port, at first the link lights are orange/amber, and then they turn green, indicating normal operation. If the link light is blinking, you have a problem."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want to run the new 802.1w on your switches. Which of the following would enable this protocol?",
+        "options": {
+            "A": "Switch(config)#spanning-tree mode rapid-pvst",
+            "B": "Switch#spanning-tree mode rapid-pvst",
+            "C": "Switch(config)#spanning-tree mode 802.1w",
+            "D": "Switch#spanning-tree mode 802.1w"
+        },
+        "correct_answer": "A",
+        "answer_description": "802.1w is the also called Rapid Spanning Tree Protocol. It is not enabled by default on Cisco switches, but it is a better STP to run since it has all the fixes that the Cisco extensions provide with 802.1d."
+    }
+]

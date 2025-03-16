@@ -1,0 +1,275 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Look carefully at the sequence of symbols to find the pattern. Select correct pattern.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "C",
+          "answer_description": "All four segments use the same figures: two squares, one circle, and one triangle. In the first segment, the squares are on the outside of the circle and triangle. In the second segment, the squares are below the other two. In the third segment, the squares on are the inside. In the fourth segment, the squares are above the triangle and circle."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Look carefully at the sequence of symbols to find the pattern. Select correct pattern.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "D",
+          "answer_description": "In each of the segments, the figures alternate between one-half and one-fourth shaded."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Each question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+          "image_path": null,
+          "question": "diploma",
+          "options": {
+               "A": "principal",
+               "B": "curriculum",
+               "C": "employment",
+               "D": "graduation"
+          },
+          "correct_answer": "D",
+          "answer_description": "A diploma is awarded at graduation, so graduation is essential to obtaining a diploma. Employment may be a byproduct (choice c). A principal and a curriculum (choices a and b) may play a role in the awarding of some diplomas, but they are not essential."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Every one of the following questions consists of a related pair of words, followed by five pairs of words. Choose the pair that best represents a similar relationship to the one expressed in the original pair of words.",
+          "image_path": null,
+          "question": "DIVISION : SECTION",
+          "options": {
+               "A": "layer : tier",
+               "B": "tether : bundle",
+               "C": "chapter : verse",
+               "D": "riser : stage",
+               "E": "dais : speaker"
+          },
+          "correct_answer": "A",
+          "answer_description": "Division and section are synonyms; layer and tier are synonyms."
+     },
+     {
+          "direction": "Direction (Q.No. 5)First, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+          "image_path": null,
+          "question": "Here are some words translated from an artificial language.haplleshmeans cloudburstsrenchochmeans pinballresbosrenchmeans ninepinWhich word could mean \"cloud nine\"?",
+          "options": {
+               "A": "leshsrench",
+               "B": "ochhapl",
+               "C": "haploch",
+               "D": "haplresbo"
+          },
+          "correct_answer": "D",
+          "answer_description": "Haplmeans cloud;leshmeans burst;srenchmeans pin;ochmeans ball; andresbomeans nine.Leshsrench(choice a) doesn't contain any of the words needed for cloud nine. We know that och means ball, so that rules out choices b and c. When you combinehapl(cloud) withresbo(nine), you  get the correct answer"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Translate from an imaginary language into English. Then, look for the word elements that appear both on the list and in the answer choices.",
+          "image_path": null,
+          "question": "Here are some words translated from an artificial language.malgaupermeans peach cobblermalgaportmeans peach juicemoggagropmeans apple jellyWhich word could mean \"apple juice\"?",
+          "options": {
+               "A": "moggaport",
+               "B": "malgaauper",
+               "C": "gropport",
+               "D": "moggagrop"
+          },
+          "correct_answer": "A",
+          "answer_description": "Malga means peach; uper means cobbler; port means juice; mogga means apple; and  grop means jelly. Therefore, moggaport means apple juice."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+          "image_path": null,
+          "question": "Joe is younger than Kathy.Mark was born after Joe.Kathy is older than Mark.If the first two statements are true, the third statement is",
+          "options": {
+               "A": "true",
+               "B": "false",
+               "C": "uncertain"
+          },
+          "correct_answer": "A",
+          "answer_description": "Joe is younger than Kathy and older than Mark, so Mark must be younger than Kathy."
+     },
+     {
+          "direction": "Direction (Q.No. 8)Choose the statement that is best supported by the information given in the question passage.",
+          "image_path": null,
+          "question": "Yoga has become a very popular type of exercise, but it may not be for everyone. Before you sign yourself up for a yoga class, you need to examine what it is you want from your fitness routine. If you're looking for a high-energy, fast-paced aerobic workout, a yoga class might not be your best choice.This paragraph best supports the statement that",
+          "options": {
+               "A": "yoga is more popular than high-impact aerobics.",
+               "B": "before embarking on a new exercise regimen, you should think about your needs and desires.",
+               "C": "yoga is changing the world of fitness in major ways",
+               "D": "yoga benefits your body and mind",
+               "E": "most people think that yoga isn't a rigorous form of exercise."
+          },
+          "correct_answer": "B",
+          "answer_description": "The second sentence points out that people should examine what they want from a fitness routine before signing up for a new exercise class. There is no evidence to support choice a. Choice c might sound  reasonable due to the fact that the paragraph tells us that yoga has become very popular, but this statement is not supported by the information provided in the paragraph. Choices d and e are also not supported since the paragraph doesn't tell us whether yoga is good for both body and mind or what people think about it."
+     },
+     {
+          "direction": "Direction (Q.No. 9)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:Vegetable prices are soaring in the market.Conclusions:Vegetables are becoming a rare commodity.People cannot eat vegetables.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "The availability of vegetables is not mentioned in the given statement. So, I does not follow Also, II is not directly related to the statement and so it also does not follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 11)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The 'M' Cooperative Housing Society has put up a notice at its gate those sales persons are not allowed inside the society.Assumptions:All the sales persons will stay away from the 'M' Cooperative Housing Society.The security guard posted at the gate may be able to stop the sales persons entering the society.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since both the assumptions follow from the given statement, so both I and II are implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 11)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Highly brilliant and industrious students do not always excel in the written examination.Assumptions:The written examination is good mainly for mediocre students.The brilliant and industrious students cannot always write good answers in the exam",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "II explains the fact given in the statement and so is implicit. Nothing about 'mediocre students' is mentioned in or can be deduced from the given statement. So, I is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 12 - 14)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"Two months ago, it was announced that Central Government pensioners would get dearness relief with immediate effect but till date, banks have not credited the arrears.\" - A statement from a Pensioners' Forum.Assumptions:Most of the banks normally take care of the pensioners.Two months time is sufficient for the government machinery to move and give effect to pensioners.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "I is vague and so it is not implicit. The statement expresses grave concern over the pensioners not having received clearness relief even two months after the implementation of the policy. This implies that two months' time is sufficient and it's already too late. So, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 12 - 14)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Money is the root cause of all the problems in a family.Assumptions:Every problem is caused by something.There are always some problems in a family.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "D",
+          "answer_description": "The statement mentions the cause of family problems and does not deal with all the problems. So, I is not implicit. Also, it is mentioned that money is the cause of family problems. But this does not mean that problems always exist in a family. So, II is also not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 12 - 14)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:To investigate the murder of the lone resident of a flat, the police interrogated the domestic servant, the watchman of the multi-storeyed buildings and the liftman.Assumptions:The domestic servant, watchman and the liftman can give a clue about the suspected murder.Generally in such cases the persons known to the resident are directly or indirectly involved in the murder.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, in such cases, the police interrogates the domestic servant, watchman and liftman to work out the sequence of events just before the murder by tracing the persons who had come to meet the victim. So, I is implicit However, it is erroneous to assume that persons known to the victim are generally involved in the murder. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 18)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:Most of the development plans develop in papers only.Courses of Action:The in-charges should be instructed to supervise the field-work regularly.The supply of paper to such departments should be cut short.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, proper supervision alone can see the development in practice. So, only course I follows."
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 18)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:A very large number of students have failed in the final high school examination due to faulty questions in one of the subjects.Courses of Action:All the students who have failed in the subject should be allowed to take supplementary examination.All those who are responsible for the error should be suspended and an enquiry should be initiated to find out the facts.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "There being faulty questions in the examination paper is a blunder on the part of school management and students should not be made to suffer on account of this. Thus, a re-test should be organised for the students and those responsible for the error be penalised to prevent reoccurrence of such mistake in the future. Hence, both the courses follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 18)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:Four districts in State A have been experiencing severe drought for the last three years resulting into exodus of people from these districts.Courses of Action:The government should immediately start food for work programme in the district to put a halt to the exodus.The government should make since efforts to provide drinking/potable water to these districts",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "The exodus can be stopped by providing the people conditions conducive to living. So, both the courses follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 18)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:The Government has decided not to provide financial support to voluntary organisations from next Five Year Plan and has communicated that all such organisations should raise funds to meet their financial needs.Courses of Action:Voluntary organisations should collaborate with foreign agencies.They should explore other sources of financial support.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "The problem arising is shortage of funds. So, alternative sources of financial support need to be worked out first. Thus, only course II follows."
+     },
+     {
+          "direction": "Direction (Q.No. 19)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should the educated unemployed youth be paid \"unemployment allowance\" by the Government?Arguments:Yes. It will provide them some monetary help to either seek employment or to kick-start some 'self-employment' venture.No. It will dampen their urge to do something to earn their livelihood and thus promote idleness among the unemployed youth.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "E",
+          "answer_description": "Young people, who do not get employment due to the large number of applicants in all fields, must surely be given allowance so that they can support themselves. So, argument I is valid. However, such allowances would mar the spirit to work, in them and make them idle. So, argument II also holds."
+     },
+     {
+          "direction": "Direction (Q.No. 20)In each question below is given a statement followed by three courses of action numbered I, II and III. You have to assume everything in the statement to be true, then decide which of the three given suggested courses of action logically follows for pursuing.",
+          "image_path": null,
+          "question": "Statement:Lack of coordination between the University, its colleges and various authorities has resulted in students ousted from one college seeking migration to another.Courses of Action:If a student is ousted from a college, the information should be sent to all the other colleges of the UniversityThe admissions to all the colleges of the University should be handled by the University directly.A separate section should be made for taking strict action against students indulging in anti-social activities.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Only III follows",
+               "D": "Only I and III follow",
+               "E": "Only II and III follow"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the issue is not so big as to allot all powers of admissions to colleges, to the University only. So, II does not follow. The problem can be solved by circulating the information of the ousted students to all the colleges so as to ensure that such students do not get admission elsewhere also. This might prove useful in rectifying such students. So, I follows while III does not."
+     }
+]

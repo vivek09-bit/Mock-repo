@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The year 1995 is the Golden Jubilee year of which of the following international organisations?",
+        "options": {
+            "A": "UNO",
+            "B": "NAM",
+            "C": "GATT (now WTO)",
+            "D": "ASEAN"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The United Nations Conference on Trade and Development (UNCTAD) is located at which of the following places?",
+        "options": {
+            "A": "Geneva",
+            "B": "Rome",
+            "C": "Paris",
+            "D": "Vienna"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Amnesty International is an organisation associated with which of the following fields?",
+        "options": {
+            "A": "Protection of Cruelty to animals",
+            "B": "Environment protection",
+            "C": "Protection of human rights",
+            "D": "Protection of historic monuments"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Halifax summit was that of",
+        "options": {
+            "A": "G-7 countries",
+            "B": "Leaders of the NAM",
+            "C": "countries in favour of a common currency for Europe",
+            "D": "Palestinian and Israeli leaders"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The office of the UN General Assembly is in",
+        "options": {
+            "A": "Vienna",
+            "B": "New York",
+            "C": "Paris",
+            "D": "Zurich"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

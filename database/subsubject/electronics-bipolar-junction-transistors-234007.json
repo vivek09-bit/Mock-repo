@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the collector current for a C-E configuration with a beta of 100 and a base current of 30A?",
+        "options": {
+            "A": "30A",
+            "B": ".3A",
+            "C": "3 mA",
+            "D": "3 MA"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

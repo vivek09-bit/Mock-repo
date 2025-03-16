@@ -1,0 +1,250 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following cannot be checked in aswitch-casestatement?",
+          "options": {
+               "A": "Character",
+               "B": "Integer",
+               "C": "Float",
+               "D": "enum"
+          },
+          "correct_answer": "C",
+          "answer_description": "Theswitch/casestatement in the c language is defined by the language specification to use anintvalue, so you can not use afloatvalue.switch( expression )\r\n{\r\n    case constant-expression1:    statements 1;\r\n    case constant-expression2:    statements 2;    \r\n    case constant-expression3:    statements3 ;\r\n    ...\r\n    ...\r\n    default : statements 4;\r\n}The value of the 'expression' in a switch-case statement must be an integer, char, short, long. Float and double are not allowed."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error, if any in the program.#include<stdio.h> \nint main()\n{\n    int a = 10, b;\n    a >=5 ? b=100: b=200;\n    printf(\"%d\\n\", b);\n    return 0;\n}",
+          "options": {
+               "A": "100",
+               "B": "200",
+               "C": "Error: L value required for b",
+               "D": "Garbage value"
+          },
+          "correct_answer": "C",
+          "answer_description": "Variable b is not assigned.It should be like:b = a >= 5 ? 100 : 200;"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the program?#include<stdio.h>\nint main()\n{\n    int x = 30, y = 40;\n    if(x == y)\n        printf(\"x is equal to y\\n\");\n\n    else if(x > y)\n        printf(\"x is greater than y\\n\");\n\n    else if(x < y)\n        printf(\"x is less than y\\n\")\n    return 0;\n}",
+          "options": {
+               "A": "Error: Statement missing",
+               "B": "Error: Expression syntax",
+               "C": "Error: Lvalue required",
+               "D": "Error: Rvalue required"
+          },
+          "correct_answer": "A",
+          "answer_description": "This program will result in error \"Statement missing ;\"printf(\"x is less than y\\n\")here ; should be added to the end of this statement."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\nint main()\r\n{\r\n    int i=4, j=-1, k=0, w, x, y, z;\r\n    w = i || j || k;\r\n    x = i && j && k;\r\n    y = i || j &&k;\r\n    z = i && j || k;\r\n    printf(\"%d, %d, %d, %d\\n\", w, x, y, z);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "1, 1, 1, 1",
+               "B": "1, 1, 0, 1",
+               "C": "1, 0, 0, 1",
+               "D": "1, 0, 1, 1"
+          },
+          "correct_answer": "D",
+          "answer_description": "Step 1:int i=4, j=-1, k=0, w, x, y, z;here variablei, j, k, w, x, y, zare declared as an integer type and the variablei, j, kare initialized to 4, -1, 0 respectively.Step 2:w = i || j || k;becomesw = 4 || -1 || 0;.  Hence it returns TRUE. So, w=1Step 3:x = i && j && k;becomesx = 4 && -1 && 0;Hence it returns FALSE. So, x=0Step 4:y = i || j &&k;becomesy = 4 || -1 && 0;Hence it returns TRUE. So, y=1Step 5:z = i && j || k;becomesz = 4 && -1 || 0;Hence it returns TRUE. So, z=1.Step 6:printf(\"%d, %d, %d, %d\\n\", w, x, y, z);Hence the output is \"1, 0, 1, 1\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Are the following two statement same?1.a <= 20 ? (b = 30): (c = 30);2.(a <=20) ? b : (c = 30);",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "No, the expressions 1 and 2 are not same.1.a <= 20 ? (b = 30) : (c = 30);This statement can be rewritten as,if(a <= 20)\n{\n    b = 30;\n}\nelse\n{\n    c = 30;\n}2.(a <=20) ? b : (c = 30);This statement can be rewritten as,if(a <= 20)\n{\n    //Nothing here\n}\nelse\n{\n    c = 30;\n}"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Macros have a local scope.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "False, The scope of macros is globals and functions. Also the scope of macros is only from the point of definition to the end of the file."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    char *str;\n    str = \"%d\\n\";\n    str++;\n    str++;\n    printf(str-2, 300);\n    return 0;\n}",
+          "options": {
+               "A": "No output",
+               "B": "30",
+               "C": "3",
+               "D": "300"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Is this a correct way for NULL pointer assignment?int i=0;char *q=(char*)i;",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "The correct way ischar *q=0 (or) char *q=(char*)0"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program if the array begins at 65472 and each integer occupies 2 bytes?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int a[3][4] = {1, 2, 3, 4, 4, 3, 2, 1, 7, 8, 9, 0};\r\n    printf(\"%u, %u\\n\", a+1, &a+1);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "65474, 65476",
+               "B": "65480, 65496",
+               "C": "65480, 65488",
+               "D": "65474, 65488"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:int a[3][4] = {1, 2, 3, 4, 4, 3, 2, 1, 7, 8, 9, 0};The array a[3][4] is declared as an integer array having the 3 rows and 4 colums dimensions.Step 2:printf(\"%u, %u\\n\", a+1, &a+1);The base address(also the address of the first element) of array is 65472.For a two-dimensional array likeareference to array has type \"pointer to array of 4 ints\". Therefore,a+1is pointing to the memory location of first element of the second row in arraya. Hence 65472 + (4 ints * 2 bytes) = 65480Then,&ahas type \"pointer to array of 3 arrays of 4 ints\", totally 12 ints. Therefore,&a+1denotes \"12 ints * 2 bytes * 1 = 24 bytes\".Hence, begining address 65472 + 24 = 65496. So,&a+1= 65496Hence the output of the program is 65480, 65496"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The library function used to reverse a string is",
+          "options": {
+               "A": "strstr()",
+               "B": "strrev()",
+               "C": "revstr()",
+               "D": "strreverse()"
+          },
+          "correct_answer": "B",
+          "answer_description": "strrev(s)Reverses all characters insExample:#include <string.h>\n#include <stdio.h>\n\nint main(void)\n{\n   char *str = \"IndiaBIX\";\n\n   printf(\"Before strrev(): %s\\n\", str);\n   strrev(str);\n   printf(\"After strrev():  %s\\n\", str);\n   return 0;\n}Output:Before strrev(): IndiaBIXAfter strrev(): XIBaidnI"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n#include<string.h>\n\nint main()\n{\n    char sentence[80];\n    int i;\n    printf(\"Enter a line of text\\n\");\n    gets(sentence);\n    for(i=strlen(sentence)-1; i >=0; i--)\n        putchar(sentence[i]);\n    return 0;\n}",
+          "options": {
+               "A": "The sentence will get printed in same order as it entered",
+               "B": "The sentence will get printed in reverse order",
+               "C": "Half of the sentence will get printed",
+               "D": "None of above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\n    struct course\n    {\n        int courseno;\n        char coursename[25];\n    };\nint main()\n{\n    struct course c[] = { {102, \"Java\"}, \n                          {103, \"PHP\"}, \n                          {104, \"DotNet\"}     };\n\n    printf(\"%d \", c[1].courseno);\n    printf(\"%s\\n\", (*(c+2)).coursename);\n    return 0;\n}",
+          "options": {
+               "A": "103 DotNet",
+               "B": "102 Java",
+               "C": "103 PHP",
+               "D": "104 DotNet"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program?struct emp\n{\n    int ecode;\n    struct emp *e;\n};",
+          "options": {
+               "A": "Error: in structure declaration",
+               "B": "Linker Error",
+               "C": "No Error",
+               "D": "None of above"
+          },
+          "correct_answer": "C",
+          "answer_description": "This type of declaration is called as self-referential structure. Here*eis pointer to astruct emp."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On declaring a structure 0 bytes are reserved in memory.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On executing the below program what will be the contents of 'target.txt' file if the source file contains a line \"To err is human\"?#include<stdio.h>\n\nint main()\n{\n    int i, fss;\n    char ch, source[20] = \"source.txt\", target[20]=\"target.txt\", t;\n    FILE *fs, *ft;\n    fs = fopen(source, \"r\");\n    ft = fopen(target, \"w\");\n    while(1)\n    {\n        ch=getc(fs);\n        if(ch==EOF)\n            break;\n        else\n        {\n            fseek(fs, 4L, SEEK_CUR);\n            fputc(ch, ft);\n        }\n    }\n    return 0;\n}",
+          "options": {
+               "A": "r n",
+               "B": "Trh",
+               "C": "err",
+               "D": "None of above"
+          },
+          "correct_answer": "B",
+          "answer_description": "The filesource.txtis opened in read mode andtarget.txtis opened in write mode. The filesource.txtcontains \"To err is human\".Inside the while loop,ch=getc(fs);The first character('T') of thesource.txtis stored in variablechand it's checked forEOF.if(ch==EOF)IfEOF(End of file) is true, the loop breaks and program execution stops.If notEOFencountered,fseek(fs, 4L, SEEK_CUR);the file pointer advances 4 character from the current position. Hence the file pointer is in 5th character of filesource.txt.fputc(ch, ft);It writes the character 'T' stored in variablechtotarget.txt.Thewhileloop runs three times and it write the character 1st and 5th and 11th characters (\"Trh\") in thetarget.txtfile."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (sample.c) given below if it is executed from the command line (Turbo C in DOS)?cmd>sample 1 2 3/* sample.c */\n#include<stdio.h>\n\nint main(int argc, char *argv[])\n{\n    int j;\n    j = argv[1] + argv[2] + argv[3];\n    printf(\"%d\", j);\n    return 0;\n}",
+          "options": {
+               "A": "6",
+               "B": "sample 6",
+               "C": "Error",
+               "D": "Garbage value"
+          },
+          "correct_answer": "C",
+          "answer_description": "Hereargv[1],argv[2]andargv[3]are string type. We have to convert the string to integer type before perform arithmetic operation.Example:j = atoi(argv[1]) + atoi(argv[2]) + atoi(argv[3]);"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In Turbo C/C++ under DOS if we want that any wild card characters in the command-line arguments should be appropriately expanded, are we required to make any special provision?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Yes you have to compile a program liketcc myprog wildargs.obj"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Bitwise | can be used to multiply a number by powers of 2.",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What do the following declaration signify?int *f();",
+          "options": {
+               "A": "fis a pointer variable of function type.",
+               "B": "fis a function returning pointer to anint.",
+               "C": "fis a function pointer.",
+               "D": "fis a simple declaration of pointer variable."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program under DOS?#include<stdio.h>\n\nint main()\n{\n    char huge *near *far *ptr1;\n    char near *far *huge *ptr2;\n    char far *huge *near *ptr3;\n    printf(\"%d, %d, %d\\n\", sizeof(ptr1), sizeof(**ptr2), sizeof(ptr3));\n    return 0;\n}",
+          "options": {
+               "A": "4, 4, 4",
+               "B": "4, 2, 2",
+               "C": "2, 8, 4",
+               "D": "2, 4, 8"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

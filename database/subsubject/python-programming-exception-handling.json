@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of theassertstatement?",
+        "options": {
+            "A": "To handle exceptions",
+            "B": "To define custom exception classes",
+            "C": "To check if a condition is True, otherwise raise anAssertionError",
+            "D": "To terminate the program immediately"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theassertstatement is used to check if a condition is True. If the condition is False, it raises anAssertionError, allowing you to catch unexpected conditions during development."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:try:\r\n    result = 10 / 0\r\nexcept ZeroDivisionError:\r\n    result = \"Error: Division by zero\"What will be the value of \"result\" after the execution of this code?",
+        "options": {
+            "A": "10",
+            "B": "0",
+            "C": "\"Error: Division by zero\"",
+            "D": "None"
+        },
+        "correct_answer": "C",
+        "answer_description": "The code attempts to divide by zero, which raises aZeroDivisionError. The exception is caught, and \"result\" is assigned the string \"Error: Division by zero.\""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a built-in exception in Python for handling errors related to accessing a key that does not exist in a dictionary?",
+        "options": {
+            "A": "KeyError",
+            "B": "ValueNotFoundError",
+            "C": "NoSuchElementError",
+            "D": "DictionaryError"
+        },
+        "correct_answer": "A",
+        "answer_description": "AKeyErroris raised when attempting to access a key in a dictionary that does not exist."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of theelseblock in exception handling?",
+        "options": {
+            "A": "It is executed if an exception occurs",
+            "B": "It is used to define custom exception classes",
+            "C": "It is executed if no exception occurs in the try block",
+            "D": "It is used to raise exceptions"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theelseblock is executed only if no exceptions are raised in the associated \"try\" block. It is used to specify code that should run when there are no exceptions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thepassstatement in exception handling?",
+        "options": {
+            "A": "To re-raise an exception",
+            "B": "To ignore an exception and continue with the program execution",
+            "C": "To define custom exception classes",
+            "D": "To print the exception message"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thepassstatement is used as a placeholder to ignore an exception and continue with the program execution when no action is required."
+    }
+]

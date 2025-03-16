@@ -1,0 +1,54 @@
+[
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Eflorescence",
+            "B": "Efllorescence",
+            "C": "Efflorescence",
+            "D": "Efflorascence"
+        },
+        "correct_answer": "C",
+        "answer_description": "Efflorescence - flowering, blossoming"
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Exterminatte",
+            "B": "Inexpliccable",
+            "C": "Offspring",
+            "D": "Reffere"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Occasion",
+            "B": "Occassion",
+            "C": "Ocasion",
+            "D": "Ocassion"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Entrepreneur",
+            "B": "Entrapreneur",
+            "C": "Entrepraneur",
+            "D": "Enterprenuer"
+        },
+        "correct_answer": "A",
+        "answer_description": "Entrepreneur - one who undertakes and assumes the risk of a business enterprise."
+    }
+]

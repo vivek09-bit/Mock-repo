@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How much current flows in the circuit in the given circuit?",
+        "options": {
+            "A": "20A",
+            "B": "60A",
+            "C": "80A",
+            "D": "140A"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

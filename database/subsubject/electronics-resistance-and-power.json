@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The resistivity of copper is:",
+        "options": {
+            "A": "9.9",
+            "B": "10.7",
+            "C": "16.7",
+            "D": "17.0"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do fixed resistors usually fail?",
+        "options": {
+            "A": "slowly over time",
+            "B": "by increasing their value",
+            "C": "by becoming an open circuit",
+            "D": "by increasing their value and becoming an open circuit"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With Ohm's law, if voltage increases and resistance stays the same:",
+        "options": {
+            "A": "current remains the same",
+            "B": "power decreases",
+            "C": "current increases",
+            "D": "resistance decreases"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which formula shows a direct proportionality between power and voltage?",
+        "options": {
+            "A": "V = IR",
+            "B": "P = VI",
+            "C": "P = IR",
+            "D": "I = V/R"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With 1 mA of current, what wattage rating should a 470 ohm resistor have?",
+        "options": {
+            "A": "1/4 watt",
+            "B": "1/2 watt",
+            "C": "1 watt",
+            "D": "2 watts"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

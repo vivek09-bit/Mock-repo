@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "B. C. Roy Award is given in the field of",
+        "options": {
+            "A": "Music",
+            "B": "Journalism",
+            "C": "Medicine",
+            "D": "Environment"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which year was Pulitzer Prize established?",
+        "options": {
+            "A": "1917",
+            "B": "1918",
+            "C": "1922",
+            "D": "1928"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Gandhi Peace Prize for the year 2000 was awarded to the former President of South Africa along with",
+        "options": {
+            "A": "Sathish Dawan",
+            "B": "C. Subramanian",
+            "C": "Grameen Bank of Bangladesh",
+            "D": "World Healt Organisation"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The prestigious Ramon Magsaysay Award was conferred was conferred upon Ms. Kiran Bedi for her excellent contribution to which of the following fields?",
+        "options": {
+            "A": "Literature",
+            "B": "Community Welfare",
+            "C": "Government Service",
+            "D": "Journalism"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following societies has instituted an award for an outstanding parliamentarian?",
+        "options": {
+            "A": "Jamanlal Bajaj Foundation",
+            "B": "Institute of Constitutional and Parliamentary Studies",
+            "C": "G. B. Pant Memorial Society",
+            "D": "R. D. Birla samara Kosh"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

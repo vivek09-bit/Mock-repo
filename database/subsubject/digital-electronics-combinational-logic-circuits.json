@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 3-line-to-8-line decoders are required for a 1-of-32 decoder?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the figures shown below represents the exclusive-NOR gate?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the circuits in figure (a to d) is the sum-of-products implementation of figure (e)?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For the device shown here, let all D inputs be LOW, both S inputs be HIGH, and theinput be LOW. What is the status of the Y output?",
+        "options": {
+            "A": "LOW",
+            "B": "HIGH",
+            "C": "Don't Care",
+            "D": "Cannot be determined"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For the device shown here, let all D inputs be LOW, both S inputs be HIGH, and theinput be HIGH. What is the status of the Y output?",
+        "options": {
+            "A": "LOW",
+            "B": "HIGH",
+            "C": "Don't Care",
+            "D": "Cannot be determined"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

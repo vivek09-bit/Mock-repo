@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true regarding VLANs?",
+        "options": {
+            "A": "You must have at least two VLANs defined in every Cisco switched network.",
+            "B": "All VLANs are configured at the fastest switch and, by default, propagate this information to all other switches.",
+            "C": "You should not have more than 10 switches in the same VTP domain.",
+            "D": "VTP is used to send VLAN information to switches in a configured VTP domain."
+        },
+        "correct_answer": "D",
+        "answer_description": "Switches do not propagate VLAN information by default; you must configure the VTP domain. VLAN Trunk Protocol (VTP) is used to propagate VLAN information across a trunked link."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which protocol reduces administrative overhead in a switched network by allowing the configuration of a new VLAN to be distributed to all the switches in a domain?",
+        "options": {
+            "A": "STP",
+            "B": "VTP",
+            "C": "DHCP",
+            "D": "ISL"
+        },
+        "correct_answer": "B",
+        "answer_description": "Virtual Trunk Protocol (VTP) is used to pass a VLAN database to any or all switches in the switched network. The three VTP modes are server, client, and transparent."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true regarding VTP?",
+        "options": {
+            "A": "All switches are VTP servers by default.",
+            "B": "All switches are VTP transparent by default.",
+            "C": "VTP is on by default with a domain name of Cisco on all Cisco switches.",
+            "D": "All switches are VTP clients by default."
+        },
+        "correct_answer": "A",
+        "answer_description": "All Cisco switches are VTP servers by default. No other VTP information is configured on a Cisco switch by default. You must set the VTP domain name on all switches to be the same domain name or they will not share the VTP database."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following commands sets a trunk port on a 2960 switch?",
+        "options": {
+            "A": "trunk on",
+            "B": "trunk all",
+            "C": "switchport trunk on",
+            "D": "switchport mode trunk"
+        },
+        "correct_answer": "D",
+        "answer_description": "To set a switch port to trunk mode, which allows all VLAN information to pass down the link, use theswitchport mode trunkcommand."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will configure a switch port to use the IEEE standard method of inserting VLAN membership information into Ethernet frames?",
+        "options": {
+            "A": "Switch(config)#switchport trunk encapsulation isl",
+            "B": "Switch(config)#switchport trunk encapsulation ietf",
+            "C": "Switch(config)#switchport trunk encapsulation dot1q",
+            "D": "Switch(config-if)#switchport trunk encapsulation isl",
+            "E": "Switch(config-if)#switchport trunk encapsulation dot1q"
+        },
+        "correct_answer": "E",
+        "answer_description": "If you are on a 2950 switch, then the interface command is justswitchport mode trunk, since the 2950 can only run the IEEE 802.1Q version. However, a 3550 can run both ISL and 802.1Q, so you must use the encapsulation command. The argument to choose 802.1Q for a trunking protocol isdot1q."
+    }
+]

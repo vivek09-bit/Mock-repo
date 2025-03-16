@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In OLAP, we are interested in ________ .",
+        "options": {
+            "A": "levels only",
+            "B": "dimensions only",
+            "C": "measures only",
+            "D": "measures and dimensions"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following isnota reason that operational data are difficult to read?",
+        "options": {
+            "A": "Non-duplicated data",
+            "B": "Dirty data",
+            "C": "Missing values",
+            "D": "Non-integrated data"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "We have Market Basket data for 1,000 rental transactions at a Video Store. There are four videos for rent -- Video A, Video B, Video C and Video D. The probability that Video D will be rented given that Video C has been rented is known as ________ .",
+        "options": {
+            "A": "the basic probability",
+            "B": "support",
+            "C": "lift",
+            "D": "confidence"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One popular classification technique in Business Intelligence (BI) reporting is ________ .",
+        "options": {
+            "A": "cluster analysis only",
+            "B": "regression analysis only",
+            "C": "RFM analysis only",
+            "D": "both cluster analysis and regression analysis"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "We have done an RFM analysis on our customer data. Mary Jones has a score of \"1 1 5\". This series means that Mary ________ .",
+        "options": {
+            "A": "Has ordered recently, orders frequently, and places a large order when she orders.",
+            "B": "Hasn't ordered recently, orders infrequently, but places a large order when she orders.",
+            "C": "Has ordered recently, orders frequently, but doesn't place a large order when she orders",
+            "D": "Hasn't ordered recently, orders infrequently, and doesn't place a large order when she orders."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,242 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following projects illustrates a database being designed from existing data?",
+          "options": {
+               "A": "A database using the Production Department's spreadsheets",
+               "B": "A database designed to produce production reports for a new Production Department manufacturing process",
+               "C": "A database that will combine two databases currently used by the Production Department",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A view is which of the following?",
+          "options": {
+               "A": "A virtual table that can be accessed via SQL commands",
+               "B": "A virtual table that cannot be accessed via SQL commands",
+               "C": "A base table that can be accessed via SQL commands",
+               "D": "A base table that cannot be accessed via SQL commands"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The keyword LIKE can be used in a WHERE clause to refer to a range of values.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When assessing the table structure of an acquired set of tables with data, determining foreign keys is (part of) the:",
+          "options": {
+               "A": "first step.",
+               "B": "second step.",
+               "C": "third step.",
+               "D": "fourth step."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For every relationship, how many possible types of actions are there when enforcing minimum cardinalities?",
+          "options": {
+               "A": "Two",
+               "B": "Three",
+               "C": "Four",
+               "D": "Six"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A foreign key is used to implement relationships between tables.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The data model produced from the reverse engineering process does not include intersection table data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following occurs when a transaction rereads data and finds new rows that were inserted by a command transaction since the prior read?",
+          "options": {
+               "A": "Nonrepeatable read",
+               "B": "Phantom read",
+               "C": "Dirty read",
+               "D": "Consistent read"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following isnota factor in determining the concurrency control behavior of SQL Server?",
+          "options": {
+               "A": "Lock level",
+               "B": "Transaction isolation level",
+               "C": "Cursor concurrency setting",
+               "D": "Locking hints"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "ODBC conformance levels specify which SQL statements, expressions, and data types a driver can process.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "HTML is an application of a more robust document markup language called:",
+          "options": {
+               "A": "XHTML.",
+               "B": "XML.",
+               "C": "SGML.",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "OLAP uses measures, dimensions and associations.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following types of databases are the most common?",
+          "options": {
+               "A": "Personal",
+               "B": "Workgroup",
+               "C": "Department",
+               "D": "Enterprise"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A binary relationship is a relationship between two or more entities.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Binary relationship is the relationship between two entities. Not more than two."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The primary key of the new relation in a many-to-many relationship is a composite key comprised of the primary keys of each of the binary entities.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Both ASP and ColdFusion allow for the coding of custom tags within an HTML document.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Every key used to join the fact table with a dimensional table should be a surrogate key.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The term Incomplete for a UML has the same meaning as which of the following for an EER diagram?",
+          "options": {
+               "A": "Overlapping rule",
+               "B": "Disjoint rule",
+               "C": "Total specialization rule",
+               "D": "Partial specialization rule"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Composition does not allow an object to be part of more than one aggregate object.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An atomic literal is which of the following?",
+          "options": {
+               "A": "Strings",
+               "B": "Boolean",
+               "C": "Long",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

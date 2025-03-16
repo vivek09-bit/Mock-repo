@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The nucleus of an atom consists of",
+        "options": {
+            "A": "electrons and neutrons",
+            "B": "electrons and protons",
+            "C": "protons and neutrons",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The number of moles of solute present in 1 kg of a solvent is called its",
+        "options": {
+            "A": "molality",
+            "B": "molarity",
+            "C": "normality",
+            "D": "formality"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The most electronegative element among the following is",
+        "options": {
+            "A": "sodium",
+            "B": "bromine",
+            "C": "fluorine",
+            "D": "oxygen"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The metal used to recover copper from a solution of copper sulphate is",
+        "options": {
+            "A": "Na",
+            "B": "Ag",
+            "C": "Hg",
+            "D": "Fe"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The number of d-electrons in Fe2+(Z = 26) is not equal to that of",
+        "options": {
+            "A": "p-electrons in Ne(Z = 10)",
+            "B": "s-electrons in Mg(Z = 12)",
+            "C": "d-electrons in Fe(Z = 26)",
+            "D": "p-electrons in CI(Z = 17)"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

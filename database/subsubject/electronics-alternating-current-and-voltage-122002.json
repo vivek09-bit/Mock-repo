@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the instantaneous peak voltage at 250° on a 6 V peak sine wave?",
+        "options": {
+            "A": "+5.64 V",
+            "B": "–5.64 V",
+            "C": "+26.13 V",
+            "D": "–26.13 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the positive-going slope of the waveform in the given circuit.",
+        "options": {
+            "A": "5 V/ms",
+            "B": "2.5 V/ms",
+            "C": "2.5 V/s",
+            "D": "5 V/s"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A rectangular wave that has a duty cycle of 50% could be called a",
+        "options": {
+            "A": "\"c\" wave",
+            "B": "sawtooth wave",
+            "C": "square wave",
+            "D": "triangular wave"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the duty cycle of the repetitive pulse waveform in the given circuit.",
+        "options": {
+            "A": "8.33%",
+            "B": "0%",
+            "C": "33.33%",
+            "D": "25%"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The effective value of a sine wave is equal to",
+        "options": {
+            "A": "0.707 of peak voltage",
+            "B": "0.636 of peak voltage",
+            "C": "sin 45° of peak voltage",
+            "D": "both 0.707 of peak voltage and sin 45° of peak voltage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

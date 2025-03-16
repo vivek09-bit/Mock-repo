@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:",
+        "options": {
+            "A": "Rs. 360",
+            "B": "Rs. 432",
+            "C": "Rs. 540",
+            "D": "Rs. 1080"
+        },
+        "correct_answer": "A",
+        "answer_description": "Sum =B.D. x T.D.= Rs.72 x 60= Rs.72 x 60= Rs. 360.B.D. - T.D.72 - 6012"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The certain worth of a certain sum due sometime hence is Rs. 1600 and the true discount is Rs. 160. The banker's gain is:",
+        "options": {
+            "A": "Rs. 20",
+            "B": "Rs. 24",
+            "C": "Rs. 16",
+            "D": "Rs. 12"
+        },
+        "correct_answer": "C",
+        "answer_description": "B.G. =(T.D.)2= Rs.160 x 160= Rs. 16.P.W.1600"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The present worth of a certain bill due sometime hence is Rs. 800 and the true discount is Rs. 36. The banker's discount is:",
+        "options": {
+            "A": "Rs. 37",
+            "B": "Rs. 37.62",
+            "C": "Rs. 34.38",
+            "D": "Rs. 38.98"
+        },
+        "correct_answer": "B",
+        "answer_description": "B.G. =(T.D.)2= Rs.36 x 36= Rs. 1.62P.W.800B.D. = (T.D. + B.G.) = Rs. (36 + 1.62) = Rs. 37.62"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's gain on a bill due 1 year hence at 12% per annum is Rs. 6. The true discount is:",
+        "options": {
+            "A": "Rs. 72",
+            "B": "Rs. 36",
+            "C": "Rs. 54",
+            "D": "Rs. 50"
+        },
+        "correct_answer": "D",
+        "answer_description": "T.D. =B.G. x 100= Rs.6 x 100= Rs. 50.R x T12 x 1"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's gain on a certain sum due 11years hence is3of the banker's225discount. The rate percent is:",
+        "options": {
+            "A": "51%5",
+            "B": "91%11",
+            "C": "81%8",
+            "D": "61%6"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let, B.D = Re. 1.Then, B.G. = Re.3.25T.D. = (B.D. - B.G.) = Re.1 -3= Re.22.2525Sum =1 x (22/25)= Rs.22.1-(22/25)3S.I. on Rs.22for 11years is Re. 1.32Rate =100 x 1%=100= 91%.111122x332"
+    }
+]

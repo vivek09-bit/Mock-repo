@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following database activities determines the entities, attributes, and relationships of data?",
+        "options": {
+            "A": "Conceptual data modeling",
+            "B": "Logical database design",
+            "C": "Physical database design and definition",
+            "D": "Database implementation"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The use of packaged data models can offer which of the following benefits?",
+        "options": {
+            "A": "Reduce implementation time and costs",
+            "B": "Higher quality models",
+            "C": "Both A and B.",
+            "D": "Neither A nor B."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Enterprise tier of the three-tiered database architecture includes:",
+        "options": {
+            "A": "managing the data.",
+            "B": "managing the User-system interface.",
+            "C": "processing HTTP protocol.",
+            "D": "processing scripting tasks."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An entity type is which of the following?",
+        "options": {
+            "A": "A major category of data about people, place, and things",
+            "B": "The various departments of an organization",
+            "C": "The application software",
+            "D": "The business processes the support the mission of an organization"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Strategic Planning factors do not include which of the following?",
+        "options": {
+            "A": "Organizational goals",
+            "B": "Critical success factors",
+            "C": "Information engineering",
+            "D": "Problem areas"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

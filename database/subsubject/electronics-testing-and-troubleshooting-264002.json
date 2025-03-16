@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which test equipment best allows a comparison between input and output signals?",
+        "options": {
+            "A": "an oscilloscope",
+            "B": "a logic probe",
+            "C": "a spectrum analyzer",
+            "D": "a multitrace oscilloscope"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The duty cycle of a pulse is determined by which formula?",
+        "options": {
+            "A": "Duty Cycle =",
+            "B": "Duty Cycle =",
+            "C": "Duty Cycle =",
+            "D": "Duty Cycle ="
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the next step after discovering a faulty gate within an IC?",
+        "options": {
+            "A": "repair the gate",
+            "B": "resolder the tracks",
+            "C": "replace the IC involved",
+            "D": "recheck the power source"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The use of a multimeter with digital circuits allows the measurement of:",
+        "options": {
+            "A": "pulse width",
+            "B": "voltage or resistance",
+            "C": "current",
+            "D": "pulse trains"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The use of triggered sweep when using an oscilloscope provides more accuracy in which area?",
+        "options": {
+            "A": "frequency",
+            "B": "amplitude",
+            "C": "graticule activity",
+            "D": "timing"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

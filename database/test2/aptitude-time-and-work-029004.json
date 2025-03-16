@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "X and Y can do a piece of work in 20 days and 12 days respectively. X started the work alone and then after 4 days Y joined him till the completion of the work. How long did the work last?",
+        "options": {
+            "A": "6 days",
+            "B": "10 days",
+            "C": "15 days",
+            "D": "20 days"
+        },
+        "correct_answer": "B",
+        "answer_description": "Work done by X in 4 days =1x 4=1.205Remaining work =1 -1=4.55(X + Y)'s 1 day's work =1+1=8=2.20126015Now,2work is done by X and Y in 1 day.15So,4work will be done by X and Y in15x4= 6 days.525Hence, total time taken = (6 + 4) days = 10 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
+        "options": {
+            "A": "11 days",
+            "B": "13 days",
+            "C": "203days17",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Ratio of times taken by A and B = 100 : 130 = 10 : 13.Suppose B takesxdays to do the work.Then, 10 : 13 :: 23 :xx=23 x 13x=299.1010A's 1 day's work =1;23B's 1 day's work =10.299(A + B)'s 1 day's work =1+10=23=1.2329929913Therefore, A and B together can complete the work in 13 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ravi and Kumar are working on an assignment. Ravi takes 6 hours to type 32 pages on a computer, while Kumar takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?",
+        "options": {
+            "A": "7 hours 30 minutes",
+            "B": "8 hours",
+            "C": "8 hours 15 minutes",
+            "D": "8 hours 25 minutes"
+        },
+        "correct_answer": "C",
+        "answer_description": "Number of pages typed by Ravi in 1 hour =32=16.63Number of pages typed by Kumar in 1 hour =40= 8.5Number of pages typed by both in 1 hour =16+ 8=40.33Time taken by both to type 110 pages =110 x3hours40= 81hours (or) 8 hours 15 minutes.4"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A, B and C can complete a piece of work in 24, 6 and 12 days respectively. Working together, they will complete the same work in:",
+        "options": {
+            "A": "1day24",
+            "B": "7day24",
+            "C": "33days7",
+            "D": "4 days"
+        },
+        "correct_answer": "C",
+        "answer_description": "Formula:If A can do a piece of work inndays, then A's 1 day's work =1.n(A + B + C)'s 1 day's work =1+1+1=7.2461224Formula:If A's 1 day's work =1,then A can finish the work inndays.nSo, all the three together will complete the job in24days=33days.77"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is:",
+        "options": {
+            "A": "15",
+            "B": "16",
+            "C": "18",
+            "D": "25"
+        },
+        "correct_answer": "B",
+        "answer_description": "Ratio of times taken by Sakshi and Tanya = 125 : 100 = 5 : 4.Suppose Tanya takesxdays to do the work.5 : 4::20 :xx=4 x 205x= 16 days.Hence, Tanya takes 16 days to complete the work."
+    }
+]

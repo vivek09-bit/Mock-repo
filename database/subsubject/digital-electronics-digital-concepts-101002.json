@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a digital-to-analog converter?",
+        "options": {
+            "A": "It takes the digital information from an audio CD and converts it to a usable form.",
+            "B": "It allows the use of cheaper analog techniques, which are always simpler.",
+            "C": "It stores digital data on a hard drive.",
+            "D": "It converts direct current to alternating current."
+        },
+        "correct_answer": "A",
+        "answer_description": "A DAC converts an abstract finite-precision number (usually a fixed-point binary number) into a concrete physical quantity (e.g., a voltage or a pressure)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the symbols used to represent digits in the binary number system?",
+        "options": {
+            "A": "0,1",
+            "B": "0,1,2",
+            "C": "0 through 8",
+            "D": "1,2"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A full subtracter circuit requires ________.",
+        "options": {
+            "A": "two inputs and two outputs",
+            "B": "two inputs and three outputs",
+            "C": "three inputs and one output",
+            "D": "three inputs and two outputs"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The output of an AND gate is LOW ________.",
+        "options": {
+            "A": "all the time",
+            "B": "when any input is LOW",
+            "C": "when any input is HIGH",
+            "D": "when all inputs are HIGH"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Give the decimal value of binary 10010.",
+        "options": {
+            "A": "610",
+            "B": "910",
+            "C": "1810",
+            "D": "2010"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which encapsulations can be configured on a serial interface?EthernetToken RingHDLCFrame RelayPPP",
+        "options": {
+            "A": "1 and 4",
+            "B": "2 only",
+            "C": "3, 4 and 5",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "Ethernet and Token Ring are LAN technologies and cannot be configured on a serial interface. PPP, HDLC, and Frame Relay are layer 2 WAN technologies that are typically configured on a serial interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Suppose that you have a customer who has a central HQ and six branch offices. They anticipate adding six more branches in the near future. They wish to implement a WAN technology that will allow the branches to economically connect to HQ and you have no free ports on the HQ router. Which of the following would you recommend?",
+        "options": {
+            "A": "PPP",
+            "B": "HDLC",
+            "C": "Frame Relay",
+            "D": "ISDN"
+        },
+        "correct_answer": "C",
+        "answer_description": "The key is \"there are no free ports\" on your router. Only Frame Relay can provide a connection to multiple locations with one interface, and in an economical manner no less."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following command options are displayed when you use theRouter# show frame-relay ?command?dlcineighborslmipvcmap",
+        "options": {
+            "A": "1 only",
+            "B": "2 and 4",
+            "C": "3, 4 and 5",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theshow frame-relay ?command provides many options, but the options available in this question arelmi,pvc, andmap."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which of the following technologies is the term HFC used?",
+        "options": {
+            "A": "DSL",
+            "B": "PPPoE",
+            "C": "Frame Relay",
+            "D": "Dedicated T1"
+        },
+        "correct_answer": "D",
+        "answer_description": "In a modern network, hybrid fibre-coaxial (HFC) is a telecommunications industry term for a network that incorporates both optical fiber and coaxial cable to create a broadband network."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A default Frame Relay WAN is classified as what type of physical network?",
+        "options": {
+            "A": "Point-to-point",
+            "B": "Broadcast multi-access",
+            "C": "Non-broadcast multi-access",
+            "D": "Non-broadcast multipoint"
+        },
+        "correct_answer": "C",
+        "answer_description": "Frame Relay, by default, is a non-broadcast multi-access (NBMA) network, which means that broadcasts, such as RIP updates, will not be forwarded across the link by default."
+    }
+]

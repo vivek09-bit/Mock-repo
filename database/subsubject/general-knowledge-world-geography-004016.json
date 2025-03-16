@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The land-sea distribution or the positions of the world's continents and major oceans influences",
+        "options": {
+            "A": "the major pressure belts that develop from the general circulation of the atmosphere",
+            "B": "the development of the mid-latitude cyclonic depressions, at the convergence zone between polar and subtropical air masses",
+            "C": "both (a) and (b)",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The knowledge about the topography of the ocean basins has been derived from",
+        "options": {
+            "A": "seismic surveying",
+            "B": "echo sounder",
+            "C": "side-scan sonar",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The headquarters of the Commonwealth of Independent States (CIS), formed out of erstwhile USSR, is at",
+        "options": {
+            "A": "Minsk in Byelorussia",
+            "B": "Moscow in Russia",
+            "C": "Kiev in Ukraine",
+            "D": "Kistiner in Moldavia"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

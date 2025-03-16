@@ -1,0 +1,62 @@
+[
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "The Kingston Mall has more stores than the Galleria.The Four Corners Mall has fewer stores than the Galleria.The Kingston Mall has more stores than the Four Corners Mall.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "A",
+        "answer_description": "From the first two statements, you know that the Kingston Mall has the most stores, so the Kingston Mall would have more stores than the Four Corners Mall."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "All the tulips in Zoe's garden are white.All the pansies in Zoe's garden are yellow.All the flowers in Zoe's garden are either white or yellowIf the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "C",
+        "answer_description": "The first two statements give information about Zoe's  tulips and pansies. Information about any other kinds of flowers cannot be determined."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "During the past year, Josh saw more movies than Stephen.Stephen saw fewer movies than Darren.Darren saw more movies than Josh.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "C",
+        "answer_description": "Because the first two sentences are true, both Josh and Darren saw more movies than Stephen. However, it is uncertain as to whether \nDarren saw more movies than Josh."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "Rover weighs less than Fido.Rover weighs more than Boomer.Of the three dogs, Boomer weighs the least.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "A",
+        "answer_description": "According to the first two statements, Fido weighs  the most and Boomer weighs the least."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "All the offices on the 9th floor have wall-to-wall carpeting.No wall-to-wall carpeting is pink.None of the offices on the 9th floor has pink wall-to-wall carpeting.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "A",
+        "answer_description": "If no wall-to-wall carpeting is pink and all the offices have wall-to-wall carpeting, none of the offices has pink wall-to-wall carpeting."
+    }
+]

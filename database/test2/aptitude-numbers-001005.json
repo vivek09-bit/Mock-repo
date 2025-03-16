@@ -1,0 +1,70 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following number is divisible by 24 ?",
+        "options": {
+            "A": "35718",
+            "B": "63810",
+            "C": "537804",
+            "D": "3125736"
+        },
+        "correct_answer": "D",
+        "answer_description": "24 = 3 x8, where 3 and 8 co-prime.Clearly, 35718 is not divisible by 8, as 718 is not divisible by 8.Similarly, 63810 is not divisible by 8 and  537804 is not divisible by 8.Consider option (D),Sum of digits = (3 + 1 + 2 + 5 + 7 + 3 + 6) = 27, which is divisible by 3.Also, 736 is divisible by 8.3125736 is divisible by (3 x 8),i.e.,24."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "753 x 753 + 247 x 247 - 753 x 247= ?753 x 753 x 753 + 247 x 247 x 247",
+        "options": {
+            "A": "11000",
+            "B": "1506",
+            "C": "253500",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Given Exp. =(a2+b2-ab)=1=1=1(a3+b3)(a+b)(753 + 247)1000"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(?) + 3699 + 1985 - 2047 = 31111",
+        "options": {
+            "A": "34748",
+            "B": "27474",
+            "C": "30154",
+            "D": "27574",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "x+ 3699 + 1985 - 2047 = 31111x+ 3699 + 1985 = 31111 + 2047x+ 5684 = 33158x= 33158 - 5684 = 27474."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 481 * 673 is completely divisible by 9, then the smallest whole number in place of * will be:",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Sum of digits = (4 + 8 + 1 +x+ 6 + 7 + 3) = (29 + x), which must be divisible by 9.x= 7."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between the local value and the face value of 7 in the numeral 32675149 is",
+        "options": {
+            "A": "75142",
+            "B": "64851",
+            "C": "5149",
+            "D": "69993",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "(Local value of 7) - (Face value of 7) = (70000 - 7) = 69993"
+    }
+]

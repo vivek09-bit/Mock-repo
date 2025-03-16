@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A server-side extension is needed to do what?",
+        "options": {
+            "A": "Allow a request from a client to access the database.",
+            "B": "Allow a request from a client to access a HTML-formatted page.",
+            "C": "Allow a request from a client to access Web pages.",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true about ColdFusion Markup Language (CFML)?",
+        "options": {
+            "A": "It is stored in .asp files.",
+            "B": "It is executed on the client.",
+            "C": "It does not use tags.",
+            "D": "It allows for coding of custom tags in an HTML file."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "XML is which of the following?",
+        "options": {
+            "A": "A scripting language that states the rules for tagging elements.",
+            "B": "A programming language that states the rules for tagging elements.",
+            "C": "A programming language that allows the creation of customized tags.",
+            "D": "A scripting language that allows the creation of customized tags."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An intranet provides which of the following?",
+        "options": {
+            "A": "Connectivity to all customers",
+            "B": "Connectivity to selected customers",
+            "C": "Connectivity to no customers",
+            "D": "Connectivity to all of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Client-side extensions:",
+        "options": {
+            "A": "add functionality to the server.",
+            "B": "add functionality to the browser.",
+            "C": "add functionality to the firewall.",
+            "D": "add functionality to the network."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

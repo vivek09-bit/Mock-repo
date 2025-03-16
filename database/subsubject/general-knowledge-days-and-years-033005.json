@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "1981 was the international year of the",
+        "options": {
+            "A": "Disabled",
+            "B": "Women",
+            "C": "Children",
+            "D": "Blind"
+        },
+        "correct_answer": "A",
+        "answer_description": "The UN General Assembly has proclaimed 1981 as the International Year of Disabled Persons (IYDP)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "World Human Rights Day is observed on",
+        "options": {
+            "A": "April 8",
+            "B": "December 10",
+            "C": "December 7",
+            "D": "September 5"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "World Literacy Day is observed on",
+        "options": {
+            "A": "Sep 5",
+            "B": "Aug 6",
+            "C": "Sep 8",
+            "D": "Oct 24"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

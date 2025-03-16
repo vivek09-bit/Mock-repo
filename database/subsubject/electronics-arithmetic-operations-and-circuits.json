@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When 1100010 is divided by 0101, what will be the decimal remainder?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the two types of basic adder circuits?",
+        "options": {
+            "A": "half adder and full adder",
+            "B": "half adder and parallel adder",
+            "C": "asynchronous and synchronous",
+            "D": "one's complement and two's complement"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Adding the two's complement of –11 + (–2) will yield which two's complement answer?",
+        "options": {
+            "A": "1110 1101",
+            "B": "1111 1001",
+            "C": "1111 0011",
+            "D": "1110 1001"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The two's complement system is to be used to add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and their sum.",
+        "options": {
+            "A": "–14 and –13; –27",
+            "B": "–113 and –114; 227",
+            "C": "–27 and –13; 40",
+            "D": "–11 and –16; –27"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The fast carry or look-ahead carry circuits found in most 4-bit parallel-adder circuits:",
+        "options": {
+            "A": "increase ripple delay",
+            "B": "add a 1 to complemented inputs",
+            "C": "reduce propagation delay",
+            "D": "determine sign and magnitude"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

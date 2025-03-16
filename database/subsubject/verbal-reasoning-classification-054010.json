@@ -1,0 +1,58 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Bajra",
+            "B": "Mustard",
+            "C": "Rice",
+            "D": "Wheat",
+            "E": "Barley"
+        },
+        "correct_answer": "B",
+        "answer_description": "All except Mustard are foodgrains, while mustard is an oilseed."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Cot",
+            "B": "Sheet",
+            "C": "Quilt",
+            "D": "Pillow",
+            "E": "Blanket"
+        },
+        "correct_answer": "A",
+        "answer_description": "All except Cot are parts of bed-spread."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Assassinate",
+            "B": "Kill",
+            "C": "Kidnap",
+            "D": "Stab",
+            "E": "Murder"
+        },
+        "correct_answer": "C",
+        "answer_description": "All except Kidnap are actions of killing."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Doe",
+            "B": "Bitch",
+            "C": "Sorceress",
+            "D": "Drone",
+            "E": "Mare"
+        },
+        "correct_answer": "D",
+        "answer_description": "All except Drone are females."
+    }
+]

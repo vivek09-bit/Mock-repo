@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will show you whether a DTE or a DCE cable is plugged into serial 0?",
+        "options": {
+            "A": "sh int s0",
+            "B": "sh int serial 0",
+            "C": "show controllers serial 0",
+            "D": "show serial 0 controllers"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theshow controllers serial 0command will show you whether either a DTE or DCE cable is connected to the interface. If it is a DCE connection, you need to add clocking with the clock rate command."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want to totally reinitialize the router and replace the current running-config with the current startup-config. What command will you use?",
+        "options": {
+            "A": "replace run start",
+            "B": "copy run start",
+            "C": "copy start run",
+            "D": "reload"
+        },
+        "correct_answer": "D",
+        "answer_description": "To completely replace the running-config with the startup-config, you must reload the router. Note : You may have picked option C, which isn't a bad answer. Remember, though, it doesn't replace the configuration, it appends it."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If you delete the contents of NVRAM and reboot the router, what mode will you be in?",
+        "options": {
+            "A": "Privileged mode",
+            "B": "Global mode",
+            "C": "Setup mode",
+            "D": "NVRAM loaded mode"
+        },
+        "correct_answer": "C",
+        "answer_description": "If you delete the startup-config and reload the router, the router will automatically enter setup mode. You can also typesetupfrom privileged mode at any time."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the problem with an interface if you typeshow interface serial 0and receive the following message?\"Serial0 is administratively down, line protocol is down.\"",
+        "options": {
+            "A": "The keepalives are different times.",
+            "B": "The administrator has the interface shut down.",
+            "C": "The administrator is pinging from the interface.",
+            "D": "No cable is attached."
+        },
+        "correct_answer": "B",
+        "answer_description": "If an interface is shut down, theshow interfacecommand will show the interface as administratively shut down. (It is possible that no cable is attached, but you can't tell that from this message.)"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The primary function of the oscillator in an isolation amplifier is to",
+        "options": {
+            "A": "convert dc to high-frequency ac",
+            "B": "convert dc to low-frequency ac",
+            "C": "rectify high-frequency ac to dc",
+            "D": "produce dual-polarity dc voltages for the input to the demodulator"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Refer to Figure 20-2. This circuit is a setup for",
+        "options": {
+            "A": "an antilog amplifier",
+            "B": "a constant-current source",
+            "C": "an instrumentation amplifier",
+            "D": "an isolation amplifier"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An instrumentation amplifier has a high",
+        "options": {
+            "A": "output impedance",
+            "B": "power gain",
+            "C": "CMRR",
+            "D": "supply voltage"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "This circuit is a setup for",
+        "options": {
+            "A": "an antilog amplifier",
+            "B": "a constant-current source",
+            "C": "an instrumentation amplifier",
+            "D": "an isolation amplifier"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Circuits that shift the dc level of a signal are called",
+        "options": {
+            "A": "limiters",
+            "B": "clampers",
+            "C": "peak detectors",
+            "D": "dc converters"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

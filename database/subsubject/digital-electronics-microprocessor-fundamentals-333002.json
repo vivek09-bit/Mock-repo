@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many bits are used in the data bus?",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "16"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The items that you can physically touch in a computer system are called:",
+        "options": {
+            "A": "software",
+            "B": "firmware",
+            "C": "hardware",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Single-bit indicators that may be set or cleared to show the results of logical or arithmetic operations are the:",
+        "options": {
+            "A": "flags",
+            "B": "registers",
+            "C": "monitors",
+            "D": "decisions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When referring to instruction words, a mnemonic is:",
+        "options": {
+            "A": "a short abbreviation for the operand address",
+            "B": "a short abbreviation for the operation to be performed",
+            "C": "a short abbreviation for the data word stored at the operand address",
+            "D": "shorthand for machine language"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The technique of assigning a memory address to each I/O device in the computer system is called:",
+        "options": {
+            "A": "memory-mapped I/O",
+            "B": "ported I/O",
+            "C": "dedicated I/O",
+            "D": "wired I/O"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thedefkeyword?",
+        "options": {
+            "A": "Defines a variable",
+            "B": "Declares a function",
+            "C": "Imports a module",
+            "D": "Checks the equality of two values"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thedefkeyword is used to define a function in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the result of the following code snippet?def add_numbers(a, b):\r\n    return a + b\r\n\r\nresult = add_numbers(3, 7)\r\nprint(result)",
+        "options": {
+            "A": "10",
+            "B": "21",
+            "C": "'37'",
+            "D": "Error"
+        },
+        "correct_answer": "A",
+        "answer_description": "The functionadd_numbersadds the values ofaandb(3 + 7), resulting in 10."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you pass a default value to a function parameter?",
+        "options": {
+            "A": "function(parameter:=default_value)",
+            "B": "function(default_value=parameter)",
+            "C": "function(parameter, default_value)",
+            "D": "function(parameter=default_value)"
+        },
+        "correct_answer": "D",
+        "answer_description": "Default values for function parameters are assigned using theparameter=default_valuesyntax."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thereturnstatement in a function?",
+        "options": {
+            "A": "Prints a value to the console",
+            "B": "Terminates the program",
+            "C": "Exits the function and returns a value",
+            "D": "Declares a variable"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thereturnstatement is used to exit a function and return a value to the caller."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the term \"function signature\" refer to?",
+        "options": {
+            "A": "The name of the function",
+            "B": "The entire function body",
+            "C": "The list of parameters and their types",
+            "D": "The return statement of the function"
+        },
+        "correct_answer": "C",
+        "answer_description": "The function signature includes the name of the function and the list of parameters along with their types."
+    }
+]

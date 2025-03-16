@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "The third figure in each row comprises of parts which are not common to the first two figures."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "The number of components in each row either increases or decreases from left to right. In the third row, it increases."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "In each row, the second figure is obtained from the first figure by increasing the number of smaller elements by one and the third figure is obtained from the second figure by increasing the number of smaller elements by one."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "The third figure in each row comprises of parts which are not common to the first two figures."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "Each row (as well as each column) contains a figure consisting of a circle and two line segments, a figure consisting of a circle and three line segments and a figure consisting of a circle and four line segments."
+    }
+]

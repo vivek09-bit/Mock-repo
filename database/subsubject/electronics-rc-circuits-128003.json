@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the current throughXC1in the given circuit?",
+        "options": {
+            "A": "32.2 mA",
+            "B": "16 mA",
+            "C": "12 mA",
+            "D": "48 mA"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total current in the given circuit?",
+        "options": {
+            "A": "0.28 A",
+            "B": "0.399 A",
+            "C": "909 A",
+            "D": "0.2 A"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement about a seriesRCcircuit is true?",
+        "options": {
+            "A": "The capacitor's voltage drop is in phase with the resistor's voltage drop.",
+            "B": "The current leads the source voltage.",
+            "C": "The current lags the source voltage.",
+            "D": "The resistor voltage lags the current."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the frequency increases in the given circuit, how would the total current change?",
+        "options": {
+            "A": "The total current would increase.",
+            "B": "The total current would decrease.",
+            "C": "The total current would remain the same.",
+            "D": "More information is needed in order to predict how the total current would change."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the effect of increasing the resistance in a seriesRCcircuit?",
+        "options": {
+            "A": "There will be no effect at all.",
+            "B": "The current will increase.",
+            "C": "The phase shift will decrease.",
+            "D": "The input voltage will increase."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

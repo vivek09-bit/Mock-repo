@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who is known as 'Indian Bismarck'?",
+        "options": {
+            "A": "Kamaraj",
+            "B": "Sardar Vallabhbhai Patel",
+            "C": "Nehru",
+            "D": "Rajaji"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

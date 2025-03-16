@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are(is) Language Processor(s)",
+          "options": {
+               "A": "assembles",
+               "B": "compilers",
+               "C": "interpreters",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the name given to the organized collection of software that controls the overall operation of a computer?",
+          "options": {
+               "A": "Working system",
+               "B": "Peripheral system",
+               "C": "Operating system",
+               "D": "Controlling system",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Addressing structure",
+          "options": {
+               "A": "defines the fundamental method of determining effective operand addresses",
+               "B": "are variations in the use of fundamental addressing structures, or some associated actions which are related to addressing.",
+               "C": "performs indicated operations on two fast registers of the machine and leave the result in one of the registers.",
+               "D": "all of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Register - to - Register (RR) instructions",
+          "options": {
+               "A": "have both their operands in the main store.",
+               "B": "which perform an operation on a register operand and an operand which is located in the main store, generally leaving the result in the register, except in the case of store operation when it is also written into the specified storage location.",
+               "C": "which perform indicated operations on two fast registers of the machine and leave the result in one of the registers.",
+               "D": "all of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which way(s) a macro processor for assembly language can be implemented:",
+          "options": {
+               "A": "independent two-pass processor",
+               "B": "independent one-pass processor",
+               "C": "processor incorporated into pass 1 of a standard two-pass assembler",
+               "D": "all of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is false about disk when compared to main memory?",
+          "options": {
+               "A": "non-volatile",
+               "B": "longer storage capacity",
+               "C": "lower price per bit",
+               "D": "faster",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A disk scheduling algorithm in an operating system causes the disk arm to move back and forth across the disk surface in order to service all requests in its path. This is a",
+          "options": {
+               "A": "First come first served",
+               "B": "Shortest Seek Time First (SSTE)",
+               "C": "Scan",
+               "D": "FIFO",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What scheduling algorithm allows processes that are logical runnable to be temporarily suspended?",
+          "options": {
+               "A": "preemptive scheduling",
+               "B": "non-preemptive scheduling",
+               "C": "FIFO",
+               "D": "FCFS",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not true about the memory management?",
+          "options": {
+               "A": "virtual memory is used only in multi-user systems",
+               "B": "segmentation suffers from external fragmentation",
+               "C": "paging   suffers   from   internal fragmentation",
+               "D": "segmented memory can be paged",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Paging",
+          "options": {
+               "A": "is a method of memory allocation by which the program is subdivided into equal portions, or pages and core is subdivided into equal portions or blocks.",
+               "B": "consists of those addresses that may be generated by a processor during execution of a computation.",
+               "C": "is a method of allocating processor time.",
+               "D": "allows multiple programs to reside in separate areas of core at the time.",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Round-robin scheduling",
+          "options": {
+               "A": "allows interactive tasks quicker access to the processor",
+               "B": "is quite complex to implement",
+               "C": "gives each task the same chance at the processor",
+               "D": "allows processor-bound tasks more time in the processor",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the initial value of the semaphore to allow only one of the many processes to enter their critical section?",
+          "options": {
+               "A": "8",
+               "B": "1",
+               "C": "16",
+               "D": "0",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A partitioned data set is most used for",
+          "options": {
+               "A": "a program or source library",
+               "B": "storing program data",
+               "C": "storing backup information",
+               "D": "storing ISAM files",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A base register table",
+          "options": {
+               "A": "allows the programmer to write base registers and displacements explicitly in the source program.",
+               "B": "is used to remember which of the general-purpose registers are currently available as base registers, and what base addresses they contain.",
+               "C": "allows multiple programs to reside in separate areas of core at the same time.",
+               "D": "is a term that refers to the control programs of an operating system.",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Special software to create a job queue is called a",
+          "options": {
+               "A": "Drive",
+               "B": "Spooler",
+               "C": "Interpreter",
+               "D": "Linkage editor",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true about pseudocode",
+          "options": {
+               "A": "A machine language",
+               "B": "An assembly language",
+               "C": "A high-level language",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following filename extension suggests that the file is a backup copy of another file?",
+          "options": {
+               "A": "TXT",
+               "B": "COM",
+               "C": "BAS",
+               "D": "BAK",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A compiler for a high-level language that runs on one machine and produces code for a different machine is called is",
+          "options": {
+               "A": "optimizing compiler",
+               "B": "one pass compiler",
+               "C": "cross compiler",
+               "D": "multipass compiler",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of following is/are the advantage(s) of modular programming?",
+          "options": {
+               "A": "The program is much easier to change",
+               "B": "Modules can be reused in other programs",
+               "C": "Easy debugging",
+               "D": "Easy to compile",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Relocation bits used by relocating loader are specified (generated) by",
+          "options": {
+               "A": "Relocating loader itself",
+               "B": "Linker",
+               "C": "Assembler or translator",
+               "D": "Macro processor",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

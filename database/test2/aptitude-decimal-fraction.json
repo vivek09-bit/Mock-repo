@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Evaluate :(2.39)2- (1.61)22.39 - 1.61",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given Expression =a2-b2=(a+b)(a-b)= (a+b) = (2.39 + 1.61) = 4.a-b(a-b)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What decimal of an hour is a second ?",
+        "options": {
+            "A": ".0025",
+            "B": ".0256",
+            "C": ".00027",
+            "D": ".000126"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required decimal =1=1= .0002760 x 603600"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The value of(0.96)3- (0.1)3is:(0.96)2+ 0.096 + (0.1)2",
+        "options": {
+            "A": "0.86",
+            "B": "0.95",
+            "C": "0.97",
+            "D": "1.06"
+        },
+        "correct_answer": "A",
+        "answer_description": "Given expression=(0.96)3- (0.1)3(0.96)2+ (0.96 x 0.1) + (0.1)2=a3-b3a2+ab+b2= (a-b)= (0.96 - 0.1)= 0.86"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The value of0.1 x 0.1 x 0.1 + 0.02 x 0.02 x 0.02is:0.2 x 0.2 x 0.2 + 0.04 x 0.04 x 0.04",
+        "options": {
+            "A": "0.0125",
+            "B": "0.125",
+            "C": "0.25",
+            "D": "0.5"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given expression =(0.1)3+ (0.02)3=1= 0.12523[(0.1)3+ (0.02)3]8"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 = ?",
+        "options": {
+            "A": "0.172",
+            "B": "1.72",
+            "C": "17.2",
+            "D": "172"
+        },
+        "correct_answer": "C",
+        "answer_description": "29.94=299.41.4514.5=2994x1[ Here, Substitute 172 in the place of 2994/14.5 ]14.510=17210= 17.2"
+    }
+]

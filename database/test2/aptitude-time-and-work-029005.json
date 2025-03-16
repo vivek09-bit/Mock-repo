@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:",
+        "options": {
+            "A": "4 days",
+            "B": "6 days",
+            "C": "8 days",
+            "D": "12 days"
+        },
+        "correct_answer": "B",
+        "answer_description": "Suppose A, B and C takex,xandxdays respectively to finish the work.23Then,1+2+3=1xxx26=1x2x= 12.So, B takes (12/2) = 6 days to finish the work."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days B had to leave and A alone completed the remaining work. The whole work was completed in :",
+        "options": {
+            "A": "8 days",
+            "B": "10 days",
+            "C": "12 days",
+            "D": "15 days"
+        },
+        "correct_answer": "C",
+        "answer_description": "(A + B)'s 1 day's work =1+1=1.15106Work done by A and B in 2 days =1x 2=1.63Remaining work =1 -1=2.33Now,1work is done by A in 1 day.152work will be done by a in15 x2= 10 days.33Hence, the total time taken = (10 + 2) = 12 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and A in 20 days. They all work together for 10 days when B and C leave. How many days more will A take to finish the work?",
+        "options": {
+            "A": "18 days",
+            "B": "24 days",
+            "C": "30 days",
+            "D": "36 days"
+        },
+        "correct_answer": "A",
+        "answer_description": "2(A + B + C)'s 1 day's work =1+1+1=15=1.3024201208Therefore, (A + B + C)'s 1 day's work =1=1.2 x 816Work done by A, B, C in 10 days =10=5.168Remaining work =1 -5=3.88A's 1 day's work =1-1=1.162448Now,1work is done by A in 1 day.48So,3work will be done by A in48 x3= 18 days.88"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A works twice as fast as B. If B can complete a work in 12 days independently, the number of days in which A and B can together finish the work in :",
+        "options": {
+            "A": "4 days",
+            "B": "6 days",
+            "C": "8 days",
+            "D": "18 days"
+        },
+        "correct_answer": "A",
+        "answer_description": "Ratio of rates of working of A and B = 2 : 1.So, ratio of times taken = 1 : 2.B's 1 day's work =1.12A's 1 day's work =1; (2 times of B's work)6(A + B)'s 1 day's work =1+1=3=1.612124So, A and B together can finish the work in 4 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+        "options": {
+            "A": "3 : 4",
+            "B": "4 : 3",
+            "C": "5 : 3",
+            "D": "Data inadequate"
+        },
+        "correct_answer": "B",
+        "answer_description": "(20 x 16) women can complete the work in 1 day.1 woman's 1 day's work =1.320(16 x 15) men can complete the work in 1 day.1 man's 1 day's work =1240So, required ratio=1:1240320=1:134= 4 : 3 (cross multiplied)"
+    }
+]

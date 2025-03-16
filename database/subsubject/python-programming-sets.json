@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the expressionset('python')?",
+        "options": {
+            "A": "{'p', 'y', 't', 'h', 'o', 'n'}",
+            "B": "('p', 'y', 't', 'h', 'o', 'n')",
+            "C": "['p', 'y', 't', 'h', 'o', 'n']",
+            "D": "('python')"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theset()constructor converts a string into a set of its characters."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is used to add an element to a set?",
+        "options": {
+            "A": "set.append(element)",
+            "B": "set.insert(element)",
+            "C": "set.add(element)",
+            "D": "set.update(element)"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theadd()method is used to add a single element to a set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theset.remove(element)method?",
+        "options": {
+            "A": "Removes the specified element from the set.",
+            "B": "Removes the last element from the set.",
+            "C": "Removes all occurrences of the specified element.",
+            "D": "Raises aTypeErrorsince sets are immutable."
+        },
+        "correct_answer": "A",
+        "answer_description": "Theremove()method removes the specified element from the set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you find the intersection of two sets?",
+        "options": {
+            "A": "set1.join(set2)",
+            "B": "set1 & set2",
+            "C": "set1.intersect(set2)",
+            "D": "set1.intersection(set2)"
+        },
+        "correct_answer": "D",
+        "answer_description": "Theintersection()method is used to find the common elements between two sets."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about sets in Python is not correct?",
+        "options": {
+            "A": "Elements within a set are unordered.",
+            "B": "Sets can contain duplicate elements.",
+            "C": "Sets can not be accessed using indices.",
+            "D": "Sets are mutable."
+        },
+        "correct_answer": "B",
+        "answer_description": "Sets in Python do not allow duplicate elements."
+    }
+]

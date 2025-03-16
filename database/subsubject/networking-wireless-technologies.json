@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the frequency range of the IEEE 802.11a standard?",
+        "options": {
+            "A": "2.4Gbps",
+            "B": "5Gbps",
+            "C": "2.4GHz",
+            "D": "5GHz"
+        },
+        "correct_answer": "D",
+        "answer_description": "The IEEE 802.11a standard runs in the 5GHz RF range."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the maximum distance running the lowest data rate for 802.11b?",
+        "options": {
+            "A": "About 100 feet",
+            "B": "About 175 feet",
+            "C": "About 300 feet",
+            "D": "About 350 feet"
+        },
+        "correct_answer": "D",
+        "answer_description": "The IEEE 802.11b standard provides the lowest data rate at 1Mbps, but it also has the longest distance, which is about 350 feet."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the maximum distance with maximum data rate for 802.11a?",
+        "options": {
+            "A": "About 65-75 feet",
+            "B": "About 90-100 feet",
+            "C": "About 150 feet",
+            "D": "Over 200 feet"
+        },
+        "correct_answer": "A",
+        "answer_description": "The IEEE 802.11a standard provides a maximum data rate of up to 54Mbps, but you need to be close to the access point, somewhere around 65 to 75 feet."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the frequency range of the IEEE 802.11b standard?",
+        "options": {
+            "A": "2.4Gbps",
+            "B": "5Gbps",
+            "C": "2.4GHz",
+            "D": "5GHz"
+        },
+        "correct_answer": "C",
+        "answer_description": "The IEEE 802.11b and IEEE 802.11g standards both run in the 2.4GHz RF range."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have a Cisco mesh network. What protocol allows multiple APs to connect with many redundant connections between nodes?",
+        "options": {
+            "A": "LWAPP",
+            "B": "AWPP",
+            "C": "STP",
+            "D": "IEEE"
+        },
+        "correct_answer": "B",
+        "answer_description": "Each AP in a mesh network runs the Adaptive Wireless Path Protocol (AWPP). This protocol allows RAPs to communicate with each other to determine the best path back to the wired network via the RAP."
+    }
+]

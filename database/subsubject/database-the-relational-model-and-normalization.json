@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Every time attribute A appears, it is matched with the same value of attribute B, but not the same value of attribute C. Therefore, it is true that:",
+        "options": {
+            "A": "A → B.",
+            "B": "A → C.",
+            "C": "A → (B,C).",
+            "D": "(B,C) → A."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The different classes of relations created by the technique for preventing modification anomalies are called:",
+        "options": {
+            "A": "normal forms.",
+            "B": "referential integrity constraints.",
+            "C": "functional dependencies.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A relation is in this form if it is in BCNF and has no multivalued dependencies:",
+        "options": {
+            "A": "second normal form.",
+            "B": "third normal form.",
+            "C": "fourth normal form.",
+            "D": "domain/key normal form."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Row is synonymous with the term:",
+        "options": {
+            "A": "record.",
+            "B": "relation.",
+            "C": "column.",
+            "D": "field."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The primary key is selected from the:",
+        "options": {
+            "A": "composite keys.",
+            "B": "determinants.",
+            "C": "candidate keys.",
+            "D": "foreign keys."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:There has been a significant drop in the water level of all the lakes supplying water to the city.Courses of Action:The water supply authority should impose a partial cut in supply to tackle the situation.The government should appeal to all the residents through mass media for minimal use of water.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "The situation can be tackled by periodic cuts in supply, and urging people to conserve water. So both the courses follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:The police department has come under a cloud with recent revelations that at least two senior police officials are suspected to have been involved in the illegal sale of a large quantity of weapons from the state police armoury.Courses of Action:A thorough investigation should be ordered by the State Government to bring out all those who are involved into the illegal sale of arms.State police armoury should be kept under Central Government's control.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, the situation demands finding out the real culprits first. So, only I follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Financial stringency prevented the State Government from paying salaries to its employees since April this year.Courses of Action:The State Government should immediately curtail the staff strength at least by 30%.The State Government should reduce wasteful expenditure and arrange to pay the salaries of its employees.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, curtailing of the staff strength will only increase the panic and discontent, and the satisfaction of the employees is a must. So, the Government should arrange for payment of wages. Thus, only course II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:The cinema halls are incurring heavy losses these days as people prefer to watch movies in home on TV than to visit cinema halls.Courses of Action:The cinema halls should be demolished and residential multi-storey buildings should be constructed there.The cinema halls should be converted into shopping malls.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Doing away with cinema halls is no solution. Hence, none of the courses follows. Instead, certain incentives and promotional schemes should be awarded to cinema hall owners so that they could manage to draw in crowds."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Duty free technology parks where foreign firms can manufacture electronic hardware components are proposed to be established at various places in the country.Courses of Action:Government should immediately implement the proposal to augment the foreign currency reserve by exporting the products.Government should not implement the proposal as it will hinder indigenous production of hardware components.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "A",
+        "answer_description": "The step discussed in the statement would surely give a boost to hardware industry and help our country to stand apart in this field. Thus, only I follows."
+    }
+]

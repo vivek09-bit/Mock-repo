@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A sum of Rs. 1360 has been divided among A, B and C such that A getsof what B gets and B getsof what C gets. B's share is:",
+        "options": {
+            "A": "Rs. 120",
+            "B": "Rs. 160",
+            "C": "Rs. 240",
+            "D": "Rs. 300"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let C's share = Rs.xThen, B's share = Rs.x,   A's share = Rs.2xx= Rs.x4346x+x+x= 13606417x= 136012x=1360 x 12= Rs. 96017Hence, B's share = Rs.960=  Rs. 240.4"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One-third of Rahul's savings in National Savings Certificate is equal to one-half of his savings in Public Provident Fund. If he has Rs. 1,50,000 as total savings, how much has he saved in Public Provident Fund ?",
+        "options": {
+            "A": "Rs. 30,000",
+            "B": "Rs. 50,000",
+            "C": "Rs. 60,000",
+            "D": "Rs. 90,000"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let savings in N.S.C and P.P.F. be Rs.xand Rs. (150000 -x) respectively. Then,1x =1(150000 -x)32x+x= 75000325x= 750006x=75000 x 6= 900005Savings in Public Provident Fund = Rs. (150000 - 90000) = Rs. 60000"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A fires 5 shots to B's 3 but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:",
+        "options": {
+            "A": "30 birds",
+            "B": "60 birds",
+            "C": "72 birds",
+            "D": "90 birds"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the total number of shots bex. Then,Shots fired by A =5x8Shots fired by B =3x8Killing shots by A =1of5x=5x3824Shots missed by B =1of3x=3x28163x= 27 orx=27 x 16= 144.163Birds killed by A =5x=5x 144= 30.2424"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Eight people are planning to share equally the cost of a rental car. If one person withdraws from the arrangement and the others share equally the entire cost of the car, then the share of each of the remaining persons increased by:",
+        "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "78"
+        },
+        "correct_answer": "A",
+        "answer_description": "Original share of 1 person =18New share of 1 person =17Increase =1-1=17856Required fraction =(1/56)=1x8=1(1/8)5617"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To fill a tank, 25 buckets of water is required. How many buckets of water will be required to fill the same tank if the capacity of the bucket is reduced to two-fifth of its present ?",
+        "options": {
+            "A": "10",
+            "B": "35",
+            "C": "62.5",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the capacity of 1 bucket =x.Then, the capacity of tank = 25x.New capacity of bucket =2x5Required number of buckets =25x(2x/5)=25xx52x=1252= 62.5"
+    }
+]

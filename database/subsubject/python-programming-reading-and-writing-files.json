@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you open a file named \"example.txt\" in Python for reading?",
+        "options": {
+            "A": "open(\"example.txt\", \"w\")",
+            "B": "open(\"example.txt\", \"r\")",
+            "C": "open(\"example.txt\", \"a\")",
+            "D": "open(\"example.txt\", \"x\")"
+        },
+        "correct_answer": "B",
+        "answer_description": "To open a file for reading, you should use the mode \"r\" in theopen()function."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you read the entire contents of a file named \"data.txt\" into a string?",
+        "options": {
+            "A": "content = read_file(\"data.txt\")",
+            "B": "content = open(\"data.txt\").read()",
+            "C": "content = file.read(\"data.txt\")",
+            "D": "content = open_file(\"data.txt\", \"r\")"
+        },
+        "correct_answer": "B",
+        "answer_description": "Using theread()method on the file object reads the entire contents of the file into a string."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thewrite()method when used with a file object?",
+        "options": {
+            "A": "To create a new file",
+            "B": "To read the contents of a file",
+            "C": "To write data to a file",
+            "D": "To close a file"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thewrite()method is used to write data to a file in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you close a file in Python after performing operations on it?",
+        "options": {
+            "A": "file.close()",
+            "B": "close_file(file)",
+            "C": "file.end()",
+            "D": "end_file(file)"
+        },
+        "correct_answer": "A",
+        "answer_description": "To close a file in Python, you should use theclose()method on the file object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what does thewithstatement provide when working with files?",
+        "options": {
+            "A": "It opens a file in write mode",
+            "B": "It automatically closes the file after operations",
+            "C": "It reads the contents of a file",
+            "D": "It appends data to a file"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thewithstatement is used for efficient file handling and automatically closes the file when the block is exited."
+    }
+]

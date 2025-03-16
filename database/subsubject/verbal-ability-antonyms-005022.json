@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "MINOR",
+        "options": {
+            "A": "Big",
+            "B": "Major",
+            "C": "Tall",
+            "D": "Heavy"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "REVEALED",
+        "options": {
+            "A": "Denied",
+            "B": "Concealed",
+            "C": "Ignored",
+            "D": "Overlooked"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "ESSENTIAL",
+        "options": {
+            "A": "Extra",
+            "B": "Noughts",
+            "C": "Minors",
+            "D": "Trivial"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "HYPOCRITICAL",
+        "options": {
+            "A": "Gentle",
+            "B": "Sincere",
+            "C": "Amiable",
+            "D": "Dependable"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "FICKLE",
+        "options": {
+            "A": "Courageous",
+            "B": "Sincere",
+            "C": "Steadfast",
+            "D": "Humble"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

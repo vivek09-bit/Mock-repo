@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Hydrogen sulphide",
+            "C": "Carbon dioxide",
+            "D": "Nitrogen"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a non metal that remains liquid at room temperature?",
+        "options": {
+            "A": "Phosphorous",
+            "B": "Bromine",
+            "C": "Chlorine",
+            "D": "Helium"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+        "options": {
+            "A": "copper",
+            "B": "magnesium",
+            "C": "iron",
+            "D": "calcium"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is used in pencils?",
+        "options": {
+            "A": "Graphite",
+            "B": "Silicon",
+            "C": "Charcoal",
+            "D": "Phosphorous"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following metals forms an amalgam with other metals?",
+        "options": {
+            "A": "Tin",
+            "B": "Mercury",
+            "C": "Lead",
+            "D": "Zinc"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

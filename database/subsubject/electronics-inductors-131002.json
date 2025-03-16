@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of device consists of a coil with a moveable iron core?",
+        "options": {
+            "A": "solenoid",
+            "B": "reed switch",
+            "C": "relay",
+            "D": "armature"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is hysteresis?",
+        "options": {
+            "A": "lead between cause and effect",
+            "B": "lag between cause and effect",
+            "C": "lead between voltage and current",
+            "D": "lag between voltage and current"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a purely inductive circuit,",
+        "options": {
+            "A": "current leads voltage by 90°",
+            "B": "voltage lags current by 90°",
+            "C": "voltage leads current by 90°",
+            "D": "voltage and current are in phase (0°)"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A series RL filter circuit with an output across the inductor will result in what type of filtering?",
+        "options": {
+            "A": "passing of the higher frequencies",
+            "B": "passing of the lower frequencies",
+            "C": "blocking of the higher frequencies",
+            "D": "blocking of a certain range of frequencies"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total inductance in the given circuit?",
+        "options": {
+            "A": "160 mH",
+            "B": "300 mH",
+            "C": "900 mH",
+            "D": "1700 mH"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

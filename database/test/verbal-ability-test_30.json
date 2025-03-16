@@ -1,0 +1,267 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "She sang",
+               "B": "very well",
+               "C": "isn't it?",
+               "D": "No error."
+          },
+          "correct_answer": "C",
+          "answer_description": "didn't she"
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 5)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "In spite of his",
+               "B": "being a Quiz Master",
+               "C": "show was",
+               "D": "a big flop.",
+               "E": "No error."
+          },
+          "correct_answer": "C",
+          "answer_description": "his show was"
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 5)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "The patient recover",
+               "B": "so fast that",
+               "C": "the expert doctors",
+               "D": "also were surprised.",
+               "E": "No error."
+          },
+          "correct_answer": "A",
+          "answer_description": "The patient recovered"
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 5)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "He deserted the path of  honour",
+               "B": "in order to",
+               "C": "satisfy his ambition",
+               "D": "and then went down his doom very quickly.",
+               "E": "No error."
+          },
+          "correct_answer": "D",
+          "answer_description": "and then met his doom very quickly"
+     },
+     {
+          "direction": "Direction (Q.Nos. 2 - 5)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Looking forward",
+               "B": "to seeing",
+               "C": "you",
+               "D": "soon.",
+               "E": "No error."
+          },
+          "correct_answer": "B",
+          "answer_description": "to see"
+     },
+     {
+          "direction": "Direction (Q.No. 6)In each of the sentences given below a word is printed in bold. Below it four choices are given. Pick up the one which is most nearly the same in meaning as the word printer in bold and can replaces it without altering the meaning of the sentence.",
+          "image_path": null,
+          "question": "Being a member of this club, he has certainrights.",
+          "options": {
+               "A": "status",
+               "B": "truth",
+               "C": "virtues",
+               "D": "privileges"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 7)In the following questions choose the word which is the exact OPPOSITE of the given words.",
+          "image_path": null,
+          "question": "NIGGARDLY",
+          "options": {
+               "A": "Frugal",
+               "B": "Thrifty",
+               "C": "Stingy",
+               "D": "Generous"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 8)Each sentences below consist of a word or a phrase which isbold. It is followed by four words or phrases. Select the word or pharse which is closes to the OPPOSITE in meaning of theboldword or phrase.",
+          "image_path": null,
+          "question": "Harish displaysenthusiasmwhenever he is posed with a problem.",
+          "options": {
+               "A": "eagerness",
+               "B": "weakness",
+               "C": "indifference",
+               "D": "softness"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 11)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "West Bengal ...... plentiful rainfall and is consequently a very green part of the country.",
+          "options": {
+               "A": "misses",
+               "B": "receives",
+               "C": "expects",
+               "D": "regrets"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 11)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "Brothers must live in harmony. They must never fall ......",
+          "options": {
+               "A": "off",
+               "B": "out",
+               "C": "apart",
+               "D": "away"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 11)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "If negotiations are to prove fruitful, there must not only be sincerity on each side, but there must also be ...... in the sincerity of the other side.",
+          "options": {
+               "A": "faith",
+               "B": "belief",
+               "C": "substance",
+               "D": "certainty"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 12 - 13)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "This timeP :exactly what he had been toldQ :the young man didR :beyond his dreamsS :and the plan succeededThe Proper sequence should be:",
+          "options": {
+               "A": "QPRS",
+               "B": "QPSR",
+               "C": "PQSR",
+               "D": "QSRP"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 12 - 13)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "It wouldP :appear from his statementQ :about the policy of managementR :in dealing with the strikeS :that he was quite in the darkThe Proper sequence should be:",
+          "options": {
+               "A": "RPSQ",
+               "B": "PSQR",
+               "C": "RQPS",
+               "D": "PRQS"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 14)In questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+          "image_path": null,
+          "question": "But in all these cases conversion from scalehave well-formulated.",
+          "options": {
+               "A": "can be well-formulated",
+               "B": "are well-formulated",
+               "C": "well-formulated",
+               "D": "No improvement"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 15)In each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+          "image_path": null,
+          "question": "Despite his best efforts to conceal his anger ......",
+          "options": {
+               "A": "we could detect that he was very happy",
+               "B": "he failed to give us an impression of his agony",
+               "C": "he succeeded in camouflaging his emotions",
+               "D": "he could succeed in doing it easily",
+               "E": "people came to know that he was annoyed"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 16)In questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+          "image_path": null,
+          "question": "S1:I usually sleep quite well in the train, but this time I slept only a little.P :Most people wanted it shut and I wanted it open.Q :As usual, I got angry about the window.R :The quarrel left me completely upset.S :There were too many people too much huge luggage all around.S6:It was shut all night, as usualThe Proper sequence should be:",
+          "options": {
+               "A": "RSQP",
+               "B": "SQPR",
+               "C": "SQRP",
+               "D": "RSPQ"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 17)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "A person who tries to deceive people by claiming to be able to do wonderful things",
+          "options": {
+               "A": "Trickster",
+               "B": "Imposter",
+               "C": "Magician",
+               "D": "Mountebank"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "He visits the doctoroff and on.",
+          "options": {
+               "A": "everyday",
+               "B": "regularly",
+               "C": "never at all",
+               "D": "occasionally"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "The authoritiestook him to taskfor his negligence.",
+          "options": {
+               "A": "gave him additional work",
+               "B": "suspended his assignment",
+               "C": "reprimanded him",
+               "D": "forced him to resign"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "Though he has lot of money, yet all his plans arebuilt upon sand.",
+          "options": {
+               "A": "established on insecure foundations",
+               "B": "based on inexperience",
+               "C": "resting on cheap material",
+               "D": "resting on immature ideas"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveRead the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+        "image_path": null,
+        "question": "Today's high school students spend too much time thinking about trivial and distracting matters such as fashion. Additionally, they often dress inappropriately on school grounds. Rather than spending time writing another detailed dress policy, we should make school uniforms mandatory. If students were required to wear uniforms, it would increase a sense of community and harmony in our schools and it would instill a sense of discipline in our students. Another positive effect would be that teachers and administrators would no longer have to act as clothing police, freeing them up to focus on more important issues.This paragraph best supports the statement that",
+        "options": {
+            "A": "inappropriate clothing leads to failing grades.",
+            "B": "students who wear school uniforms get into better colleges.",
+            "C": "teachers and administrators spend at least 25% of their time enforcing the dress code.",
+            "D": "students are not interested in being part of a community",
+            "E": "school uniforms should be compulsory for high school students."
+        },
+        "correct_answer": "E",
+        "answer_description": "The support for choice e is in the third sentence \"we should make school uniforms mandatory\". There is no evidence provided to support choices a, b, and d. And although we know that teachers and administrators are spending some of their time enforcing dress code, the paragraph does not quantify how much of their time is spent that way, so there is no support for choice c."
+    },
+    {
+        "direction": "Directions to SolveRead the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+        "image_path": null,
+        "question": "The criminal justice system needs to change. The system could be more just if it allowed victims the opportunity to confront the person who has harmed them. Also, mediation between victims and their offenders would give the offenders a chance to apologize for the harm they have done.This paragraph best supports the statement that victims of a crime should",
+        "options": {
+            "A": "learn to forgive their offenders.",
+            "B": "have the right to confront their offenders.",
+            "C": "learn the art of mediation.",
+            "D": "insist that their offenders be punished.",
+            "E": "have the right to impose a sentence on their offenders."
+        },
+        "correct_answer": "B",
+        "answer_description": "This answer is clearly stated in the first sentence of  the paragraph. There is no support in the passage for choices a, d,or e. As  for choice c, although mediation is mentioned, the statement does not indicate that victims should be the mediators."
+    },
+    {
+        "direction": "Directions to SolveRead the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+        "image_path": null,
+        "question": "A few states in this country are considering legislation that would prohibit schools from using calculators before the sixth grade. Other states take a different position. Some states are insisting on the purchase of graphing calculators for every student in middle school.This paragraph best supports the statement that in this country",
+        "options": {
+            "A": "there are at least two opinions about the use of calculators in schools.",
+            "B": "calculators are frequently a detriment to learning math.",
+            "C": "state legislators are more involved in education than ever before.",
+            "D": "the price of graphing calculators is less when schools buy in bulk.",
+            "E": "the argument against calculators in schools is unfounded."
+        },
+        "correct_answer": "A",
+        "answer_description": "The paragraph clearly states that there are two differing opinions with regard to the use of calculators in the classroom. Although some people may believe that choice  b is true, the paragraph does not  indicate this. Choice c has no relation to the paragraph. Choice d makes logical sense, but the paragraph says nothing about cost. Choice e is an opinion that is not given in the paragraph."
+    },
+    {
+        "direction": "Directions to SolveRead the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+        "image_path": null,
+        "question": "Today's workforce has a new set of social values. Ten years ago, a manager who was offered a promotion in a distant city would not have questioned the move. Today, a manager in that same situation might choose family happiness instead of career advancement.This paragraph best supports the statement that",
+        "options": {
+            "A": "most managers are not loyal to the corporations for which they work.",
+            "B": "businesses today do not understand their employees needs.",
+            "C": "employees social values have changed over the past ten years.",
+            "D": "career advancement is not important to today's business managers.",
+            "E": "companies should require their employees to accept promotions."
+        },
+        "correct_answer": "C",
+        "answer_description": "A change in employee social values over the past ten years is implied in the whole paragraph, but particularly in the first sentence. Choice a is incorrect because the loyalty of the managers to their corporations is never discussed. There is no support for choice b. In choice d, perhaps career advancement is less important than it once was, but the paragraph does not indicate that advancement is unimportant to managers. Choice e is an opinion that is not supported."
+    },
+    {
+        "direction": "Directions to SolveRead the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+        "image_path": null,
+        "question": "It is well known that the world urgently needs adequate distribution of food, so that everyone gets enough. Adequate distribution of medicine is just as urgent. Medical expertise and medical supplies need to be redistributed throughout the world so that people in emerging nations will have proper medical care.This paragraph best supports the statement that",
+        "options": {
+            "A": "the majority of the people in the world have never been seen by a doctor.",
+            "B": "food production in emerging nations has slowed during the past several years.",
+            "C": "most of the world's doctors are selfish about giving time and money to the poor.",
+            "D": "the medical-supply industry should step up production of its products.",
+            "E": "many people who live in emerging nations are not receiving proper medical care"
+        },
+        "correct_answer": "E",
+        "answer_description": "This answer is implied by the statement that redistribution is needed so that people in emerging nations can have proper medical care. Choices a, b, and c are not mentioned in the passage. Choice d is also incorrect, the passage indicates that the distribution of medicine, not  its production, is inadequate."
+    }
+]

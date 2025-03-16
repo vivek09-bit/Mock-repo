@@ -1,0 +1,54 @@
+[
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "The doctor advised the patient not to eat rice.",
+        "options": {
+            "A": "The patient was advised by the doctor not to eat rice.",
+            "B": "The patient was advised by the doctor that he should not eat rice.",
+            "C": "The patient was being advised by the doctor that he should not rice by the doctor.",
+            "D": "The patient has been advised not to eat rice by the doctor."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "I cannot accept your offer.",
+        "options": {
+            "A": "Your offer cannot be accepted by me.",
+            "B": "I cannot be accepted by your offer.",
+            "C": "The offer cannot be accepted by me.",
+            "D": "Your offer cannot be accepted."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "You should open the wine about three hours before you use it.",
+        "options": {
+            "A": "Wine should be opened about three hours before use.",
+            "B": "Wine should be opened by you three hours before use.",
+            "C": "Wine should be opened about three hours before you use it.",
+            "D": "Wine should be opened about three hours before it is used."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "They will inform the police.",
+        "options": {
+            "A": "The police will be informed by them.",
+            "B": "The police will inform them.",
+            "C": "The police are informed by them.",
+            "D": "Informed will be the police by them."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

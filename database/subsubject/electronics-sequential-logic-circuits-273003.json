@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a shift register that will accept a parallel input and can shift data left or right called?",
+        "options": {
+            "A": "tri-state",
+            "B": "end around",
+            "C": "bidirectional universal",
+            "D": "conversion"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens to the parallel output word in an asynchronous binary down counter whenever a clock pulse occurs?",
+        "options": {
+            "A": "The output word decreases by 1.",
+            "B": "The output word decreases by 2.",
+            "C": "The output word increases by 1.",
+            "D": "The output word increases by 2."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Mod-6 and mod-12 counters are most commonly used in:",
+        "options": {
+            "A": "frequency counters",
+            "B": "multiplexed displays",
+            "C": "digital clocks",
+            "D": "power consumption meters"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

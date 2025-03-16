@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "RTDs are typically connected with other fixed resistors",
+        "options": {
+            "A": "in a pi configuration",
+            "B": "in a bridge configuration",
+            "C": "and variable resistors",
+            "D": "and capacitors in a filter-type circuit"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Holding current for an SCR is best described as",
+        "options": {
+            "A": "the minimum current required for turn-off",
+            "B": "the current required before an SCR will turn on",
+            "C": "the amount of current required to maintain conduction",
+            "D": "the gate current required to maintain conduction"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the moving part of a linear variable differential transformer?",
+        "options": {
+            "A": "Primary",
+            "B": "Secondary",
+            "C": "Diaphragm",
+            "D": "Core"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

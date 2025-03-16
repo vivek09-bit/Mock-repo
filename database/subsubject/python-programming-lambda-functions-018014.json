@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the following lambda function do?lambda x: x.lower() if isinstance(x, str) else None",
+        "options": {
+            "A": "Converts a string to lowercase and returns None for non-string values.",
+            "B": "Converts a string to uppercase and returns None for non-string values.",
+            "C": "Capitalizes the first letter of a string and returns None for non-string values.",
+            "D": "Returns the length of a string and None for non-string values."
+        },
+        "correct_answer": "A",
+        "answer_description": "The lambda function converts a string to lowercase and returns None for non-string values."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "AGuaranteeis a promise or assurance that attests to the quality of a product that is either (1) given in writing by the manufacturer or (2) given verbally by the person selling the product. Which situation below is the best example of a Guarantee?",
+        "options": {
+            "A": "Melissa purchases a DVD player with the highest consumer ratings in its category.",
+            "B": "The salesperson advises Curt to be sure that he buys an air conditioner with a guarantee.",
+            "C": "The local auto body shop specializes in refurbishing and selling used cars.",
+            "D": "Lori buys a used digital camera from her coworker who says that she will refund Lori's money if the camera's performance is not of the highest quality."
+        },
+        "correct_answer": "D",
+        "answer_description": "Choices a, b, and c do not describe situations in which a product is guaranteed. Only choice d reflects a situation in which a seller attests to the quality of a product by giving the buyer a promise or assurance about its quality."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "The rules of baseball state that a batterLegally Completes His Time at Batwhen he is put out or becomes a base runner. Which situation below is the best example of a batter Legally Completing His Time at Bat?",
+        "options": {
+            "A": "Jared's blooper over the head of the short-stop puts him in scoring position.",
+            "B": "The umpire calls a strike, even though the last pitch was way outside.",
+            "C": "The pitcher throws his famous knuckleball, Joe swings and misses, and the umpire calls a strike.",
+            "D": "The count is two balls and two strikes as Mario waits for the next pitch."
+        },
+        "correct_answer": "A",
+        "answer_description": "The fact that Jared is in scoring position due to his  blooper indicates that he has hit the ball and is now a base runner; therefore, he has legally completed his time at bat. Choices b and c both describe situations in which a strike is called, but they do not state that the batter has been put out or that he is now a base runner. Choice d describes a situation in which the batter, Mario, is still at the plate waiting for the  next pitch."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Erratic Behavioroccurs when an individual acts in a manner that lacks consistency, regularity, and uniformity. Which situation below is the best example of Erratic Behavior?",
+        "options": {
+            "A": "Julia cannot contain her anger whenever the subject of local politics is discussed.",
+            "B": "Martin has just been told that he is being laid off. Before leaving his supervisor's office, he punches a hole in the door.",
+            "C": "Rhonda has visited the dealership several times, but she still cannot decide which car to buy.",
+            "D": "In the past month, Jeffrey, who has been a model employee for three years, has repeatedly called in sick, forgotten important meetings, and been verbally abusive to colleagues."
+        },
+        "correct_answer": "D",
+        "answer_description": "Jeffrey's recent behavior is clearly inconsistent and irregular."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "ATiebreakeris an additional contest or period of play designed to establish a winner among tied contestants. Which situation below is the best example of a Tiebreaker?",
+        "options": {
+            "A": "At halftime, the score is tied at 28.",
+            "B": "Mary and Megan have each scored three goals in the game.",
+            "C": "The referee tosses a coin to decide which team will have possession of the ball first.",
+            "D": "The Sharks and the Bears each finished with 14 points, and they are now battling it out in a five-minute overtime."
+        },
+        "correct_answer": "D",
+        "answer_description": "This is the only choice that indicates that an additional period of play is taking place to determine the winner of a game that ended in a tie."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "In the Maple Hill school district, aFive-Day Suspensionoccurs when a student is not permitted to attend school for five days for  (1) physically assaulting another student, a teacher, or a school employee or (2) willfully destructing or defacing school property. Which situation below is the best example of a Five-Day Suspension?",
+        "options": {
+            "A": "Lillian gets caught cheating on a math test for the second time and is suspended from school.",
+            "B": "Marc is asked to leave the classroom due to his constant disruptions.",
+            "C": "Franny uses spray paint to write derogatory comments on the locker room wall and she is given a suspension.",
+            "D": "Ms. Farmer tells her class that students who fail the midterm exam will be expected to stay after school for tutoring help."
+        },
+        "correct_answer": "C",
+        "answer_description": "Although choices a and  c both describe suspensions, only choice c describes a suspension that is the result of one of the two scenarios given in the definition of a five-day suspension (physical assault or destructing or defacing school property). Therefore, we can assume that Franny's suspension, which is the result of spray painting school property, will be a five-day suspension. Since  the definition doesn't provide any information about suspensions for cheating, we can assume that Lillian's suspension does not fall into the five-day suspension category."
+    }
+]

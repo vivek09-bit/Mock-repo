@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On dividing a number by 5, we get 3 as remainder. What will the remainder when the square of the this number is divided by 5 ?",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the number bexand on dividingxby 5, we getkas quotient and 3 as remainder.x= 5k + 3x2= (5k + 3)2= (25k2+ 30k+ 9)= 5(5k2+ 6k+ 1) + 4On dividingx2by 5, we get 4 as remainder."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 3-digit numbers are completely divisible 6 ?",
+        "options": {
+            "A": "149",
+            "B": "150",
+            "C": "151",
+            "D": "166"
+        },
+        "correct_answer": "B",
+        "answer_description": "3-digit number divisible by 6 are: 102, 108, 114,... , 996This is an A.P. in whicha= 102,d= 6 andl= 996Let the number of terms ben. Thentn= 996.a+ (n- 1)d = 996102 + (n- 1) x 6 = 9966 x (n- 1) = 894(n- 1) = 149n= 150Number of terms = 150."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many natural numbers are there between 23 and 100 which are exactly divisible by 6 ?",
+        "options": {
+            "A": "8",
+            "B": "11",
+            "C": "12",
+            "D": "13",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Required numbers are 24, 30, 36, 42, ..., 96This is an A.P. in whicha= 24,d= 6 andl= 96Let the number of terms in it ben.Then tn= 96a+ (n- 1)d= 9624 + (n- 1) x 6 = 96(n- 1) x 6 = 72(n- 1) = 12n= 13Required number of numbers = 13."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many of the following numbers are divisible by 3 but not by 9 ?2133, 2343, 3474, 4131, 5286, 5340, 6336, 7347, 8115, 9276",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Marking (/) those which are are divisible by 3 by not by 9 and the others by (X), by taking the sum of digits, we get:s21339  (X)234312 (/)347418 (X)41319  (X)528621 (/)534012 (/)633618 (X)734721 (/)811515 (/)927624 (/)Required number of numbers = 6."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(963 + 476)2+ (963 - 476)2= ?(963 x 963 + 476 x 476)",
+        "options": {
+            "A": "1449",
+            "B": "497",
+            "C": "2",
+            "D": "4",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Given Exp. =(a+b)2+ (a-b)2=2(a2+b2)= 2(a2+b2)(a2+b2)"
+    }
+]

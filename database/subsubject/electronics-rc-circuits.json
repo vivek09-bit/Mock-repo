@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 20 Vac seriesRCcircuit, if 20 V is read across the resistor and 40 V is measured across the capacitor, the applied voltage is",
+        "options": {
+            "A": "45 Vac",
+            "B": "50 Vac",
+            "C": "60 Vac",
+            "D": "65 Vac"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the reference vector for parallelRCcircuits?",
+        "options": {
+            "A": "R",
+            "B": "V",
+            "C": "I",
+            "D": "XC"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the voltage drop acrossR1in the given circuit?",
+        "options": {
+            "A": "10 V",
+            "B": "4.80 V",
+            "C": "4.00 V",
+            "D": "5.80 V"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Power that is measured in volt-amperes is called",
+        "options": {
+            "A": "impedance power",
+            "B": "reactive power",
+            "C": "true power",
+            "D": "apparent power"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "As frequency increases",
+        "options": {
+            "A": "both series and parallelRCimpedance decrease",
+            "B": "seriesRCimpedance decreases and parallelRCimpedance increases",
+            "C": "seriesRCimpedance increases and parallelRCimpedance decreases",
+            "D": "both series and parallelRCimpedance increase"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

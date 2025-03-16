@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A measure of the repeatability of a measurement of some quantity is",
+        "options": {
+            "A": "error",
+            "B": "precision",
+            "C": "accuracy",
+            "D": "significant"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Another name for \"fundamental units\" is",
+        "options": {
+            "A": "base units",
+            "B": "atoms",
+            "C": "the metric system",
+            "D": "letter symbols"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Adding 27.5 × 103to 8.9 × 104equals",
+        "options": {
+            "A": "36.4 × 107",
+            "B": "116.5 × 104",
+            "C": "28.39 × 103",
+            "D": "1.165 × 105"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When using the terms \"accuracy\" and \"precision\" for measurements",
+        "options": {
+            "A": "\"precision\" implies less measurement error than \"accuracy\"",
+            "B": "\"accuracy\" implies less measurement error than \"precision\"",
+            "C": "\"precision\" measures the repeatability of a measurement",
+            "D": "both terms mean the same thing"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between scientific and engineering notation is",
+        "options": {
+            "A": "powers of ten representation",
+            "B": "single vs. multiple digits before decimal point",
+            "C": "groupings of multiples of three digits",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

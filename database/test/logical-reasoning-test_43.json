@@ -1,0 +1,274 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Remember, you are looking for the word that does NOT belong in the same group as the others. Sometimes, all four words seem to fit in the same group. If so, look more closely to further narrow your classification.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "wing",
+               "B": "fin",
+               "C": "beak",
+               "D": "rudder"
+          },
+          "correct_answer": "C",
+          "answer_description": "The wing, fin, and rudder are all parts of an airplane."
+     },
+     {
+          "direction": "Direction (Q.No. 2)First, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+          "image_path": null,
+          "question": "Here are some words translated from an artificial language.lelibroonmeans yellow hatplekafrotimeans flower gardenfrotimixmeans garden saladWhich word could mean \"yellow flower\"?",
+          "options": {
+               "A": "lelifroti",
+               "B": "lelipleka",
+               "C": "plekabroon",
+               "D": "frotibroon"
+          },
+          "correct_answer": "B",
+          "answer_description": "Lelimeans yellow;broonmeans hat;plekameans flower;frotimeans garden;mixmeans salad. Therefore,leliplekameans yellow flower."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Find the statement that must be true according to the given information.",
+          "image_path": null,
+          "question": "Georgia is older than her cousin Marsha. Marsha's brother Bart is older than Georgia. When Marsha and Bart are visiting with Georgia, all three like to play a game of Monopoly. Marsha wins more often than Georgia does.",
+          "options": {
+               "A": "When he plays Monopoly with Marsha and Georgia, Bart often loses.",
+               "B": "Of the three, Georgia is the oldest.",
+               "C": "Georgia hates to lose at Monopoly.",
+               "D": "Of the three, Marsha is the youngest."
+          },
+          "correct_answer": "D",
+          "answer_description": "If Georgia is older than Marsha and Bart is older than Georgia, then Marsha has to be the youngest of the three. Choice b is clearly wrong because Bart is the oldest. There is no information in the paragraph to support either choice a or choice c."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 5)Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+          "image_path": null,
+          "question": "Tom puts on his socks before he puts on his shoes.He puts on his shirt before he puts on his jacket.Tom puts on his shoes before he puts on his shirt.If the first two statements are true, the third statement is",
+          "options": {
+               "A": "true",
+               "B": "false",
+               "C": "uncertain"
+          },
+          "correct_answer": "C",
+          "answer_description": "There is not enough information to verify the third statement."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 5)Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+          "image_path": null,
+          "question": "The bookstore has a better selection of postcards than the newsstand does.The selection of postcards at the drugstore is better than at the bookstore.The drugstore has a better selection of postcards than the bookstore or the newsstand.If the first two statements are true, the third statement is",
+          "options": {
+               "A": "true",
+               "B": "false",
+               "C": "uncertain"
+          },
+          "correct_answer": "A",
+          "answer_description": "Of the three, the drugstore has the best selection of postcards."
+     },
+     {
+          "direction": "Direction (Q.No. 6)The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.",
+          "image_path": null,
+          "question": "Fact 1:Islands are surrounded by water.Fact 2:Maui is an island.Fact 3:Maui was formed by a volcano.If the first three statements are facts, which of the following statements must also be a fact?I:Maui is surrounded by water.II:All islands are formed by volcanoes.III:All volcanoes are on islands.",
+          "options": {
+               "A": "I only",
+               "B": "II only",
+               "C": "II and III only",
+               "D": "None of the statements is a known fact."
+          },
+          "correct_answer": "A",
+          "answer_description": "Since Maui is an island and islands are surrounded by water,Maui must be surrounded by water. There is not enough information to support statements II and III."
+     },
+     {
+          "direction": "Direction (Q.No. 7)In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+          "image_path": null,
+          "question": "Statements:The school authority has asked the X Std. students to attend special classes to be conducted on Sundays.The parents of the X Std. students have withdrawn their wards from attending private tuitions conducted on Sundays.",
+          "options": {
+               "A": "Statement I is the cause and statement II is its effect",
+               "B": "Statement II is the cause and statement I is its effect",
+               "C": "Both the statements I and II are independent causes",
+               "D": "Both the statements I and II are effects of independent causes",
+               "E": "Both the statements I and II are effects of some common cause"
+          },
+          "correct_answer": "A",
+          "answer_description": "It seems quite evident that the parents have instructed their wards to abstain from private tuitions on Sundays and attend special classes organised by the school."
+     },
+     {
+          "direction": "Direction (Q.Nos. 8 - 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Please note that the company will provide accommodation to only outside candidates if selected.' - A condition in an advertisement.Assumptions:The local candidates would be having some other arrangement for their stay.The company plans to select only local candidates.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "The statement mentions that the company intends to provide accommodation only to outside candidates. This means that local candidates would have to arrange accommodation on their own and that the company may select local as well as outside candidates. Thus, only I is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 8 - 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"In order to bring punctuality in our office, we must provide conveyance allowance to our employees.\" - In charge of a company tells Personnel Manager.Assumptions:Conveyance allowance will not help in bringing punctuality.Discipline and reward should always go hand in hand.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "Assumption I goes against the statement. So, it is not implicit. The allowance will serve as a reward to the employees and shall provoke them to come on time. So, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 8 - 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:'Double your money in five months.' - An advertisement.Assumptions:The assurance is not genuine.People want their money to grow.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The truth or falsity of the promise made in the statement cannot be judged. So, I is not implicit. Since the concerned firm advertises with the assurance that money can be doubled quickly by investing with it, so II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 11)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"If you want to give any advertisement, give it in the newspaper X.\" - A tells B.Assumptions:B wants to publicise his products.Newspaper X has a wide circulation.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The word 'If in the statement shows that B may or may not want to publicise his products. So I is not implicit. It is advised that advertisements be given in newspaper X. This means that X will help advertise better i.e., it has wider circulation. So, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"In my absence, I request you to look after the affairs of our company.\" - B tells C.Assumptions:C may not accept the request of B.C has the expertise to handle the affairs of the company.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "C's response to B's request cannot be deduced from the statement. So, I is not implicit. Also, B wishes to authorise C to look after the company in his absence. This means that C is capable of handling the affairs. So, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The electric supply corporation has decided to open a few more collection centres in the business district area.Assumptions:The people in the area may welcome the decision.Henceforth there may be less time required by the customers for paying electricity bill.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, more collection centres would enable the common people to pay their bills easily, conveniently and quickly and this would cause them to welcome the idea. So, both I and II are implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 16)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:The police department has come under a cloud with recent revelations that at least two senior police officials are suspected to have been involved in the illegal sale of a large quantity of weapons from the state police armoury.Courses of Action:A thorough investigation should be ordered by the State Government to bring out all those who are involved into the illegal sale of arms.State police armoury should be kept under Central Government's control.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the situation demands finding out the real culprits first. So, only I follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 16)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:The Minister said that the teachers are still not familiarised with the need, importance and meaning of population education in the higher education system. They are not even clearly aware about their role and responsibilities in the population education programme.Courses of Action:Population education programme should be included in the college curriculum.Orientation programme should be conducted for teachers on population education",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, the statement stresses on teachers' lack of awareness and knowledge in population education and as such the best remedy would be to guide them in this field through orientation programmes. So, only course II follows."
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 16)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:The kharif crops have been affected by the insects for consecutive three years in the district and the farmers harvested less than fifty percent of produce during these years.Courses of Action:The farmers should seek measures to control the attack of insects to protect their crops next year.The Government should increase the support price of kharif crops considerably to protect the economic interests of farmers.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, the problem demands taking extra care and adequate precautions to protect crops from insects and extending help to farmers to prevent them from incurring huge losses. Thus, both the courses follow."
+     },
+     {
+          "direction": "Direction (Q.No. 17)In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:All poles are guns. Some boats are not poles.Conclusions:All guns are boats.Some boats are not guns.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "Clearly, the term 'guns' is distributed in both the conclusions without being distributed in any of the premises. So, neither conclusion follows."
+     },
+     {
+          "direction": "Direction (Q.No. 18)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should there be a cap on maximum number of contestants for parliamentary elections in any constituency?Arguments:Yes. This will make the parliamentary elections more meaningful as the voters can make a considered judgement for casting their vote.No. In a democracy any person fulfilling the eligibility criteria can contest parliamentary elections and there should be no restrictions.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, if there were less candidates, the voters would find it easy to make a choice. So, argument I holds. Also, every person satisfying the conditions laid down by the Constitution must be given an opportunity and should not be denied the same just to cut down the number of candidates. So, argument II also holds strong."
+     },
+     {
+          "direction": "Direction (Q.No. 19)In each question below is given a statement followed by three courses of action numbered I, II and III. You have to assume everything in the statement to be true, then decide which of the three given suggested courses of action logically follows for pursuing.",
+          "image_path": null,
+          "question": "Statement:It is estimated that about twenty lakh people will visit the city during the ensuing festival.Courses of Action:The civic authority should monitor the crowd and restrict entry of the people beyond a manageable number.The local police authority should be put on high alert to maintain law and order during the festival.All the hospitals in the city should be put on high alert in case of any eventuality.",
+          "options": {
+               "A": "Only I and II follow",
+               "B": "Only II and III follow",
+               "C": "Only I and III follow",
+               "D": "All follow",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, people cannot be deprived of enjoying the festival for lack of arrangements. Also, it becomes necessary to deploy police to regulate big crowds and avert any mishap in public gatherings. Further, it costs nothing but might prove useful to put hospitals on alert to be ready to provide quick medical aid to patients in case of any eventuality. So, both II and III follow."
+     },
+     {
+          "direction": "Direction (Q.No. 20)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:A State Government suspended two additional district judges.Assumptions:They were negligent in discharging duties.There was a charge of misconduct against them.The government officials were biased against them.",
+          "options": {
+               "A": "None is implicit",
+               "B": "Either I or II is implicit",
+               "C": "Any one of the three is implicit",
+               "D": "Only I and III are implicit",
+               "E": "Either I or III is implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "A person holding an office is generally suspended on charges of misconduct or negligence of duty. So, either I or II is implicit. III seems to be vague and so it is not implicit."
+     }
+]

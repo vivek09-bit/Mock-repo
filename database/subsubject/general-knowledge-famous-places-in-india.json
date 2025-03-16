@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Centre for Cellular and Molecular Biology is situated at",
+        "options": {
+            "A": "Patna",
+            "B": "Jaipur",
+            "C": "Hyderabad",
+            "D": "New Delhi"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Where is the Railway Staff College located?",
+        "options": {
+            "A": "Pune",
+            "B": "Allahabad",
+            "C": "Vadodara",
+            "D": "Delhi"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The famous Dilwara Temples are situated in",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Rajasthan",
+            "C": "Maharashtra",
+            "D": "Madhya Pradesh"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Wadia Institute of Himalayan Geology is located at",
+        "options": {
+            "A": "Delhi",
+            "B": "Shimla",
+            "C": "Dehradun",
+            "D": "Kulu"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Bijapur is known for its",
+        "options": {
+            "A": "severe drought condition",
+            "B": "Gol Gumbaz",
+            "C": "heavy rainfall",
+            "D": "statue of Gomateswara"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

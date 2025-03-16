@@ -1,0 +1,146 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many collision domains are created when you segment a network with a 12-port switch?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "5",
+               "D": "12"
+          },
+          "correct_answer": "D",
+          "answer_description": "Layer 2 switching creates individual collision domains."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which router command allows you to view the entire contents of all access lists?",
+          "options": {
+               "A": "show all access-lists",
+               "B": "show access-lists",
+               "C": "show ip interface",
+               "D": "show interface"
+          },
+          "correct_answer": "B",
+          "answer_description": "To see the contents of all access lists, use theshow access-listscommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many broadcast domains are created when you segment a network with a 12-port switch?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "5",
+               "D": "12"
+          },
+          "correct_answer": "A",
+          "answer_description": "By default, switches break up collision domains but are one large broadcast domain."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If your router is facilitating a CSU/DSU, which of the following commands do you need to use to provide the router with a 64000bps serial link?",
+          "options": {
+               "A": "RouterA(config)#bandwidth 64",
+               "B": "RouterA(config-if)#bandwidth 64000",
+               "C": "RouterA(config-if)#clock rate 64",
+               "D": "RouterA(config-if)#clock rate 64000"
+          },
+          "correct_answer": "D",
+          "answer_description": "Theclock ratecommand is two words, and the speed of the line is in bps."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is private IP address?",
+          "options": {
+               "A": "12.0.0.1",
+               "B": "168.172.19.39",
+               "C": "172.15.14.36",
+               "D": "192.168.24.43"
+          },
+          "correct_answer": "D",
+          "answer_description": "Class A private address range is 10.0.0.0 through 10.255.255.255. Class B private address range is 172.16.0.0 through 172.31.255.255, and Class C private address range is 192.168.0.0 through 192.168.255.255."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the subnetwork number of a host with an IP address of 172.16.66.0/21?",
+          "options": {
+               "A": "172.16.36.0",
+               "B": "172.16.48.0",
+               "C": "172.16.64.0",
+               "D": "172.16.0.0"
+          },
+          "correct_answer": "C",
+          "answer_description": "A /21 is 255.255.248.0, which means we have a block size of 8 in the third octet, so we just count by 8 until we reach 66. The subnet in this question is 64.0. The next subnet is 72.0, so the broadcast address of the 64 subnet is 71.255."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want to totally reinitialize the router and replace the current running-config with the current startup-config. What command will you use?",
+          "options": {
+               "A": "replace run start",
+               "B": "copy run start",
+               "C": "copy start run",
+               "D": "reload"
+          },
+          "correct_answer": "D",
+          "answer_description": "To completely replace the running-config with the startup-config, you must reload the router. Note : You may have picked option C, which isn't a bad answer. Remember, though, it doesn't replace the configuration, it appends it."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you wanted administrators to see a message when logging into the router, which command would you use?",
+          "options": {
+               "A": "message banner motd",
+               "B": "banner message motd",
+               "C": "banner motd",
+               "D": "message motd"
+          },
+          "correct_answer": "C",
+          "answer_description": "The typical banner is a message of the day (MOTD) and is set by using the global configuration mode commandbanner motd."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does RIPv2 use to prevent routing loops?CIDRSplit horizonAuthenticationClassless maskingHolddown timers",
+          "options": {
+               "A": "1 and 3",
+               "B": "2, 3 and 5",
+               "C": "2 and 5",
+               "D": "3 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "RIPv2 uses the same timers and loop-avoidance schemes as RIPv1. Split horizon is used to stop an update from being sent out the same interface it was received on. Holddown timers allow time for a network to become stable in the case of a flapping link."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are disadvantages of using NAT?Translation introduces switching path delays.Conserves legally registered addresses.Causes loss of end-to-end IP traceability.Increases flexibility when connecting to the Internet.Certain applications will not function with NAT enabled.Reduces address overlap occurrence.",
+          "options": {
+               "A": "1, 3 and 5",
+               "B": "3 and 4",
+               "C": "2, 4 and 5",
+               "D": "1 and 3"
+          },
+          "correct_answer": "A",
+          "answer_description": "NAT is not perfect and can cause some issues in some networks, but most networks work just fine. NAT can cause delays and troubleshooting problems, and some applications just won't work."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following uses ATM as the Data Link layer protocol that's terminated at what's known as the DSLAM?",
+          "options": {
+               "A": "DSL",
+               "B": "PPPoE",
+               "C": "Frame Relay",
+               "D": "Dedicated T1",
+               "E": "Wireless"
+          },
+          "correct_answer": "A",
+          "answer_description": "ATM is the Data-Link layer protocol that's typically used over the DSL layer 1 connection from the CPE and terminated at what's known as the DSLAM-an ATM switch that contains DSL interface cards, or ATU-Cs."
+     }
+]

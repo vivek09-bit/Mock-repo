@@ -1,0 +1,71 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Potassium",
+            "B": "Silicon",
+            "C": "Zirconium",
+            "D": "Gallium",
+            "E": "Germanium"
+        },
+        "correct_answer": "A",
+        "answer_description": "All except Potassium are metals used in semiconductor devices."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Tea",
+            "B": "Cinchona",
+            "C": "Rubber",
+            "D": "Cardamom",
+            "E": "Chalk"
+        },
+        "correct_answer": "E",
+        "answer_description": "All except Chalk are obtained from crops."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Hangar",
+            "B": "Platform",
+            "C": "Dock",
+            "D": "Park",
+            "E": "Bus stand"
+        },
+        "correct_answer": "D",
+        "answer_description": "All except Park are halting places of various transport means."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Sparrow",
+            "B": "Swan",
+            "C": "Parrot",
+            "D": "Koel"
+        },
+        "correct_answer": "B",
+        "answer_description": "Swan is the only water bird in the group."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Tall",
+            "B": "Huge",
+            "C": "Thin",
+            "D": "Sharp",
+            "E": "Small"
+        },
+        "correct_answer": "D",
+        "answer_description": "All except Sharp are related to dimension."
+    }
+]

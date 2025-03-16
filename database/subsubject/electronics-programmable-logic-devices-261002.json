@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between a PLA and a PAL is:",
+        "options": {
+            "A": "the PLA has a programmable OR plane and a programmable AND plane, while the PAL only has a programmable AND plane",
+            "B": "the PAL has a programmable OR plane and a programmable AND plane, while the PLA only has a programmable AND plane",
+            "C": "the PAL has more possible product terms than the PLA",
+            "D": "PALs and PLAs are the same thing."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

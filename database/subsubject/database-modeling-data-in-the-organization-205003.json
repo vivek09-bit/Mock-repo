@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A composite attribute is which of the following?",
+        "options": {
+            "A": "An attribute that can be broken into components",
+            "B": "An attribute that cannot be broken into components",
+            "C": "Multiple attributes",
+            "D": "An identifier"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A binary relationship cannot be which of the following?",
+        "options": {
+            "A": "One-to-One",
+            "B": "One-to-Many",
+            "C": "Many-to-Many",
+            "D": "Zero-to-Zero"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A ternary relationship involves how many entities?",
+        "options": {
+            "A": "3 or less",
+            "B": "3",
+            "C": "More than 3",
+            "D": "3 or more"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When the minimum number of instances of an entity is one, you know which of the following?",
+        "options": {
+            "A": "Mandatory one",
+            "B": "Optional one",
+            "C": "Mandatory many",
+            "D": "Cannot tell"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A good business rule is which of the following?",
+        "options": {
+            "A": "Declarative",
+            "B": "Imprecise",
+            "C": "Redundant",
+            "D": "Compound"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

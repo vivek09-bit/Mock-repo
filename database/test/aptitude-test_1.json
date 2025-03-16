@@ -1,0 +1,264 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+          "options": {
+               "A": "4",
+               "B": "7",
+               "C": "9",
+               "D": "13"
+          },
+          "correct_answer": "A",
+          "answer_description": "Required number = H.C.F. of (91 - 43), (183 - 91) and (183 - 43)= H.C.F. of 48, 92 and 140 = 4."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following fraction is the largest ?",
+          "options": {
+               "A": "78",
+               "B": "1316",
+               "C": "3140",
+               "D": "6380"
+          },
+          "correct_answer": "A",
+          "answer_description": "L.C.M. of 8, 16, 40 and 80 = 80.7=70;13=65;31=6288016804080Since,70>65>63>62, so7>13>63>31808080808168040So,7is the largest.8"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": ".009= .01?",
+          "options": {
+               "A": ".0009",
+               "B": ".09",
+               "C": ".9",
+               "D": "9"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let.009= .01;     Thenx=.009=.9= .9x.011"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The least perfect square, which is divisible by each of 21, 36 and 66 is:",
+          "options": {
+               "A": "213444",
+               "B": "214344",
+               "C": "214434",
+               "D": "231444"
+          },
+          "correct_answer": "A",
+          "answer_description": "L.C.M. of 21, 36, 66 = 2772.Now, 2772 = 2 x 2 x 3 x 3 x 7 x 11To make it a perfect square, it must be multiplied by 7 x 11.So, required number = 22x 32x 72x 112= 213444"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ifx=3+ 1andy=3- 1, then the value of (x2+y2) is:3- 13+ 1",
+          "options": {
+               "A": "10",
+               "B": "13",
+               "C": "14",
+               "D": "15"
+          },
+          "correct_answer": "C",
+          "answer_description": "x=(3+ 1)x(3+ 1)=(3+ 1)2=3 + 1 + 23= 2 +3.(3- 1)(3+ 1)(3 - 1)2y=(3- 1)x(3- 1)=(3- 1)2=3 + 1 - 23= 2 -3.(3+ 1)(3- 1)(3 - 1)2x2+y2= (2 +3)2+ (2 -3)2= 2(4 + 3)= 14"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is Arun's present age?I.Five years ago, Arun's age was double that of his son's age at that time.II.Present ages of Arun and his son are in the ratio of 11 : 6 respectively.III.Five years hence, the respective ratio of Arun's age and his son's age will become 12 : 7.",
+          "options": {
+               "A": "Only I and II",
+               "B": "Only II and III",
+               "C": "Only I and III",
+               "D": "Any two of the three",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "II. Let the present ages of Arun and his son be 11xand 6xyears respectively.I. 5 years ago, Arun's age = 2 x His son's age.III. 5 years hence,Arun's Age=12Son's age7Clearly, any two of the above will give Arun's present age.Correct answer is (D)."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "If 20% ofa=b, thenb% of 20 is the same as:",
+          "options": {
+               "A": "4% ofa",
+               "B": "5% ofa",
+               "C": "20% ofa",
+               "D": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "20% ofa=b20a=b.100b% of 20 =bx 20=20ax1x 20=4a= 4% ofa.100100100100"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "If A =x% ofyand B =y% ofx, then which of the following is true?",
+          "options": {
+               "A": "A is smaller than B.",
+               "B": "A is greater than B",
+               "C": "Relationship between A and B cannot be determined.",
+               "D": "Ifxis smaller thany, then A is greater than B.",
+               "E": "None of these"
+          },
+          "correct_answer": "E",
+          "answer_description": "x% ofy=xxy=yxx=y% ofx100100A = B."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",
+          "options": {
+               "A": "9",
+               "B": "10",
+               "C": "11",
+               "D": "12"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the required number of working hours per day bex.More pumps, Less working hours per day (Indirect Proportion)Less days, More working hours per day (Indirect Proportion)Pumps4:3::8 :xDays1:24 x 1 xx= 3 x 2 x 8x=(3 x 2 x 8)(4)x= 12."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:",
+          "options": {
+               "A": "81 min.",
+               "B": "108 min.",
+               "C": "144 min.",
+               "D": "192 min."
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the slower pipe alone fill the tank inxminutes.Then, faster pipe will fill it inxminutes.31+3=1xx364=1x36x= 144 min."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+          "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "10"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the speed of the stream bexkm/hr. Then,Speed downstream = (15 +x) km/hr,Speed upstream = (15 -x) km/hr.30+30= 41(15 +x)(15 -x)2900=9225 -x229x2= 225x2= 25x= 5 km/hr.Video Explanation:https://youtu.be/lMFnNB3YQOo"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+          "options": {
+               "A": "Rs. 2000",
+               "B": "Rs. 10,000",
+               "C": "Rs. 15,000",
+               "D": "Rs. 20,000"
+          },
+          "correct_answer": "C",
+          "answer_description": "Principal = Rs.100 x 5400= Rs. 15000.12 x 3"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+          "options": {
+               "A": "20",
+               "B": "24",
+               "C": "30",
+               "D": "33"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the side of the square(ABCD) bexmetres.Then, AB + BC = 2xmetres.AC =2x= (1.41x) m.Saving on 2xmetres = (0.59x) m.Saving % =0.59xx 100%= 30% (approx.)2x"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "By investing in 16% stock at 64, one earns Rs. 1500. The investment made is:",
+          "options": {
+               "A": "Rs. 5640",
+               "B": "Rs. 5760",
+               "C": "Rs. 7500",
+               "D": "Rs. 9600"
+          },
+          "correct_answer": "B",
+          "answer_description": "To earn Rs.50, investment = Rs. 64.3To earn Rs. 1500, investment = Rs.64 x3x 1500= Rs. 5760.50"
+     },
+     {
+          "direction": "Direction (Q.No. 6)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:",
+          "options": {
+               "A": "gains Rs. 55",
+               "B": "gains Rs. 50",
+               "C": "loses Rs. 30",
+               "D": "gains Rs. 30"
+          },
+          "correct_answer": "B",
+          "answer_description": "S.P.= P.W. of Rs. 2200 due 1 year hence= Rs.2200 x 100100 + (10 x 1)= Rs. 2000.Gain = Rs. (2000 - 1950) = Rs. 50."
+     },
+     {
+          "direction": "Direction (Q.No. 16)Find the odd man out.",
+          "image_path": null,
+          "question": "10, 25, 45, 54, 60, 75, 80",
+          "options": {
+               "A": "10",
+               "B": "45",
+               "C": "54",
+               "D": "75"
+          },
+          "correct_answer": "C",
+          "answer_description": "Each of the numbers except 54 is multiple of 5."
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "36, 54, 18, 27, 9, 18.5, 4.5",
+          "options": {
+               "A": "4.5",
+               "B": "18.5",
+               "C": "54",
+               "D": "18"
+          },
+          "correct_answer": "B",
+          "answer_description": "The terms are alternatively multiplied by 1.5 and divided by 3. However, 18.5 does not satisfy it."
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "582, 605, 588, 611, 634, 617, 600",
+          "options": {
+               "A": "634",
+               "B": "611",
+               "C": "605",
+               "D": "600"
+          },
+          "correct_answer": "A",
+          "answer_description": "Alternatively 23 is added and 17 is subtracted from the terms. So, 634 is wrong."
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "56, 72, 90, 110, 132, 150",
+          "options": {
+               "A": "72",
+               "B": "110",
+               "C": "132",
+               "D": "150"
+          },
+          "correct_answer": "D",
+          "answer_description": "The numbers are 7 x 8, 8 x 9, 9 x 10, 10 x 11, 11 x 12, 12 x 13.So, 150 is wrong."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Insert the missing number.",
+          "image_path": null,
+          "question": "8, 24, 12, 36, 18, 54, (....)",
+          "options": {
+               "A": "27",
+               "B": "108",
+               "C": "68",
+               "D": "72"
+          },
+          "correct_answer": "A",
+          "answer_description": "Numbers are alternatively multiplied by 3 and divided by 2.So, the next number = 54 ÷ 2 = 27."
+     }
+]

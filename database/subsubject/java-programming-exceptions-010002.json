@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class Test \n{  \n    public static void aMethod() throws Exception \n    {\n        try /* Line 5 */\n        {\n            throw new Exception(); /* Line 7 */\n        } \n        finally /* Line 9 */\n        {\n            System.out.print(\"finally \"); /* Line 11 */\n        } \n    } \n    public static void main(String args[]) \n    {\n        try \n        {\n            aMethod();  \n        } \n        catch (Exception e) /* Line 20 */\n        {\n            System.out.print(\"exception \"); \n        } \n        System.out.print(\"finished\"); /* Line 24 */\n    } \n}",
+        "options": {
+            "A": "finally",
+            "B": "exception finished",
+            "C": "finally exception finished",
+            "D": "Compilation fails"
+        },
+        "correct_answer": "C",
+        "answer_description": "This is what happens:(1) The execution of thetryblock (line 5) completes abruptly because of thethrowstatement (line 7).(2) The exception cannot be assigned to the parameter of any catch clause of thetrystatement therefore thefinallyblock is executed (line 9) and \"finally\" is output (line 11).(3) Thefinallyblock completes normally, and then thetrystatement completes abruptly because of thethrowstatement (line 7).(4) The exception is propagated up the call stack and is caught by the catch in the main method (line 20). This prints \"exception\".(5) Lastly program execution continues, because the exception has been caught, and \"finished\" is output (line 24)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class X \n{ \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod();  \n            System.out.print(\"A\"); \n        }  \n        catch (Exception ex) \n        {\n            System.out.print(\"B\"); \n        }  \n        finally \n        {\n            System.out.print(\"C\"); \n        }  \n        System.out.print(\"D\"); \n    }  \n    public static void badMethod() {} \n}",
+        "options": {
+            "A": "AC",
+            "B": "BC",
+            "C": "ACD",
+            "D": "ABCD"
+        },
+        "correct_answer": "C",
+        "answer_description": "There is no exception thrown, so all the code with the exception of the catch statement block is run."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class X \n{  \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod(); /* Line 7 */\n            System.out.print(\"A\"); \n        } \n        catch (Exception ex) /* Line 10 */\n        {\n            System.out.print(\"B\"); /* Line 12 */\n        } \n        finally /* Line 14 */\n        {\n            System.out.print(\"C\"); /* Line 16 */\n        }  \n        System.out.print(\"D\"); /* Line 18 */\n    } \n    public static void badMethod() \n    {\n        throw new RuntimeException(); \n    } \n}",
+        "options": {
+            "A": "AB",
+            "B": "BC",
+            "C": "ABC",
+            "D": "BCD"
+        },
+        "correct_answer": "D",
+        "answer_description": "(1) ARuntimeExceptionis thrown, this is a subclass of exception.(2) The exception causes thetryto complete abruptly (line 7) therefore line 8 is never executed.(3) The exception is caught (line 10) and \"B\" is output (line 12)(4) Thefinallyblock (line 14) is always executed and \"C\" is output (line 16).(5) The exception was caught, so the program continues with line 18 and outputs \"D\"."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class MyProgram \n{\n    public static void main(String args[])\n    {\n        try \n        {\n            System.out.print(\"Hello world \");\n        }\n        finally \n        {\n            System.out.println(\"Finally executing \");\n        }\n    }\n}",
+        "options": {
+            "A": "Nothing. The program will not compile because no exceptions are specified.",
+            "B": "Nothing. The program will not compile because no catch clauses are specified.",
+            "C": "Hello world.",
+            "D": "Hello world Finally executing"
+        },
+        "correct_answer": "D",
+        "answer_description": "Finally clauses are always executed. The program will first execute thetryblock, printing Hello world, and will then execute the finally block, printing Finally executing.Option A, B, and C are incorrect based on the program logic described above. Remember that either a catch or a finally statement must follow a try. Since the finally is present, the catch is not required."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Exc0 extends Exception { } \nclass Exc1 extends Exc0 { } /* Line 2 */\npublic class Test \n{  \n    public static void main(String args[]) \n    { \n        try \n        {  \n            throw new Exc1(); /* Line 9 */\n        } \n        catch (Exc0 e0) /* Line 11 */\n        {\n            System.out.println(\"Ex0 caught\"); \n        } \n        catch (Exception e) \n        {\n            System.out.println(\"exception caught\");  \n        } \n    } \n}",
+        "options": {
+            "A": "Ex0caught",
+            "B": "exception caught",
+            "C": "Compilation fails because of an error at line 2.",
+            "D": "Compilation fails because of an error at line 9."
+        },
+        "correct_answer": "A",
+        "answer_description": "An exceptionExc1is thrown and is caught by the catch statement on line 11. The code is executed in this block. There is no finally block of code to execute."
+    }
+]

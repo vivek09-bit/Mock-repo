@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+        "options": {
+            "A": "57%",
+            "B": "60%",
+            "C": "65%",
+            "D": "90%"
+        },
+        "correct_answer": "A",
+        "answer_description": "Total number of votes polled = (1136 + 7636 + 11628) = 20400.Required percentage =11628x 100% = 57%.20400"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?",
+        "options": {
+            "A": "Rs. 200",
+            "B": "Rs. 250",
+            "C": "Rs. 300",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the sum paid to Y per week be Rs.z.Then,z+ 120% ofz= 550.z+120z= 55010011z= 5505z=550 x 5= 250.11"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Gauri went to the stationers and bought things worth Rs. 25, out of which 30 paise went on sales tax on taxable purchases. If the tax rate was 6%, then what was the cost of the tax free items?",
+        "options": {
+            "A": "Rs. 15",
+            "B": "Rs. 15.70",
+            "C": "Rs. 19.70",
+            "D": "Rs. 20"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the amount taxable purchases be Rs.x.Then, 6% ofx=30100x=30x100= 5.1006Cost of tax free items = Rs. [25 - (5 + 0.30)] = Rs. 19.70"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rajeev buys good worth Rs. 6650. He gets a rebate of 6% on it. After getting the rebate, he pays sales tax @ 10%. Find the amount he will have to pay for the goods.",
+        "options": {
+            "A": "Rs. 6876.10",
+            "B": "Rs. 6999.20",
+            "C": "Rs. 6654",
+            "D": "Rs. 7000"
+        },
+        "correct_answer": "A",
+        "answer_description": "Rebate = 6% of Rs. 6650 = Rs.6x 6650= Rs. 399.100Sales tax = 10% of Rs. (6650 - 399) = Rs.10x 6251= Rs. 625.10100Final amount = Rs. (6251 + 625.10) = Rs. 6876.10Video Explanation:https://youtu.be/XuiggCTh3SU"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is:",
+        "options": {
+            "A": "4.37%",
+            "B": "5%",
+            "C": "6%",
+            "D": "8.75%"
+        },
+        "correct_answer": "B",
+        "answer_description": "Increase in 10 years = (262500 - 175000) = 87500.Increase% =87500x 100% = 50%.175000Required average =50% = 5%.10"
+    }
+]

@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following class level (nonlocal) variable declarations will not compile?",
+          "options": {
+               "A": "protected int a;",
+               "B": "transient int b = 3;",
+               "C": "private synchronized int e;",
+               "D": "volatile int d;"
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C will not compile; thesynchronizedmodifier applies only to methods.Option A and B will compile becauseprotectedandtransientare legal variable modifiers. Option D will compile becausevolatileis a proper variable modifier."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class ArrayTest \n{ \n    public static void main(String[ ] args)\n    { \n        float f1[ ], f2[ ]; \n        f1 = new float[10]; \n        f2 = f1; \n        System.out.println(\"f2[0] = \" + f2[0]); \n    } \n}",
+          "options": {
+               "A": "It prints f2[0] = 0.0",
+               "B": "It prints f2[0] = NaN",
+               "C": "An error atf2 = f1;causes compile to fail.",
+               "D": "It prints the garbage value."
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct. When you create an array (f1 = new float[10];) the elements are initialises to the default values for the primitive data type (float in this case - 0.0), sof1will contain 10 elements each with a value of 0.0.f2has been declared but has not been initialised, it has the ability to reference or point to an array but as yet does not point to any array.f2 = f1;copies the reference (pointer/memory address) off1intof2so nowf2points at the array pointed to byf1.This means that the values returned byf2are the values returned byf1. Changes tof1are also changes tof2because bothf1andf2point to the same array."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class A \n{ \n    A( ) { } \n} \n\nclass B extends A \n{ }Which statement is true?",
+          "options": {
+               "A": "Class B'S constructor ispublic.",
+               "B": "Class B'S constructor has no arguments.",
+               "C": "Class B'S constructor includes a call tothis( ).",
+               "D": "None of these."
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct.Class BinheritsClass A's constructor which has no arguments.Option A is wrong.Class BinheritsClass A's constructor which uses default access.Option C is wrong. There is just no implicit call tothis( )."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "/* Missing statements ? */\npublic class NewTreeSet extends java.util.TreeSet\n{\n    public static void main(String [] args) \n    {\n        java.util.TreeSet t = new java.util.TreeSet();\n        t.clear();\n    }\n    public void clear() \n    {\n        TreeMap m = new TreeMap();\n        m.clear();\n    }\n}which two statements, added independently at beginning of the program, allow the code to compile?No statement is requiredimport java.util.*;import.java.util.Tree*;import java.util.TreeSet;import java.util.TreeMap;",
+          "options": {
+               "A": "1 only",
+               "B": "2 and 5",
+               "C": "3 and 4",
+               "D": "3 and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) and (5).TreeMapis the only class that must be imported.TreeSetdoes not need an import statement because it is described with a fully qualified name.(1) is incorrect becauseTreeMapmust be imported. (3) is incorrect syntax for an import statement. (4) is incorrect because it will not importTreeMap, which is required."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Two \n{\n    byte x;\n}\n\nclass PassO \n{\n    public static void main(String [] args) \n    {\n        PassO p = new PassO();\n        p.start();\n    }\n\n    void start() \n    {\n        Two t = new Two();\n        System.out.print(t.x + \" \");\n        Two t2 = fix(t);\n        System.out.println(t.x + \" \" + t2.x);\n    }\n\n    Two fix(Two tt) \n    {\n        tt.x = 42;\n        return tt;\n    }\n}",
+          "options": {
+               "A": "null null 42",
+               "B": "0 0 42",
+               "C": "0 42 42",
+               "D": "0 0 0"
+          },
+          "correct_answer": "C",
+          "answer_description": "In thefix()method, the reference variablettrefers to the same object (classTwo) as thetreference variable. Updatingtt.xin thefix()method updatest.x(they are one in the same object). Remember also that the instance variablexin theTwoclass is initialized to 0."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class If1 \n{\n    static boolean b;\n    public static void main(String [] args) \n    {\n        short hand = 42;\n        if ( hand < 50 && !b ) /* Line 7 */\n            hand++;\n        if ( hand > 50 );     /* Line 9 */\n        else if ( hand > 40 ) \n        {\n            hand += 7;\n            hand++;    \n        }\n        else\n            --hand;\n        System.out.println(hand);\n    }\n}",
+          "options": {
+               "A": "41",
+               "B": "42",
+               "C": "50",
+               "D": "51"
+          },
+          "correct_answer": "D",
+          "answer_description": "In Java, boolean instance variables are initialized tofalse, so the if test on line 7 is true and hand is incremented. Line 9 is legal syntax, a do nothing statement. The else-if is true so hand has 7 added to it and is then incremented."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class If2 \n{\n    static boolean b1, b2;\n    public static void main(String [] args) \n    {\n        int x = 0;\n        if ( !b1 ) /* Line 7 */\n        {\n            if ( !b2 ) /* Line 9 */\n            {\n                b1 = true;\n                x++;\n                if ( 5 > 6 ) \n                {\n                    x++;\n                }\n                if ( !b1 ) \n                    x = x + 10;\n                else if ( b2 = true ) /* Line 19 */\n                    x = x + 100;\n                else if ( b1 | b2 ) /* Line 21 */\n                    x = x + 1000;\n            }\n        }\n        System.out.println(x);\n    }\n}",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "101",
+               "D": "111"
+          },
+          "correct_answer": "C",
+          "answer_description": "As instance variables,b1andb2are initialized to false. The if tests on lines 7 and 9 are successful sob1is set to true andxis incremented. The next if test to succeed is on line 19 (note that the code is not testing to see ifb2is true, it is settingb2to be true). Since line 19 was successful, subsequent else-if's (line 21) will be skipped."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int I = 0;\nlabel:\n    if (I < 2) {\n    System.out.print(\"I is \" + I);\n    I++;\n    continue label;\n}",
+          "options": {
+               "A": "I is 0",
+               "B": "I is 0 I is 1",
+               "C": "Compilation fails.",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "The code will not compile because acontinuestatement can only occur in a looping construct. If this syntax were legal, the combination of thecontinueand theifstatements would create a kludgey kind of loop, but the compiler will force you to write cleaner code than this."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int i = 0; \nwhile(1) \n{\n    if(i == 4) \n    {\n        break;\n    } \n    ++i; \n} \nSystem.out.println(\"i = \" + i);",
+          "options": {
+               "A": "i = 0",
+               "B": "i = 3",
+               "C": "i = 4",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "Compilation fails because the argument of thewhileloop, the condition, must be of primitive type boolean. In Java, 1 does not represent the true state of a boolean, rather it is seen as an integer."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int i = 0, j = 5; \ntp: for (;;) \n    {\n        i++;  \n        for (;;) \n        {\n            if(i > --j) \n            {\n                break tp; \n            } \n        } \n        System.out.println(\"i =\" + i + \", j = \" + j);",
+          "options": {
+               "A": "i = 1, j = 0",
+               "B": "i = 1, j = 4",
+               "C": "i = 3, j = 4",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "If you examine the code carefully you will notice a missing curly bracket at the end of the code, this would cause the code to fail."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?try \n{ \n    int x = 0; \n    int y = 5 / x; \n} \ncatch (Exception e) \n{\n    System.out.println(\"Exception\"); \n} \ncatch (ArithmeticException ae) \n{\n    System.out.println(\" Arithmetic Exception\"); \n} \nSystem.out.println(\"finished\");",
+          "options": {
+               "A": "finished",
+               "B": "Exception",
+               "C": "Compilation fails.",
+               "D": "Arithmetic Exception"
+          },
+          "correct_answer": "C",
+          "answer_description": "Compilation fails becauseArithmeticExceptionhas already been caught.ArithmeticExceptionis a subclass ofjava.lang.Exception, by time theArithmeticExceptionhas been specified it has already been caught by theExceptionclass.IfArithmeticExceptionappears beforeException, then the file will compile. When catching exceptions the more specific exceptions must be listed before the more general (the subclasses must be caught before the superclasses)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "A try statement must have at least one corresponding catch block.",
+               "B": "Multiple catch statements can catch the same class of exception more than once.",
+               "C": "An Error that might be thrown in a method must be declared as thrown by that method, or be handled within that method.",
+               "D": "Except in case of VM shutdown, if atryblock starts to execute, a corresponding finally block will always start to execute."
+          },
+          "correct_answer": "D",
+          "answer_description": "A is wrong. Atrystatement can exist without catch, but it must have afinallystatement.B is wrong. Atrystatement executes a block. If a value is thrown and the try statement has one or more catch clauses that can catch it, then control will be transferred to the first such catch clause. If thatcatchblock completes normally, then thetrystatement completes normally.C is wrong.Exceptionsof typeErrorandRuntimeExceptiondo not have to be caught, only checked exceptions (java.lang.Exception) have to be caught. However, speaking ofExceptions,Exceptionsdo not have to be handled in the same method as the throw statement. They can be passed to another method.If you put afinallyblock after atryand its associatedcatchblocks, then \nonce execution enters thetryblock, the code in thatfinallyblock will definitely be executed except in the following circumstances:An exception arising in the finally block itself.The death of the thread.The use ofSystem.exit()Turning off the power to the CPU.I suppose the last three could be classified as VM shutdown."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class Test1 \n{\n    public int value;\n    public int hashCode() { return 42; }\n}\nclass Test2 \n{\n    public int value;\n    public int hashcode() { return (int)(value^5); }\n}which statement is true?",
+          "options": {
+               "A": "class Test1will not compile.",
+               "B": "TheTest1 hashCode()method is more efficient than theTest2 hashCode()method.",
+               "C": "TheTest1 hashCode()method is less efficient than theTest2 hashCode()method.",
+               "D": "class Test2will not compile."
+          },
+          "correct_answer": "C",
+          "answer_description": "The so-called \"hashing algorithm\" implemented byclass Test1will always return the same value, 42, which is legal but which will place all of the hash table entries into a single bucket, the most inefficient setup possible.Option A and D are incorrect because these classes are legal.Option B is incorrect based on the logic described above."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Foo \n{\n    Foo() \n    {\n        System.out.print(\"foo\");\n    }\n    \nclass Bar\n{\n    Bar() \n    {\n        System.out.print(\"bar\");\n    }\n    public void go() \n    {\n        System.out.print(\"hi\");\n    }\n} /* class Bar ends */\n\n    public static void main (String [] args) \n    {\n        Foo f = new Foo();\n        f.makeBar();\n    }\n    void makeBar() \n    {\n        (new Bar() {}).go();\n    }\n}/* class Foo ends */",
+          "options": {
+               "A": "Compilation fails.",
+               "B": "An error occurs at runtime.",
+               "C": "It prints \"foobarhi\"",
+               "D": "It prints \"barhi\""
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is correct because first theFooinstance is created, which means theFooconstructor runs and prints \"foo\". Next, themakeBar()method is invoked which creates aBar, which means theBarconstructor runs and prints \"bar\", and finally thego()method is invoked on the newBarinstance, which means thego()method prints \"hi\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class X \n{\n    public static void main(String [] args) \n    {\n        X x = new X();\n        X x2 = m1(x); /* Line 6 */\n        X x4 = new X();\n        x2 = x4; /* Line 8 */\n        doComplexStuff();\n    }\n    static X m1(X mx) \n    {\n        mx = new X();\n        return mx;\n    }\n}After line 8 runs. how many objects are eligible for garbage collection?",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "3"
+          },
+          "correct_answer": "B",
+          "answer_description": "By the time line 8 has run, the only object without a reference is the one generated as a result of line 6. Remember that \"Java is pass by value,\" so the reference variablexis not affected by them1()method.Ref: http://www.javaworld.com/javaworld/javaqa/2000-05/03-qa-0526-pass.html"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class Test \n{  \n    private Demo d; \n    void start() \n    {  \n        d = new Demo(); \n        this.takeDemo(d); /* Line 7 */\n    } /* Line 8 */\n    void takeDemo(Demo demo) \n    { \n        demo = null;  \n        demo = new Demo(); \n    } \n}When is the Demo object eligible for garbage collection?",
+          "options": {
+               "A": "After line 7",
+               "B": "After line 8",
+               "C": "After thestart()method completes",
+               "D": "When the instance running this code is made eligible for garbage collection."
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct. By a process of elimination.Option A is wrong. The variabledis a member of theTestclass and is never directly set to null.Option B is wrong. A copy of the variabledis set to null and not the actual variabled.Option C is wrong. The variabledexists outside thestart()method (it is a class member). So, when thestart()method finishes the variabledstill holds a reference."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class Bar { } \nclass Test \n{  \n    Bar doBar() \n    {\n        Bar b = new Bar(); /* Line 6 */\n        return b; /* Line 7 */\n    } \n    public static void main (String args[]) \n    { \n        Test t = new Test();  /* Line 11 */\n        Bar newBar = t.doBar();  /* Line 12 */\n        System.out.println(\"newBar\"); \n        newBar = new Bar(); /* Line 14 */\n        System.out.println(\"finishing\"); /* Line 15 */\n    } \n}At what point is theBarobject, created on line 6, eligible for garbage collection?",
+          "options": {
+               "A": "after line 12",
+               "B": "after line 14",
+               "C": "after line 7, whendoBar()completes",
+               "D": "after line 15, whenmain()completes"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct. All references to theBarobject created on line 6 are destroyed when a new reference to a newBarobject is assigned to the variablenewBaron line 14. Therefore theBarobject, created on line 6, is eligible for garbage collection after line 14.Option A is wrong. This actually protects the object from garbage collection.Option C is wrong. Because the reference in thedoBar()method is returned on line 7 and is stored innewBaron line 12. This preserver the object created on line 6.Option D is wrong. Not applicable because the object is eligible for garbage collection after line 14."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class Test \n{ \n    public void foo() \n    {\n        assert false; /* Line 5 */\n        assert false; /* Line 6 */\n    } \n    public void bar()\n    {\n        while(true)\n        {\n            assert false; /* Line 12 */\n        } \n        assert false;  /* Line 14 */\n    } \n}What causes compilation to fail?",
+          "options": {
+               "A": "Line 5",
+               "B": "Line 6",
+               "C": "Line 12",
+               "D": "Line 14"
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct. Compilation fails because of an unreachable statement at line 14. It is a compile-time error if a statement cannot be executed because it is unreachable. The question is now, why is line 20 unreachable? If it is because of the assert then surely line 6 would also be unreachable. The answer must be something other than assert.Examine the following:A while statement can complete normally if and only if at least one of the following is true:- Thewhilestatement is reachable and the condition expression is not a constant expression with value true.-There is a reachable break statement that exits thewhilestatement.The while statement at line 11 is infinite and there is no break statement therefore line 14 is unreachable. You can test this with the following code:public class Test80 \n{ \n    public void foo() \n    {\n        assert false; \n        assert false; \n    } \n    public void bar()\n    {\n        while(true)\n        {\n            assert false; \n            break; \n        } \n        assert false;  \n    } \n}"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?String a = \"newspaper\";\na = a.substring(5,7);\nchar b = a.charAt(1);\na = a + b;\nSystem.out.println(a);",
+          "options": {
+               "A": "apa",
+               "B": "app",
+               "C": "apea",
+               "D": "apep"
+          },
+          "correct_answer": "B",
+          "answer_description": "Bothsubstring()andcharAt()methods are indexed with a zero-base, andsubstring()returns a String of lengtharg2 - arg1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class SqrtExample \n{\n    public static void main(String [] args) \n    {\n        double value = -9.0;\n        System.out.println( Math.sqrt(value));\n    }\n}",
+          "options": {
+               "A": "3.0",
+               "B": "-3.0",
+               "C": "NaN",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "C",
+          "answer_description": "Thesqrt()method returnsNaN(not a number) when it's argument is less than zero."
+     }
+]

@@ -1,0 +1,145 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does thepassivecommand provide to dynamic routing protocols?",
+          "options": {
+               "A": "Stops an interface from sending or receiving periodic dynamic updates.",
+               "B": "Stops an interface from sending periodic dynamic updates but not from receiving updates.",
+               "C": "Stops the router from receiving any dynamic updates.",
+               "D": "Stops the router from sending any dynamic updates."
+          },
+          "correct_answer": "B",
+          "answer_description": "Thepassivecommand, short for passive-interface, stops regular updates from being sent out an interface. However, the interface can still receive updates."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands will allow you to set your Telnet password on a Cisco router?",
+          "options": {
+               "A": "line telnet 0 4",
+               "B": "line aux 0 4",
+               "C": "line vty 0 4",
+               "D": "line con 0"
+          },
+          "correct_answer": "C",
+          "answer_description": "The commandline vty 0 4places you in a prompt that will allow you to set or change your Telnet password."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What flavor of Network Address Translation can be used to have one IP address allow many users to connect to the global Internet?",
+          "options": {
+               "A": "NAT",
+               "B": "Static",
+               "C": "Dynamic",
+               "D": "PAT"
+          },
+          "correct_answer": "D",
+          "answer_description": "Port Address Translation (PAT) allows a one-to-many approach to network address translation."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to upgrade an IOS on a Cisco router?",
+          "options": {
+               "A": "copy tftp run",
+               "B": "copy tftp start",
+               "C": "config net",
+               "D": "copy tftp flash"
+          },
+          "correct_answer": "D",
+          "answer_description": "Thecopy tftp flashcommand places a new file in flash memory, which is the default location for the Cisco IOS in Cisco routers."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands sets the secret password to Cisco?",
+          "options": {
+               "A": "enable secret password Cisco",
+               "B": "enable secret cisco",
+               "C": "enable secret Cisco",
+               "D": "enable password Cisco"
+          },
+          "correct_answer": "C",
+          "answer_description": "The enable secret password is case sensitive, so the second option is wrong. To set theenable secret <password>, use theenable secret <password>command from global configuration mode."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will delete the contents of NVRAM on a router?",
+          "options": {
+               "A": "delete NVRAM",
+               "B": "delete startup-config",
+               "C": "erase NVRAM",
+               "D": "erase start"
+          },
+          "correct_answer": "D",
+          "answer_description": "Theerase startup-configcommand erases the contents of NVRAM and will put you in setup mode if the router is restarted."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Network 206.143.5.0 was assigned to the Acme Company to connect to its ISP. The administrator of Acme would like to configure one router with the commands to access the Internet. Which commands could be configured on the Gateway router to allow Internet access to the entire network?Gateway(config)# ip route 0.0.0.0 0.0.0.0 206.143.5.2Gateway(config)# router ripGateway(config-router)# network 206.143.5.0Gateway(config-router)# network 206.143.5.0 default",
+          "options": {
+               "A": "1 only",
+               "B": "3 only",
+               "C": "1, 2 and 4",
+               "D": "1 and 4"
+          },
+          "correct_answer": "D",
+          "answer_description": "There are actually three different ways to configure the same default route, but only two are shown in the answer. First, you can set a default route with the0.0.0.0 0.0.0.0mask and then specify the next hop, as in option A. Or you can use0.0.0.0 0.0.0.0and use the exit interface instead of the next hop. Finally, you can use option D with theip default-networkcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is route poisoning?",
+          "options": {
+               "A": "It sends back the protocol received from a router as a poison pill, which stops the regular updates.",
+               "B": "It is information received from a router that can't be sent back to the originating router.",
+               "C": "It prevents regular update messages from reinstating a route that has just come up.",
+               "D": "It describes when a router sets the metric for a downed link to infinity."
+          },
+          "correct_answer": "D",
+          "answer_description": "Another way to avoid problems caused by inconsistent updates and to stop network loops is route poisoning. When a network goes down, the distance-vector routing protocol initiates route poisoning by advertising the network with a metric of 16, or unreachable (sometimes referred to as infinite)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is true regarding EIGRP successor routes?A successor route is used by EIGRP to forward traffic to a destination.Successor routes are saved in the topology table to be used if the primary route fails.Successor routes are flagged as \"active\" in the routing table.A successor route may be backed up by a feasible successor route.Successor routes are stored in the neighbor table following the discovery process.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 3",
+               "C": "1 and 4",
+               "D": "3, 4 and 5"
+          },
+          "correct_answer": "C",
+          "answer_description": "Successor routes are the routes picked from the topology table as the best route to a remote network, so these are the routes that IP uses in the routing table to forward traffic to a remote destination. The topology table contains any route that is not as good as the successor route and is considered a feasible successor, or backup route. Remember that all routes are in the topology table, even successor routes."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When a new trunk link is configured on an IOS-based switch, which VLANs are allowed over the link?",
+          "options": {
+               "A": "By default, all VLANs are allowed on the trunk.",
+               "B": "No VLAN's are allowed, you must configure each VLAN by hand.",
+               "C": "Only configured VLAN's are allowed on the link.",
+               "D": "Only extended VLAN's are allowed by default."
+          },
+          "correct_answer": "A",
+          "answer_description": "By default, all VLANs are allowed on the trunk link and you must remove by hand each VLAN that you don't want traversing the trunked link."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you wanted to deny FTP access from network 200.200.10.0 to network 200.199.11.0 but allow everything else, which of the following command strings is valid?",
+          "options": {
+               "A": "access-list 110 deny 200.200.10.0 to network 200.199.11.0 eq ftpaccess-list 111 permit ip any 0.0.0.0 255.255.255.255",
+               "B": "access-list 1 deny ftp 200.200.10.0 200.199.11.0 any any",
+               "C": "access-list 100 deny tcp 200.200.10.0 0.0.0.255 200.199.11.0 0.0.0.255 eq ftp",
+               "D": "access-list 198 deny tcp 200.200.10.0 0.0.0.255 200.199.11.0 0.0.0.255 eq ftpaccess-list 198 permit ip any 0.0.0.0 255.255.255.255"
+          },
+          "correct_answer": "D",
+          "answer_description": "Extended IP access lists use numbers 100-199 and 2000-2699 and filter based on source and destination IP address, protocol number, and port number. The last option is correct because of the second line that specifies permit ip any any. (I used 0.0.0.0 255.255.255.255, which is the same as the any option.) The third option does not have this, so it would deny access but not allow everything else."
+     }
+]

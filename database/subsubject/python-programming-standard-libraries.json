@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thesysmodule?",
+        "options": {
+            "A": "File I/O operations",
+            "B": "System-specific parameters and functions",
+            "C": "Mathematical operations",
+            "D": "Web development"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thesysmodule provides access to some variables used or maintained by the Python interpreter and functions that interact strongly with the interpreter. It is often used for accessing command line arguments, interacting with the Python runtime environment, and more."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which module is commonly used for working with regular expressions?",
+        "options": {
+            "A": "math",
+            "B": "re",
+            "C": "os",
+            "D": "datetime"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theremodule in Python is used for working with regular expressions, allowing you to search, match, and manipulate strings based on specified patterns."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which function is used to open a file for writing?",
+        "options": {
+            "A": "open(\"file.txt\", \"r\")",
+            "B": "open(\"file.txt\", \"w\")",
+            "C": "file.write()",
+            "D": "file.read()"
+        },
+        "correct_answer": "B",
+        "answer_description": "To open a file for writing in Python, you use theopen()function with the mode parameter set to \"w\" (write). For example:file = open(\"file.txt\", \"w\")"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does therandom.choice()function do?",
+        "options": {
+            "A": "Generates a random integer",
+            "B": "Picks a random element from a sequence",
+            "C": "Sorts a list in random order",
+            "D": "Returns a random floating-point number"
+        },
+        "correct_answer": "B",
+        "answer_description": "Therandom.choice()function in Python is used to pick a random element from a sequence, such as a list or tuple."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thejson.dumps()function?",
+        "options": {
+            "A": "Reads JSON data from a file",
+            "B": "Decodes JSON data",
+            "C": "Encodes Python objects into JSON format",
+            "D": "Validates JSON syntax"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thejson.dumps()function is used to encode Python objects into a JSON-formatted string, allowing you to serialize data for storage or transmission."
+    }
+]

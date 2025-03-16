@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 100 m race, A can give B 10 m and C 28 m. In the same race B can give C:",
+        "options": {
+            "A": "18 m",
+            "B": "20 m",
+            "C": "27 m",
+            "D": "9 m"
+        },
+        "correct_answer": "B",
+        "answer_description": "A : B = 100 : 90.A : C = 100 : 72.B : C =BxA=90x100=90.AC1007272When B runs 90 m, C runs 72 m.When B runs 100 m, C runs72x 100m= 80 m.90B can give C 20 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A and B take part in 100 m race. A runs at 5 kmph. A gives B a start of 8 m and still beats him by 8 seconds. The speed of B is:",
+        "options": {
+            "A": "5.15 kmph",
+            "B": "4.14 kmph",
+            "C": "4.25 kmph",
+            "D": "4.4 kmph"
+        },
+        "correct_answer": "B",
+        "answer_description": "A's speed =5 x5m/sec=25m/sec.1818Time taken by A to cover 100 m =100 x18sec= 72 sec.25Time taken by B to cover 92 m = (72 + 8) = 80 sec.B's speed =92x18kmph= 4.14 kmph.805"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+        "options": {
+            "A": "60 m",
+            "B": "40 m",
+            "C": "20 m",
+            "D": "10 m"
+        },
+        "correct_answer": "C",
+        "answer_description": "To reach the winning post A will have to cover a distance of (500 - 140)m,i.e.,360 m.While A covers 3 m, B covers 4 m.While A covers 360 m, B covers4x 360m= 480 m.3Thus, when A reaches the winning post, B covers 480 m and therefore remains 20 m behind.A wins by 20 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 100 m race, A beats B by 10 m and C by 13 m. In a race of 180 m, B will beat C by:",
+        "options": {
+            "A": "5.4 m",
+            "B": "4.5 m",
+            "C": "5 m",
+            "D": "6 m"
+        },
+        "correct_answer": "D",
+        "answer_description": "A : B = 100 : 90.A : C = 100 : 87.B=BxA=90x100=30.CAC1008729When B runs 30 m, C runs 29 m.When B runs 180 m, C runs29x 180m= 174 m.30B beats C by (180 - 174) m = 6 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At a game of billiards, A can give B 15 points in 60 and A can give C to 20 points in 60. How many points can B give C in a game of 90?",
+        "options": {
+            "A": "30 points",
+            "B": "20 points",
+            "C": "10 points",
+            "D": "12 points"
+        },
+        "correct_answer": "C",
+        "answer_description": "A : B = 60 : 45.A : C = 60 : 40.B=BxA=45x60=45=90= 90 : 80.CAC60404080B can give C 10 points in a game of 90."
+    }
+]

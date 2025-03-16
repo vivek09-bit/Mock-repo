@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Low power consumption achieved by CMOS circuits is due to which construction characteristic?",
+        "options": {
+            "A": "complementary pairs",
+            "B": "connecting pads",
+            "C": "DIP packages",
+            "D": "small-scale integration"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A TTL totem pole circuit is designed so that the output transistors are:",
+        "options": {
+            "A": "always on together",
+            "B": "providing phase splitting",
+            "C": "providing voltage regulation",
+            "D": "never on together"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The time needed for an output to change as the result of an input change is known as:",
+        "options": {
+            "A": "noise immunity",
+            "B": "fanout",
+            "C": "propagation delay",
+            "D": "rise time"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

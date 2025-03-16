@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A series of gradually decreasing sine wave oscillations is called:",
+        "options": {
+            "A": "ringing",
+            "B": "slew",
+            "C": "overshooting",
+            "D": "undershooting"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The determination of a digital signal's frequency and       waveshape is best accomplished with which test equipment?",
+        "options": {
+            "A": "an oscilloscope",
+            "B": "a multimeter",
+            "C": "a spectrum analyzer",
+            "D": "a frequency generator"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A logic probe is placed on the output of a gate and the display indicator is dim. A logic pulser is used on each of the input terminals, but the output indication does not change. What is wrong?",
+        "options": {
+            "A": "The dim indication on the logic probe indicates that the supply voltage is probably low.",
+            "B": "The output of the gate appears to be open.",
+            "C": "The LOW indication is the result of a bad ground connection on the logic probe.",
+            "D": "The gate is a tri-state device."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A +5 V PCB power source that has been \"pulled down\" to a +3.4 V level may be due to:",
+        "options": {
+            "A": "a circuit open",
+            "B": "a faulty regulator",
+            "C": "the half-split method",
+            "D": "a circuit short"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Measurement of pulse width should be taken at a 50% mean of the:",
+        "options": {
+            "A": "overshoot and undershoot",
+            "B": "rise and fall",
+            "C": "damping and ringing",
+            "D": "leading and trailing amplitude"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The problem of interfacing IC logic families that have different supply voltages (VCCs) can be solved by using a:",
+        "options": {
+            "A": "level-shifter",
+            "B": "tri-state shifter",
+            "C": "translator",
+            "D": "level-shifter or translator"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ten TTL loads per TTL driver is known as:",
+        "options": {
+            "A": "noise immunity",
+            "B": "power dissipation",
+            "C": "fanout",
+            "D": "propagation delay"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following summarizes the important features of emitter-coupled logic (ECL)?",
+        "options": {
+            "A": "negative voltage operation, high speed, and high power consumption",
+            "B": "good noise immunity, negative logic, high frequency capability, low power dissipation, and short propagation time",
+            "C": "slow propagation time, high frequency response, low power consumption, and high output voltage swings",
+            "D": "poor noise immunity, positive supply voltage operation, good low-frequency operation, and low power"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What quantities must be compatible when interfacing two different logic families?",
+        "options": {
+            "A": "only the currents",
+            "B": "both the voltages and the currents",
+            "C": "only the voltages",
+            "D": "both the power dissipation and the impedance"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "CMOS logic is probably the best all-around circuitry because of its:",
+        "options": {
+            "A": "packing density",
+            "B": "low power consumption",
+            "C": "very high noise immunity",
+            "D": "low power consumption and very high noise immunity"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

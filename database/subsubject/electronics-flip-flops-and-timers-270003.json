@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The truth table for an S-R flip-flop has how many VALID entries?",
+        "options": {
+            "A": "3",
+            "B": "1",
+            "C": "4",
+            "D": "2"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the significance of the J and K terminals on the J-K flip-flop?",
+        "options": {
+            "A": "There is no known significance in their designations.",
+            "B": "The J represents \"jump,\" which is how the Q output reacts whenever the clock goes HIGH and the J input is also HIGH.",
+            "C": "The letters represent the initials of Johnson and King, the co-inventors of the J-K flip-flop.",
+            "D": "All of the other letters of the alphabet are already in use."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following describes the operation of a positive edge-triggered D-type flip-flop?",
+        "options": {
+            "A": "If both inputs are HIGH, the output will toggle.",
+            "B": "The output will follow the input on the leading edge of the clock.",
+            "C": "When both inputs are LOW, an invalid state exists.",
+            "D": "The input is toggled into the flip-flop on the leading edge of the clock and is passed to the output on the trailing edge of the clock."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is one disadvantage of an S-R flip-flop?",
+        "options": {
+            "A": "It has no Enable input.",
+            "B": "It has a RACE condition.",
+            "C": "It has no clock input.",
+            "D": "It has only a single output."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

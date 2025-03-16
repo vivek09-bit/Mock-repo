@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Educational programs for the labour union officials are conducted by",
+          "options": {
+               "A": "the  firm's  industrial  relations department",
+               "B": "the vice-president of information systems",
+               "C": "both (a) and (b)",
+               "D": "neither (a) nor (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The analysis and design of application systems are the responsibility of a _____",
+          "options": {
+               "A": "Computer Operator",
+               "B": "Programmer",
+               "C": "System Analyst",
+               "D": "Data entry operator",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An   optional   facilitates   location program can be used to study",
+          "options": {
+               "A": "factory location alternative",
+               "B": "warehouse location alternatives",
+               "C": "plant location alternatives",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To _____ is to decide in advance on a course of action.",
+          "options": {
+               "A": "master",
+               "B": "decision",
+               "C": "plan",
+               "D": "control",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The functional area showing the greatest interest in the concept of functional information systems is the",
+          "options": {
+               "A": "financial function",
+               "B": "manufacturing function",
+               "C": "both (a) and (6)",
+               "D": "neither (a) nor (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "External data is stored in the",
+          "options": {
+               "A": "market forecast file",
+               "B": "forecast allocation file",
+               "C": "customer file",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the future, users of a computer system may identify themselves by entering a _____ and a fingerprint",
+          "options": {
+               "A": "hard print",
+               "B": "soft print",
+               "C": "voice print",
+               "D": "digital",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When purchase cost is $20, maintenance cost is $0.50, and annual sale are 20 units, EOQ is",
+          "options": {
+               "A": "20",
+               "B": "40",
+               "C": "80",
+               "D": "160",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The model base contains programs",
+          "options": {
+               "A": "written by the firm's programmers",
+               "B": "provided by the computer vendor",
+               "C": "purchased  from outside firms, such as software houses",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The following method/s are used in Transportation Models of Operations Research:",
+          "options": {
+               "A": "VogeFs Approximation Method",
+               "B": "North West Corner Method",
+               "C": "Least Cost Method",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Computing   systems   most   often facilitate planning because they:",
+          "options": {
+               "A": "make it possible to take into account many possibilities in an uncertain situation",
+               "B": "make it possible to solve complex problems",
+               "C": "enable an appropriate data processing system to provide answers quickly",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The employee profile report is used by",
+          "options": {
+               "A": "the manager",
+               "B": "the individual department",
+               "C": "the personnel department",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Sales invoking is a:",
+          "options": {
+               "A": "pre-sales activity",
+               "B": "job of finance department",
+               "C": "post-sales activity",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Customer data (name and address, shipping instructions, credit terms, etc.) is provided by the:",
+          "options": {
+               "A": "manufacturing information system",
+               "B": "order entry subsystem",
+               "C": "billing subsystem",
+               "D": "marketing information system",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Quantitative   evaluation  of  new products assures that",
+          "options": {
+               "A": "the   important   factors   receive management attention",
+               "B": "the factors are weighted according to their relative importance",
+               "C": "both (a) and (b)",
+               "D": "neither (a) nor (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Management by exception is based on a",
+          "options": {
+               "A": "positive attitude towards problem recognition",
+               "B": "negative attitude toward problem recognition",
+               "C": "indifferent     attitude     toward problem recognition",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not one of the factors affecting the difficulty of the MIS project?",
+          "options": {
+               "A": "objectives of the firm",
+               "B": "the existing MIS",
+               "C": "management abilities",
+               "D": "employee attitude",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A greater proportion of time spent in directing on the",
+          "options": {
+               "A": "top management level",
+               "B": "middle management level",
+               "C": "lower management level",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Long-range planning reports produced in an MIS are primarily designed for:",
+          "options": {
+               "A": "top management",
+               "B": "middle management",
+               "C": "lower management",
+               "D": "both (a) and (c)",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Header labels contain",
+          "options": {
+               "A": "creation data",
+               "B": "control totals",
+               "C": "both (a) and (b)",
+               "D": "neither (a) nor (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

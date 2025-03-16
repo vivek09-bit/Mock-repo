@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many of the following numbers are divisible by 132 ?264, 396, 462, 792, 968, 2178, 5184, 6336",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "A",
+        "answer_description": "132 = 4 x 3 x 11So, if the number divisible by all the three number 4, 3 and 11, then the number is divisible by 132 also.26411,3,4  (/)39611,3,4 (/)46211,3 (X)79211,3,4  (/)96811,4  (X)217811,3 (X)51843,4 (X)633611,3,4  (/)Therefore the following numbers are divisible by 132 : 264, 396, 792 and 6336.Required number of number = 4."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(935421 x 625) = ?",
+        "options": {
+            "A": "575648125",
+            "B": "584638125",
+            "C": "584649125",
+            "D": "585628125"
+        },
+        "correct_answer": "B",
+        "answer_description": "935421 x 625 = 935421 x 54= 935421 x1042=935421 x 104=93542100002416= 584638125"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The largest 4 digit number exactly divisible by 88 is:",
+        "options": {
+            "A": "9944",
+            "B": "9768",
+            "C": "9988",
+            "D": "8888",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Largest 4-digit number = 9999\n\n 88) 9999 (113\n     88\n     ----\n     119\n      88\n     ----\n      319\n      264\n      ---\n       55\n      ---\n       \n Required number = (9999 - 55)\n                 = 9944."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a prime number ?",
+        "options": {
+            "A": "33",
+            "B": "81",
+            "C": "93",
+            "D": "97"
+        },
+        "correct_answer": "D",
+        "answer_description": "Clearly, 97 is a prime number."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the unit digit in {(6374)1793x (625)317x (341491)}?",
+        "options": {
+            "A": "0",
+            "B": "2",
+            "C": "3",
+            "D": "5"
+        },
+        "correct_answer": "A",
+        "answer_description": "Unit digit in (6374)1793= Unit digit in (4)1793= Unit digit in [(42)896x 4]= Unit digit in (6 x 4) = 4Unit digit in (625)317= Unit digit in (5)317= 5Unit digit in (341)491= Unit digit in (1)491= 1Required digit = Unit digit in (4 x 5 x 1) = 0."
+    }
+]

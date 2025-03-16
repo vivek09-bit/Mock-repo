@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The output of an AND gate with three inputs, A, B, and C, is HIGH when ________.",
+        "options": {
+            "A": "A = 1, B = 1, C = 0",
+            "B": "A = 0, B = 0, C = 0",
+            "C": "A = 1, B = 1, C = 1",
+            "D": "A = 1, B = 0, C = 1"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a 3-input NOR gate has eight input possibilities, how many of those possibilities will result in a HIGH output?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "7",
+            "D": "8"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a signal passing through a gate is inhibited by sending a LOW into one of the inputs, and the output is HIGH, the gate is a(n):",
+        "options": {
+            "A": "AND",
+            "B": "NAND",
+            "C": "NOR",
+            "D": "OR"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A device used to display one or more digital signals so that they can be compared to expected timing diagrams for the signals is a:",
+        "options": {
+            "A": "DMM",
+            "B": "spectrum analyzer",
+            "C": "logic analyzer",
+            "D": "frequency counter"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When used with an IC, what does the term \"QUAD\" indicate?",
+        "options": {
+            "A": "2 circuits",
+            "B": "4 circuits",
+            "C": "6 circuits",
+            "D": "8 circuits"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

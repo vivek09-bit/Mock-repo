@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is encapsulation?",
+        "options": {
+            "A": "The process of hiding the implementation details of an object and exposing only the necessary functionalities",
+            "B": "The process of combining data and methods into a single unit",
+            "C": "The process of creating multiple instances of a class",
+            "D": "The process of inheriting attributes and behaviors from another class"
+        },
+        "correct_answer": "A",
+        "answer_description": "Encapsulation in Python involves bundling the data and methods of a class and controlling access to the internal details, exposing only the necessary functionalities."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which access specifier in Python is used to indicate that a variable or method should only be accessed within the same class?",
+        "options": {
+            "A": "Public",
+            "B": "Private",
+            "C": "Protected",
+            "D": "Global"
+        },
+        "correct_answer": "B",
+        "answer_description": "Private access specifier in Python is denoted by a single underscore (_), and it indicates that the variable or method should only be accessed within the same class."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the@propertydecorator?",
+        "options": {
+            "A": "To define a class property",
+            "B": "To create a class instance",
+            "C": "To access a class attribute",
+            "D": "To define a getter method for a class attribute"
+        },
+        "correct_answer": "D",
+        "answer_description": "The@propertydecorator is used in Python to define a getter method for a class attribute, allowing controlled access."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about encapsulation in Python is true?",
+        "options": {
+            "A": "Encapsulation is primarily concerned with combining data and methods into a single unit.",
+            "B": "Encapsulation allows unrestricted access to the internal details of an object.",
+            "C": "Encapsulation is achieved through the use of global variables.",
+            "D": "Encapsulation involves exposing all implementation details of an object."
+        },
+        "correct_answer": "A",
+        "answer_description": "Encapsulation in Python involves bundling data and methods into a single unit, promoting modularity and controlled access."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the main advantage of encapsulation in object-oriented programming?",
+        "options": {
+            "A": "It simplifies the process of class instantiation.",
+            "B": "It allows for the creation of multiple instances of a class.",
+            "C": "It promotes code reusability.",
+            "D": "It enhances data security by hiding implementation details."
+        },
+        "correct_answer": "D",
+        "answer_description": "The main advantage of encapsulation is that it enhances data security by hiding the implementation details of an object, preventing direct access and manipulation."
+    }
+]

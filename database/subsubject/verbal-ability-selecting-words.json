@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "Fate smiles ...... those who untiringly grapple with stark realities of life.",
+        "options": {
+            "A": "with",
+            "B": "over",
+            "C": "on",
+            "D": "round"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "The miser gazed ...... at the pile of gold coins in front of him.",
+        "options": {
+            "A": "avidly",
+            "B": "admiringly",
+            "C": "thoughtfully",
+            "D": "earnestly"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "Catching the earlier train will give us the ...... to do some shopping.",
+        "options": {
+            "A": "chance",
+            "B": "luck",
+            "C": "possibility",
+            "D": "occasion"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "I saw a ...... of cows in the field.",
+        "options": {
+            "A": "group",
+            "B": "herd",
+            "C": "swarm",
+            "D": "flock"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "The grapes are now ...... enough to be picked.",
+        "options": {
+            "A": "ready",
+            "B": "mature",
+            "C": "ripe",
+            "D": "advanced"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

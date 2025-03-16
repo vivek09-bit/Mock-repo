@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, arrange the given words in a meaningful sequence and thus find the correct answer from alternatives.",
+        "image_path": null,
+        "question": "Arrange the words given below in a meaningful sequence.1. Key2. Door3. Lock4. Room5. Switch on",
+        "options": {
+            "A": "5, 1, 2, 4, 3",
+            "B": "4, 2, 1, 5, 3",
+            "C": "1, 3, 2, 4, 5",
+            "D": "1, 2, 3, 5, 4"
+        },
+        "correct_answer": "C",
+        "answer_description": "The correct order is :KeyLockDoorRoomSwitch on13245"
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, arrange the given words in a meaningful sequence and thus find the correct answer from alternatives.",
+        "image_path": null,
+        "question": "Arrange the words given below in a meaningful sequence.1. Word2. Paragraph3. Sentence4. Letters5. Phrase",
+        "options": {
+            "A": "4, 1, 5, 2, 3",
+            "B": "4, 1, 3, 5, 2",
+            "C": "4, 2, 5, 1, 3",
+            "D": "4, 1, 5, 3, 2"
+        },
+        "correct_answer": "D",
+        "answer_description": "The correct order is :LettersWordPhraseSentenceParagraph41532"
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, arrange the given words in a meaningful sequence and thus find the correct answer from alternatives.",
+        "image_path": null,
+        "question": "Arrange the words given below in a meaningful sequence.1. Police2. Punishment3. Crime4. Judge5. Judgement",
+        "options": {
+            "A": "3, 1, 2, 4, 5",
+            "B": "1, 2, 4, 3, 5",
+            "C": "5, 4, 3, 2, 1",
+            "D": "3, 1, 4, 5, 2"
+        },
+        "correct_answer": "D",
+        "answer_description": "The correct order is :CrimePoliceJudgeJudgementPunishment31452"
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, arrange the given words in a meaningful sequence and thus find the correct answer from alternatives.",
+        "image_path": null,
+        "question": "Arrange the words given below in a meaningful sequence.1. Family2. Community3. Member4. Locality5. Country",
+        "options": {
+            "A": "3, 1, 2, 4, 5",
+            "B": "3, 1, 2, 5, 4",
+            "C": "3, 1, 4, 2, 5",
+            "D": "3, 1, 4, 5, 2"
+        },
+        "correct_answer": "A",
+        "answer_description": "The correct order is :MemberFamilyCommunityLocalityCountry31245"
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, arrange the given words in a meaningful sequence and thus find the correct answer from alternatives.",
+        "image_path": null,
+        "question": "Arrange the words given below in a meaningful sequence.1. Poverty2. Population3. Death4. Unemployment5. Disease",
+        "options": {
+            "A": "2, 3, 4, 5, 1",
+            "B": "3, 4, 2, 5, 1",
+            "C": "2, 4, 1, 5, 3",
+            "D": "1, 2, 3, 4, 5"
+        },
+        "correct_answer": "C",
+        "answer_description": "The correct order is :PopulationUnemploymentPovertyDiseaseDeath24153"
+    }
+]

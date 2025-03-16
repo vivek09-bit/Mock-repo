@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The members of the Rajya Sabha are",
+          "options": {
+               "A": "directly elected by the people on the basis of universal adult franchise",
+               "B": "elected by the members of the state legislative assemblies",
+               "C": "elected by the members of the state legislative councils",
+               "D": "elected by the members of the state legislative councils and state legislative assemblies"
+          },
+          "correct_answer": "B",
+          "answer_description": "Members of Rajya Sabha are elected by the elected members of the Assemblies of States and Union territories in accordance with the system of proportional representation by means of the single transferable vote."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The islands of Seychelles are located in the",
+          "options": {
+               "A": "Arctic Ocean",
+               "B": "Atlantic Ocean",
+               "C": "Indian Ocean",
+               "D": "Pacific Ocean"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For which of the following disciplines is Nobel Prize awarded?",
+          "options": {
+               "A": "Physics and Chemistry",
+               "B": "Physiology or Medicine",
+               "C": "Literature, Peace and Economics",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "India played its first cricket Test Match in",
+          "options": {
+               "A": "1922",
+               "B": "1932",
+               "C": "1942",
+               "D": "1952"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "ML2T-2is the dimensional formula for",
+          "options": {
+               "A": "moment of inertia",
+               "B": "pressure",
+               "C": "elasticity",
+               "D": "couple acting on a body"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many gold medals did P.T.Usha win in the 1986 Seoul Asian Games?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Gautam Gambhir made his ODI debut in 2003.That match was won by India by 200 runs.How many balls did he face for his 11 runs?",
+          "options": {
+               "A": "10",
+               "B": "11",
+               "C": "22",
+               "D": "33"
+          },
+          "correct_answer": "C",
+          "answer_description": "Gautam Gambhir made his debut aganst Bangladesh in Dhaka on 11 April 2003."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The transformer that develops the high voltage in a home television is commonly called a...?",
+          "options": {
+               "A": "Tesla coil",
+               "B": "Flyback",
+               "C": "Yoke",
+               "D": "Van de Graaf"
+          },
+          "correct_answer": "B",
+          "answer_description": "The flyback is usually connected to the system that pulls the electron beam across the screen in one direction to 'paint' a line of the image and then returns in the other direction much faster."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does CPU stand for?",
+          "options": {
+               "A": "Cute People United",
+               "B": "Commonwealth Press Union",
+               "C": "Computer Parts of USA",
+               "D": "Central Processing Unit"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many bits is a byte?",
+          "options": {
+               "A": "4",
+               "B": "8",
+               "C": "16",
+               "D": "32"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The most abundant rare gas in the atmosphere is",
+          "options": {
+               "A": "He",
+               "B": "Ne",
+               "C": "Ar",
+               "D": "Xe"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "O2released in the process of photosynthesis comes from",
+          "options": {
+               "A": "CO2",
+               "B": "water",
+               "C": "sugar",
+               "D": "pyruvic acid"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Pyorrhoea is a disease of the",
+          "options": {
+               "A": "nose",
+               "B": "gums",
+               "C": "heart",
+               "D": "lungs"
+          },
+          "correct_answer": "B",
+          "answer_description": "Pyorrhoea, or periodontal disease, to give it a proper medical term, is a disease of the gums, it is one of the most widely prevalent diseases. It affects the membrane surrounding the roots of the teeth and leads to loosening of the teeth, pus formation, and shrinkage of the gum. This disease is the primary cause for tooth loss among adults."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The temperature increases rapidly after",
+          "options": {
+               "A": "ionosphere",
+               "B": "exosphere",
+               "C": "stratosphere",
+               "D": "troposphere"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Tripping is associates with",
+          "options": {
+               "A": "Snooker",
+               "B": "Volleyball",
+               "C": "Football",
+               "D": "Cricket"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Girilal Jain was a noted figure in which of the following fields?",
+          "options": {
+               "A": "Social Service",
+               "B": "Journalism",
+               "C": "Literature",
+               "D": "Politics"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The famous book 'Anandmath' was authored by",
+          "options": {
+               "A": "Sarojini Naidu",
+               "B": "Bankim Chandra Chottapadhya",
+               "C": "Sri Aurobindo",
+               "D": "Rabindrnath Tagore"
+          },
+          "correct_answer": "B",
+          "answer_description": "Anand Math is a 1952 Hindi patriotic-historical film directed by Hemen Gupta, based on 'Anandamath', the famous Bengali novel written by Bankim Chandra Chattopadhyay in 1882. The novel and film are set in the events of the Sannyasi Rebellion, which took place in the late 18th century in eastern India, especially Bengal."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is a military alliance?",
+          "options": {
+               "A": "NATO",
+               "B": "NAFTA",
+               "C": "EEC",
+               "D": "ASEAN"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The filament of an electric bulb is made of",
+          "options": {
+               "A": "tungsten",
+               "B": "nichrome",
+               "C": "graphite",
+               "D": "iron"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The main constituents of pearls are",
+          "options": {
+               "A": "calcium oxide and ammonium chloride",
+               "B": "calcium carbonate and magnesium carbonate",
+               "C": "aragonite and conchiolin",
+               "D": "ammonium sulphate and sodium carbonate"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

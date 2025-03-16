@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the frequency counter, what is the function of the Schmitt trigger circuit?",
+        "options": {
+            "A": "To reduce input noise",
+            "B": "To condition the input signal",
+            "C": "To convert non-square waveforms",
+            "D": "To provide a usable signal to the display unit"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "List three basic blocks in the digital clock project.",
+        "options": {
+            "A": "MOD-60, MOD-12 counters",
+            "B": "MOD-5, MOD-10, MOD-12 counters",
+            "C": "MOD-60, MOD-10 counters",
+            "D": "MOD-6, MOD-12, and MOD-10 counters"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When designing an HDL digital system, which is the worst mistake one can make?",
+        "options": {
+            "A": "Concluding that a fundamental block works perfectly",
+            "B": "Failing to provide proper documentation",
+            "C": "Adding blocks of code prior to testing them",
+            "D": "Overlooking a possible VARIABLE"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the keypad application, just after the 4 ms mark the simulation imitates the release of the key by changing the column value back to F hex, which causes thedoutput to go into its Hi-Z state. On the next rising clock edge, what happens todav?",
+        "options": {
+            "A": "It goes HIGH.",
+            "B": "It goes LOW.",
+            "C": "It goes to Hi-Z.",
+            "D": "It goes to 1111H."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For the frequency counter, which is not a control signal from the control and timing block?",
+        "options": {
+            "A": "Clear",
+            "B": "Enable",
+            "C": "Reset",
+            "D": "Store"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

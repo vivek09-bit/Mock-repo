@@ -1,0 +1,58 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions two statements are given and these statements are followed by two conclusions numbered (1) and (2). You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusions and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only (1) conclusion follows(B) If only (2) conclusion follows(C) If either (1) or (2) follows(D) If neither (1) nor (2) follows and(E) If both (1) and (2) follow.",
+        "image_path": null,
+        "question": "Statements:Some dogs are bats. Some bats are cats.Conclusions:Some dogs are cats.Some cats are dogs.",
+        "options": {
+            "A": "Only (1) conclusion follows",
+            "B": "Only (2) conclusion follows",
+            "C": "Either (1) or (2) follows",
+            "D": "Neither (1) nor (2) follows",
+            "E": "Both (1) and (2) follow"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions two statements are given and these statements are followed by two conclusions numbered (1) and (2). You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusions and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only (1) conclusion follows(B) If only (2) conclusion follows(C) If either (1) or (2) follows(D) If neither (1) nor (2) follows and(E) If both (1) and (2) follow.",
+        "image_path": null,
+        "question": "Statements:All the trucks are flies. Some scooters are flies.Conclusions:All the trucks are scooters.Some scooters are trucks.",
+        "options": {
+            "A": "Only (1) conclusion follows",
+            "B": "Only (2) conclusion follows",
+            "C": "Either (1) or (2) follows",
+            "D": "Neither (1) nor (2) follows",
+            "E": "Both (1) and (2) follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Neither (1) nor (2) follows."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions two statements are given and these statements are followed by two conclusions numbered (1) and (2). You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusions and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only (1) conclusion follows(B) If only (2) conclusion follows(C) If either (1) or (2) follows(D) If neither (1) nor (2) follows and(E) If both (1) and (2) follow.",
+        "image_path": null,
+        "question": "Statements:All buildings are chalks. No chalk is toffee.Conclusions:No building is toffeeAll chalks are buildings.",
+        "options": {
+            "A": "Only (1) conclusion follows",
+            "B": "Only (2) conclusion follows",
+            "C": "Either (1) or (2) follows",
+            "D": "Neither (1) nor (2) follows",
+            "E": "Both (1) and (2) follow"
+        },
+        "correct_answer": "A",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions two statements are given and these statements are followed by two conclusions numbered (1) and (2). You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusions and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only (1) conclusion follows(B) If only (2) conclusion follows(C) If either (1) or (2) follows(D) If neither (1) nor (2) follows and(E) If both (1) and (2) follow.",
+        "image_path": null,
+        "question": "Statements:All cars are cats. All fans are cats.Conclusions:All cars are fans.Some fans are cars.",
+        "options": {
+            "A": "Only (1) conclusion follows",
+            "B": "Only (2) conclusion follows",
+            "C": "Either (1) or (2) follows",
+            "D": "Neither (1) nor (2) follows",
+            "E": "Both (1) and (2) follow"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The primary function of the bias circuit is to",
+        "options": {
+            "A": "hold the circuit stable atVCC",
+            "B": "hold the circuit stable atvin",
+            "C": "ensure proper gain is achieved",
+            "D": "hold the circuit stable at the designed Q-point"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A JFET",
+        "options": {
+            "A": "is a current-controlled device",
+            "B": "has a low input resistance",
+            "C": "is a voltage-controlled device",
+            "D": "is always forward-biased"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A source follower has a voltage gain (Av) of",
+        "options": {
+            "A": "AV=gmRd",
+            "B": "AV=gmRS",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The capacitor that produces an ac ground is called a(n)",
+        "options": {
+            "A": "coupling capacitor",
+            "B": "dc open",
+            "C": "bypass capacitor",
+            "D": "ac open"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The formula used to calculate the approximate ac resistance of the base-emitter diode (re) is",
+        "options": {
+            "A": "",
+            "B": "re25 mV ×IC",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

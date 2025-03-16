@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ADC0804 is an example of a ________.",
+        "options": {
+            "A": "single-slope analog-to-digital converter",
+            "B": "dual-slope analog-to-digital converter",
+            "C": "digital-ramp analog-to-digital converter",
+            "D": "successive-approximation analog-to-digital converter"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a digital representation of voltages using an 8-bit binary code, how many values can be defined?",
+        "options": {
+            "A": "16",
+            "B": "64",
+            "C": "128",
+            "D": "256"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 4-bit R/2R ladder digital-to-analog converter uses ________.",
+        "options": {
+            "A": "one resistor value",
+            "B": "two resistor values",
+            "C": "three resistor values",
+            "D": "four resistor values"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A binary-weighted-input digital-to-analog converter has a feedback resistor, Rf, of 12 k. If 50A of current is through the resistor, voltage out of the circuit is ________.",
+        "options": {
+            "A": "0.6 V",
+            "B": "–0.6 V",
+            "C": "0.1 V",
+            "D": "–0.1 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The resolution of a 6-bit DAC is ________.",
+        "options": {
+            "A": "63%",
+            "B": "64%",
+            "C": "15.9%",
+            "D": "1.59%"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

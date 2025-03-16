@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which electromagnetic device has a movable iron core called aplunger?",
+        "options": {
+            "A": "A speaker",
+            "B": "A dc generator",
+            "C": "A relay",
+            "D": "A solenoid"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which electromagnetic device contains anarmature?",
+        "options": {
+            "A": "A speaker",
+            "B": "A dc generator",
+            "C": "A relay",
+            "D": "A solenoid"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The polarity of induced voltage while a field is collapsing is",
+        "options": {
+            "A": "independent of the force creating the field",
+            "B": "opposite to the force creating the field",
+            "C": "identical to the force creating the field",
+            "D": "present only if the force is stationary"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

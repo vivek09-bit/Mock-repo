@@ -1,0 +1,271 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the sum of two numbers is 55 and the H.C.F. and L.C.M. of these numbers are 5 and 120 respectively, then the sum of the reciprocals of the numbers is equal to:",
+          "options": {
+               "A": "55601",
+               "B": "60155",
+               "C": "11120",
+               "D": "12011"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the numbers beaandb.Then,a+b= 55 andab= 5 x 120 = 600.The required sum =1+1=a+b=55=11abab600120"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",
+          "options": {
+               "A": "9000",
+               "B": "9400",
+               "C": "9600",
+               "D": "9800"
+          },
+          "correct_answer": "C",
+          "answer_description": "Greatest number of 4-digits is 9999.L.C.M. of 15, 25, 40 and 75 is 600.On dividing 9999 by 600, the remainder is 399.Required number (9999 - 399) = 9600."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ifa= 0.1039, then the value of4a2- 4a+ 1+ 3ais:",
+          "options": {
+               "A": "0.1039",
+               "B": "0.2078",
+               "C": "1.1039",
+               "D": "2.1039"
+          },
+          "correct_answer": "C",
+          "answer_description": "4a2- 4a+ 1+ 3a=(1)2+ (2a)2- 2 x 1 x 2a+ 3a=(1 - 2a)2+ 3a= (1 - 2a) + 3a= (1 +a)= (1 + 0.1039)= 1.1039"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is:",
+          "options": {
+               "A": "380",
+               "B": "395",
+               "C": "400",
+               "D": "425"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the numbers bexandy.Then,xy= 9375 andx= 15.yxy=9375(x/y)15y2= 625.y= 25.x= 15y= (15 x 25) = 375.Sum of the numbers =x+y= 375 + 25 = 400."
+     },
+     {
+          "direction": "Direction (Q.No. 5)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the two-digit number?I.The difference between the two-digit number and the number formed by interchanging the digits is 27.II.The difference between the two digits is 3.III.The digit at unit's place is less than that at ten's place by 3.",
+          "options": {
+               "A": "I and II only",
+               "B": "I and III only",
+               "C": "All I, II and III",
+               "D": "I, and either II or III",
+               "E": "Even with all I, II and III, answer cannot be give."
+          },
+          "correct_answer": "E",
+          "answer_description": "Let the tens and units digit bexandyrespectively.I. (10x+y) - (10y+x)x-y= 3.II.x-y= 3.III.x-y= 3.Thus, even all the given three statements together do not give the answer.Correct answer is (E)."
+     },
+     {
+          "direction": "Direction (Q.No. 5)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+          "options": {
+               "A": "24",
+               "B": "27",
+               "C": "40",
+               "D": "Cannot be determined",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let the present ages of Sameer and Anand be 5xyears and 4xyears respectively.Then,5x+ 3=114x+ 399(5x+ 3) = 11(4x+ 3)45x+ 27 = 44x+ 3345x- 44x= 33 - 27x= 6.Anand's present age = 4x= 24 years."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is Sonia's present age?I.Sonia's present age is five times Deepak's present age.II.Five years ago her age was twenty-five times Deepak's age at that time.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "E",
+          "answer_description": "I. S = 5DD =S....(i)5II. S - 5 = 25 (D - 5)S = 25D - 120 ....(ii)Using (i) in (ii), we get S =25 xS- 12054S = 120.S = 30.Thus, I and II both together give the answer. So, correct answer is (E)."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "If 3(x-y)= 27 and 3(x+y)= 243, thenxis equal to:",
+          "options": {
+               "A": "0",
+               "B": "2",
+               "C": "4",
+               "D": "6"
+          },
+          "correct_answer": "C",
+          "answer_description": "3x-y= 27 = 33x-y= 3 ....(i)3x+y= 243 = 35x+y= 5 ....(ii)On solving (i) and (ii), we getx= 4."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+          "options": {
+               "A": "30%",
+               "B": "331%3",
+               "C": "35%",
+               "D": "44%"
+          },
+          "correct_answer": "D",
+          "answer_description": "Suppose, number of articles bought = L.C.M. of 6 and 5 = 30.C.P. of 30 articles = Rs.5x 30= Rs. 25.6S.P. of 30 articles = Rs.6x 30= Rs. 36.5Gain % =11x 100% = 44%.25"
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the length of a running train?I.The train crosses a man in 9 seconds.II.The train crosses a 240 metre long platform in 24 seconds.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "E",
+          "answer_description": "Time taken by train to cross a man =Length of trainSpeed =l....(i)Speed of train9Time taken by trainto cross a platform =(Length of train +Length of platform)Speed =l+ 240....(ii)Speed of train24From (i) and (ii), we getl=l+ 240.924Thus,lcan be obtained. So both I and II are necessary to get the answer.The correct answer is (E)."
+     },
+     {
+          "direction": "Direction (Q.No. 11)Each of these questions is followed by three statements. You have to study the question and all the three statements given to decide whether any information provided in the statement(s) is redundant and can be dispensed with while answering the given question.",
+          "image_path": null,
+          "question": "At what time will the train reach city X from city Y?I.The train crosses another train of equal length of 200 metres and running in opposite directions in 15 seconds.II.The train leaves city Y at 7.15 a.m. for city X situated at a distance of 558 km.III.The 200 metres long train crosses a signal pole in 10 seconds.",
+          "options": {
+               "A": "I only",
+               "B": "II only",
+               "C": "III only",
+               "D": "II and III only",
+               "E": "All I, II and III are required."
+          },
+          "correct_answer": "D",
+          "answer_description": "From the statement I, we get length of the train is 200 metres (Redundant info while comparing with Statement III). The rest of the info given in this statement cannot be used for calculating the speed of the train, because the two trains might run at different speed.III gives, speed =200m/sec = 20 m/sec =20 x18km/hr = 72 km/hr.105II gives, time taken =558hrs =31hrs = 73hrs = 7 hrs 45 min.7244So, the train will reach city X at 3 p.m.Hence II and III only gives the answer."
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the speed of the boat in still water?I.The speed downstream is 12 kmph.II.The speed upstream is 4 kmph.III.In a to and fro journey between two points, the average speed of the boat was 6 kmph.",
+          "options": {
+               "A": "I and II only",
+               "B": "All I, II and III",
+               "C": "III, and either I or II",
+               "D": "Any two of the three",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "From I and II, speed of boat in still water =1(12 + 4) km/hr = 8 km/hr.2From II and III, we get:Using average speed =2xy, we get:2 x 4 xy= 6x+y4 +y8y= 24 + 6yy= 12.Required speed =1(12 + 4) km/hr = 8 km/hr.2Similarly, I and III also give the answer.Correct answer is (D)."
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+          "options": {
+               "A": "Rs. 6400",
+               "B": "Rs. 6500",
+               "C": "Rs. 7200",
+               "D": "Rs. 7500",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let the sum invested in Scheme A be Rs.xand that in Scheme B be Rs. (13900 -x).Then,xx 14 x 2+(13900 -x) x 11 x 2= 350810010028x- 22x= 350800 - (13900 x 22)6x= 45000x= 7500.So, sum invested in Scheme B = Rs. (13900 - 7500) = Rs. 6400.Video Explanation:https://youtu.be/Xi4kU9y6ppk"
+     },
+     {
+          "direction": "Direction (Q.No. 14)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the principal sum?I.The sum amounts to Rs. 690 in 3 years at S.I.II.The sum amounts to Rs. 750 in 5 years at S.I.III.The rate of interest is 5% p.a.",
+          "options": {
+               "A": "I and III only",
+               "B": "II and III only",
+               "C": "I and II only",
+               "D": "I and III only, or II and III only",
+               "E": "Any two of the three"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, any two of the three will give us the answer.Correct answer is (E)."
+     },
+     {
+          "direction": "Direction (Q.No. 14)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "66 cubic centimetres of silver is drawn into a wire 1 mm in diameter. The length of the wire in metres will be:",
+          "options": {
+               "A": "84",
+               "B": "90",
+               "C": "168",
+               "D": "336"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let the length of the wire beh.Radius =1mm=1cm.Then,22022x1x1xh= 66.72020h=66 x 20 x 20 x 7= 8400 cm = 84 m.22"
+     },
+     {
+          "direction": "Direction (Q.No. 14)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "How many times in a day, are the hands of a clock in straight line but opposite in direction?",
+          "options": {
+               "A": "20",
+               "B": "22",
+               "C": "24",
+               "D": "48"
+          },
+          "correct_answer": "B",
+          "answer_description": "The hands of a clock point in opposite directions (in the same straight line) 11 times in every 12 hours. (Because between 5 and 7 they point in opposite directions at 6 o'clock only).So, in a day, the hands point in the opposite directions 22 times."
+     },
+     {
+          "direction": "Direction (Q.No. 14)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "The cost price of a Rs. 100 stock at 4 discount, when brokerage is1%is:4",
+          "options": {
+               "A": "Rs. 95.75",
+               "B": "Rs. 96",
+               "C": "Rs. 96.25",
+               "D": "Rs. 104.25"
+          },
+          "correct_answer": "C",
+          "answer_description": "C.P. = Rs.100 - 4 +1= Rs. 96.254"
+     },
+     {
+          "direction": "Direction (Q.No. 14)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+          "options": {
+               "A": "564",
+               "B": "645",
+               "C": "735",
+               "D": "756",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "We may have (3 men and 2 women) or (4 men and 1 woman) or (5 men only).Required number of ways= (7C3x6C2) + (7C4x6C1) + (7C5)=7 x 6 x 5x6 x 5+ (7C3x6C1) + (7C2)3 x 2 x 12 x 1= 525 +7 x 6 x 5x 6+7 x 63 x 2 x 12 x 1= (525 + 210 + 21)= 756."
+     },
+     {
+          "direction": "Direction (Q.No. 14)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "The true discount on a bill due 9 months hence at 16% per annum is Rs. 189. The amount of the bill is:",
+          "options": {
+               "A": "Rs. 1386",
+               "B": "Rs. 1764",
+               "C": "Rs. 1575",
+               "D": "Rs. 2268"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let P.W. be Rs.x.Then, S.I. on Rs.xat 16% for 9 months = Rs. 189.xx 16 x9x1= 189 orx= 1575.12100P.W. = Rs. 1575.Sum due = P.W. + T.D. = Rs. (1575 + 189) = Rs. 1764."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Find the odd man out.",
+          "image_path": null,
+          "question": "41, 43, 47, 53, 61, 71, 73, 81",
+          "options": {
+               "A": "61",
+               "B": "71",
+               "C": "73",
+               "D": "81"
+          },
+          "correct_answer": "D",
+          "answer_description": "Each of the numbers except 81 is a prime number."
+     }
+]

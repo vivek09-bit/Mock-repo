@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+        "options": {
+            "A": "230 m",
+            "B": "240 m",
+            "C": "260 m",
+            "D": "320 m",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Relative speed = (120 + 80) km/hr=200 x5m/sec18=500m/sec.9Let the length of the other train bexmetres.Then,x+ 270=50099x+ 270 = 500x= 230."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+        "options": {
+            "A": "230 m",
+            "B": "240 m",
+            "C": "260 m",
+            "D": "270 m"
+        },
+        "correct_answer": "D",
+        "answer_description": "Speed =72 x5m/sec= 20 m/sec.18Time = 26 sec.Let the length of the train bexmetres.Then,x+ 250= 2026x+ 250 = 520x= 270."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast the other, then the speed of the faster train is:",
+        "options": {
+            "A": "30 km/hr",
+            "B": "45 km/hr",
+            "C": "60 km/hr",
+            "D": "75 km/hr"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the speed of the slower train bexm/sec.Then, speed of the faster train = 2xm/sec.Relative speed = (x+ 2x) m/sec = 3xm/sec.(100 + 100)= 3x824x= 200x=25.3So, speed of the faster train =50m/sec3=50x18km/hr35= 60 km/hr."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is:",
+        "options": {
+            "A": "9",
+            "B": "9.6",
+            "C": "10",
+            "D": "10.8"
+        },
+        "correct_answer": "D",
+        "answer_description": "Relative speed = (60 + 40) km/hr =100 x5m/sec=250m/sec.189Distance covered in crossing each other = (140 + 160) m = 300 m.Required time =300 x9sec=54sec = 10.8 sec.2505"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
+        "options": {
+            "A": "5 sec",
+            "B": "6 sec",
+            "C": "7 sec",
+            "D": "10 sec"
+        },
+        "correct_answer": "B",
+        "answer_description": "Speed of train relative to man = (60 + 6) km/hr = 66 km/hr.=66 x5m/sec18=55m/sec.3Time taken to pass the man =110 x3sec = 6 sec.55"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+        "options": {
+            "A": "2 hours",
+            "B": "3 hours",
+            "C": "4 hours",
+            "D": "5 hours"
+        },
+        "correct_answer": "C",
+        "answer_description": "Speed downstream = (13 + 4) km/hr = 17 km/hr.Time taken to travel 68 km downstream =68hrs = 4 hrs.17"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
+        "options": {
+            "A": "8.5 km/hr",
+            "B": "9 km/hr",
+            "C": "10 km/hr",
+            "D": "12.5 km/hr"
+        },
+        "correct_answer": "C",
+        "answer_description": "Man's rate in still water = (15 - 2.5) km/hr = 12.5 km/hr.Man's rate against the current = (12.5 - 2.5) km/hr = 10 km/hr."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?",
+        "options": {
+            "A": "2 : 1",
+            "B": "3 : 2",
+            "C": "8 : 3",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the man's rate upstream bexkmph and that downstream beykmph.Then, distance covered upstream in 8 hrs 48 min = Distance covered downstream in 4 hrs.xx 84= (yx 4)544x=4y5y=11x.5Required ratio =y+x:y-x22=16xx1:6xx15252=8:355= 8 : 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "10"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the speed of the stream bexkm/hr. Then,Speed downstream = (15 +x) km/hr,Speed upstream = (15 -x) km/hr.30+30= 41(15 +x)(15 -x)2900=9225 -x229x2= 225x2= 25x= 5 km/hr.Video Explanation:https://youtu.be/lMFnNB3YQOo"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is:",
+        "options": {
+            "A": "3 km/hr",
+            "B": "5 km/hr",
+            "C": "8 km/hr",
+            "D": "9 km/hr"
+        },
+        "correct_answer": "C",
+        "answer_description": "Speed in still water =1(11 + 5) kmph = 8 kmph.2Video Explanation:https://youtu.be/KQX_mA3tcVA"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following products was the first to implement true relational algebra in a PC DBMS?",
+        "options": {
+            "A": "IDMS",
+            "B": "Oracle",
+            "C": "dBase-II",
+            "D": "R:base"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL stands for ________ .",
+        "options": {
+            "A": "Structured Query Language",
+            "B": "Sequential Query Language",
+            "C": "Structured Question Language",
+            "D": "Sequential Question Language"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Because it contains a description of its own structure, a database is considered to be ________ .",
+        "options": {
+            "A": "described",
+            "B": "metadata compatible",
+            "C": "self-describing",
+            "D": "an application program"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following are functions of a DBMS except ________ .",
+        "options": {
+            "A": "creating and processing forms",
+            "B": "creating databases",
+            "C": "processing data",
+            "D": "administrating databases"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Helping people keep track of things is the purpose of a(n) ________ .",
+        "options": {
+            "A": "database",
+            "B": "table",
+            "C": "instance",
+            "D": "relationship"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

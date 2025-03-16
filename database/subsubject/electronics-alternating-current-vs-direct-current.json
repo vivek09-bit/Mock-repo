@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the two main applications for ac?",
+        "options": {
+            "A": "direct, pulsating",
+            "B": "electric, magnetic",
+            "C": "power, information",
+            "D": "static, dynamic"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The distance that a signal's energy can travel in the time it takes for one cycle to occur is called the signal's:",
+        "options": {
+            "A": "amplitude",
+            "B": "frequency",
+            "C": "wavelength",
+            "D": "period"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One oscilloscope selector knob that allows the major and minor divisions of the graticule to be used to determine a signal amplitude value is called the:",
+        "options": {
+            "A": "time/cm control",
+            "B": "position control",
+            "C": "intensity control",
+            "D": "volts/cm control"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If current varies periodically from zero to a maximum, back to zero, and then repeats, the signal is:",
+        "options": {
+            "A": "direct",
+            "B": "alternating",
+            "C": "pulsating",
+            "D": "repetitive"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What voltage will an ac voltmeter display?",
+        "options": {
+            "A": "rms",
+            "B": "average",
+            "C": "peak",
+            "D": "peak-to-peak"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

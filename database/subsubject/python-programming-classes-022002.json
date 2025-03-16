@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the@classmethoddecorator?",
+        "options": {
+            "A": "It defines a class method that can be called on an instance.",
+            "B": "It is used to create a static method in a class.",
+            "C": "It marks a method as abstract and must be implemented in derived classes.",
+            "D": "It indicates a method that takes the class as its first parameter."
+        },
+        "correct_answer": "D",
+        "answer_description": "The@classmethoddecorator in Python is used to define a class method. A class method takes the class as its first parameter, conventionally namedcls, allowing it to access and modify class-level attributes."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the@staticmethoddecorator?",
+        "options": {
+            "A": "It is used to define a method that only operates on instance variables.",
+            "B": "It indicates a method that can be called without creating an instance of the class.",
+            "C": "It marks a method as private and inaccessible from outside the class.",
+            "D": "It specifies a method that cannot be overridden in derived classes."
+        },
+        "correct_answer": "B",
+        "answer_description": "The@staticmethoddecorator is used to define a static method in a class. Static methods are not bound to an instance and can be called on the class itself without creating an object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of thesuper()function within a subclass method?",
+        "options": {
+            "A": "It calls the constructor of the superclass.",
+            "B": "It returns the superclass object.",
+            "C": "It initializes the subclass attributes.",
+            "D": "It creates a copy of the superclass."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesuper()function is used in a subclass to call a method or constructor from its superclass. It is commonly used within the constructor (__init__) to invoke the constructor of the parent class."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is encapsulation in the context of object-oriented programming?",
+        "options": {
+            "A": "It refers to the process of creating an instance of a class.",
+            "B": "It is the mechanism of binding the data and the methods that operate on the data.",
+            "C": "It signifies the inheritance hierarchy of classes.",
+            "D": "It is the process of hiding the implementation details of an object and exposing only what is necessary."
+        },
+        "correct_answer": "D",
+        "answer_description": "Encapsulation is one of the pillars of object-oriented programming and involves bundling the data (attributes) and the methods that operate on the data into a single unit. It helps in hiding the internal implementation details of an object and exposing only what is essential."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__del__method?",
+        "options": {
+            "A": "It is called when an object is created.",
+            "B": "It is used to delete a class variable.",
+            "C": "It is called when an object is about to be destroyed and its memory released.",
+            "D": "It defines the destructor of the class."
+        },
+        "correct_answer": "C",
+        "answer_description": "The__del__method is a special method in Python classes that is called when an object is about to be destroyed and its memory is released. It is often used to perform cleanup operations before an object is removed from memory."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 20 Vacseries RC circuit, if 20 V is measured across the resistor and 40 V is measured across the capacitor, the applied voltage is:",
+        "options": {
+            "A": "45 V",
+            "B": "50 V",
+            "C": "55 V",
+            "D": "60 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Select the equation below that represents the relationship between charge, capacitance, and voltage for a capacitor.",
+        "options": {
+            "A": "Q = CV",
+            "B": "C = QV",
+            "C": "",
+            "D": "V = IR"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When is a capacitor fully charged?",
+        "options": {
+            "A": "when the voltage across its plates isof the voltage from ground to one of its plates",
+            "B": "when the current through the capacitor is the same as when the capacitor is discharged",
+            "C": "when the voltage across the plates is 0.707 of the input voltage",
+            "D": "when the current through the capacitor is directly proportional to the area of the plates"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the reactive power in the given circuit?",
+        "options": {
+            "A": "0 VAR",
+            "B": "691VAR",
+            "C": "44.23 mVAR",
+            "D": "1.45 kVAR"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the angle theta value for a 5.6F capacitor and a 50-ohm resistor in series with a 1.1 kHz, 5 Vacsource?",
+        "options": {
+            "A": "27.3 degrees",
+            "B": "62.7 degrees",
+            "C": "–27.3 degrees",
+            "D": "–62.7 degrees"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

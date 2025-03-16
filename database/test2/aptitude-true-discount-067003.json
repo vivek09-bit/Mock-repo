@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rs. 20 is the true discount on Rs. 260 due after a certain time. What will be the true discount on the same sum due after half of the former time, the rate of interest being the same?",
+        "options": {
+            "A": "Rs. 10",
+            "B": "Rs. 10.40",
+            "C": "Rs. 15.20",
+            "D": "Rs. 13"
+        },
+        "correct_answer": "B",
+        "answer_description": "S.I. on Rs. (260 - 20) for a given time = Rs. 20.S.I. on Rs. 240 for half the time = Rs. 10.T.D. on Rs. 250 = Rs. 10.T.D. on Rs. 260 = Rs.10x 260= Rs. 10.40250"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The interest on Rs. 750 for 2 years is the same as the true discount on Rs. 960 due 2 years hence. If the rate of interest is the same in both cases, it is:",
+        "options": {
+            "A": "12%",
+            "B": "14%",
+            "C": "15%",
+            "D": "162%3"
+        },
+        "correct_answer": "B",
+        "answer_description": "S.I. on Rs. 750 = T.D. on Rs. 960.This means P.W. of Rs. 960 due 2 years hence is Rs. 750.T.D. = Rs. (960 - 750) = Rs. 210.Thus, S.I. on R.s 750 for 2 years is Rs. 210.Rate =100 x 210%= 14%750 x 2"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The simple interest and the true discount on a certain sum for a given time and at a given rate are Rs. 85 and Rs. 80 respectively. The sum is:",
+        "options": {
+            "A": "Rs. 1800",
+            "B": "Rs. 1450",
+            "C": "Rs. 1360",
+            "D": "Rs. 6800"
+        },
+        "correct_answer": "C",
+        "answer_description": "Sum =S.I. x T.D.=85 x 80= Rs. 1360.(S.I.) - (T.D.)(85 - 80)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The present worth of Rs. 1404 due in two equal half-yearly installments at 8% per annum simple interest is:",
+        "options": {
+            "A": "Rs. 1325",
+            "B": "Rs. 1300",
+            "C": "Rs. 1350",
+            "D": "Rs. 1500"
+        },
+        "correct_answer": "A",
+        "answer_description": "Required sum= P.W. of Rs. 702 due 6 months + P.W. of Rs. 702 due 1 year hence= Rs.100 x 702+100 x 702100 + (8 x 1)100 + 8 x= Rs. (675 + 650)= Rs. 1325."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the true discount on s sum due 2 years hence at 14% per annum be Rs. 168, the sum due is:",
+        "options": {
+            "A": "Rs. 768",
+            "B": "Rs. 968",
+            "C": "Rs. 1960",
+            "D": "Rs. 2400"
+        },
+        "correct_answer": "A",
+        "answer_description": "P.W. =100 x T.D.=100 x 168= 600.R x T14 x 2Sum = (P.W. + T.D.) = Rs. (600 + 168) = Rs. 768."
+    }
+]

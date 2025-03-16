@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true for a relational database?",
+        "options": {
+            "A": "Data is represented by tables.",
+            "B": "It is difficult to access data.",
+            "C": "Complex programs have to be written for simple queries.",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Some advantages of the database approach include all, but:",
+        "options": {
+            "A": "minimal data redundancy.",
+            "B": "improved data consistency.",
+            "C": "improved data sharing.",
+            "D": "program-data dependency."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An enterprise database is which of the following?",
+        "options": {
+            "A": "A database designed to support only users external to an organization",
+            "B": "A database designed to support an entire organization",
+            "C": "A database designed to support a relatively small group",
+            "D": "A database designed to support a single PC"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Structured data may include which of the following?",
+        "options": {
+            "A": "Photo image",
+            "B": "Video clip",
+            "C": "Dates",
+            "D": "None of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An extranet is which of the following?",
+        "options": {
+            "A": "The use of Internet protocols with limited access to company data by the company's customers and suppliers.",
+            "B": "The use of Internet protocols with unlimited access to company data by the company's customers and suppliers.",
+            "C": "The use of Internet protocols with limited access to company data by people within an organization.",
+            "D": "The use of Internet protocols with unlimited access to company data by people within an organization."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

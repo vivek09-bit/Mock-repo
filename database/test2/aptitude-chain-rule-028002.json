@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man completesof a job in 10 days. At this rate, how many more days will it takes him to finish the job?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "712"
+        },
+        "correct_answer": "B",
+        "answer_description": "Work done =58Balance work =1 -5=388Let the required number of days bex.Then,5:3=::10 :x5xx=3x 108888x=3x 10 x885x= 6."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a quarter kg of potato costs 60 paise, how many paise will 200 gm cost?",
+        "options": {
+            "A": "48 paise",
+            "B": "54 paise",
+            "C": "56 paise",
+            "D": "72 paise"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the required weight bexkg.Less weight, Less cost (Direct Proportion)250 : 200::60 :x250 xx= (200 x 60)x=(200 x 60)250x= 48."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a dairy farm, 40 cows eat 40 bags of husk in 40 days. In how many days one cow will eat one bag of husk?",
+        "options": {
+            "A": "1",
+            "B": "140",
+            "C": "40",
+            "D": "80"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the required number of days bex.Less cows, More days (Indirect Proportion)Less bags, Less days (Direct Proportion)Cows1:40::40 :xBags40:11 x 40 xx= 40 x 1 x 40x= 40."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, then the number of revolutions mad by the larger wheel is:",
+        "options": {
+            "A": "4",
+            "B": "9",
+            "C": "12",
+            "D": "49"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the required number of revolutions made by larger wheel bex.Then,More cogs, Less revolutions (Indirect Proportion)14 : 6::21 :x14 xx= 6 x 21x=6 x 2114x= 9."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 7 spiders make 7 webs in 7 days, then 1 spider will make 1 web in how many days?",
+        "options": {
+            "A": "1",
+            "B": "72",
+            "C": "7",
+            "D": "49"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the required number days bex.Less spiders, More days (Indirect Proportion)Less webs, Less days (Direct Proportion)Spiders1:7::7 :xWebs7:11 x 7 xx= 7 x 1 x 7x= 7."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code:my_dict = {\"a\": 1, \"b\": 2}\ndel my_dict[\"c\"]\nprint(my_dict)",
+        "options": {
+            "A": "{\"a\": 1, \"b\": 2}",
+            "B": "{\"a\": 1, \"b\": 2, \"c\": None}",
+            "C": "{\"a\": 1, \"b\": 2, \"c\": undefined}",
+            "D": "An error is raised"
+        },
+        "correct_answer": "D",
+        "answer_description": "The given code attempts to delete the key\"c\"from the dictionarymy_dict.However, since\"c\"is not a valid key in the dictionary, thedel my_dict[\"c\"]operation will raise a KeyError.Therefore, the output of the code will be a KeyError:Traceback (most recent call last):\n  File \"example.py\", line 2, indel my_dict[\"c\"]\nKeyError: 'c'"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code:my_tuple = (1, 2, 3)\nmy_tuple[0] = 4\nprint(my_tuple)",
+        "options": {
+            "A": "(1, 2, 3)",
+            "B": "(4, 2, 3)",
+            "C": "An error is raised",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "In the given code, the tuplemy_tupleis created with the values(1, 2, 3). However, the subsequent attempt to modify the first element of the tuple using the assignmentmy_tuple[0] = 4will result in an error.Tuples in Python are immutable, meaning their elements cannot be modified after the tuple is created. Therefore, the code will raise a TypeError when trying to modify the tuple.The output of the code will be:TypeError: 'tuple' object does not support item assignment"
+    }
+]

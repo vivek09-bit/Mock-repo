@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning the following statement: class Manager extends Employee",
+        "options": {
+            "A": "Manager is a concrete class and a superclass.",
+            "B": "Manager is a concrete class and a subclass.",
+            "C": "Manager is an abstract class and a superclass.",
+            "D": "Manager is an abstract class and a subclass."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an ordered collection of elements of the same type?",
+        "options": {
+            "A": "Set",
+            "B": "Bag",
+            "C": "List",
+            "D": "Dictionary"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A relationship should be specified how in the ODL?",
+        "options": {
+            "A": "One direction starting with the first class",
+            "B": "One direction starting with the second class",
+            "C": "Neither direction.",
+            "D": "Both directions."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Using OQL, you may do which of the following?",
+        "options": {
+            "A": "Return an entire collection of elements including duplicates.",
+            "B": "Return a collection of elements without duplicates.",
+            "C": "Return a specific subset of elements using a given criteria.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Object Query Language is which of the following\"?",
+        "options": {
+            "A": "Similar to SQL and uses a select-from-where structure",
+            "B": "Similar to SQL and uses a select-where structure",
+            "C": "Similar to SQL and uses a from-where structure",
+            "D": "Not similar to SQL"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

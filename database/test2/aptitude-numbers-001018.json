@@ -1,0 +1,70 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following numbers is completely divisible by 99?",
+        "options": {
+            "A": "3572404",
+            "B": "135792",
+            "C": "913464",
+            "D": "114345",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "99 = 11 x 9, where 11 and 9 are co-prime.By hit and trial, we find that 114345 is divisibleby 11 as well as 9. So, it is divisible by 99."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of how many terms of the series 6 + 12 + 18 + 24 + ... is 1800 ?",
+        "options": {
+            "A": "16",
+            "B": "24",
+            "C": "20",
+            "D": "18",
+            "E": "22"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is an A.P. in whicha= 6,d= 6 and Sn= 1800Then,n[2a+ (n- 1)d] = 18002n[2 x 6 + (n- 1) x 6] = 180023n(n+ 1) = 1800n(n+ 1)= 600n2+n- 600 = 0n2+ 25n- 24n- 600 = 0n(n+ 25) - 24(n+ 25) = 0(n+ 25)(n- 24) = 0n= 24Number of terms = 24."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(51+ 52 + 53 + ... + 100) = ?",
+        "options": {
+            "A": "2525",
+            "B": "2975",
+            "C": "3225",
+            "D": "3775"
+        },
+        "correct_answer": "D",
+        "answer_description": "This is an A.P. in whicha= 51,l= 100 andn= 50.Sum =n(a+l)=50x (51 + 100)   = (25 x 151)   = 3775.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "1904 x 1904 = ?",
+        "options": {
+            "A": "3654316",
+            "B": "3632646",
+            "C": "3625216",
+            "D": "3623436",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "1904 x 1904= (1904)2= (1900 + 4)2= (1900)2+ (4)2+ (2 x 1900 x 4)= 3610000 + 16 + 15200.= 3625216."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the unit digit in(795- 358)?",
+        "options": {
+            "A": "0",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "B",
+        "answer_description": "Unit digit in 795= Unit digit in [(74)23x 73]= Unit digit in [(Unit digit in(2401))23x (343)]= Unit digit in (123x 343)= Unit digit in (343)= 3Unit digit in 358= Unit digit in [(34)14x 32]= Unit digit in [Unit digit in (81)14x 32]= Unit digit in [(1)14x 32]= Unit digit in (1 x 9)= Unit digit in (9)= 9Unit digit in (795- 358) = Unit digit in (343 - 9) = Unit digit in (334) = 4.So, Option B is the answer."
+    }
+]

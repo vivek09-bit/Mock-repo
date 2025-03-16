@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the Pythonunittest.skipdecorator do?",
+        "options": {
+            "A": "Skips the entire test case",
+            "B": "Skips the next test method",
+            "C": "Skips the next test case",
+            "D": "Skips the entire test suite"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theunittest.skipdecorator is used to skip the entire test case in Python unittest."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What assertion method in theunittestmodule is commonly used to check if a value is within a specified range?",
+        "options": {
+            "A": "assertAlmostEqual",
+            "B": "assertGreater",
+            "C": "assertIn",
+            "D": "assertIsNone"
+        },
+        "correct_answer": "B",
+        "answer_description": "TheassertGreatermethod in theunittestmodule is commonly used to check if a value is greater than another, effectively creating a range check."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the context of Python testing, what is the purpose of themocklibrary?",
+        "options": {
+            "A": "To create fake test data",
+            "B": "To simulate the behavior of real objects in a controlled way",
+            "C": "To generate random test cases",
+            "D": "To perform static code analysis"
+        },
+        "correct_answer": "B",
+        "answer_description": "Themocklibrary in Python is used to simulate the behavior of real objects in a controlled way during testing."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theTestCaseclass in theunittestmodule?",
+        "options": {
+            "A": "To define a test suite",
+            "B": "To represent an individual test case",
+            "C": "To mark a test as skipped",
+            "D": "To perform setup and teardown for the entire test suite"
+        },
+        "correct_answer": "B",
+        "answer_description": "TheTestCaseclass in theunittestmodule is used to represent an individual test case, allowing the definition of test methods within it."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python'sunittestmodule, what does theassertRaisescontext manager do?",
+        "options": {
+            "A": "Marks a test as skipped",
+            "B": "Checks if an exception is raised during the execution of a block of code",
+            "C": "Asserts that two values are equal",
+            "D": "Defines the teardown logic for a test case"
+        },
+        "correct_answer": "B",
+        "answer_description": "TheassertRaisescontext manager in theunittestmodule checks if a specified exception is raised during the execution of a block of code."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A rectangle represents which of the following in an EER?",
+        "options": {
+            "A": "Attribute",
+            "B": "Entity",
+            "C": "Optional One",
+            "D": "Relationship"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following symbols is not used in an ERD?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Oval",
+            "C": "Diamond",
+            "D": "Circle"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Specialization is which of the following processes?",
+        "options": {
+            "A": "Defining one or more subtypes of the supertype and forming supertype/subtype relationships.",
+            "B": "Defining one or more supertypes of the subtype and forming supertype/subtype relationships.",
+            "C": "Defining one or more subtypes of the supertype and not forming supertype/subtype relationships.",
+            "D": "Defining one or more supertypes of the subtype and not forming supertype/subtype relationships."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements concerning business rules is true?",
+        "options": {
+            "A": "It should be complex.",
+            "B": "It should not be convertible to computer code.",
+            "C": "It may include restrictions.",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A supertype/subtype hierarchy has which of the following features?",
+        "options": {
+            "A": "Subtypes at the lower lever in the hierarchy inherit attributes only from their immediate supertype.",
+            "B": "Attributes are assigned at the highest logical level.",
+            "C": "Subtypes at the higher lever in the hierarchy inherit attributes only from their immediate subtype.",
+            "D": "Attributes are assigned at the lowest logical level."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

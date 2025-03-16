@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Locks placed by command are called ________ .",
+        "options": {
+            "A": "implicit locks",
+            "B": "explicit locks",
+            "C": "exclusive locks",
+            "D": "shared locks"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following locks the item from change but not from read?",
+        "options": {
+            "A": "Implicit lock",
+            "B": "Explicit lock",
+            "C": "Exclusive lock",
+            "D": "Shared lock"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following occurs when a transaction rereads data and finds new rows that were inserted by a command transaction since the prior read?",
+        "options": {
+            "A": "Nonrepeatable read",
+            "B": "Phantom read",
+            "C": "Dirty read",
+            "D": "Consistent read"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transaction for which all committed changes are permanent is called:",
+        "options": {
+            "A": "atomic.",
+            "B": "consistent.",
+            "C": "isolated.",
+            "D": "durable."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In this instance, dirty reads are disallowed, while nonrepeatable reads and phantom reads are allowed.",
+        "options": {
+            "A": "Read committed",
+            "B": "Read uncommitted",
+            "C": "Repeatable read",
+            "D": "Serializable"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

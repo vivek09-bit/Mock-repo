@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When two or more inputs are active simultaneously, the process is called:",
+        "options": {
+            "A": "first-in, first-out processing",
+            "B": "priority encoding",
+            "C": "ripple blanking",
+            "D": "priority decoding"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of decoder will select one of sixteen outputs, depending on the 4-bit binary input value?",
+        "options": {
+            "A": "hexadecimal",
+            "B": "dual octal outputs",
+            "C": "binary-to-hexadecimal",
+            "D": "hexadecimal-to-binary"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A magnitude comparator determines:",
+        "options": {
+            "A": "AB and if AB or A >> B",
+            "B": "AB and if A > B or A < b",
+            "C": "A = B and if A > B or A < b",
+            "D": "AB and if A < b or a > B"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A circuit that responds to a specific set of signals to produce a related digital signal output is called a(n):",
+        "options": {
+            "A": "BCD matrix",
+            "B": "display driver",
+            "C": "encoder",
+            "D": "decoder"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which digital system translates coded characters into a more intelligible form?",
+        "options": {
+            "A": "encoder",
+            "B": "display",
+            "C": "counter",
+            "D": "decoder"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

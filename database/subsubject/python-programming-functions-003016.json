@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thezip(*iterables)function do?",
+        "options": {
+            "A": "It compresses files in a directory.",
+            "B": "It combines multiple iterables element-wise into tuples.",
+            "C": "It filters elements from an iterable based on a condition.",
+            "D": "It creates a zip archive of files."
+        },
+        "correct_answer": "B",
+        "answer_description": "Thezip(*iterables)function in Python combines multiple iterables element-wise into tuples."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you define a lambda function that adds two numbers?",
+        "options": {
+            "A": "lambda x, y: x + y",
+            "B": "def add(x, y): return x + y",
+            "C": "lambda add(x, y): x + y",
+            "D": "lambda add: x + y"
+        },
+        "correct_answer": "A",
+        "answer_description": "The correct syntax for a lambda function that adds two numbers islambda x, y: x + y."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you use thefilterfunction to filter out even numbers from a list?",
+        "options": {
+            "A": "filter(lambda x: x % 2 != 0, my_list)",
+            "B": "filter(lambda x: x % 2 == 0, my_list)",
+            "C": "filter(is_even, my_list)",
+            "D": "filter(is_odd, my_list)"
+        },
+        "correct_answer": "A",
+        "answer_description": "The correct usage of thefilterfunction to filter out even numbers isfilter(lambda x: x % 2 != 0, my_list)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you define a generator function that yields squares of numbers up to a given limit?",
+        "options": {
+            "A": "def square_generator(limit):\r\n    for i in range(limit):\r\n        yield i**2",
+            "B": "generator square_generator(limit):\r\n    for i in range(limit):\r\n        return i**2",
+            "C": "def square_generator(limit):\r\n    return (i**2 for i in range(limit))",
+            "D": "generator square_generator(limit):\r\n    return [i**2 for i in range(limit)]"
+        },
+        "correct_answer": "A",
+        "answer_description": "The correct definition for a generator function that yields squares of numbers up to a given limit is shown in option A."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thefunctools.partialfunction?",
+        "options": {
+            "A": "To create partial functions with default arguments.",
+            "B": "To create decorators for functions.",
+            "C": "To create anonymous functions.",
+            "D": "To create static methods in a class."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thefunctools.partialfunction is used to create partial functions with default arguments."
+    }
+]

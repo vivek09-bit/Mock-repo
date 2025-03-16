@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the Pythoninput()function during debugging?",
+        "options": {
+            "A": "Pauses the program execution and waits for user input",
+            "B": "Prints debugging information to the console",
+            "C": "Exits the program immediately",
+            "D": "Sets a breakpoint in the code"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theinput()function in Python pauses the program execution and waits for user input during debugging, allowing interaction with the program."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what does thetracebackmodule provide?",
+        "options": {
+            "A": "A way to change the execution flow of the program",
+            "B": "Information about the flow of control and call stack during an error",
+            "C": "The ability to insert breakpoints in the code",
+            "D": "A graphical user interface for debugging"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thetracebackmodule in Python provides information about the flow of control and call stack during an error, aiding in debugging."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of thepdb.set_trace()function?",
+        "options": {
+            "A": "To insert a breakpoint in the code for debugging",
+            "B": "To print debugging information to the console",
+            "C": "To exit the program immediately",
+            "D": "To step into a function or method call"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thepdb.set_trace()function is used to insert a breakpoint in the code for debugging, allowing interactive debugging at that point."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the Python__debug__variable control during program execution?",
+        "options": {
+            "A": "It enables or disables debugging globally",
+            "B": "It determines whether assertions are executed or ignored",
+            "C": "It checks if the Python interpreter is in debug mode",
+            "D": "It sets the verbosity level of debugging output"
+        },
+        "correct_answer": "B",
+        "answer_description": "The__debug__variable in Python controls whether assertions are executed or ignored. If it is True, assertions are executed; if False, they are ignored."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the Pythonyieldstatement in relation to debugging?",
+        "options": {
+            "A": "It sets a breakpoint in the code",
+            "B": "It enables the debugger for a specific block of code",
+            "C": "It signals the end of a debugging session",
+            "D": "It facilitates the creation of generators for step-by-step debugging"
+        },
+        "correct_answer": "D",
+        "answer_description": "Theyieldstatement in Python is used in generators and can be helpful for step-by-step debugging, allowing you to inspect the generator's state between iterations."
+    }
+]

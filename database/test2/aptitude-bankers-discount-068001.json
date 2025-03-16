@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's discount on a bill due 4 months hence at 15% is Rs. 420. The true discount is:",
+        "options": {
+            "A": "Rs. 400",
+            "B": "Rs. 360",
+            "C": "Rs. 480",
+            "D": "Rs. 320"
+        },
+        "correct_answer": "A",
+        "answer_description": "T.D.=B.D. x 100100 + (R x T)= Rs.420 x 100100 +15 x13= Rs.420 x 100105= Rs. 400."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's discount on Rs. 1600 at 15% per annum is the same as true discount on Rs. 1680 for the same time and at the same rate. The time is:",
+        "options": {
+            "A": "3 months",
+            "B": "4 months",
+            "C": "6 months",
+            "D": "8 months"
+        },
+        "correct_answer": "B",
+        "answer_description": "S.I. on Rs. 1600 = T.D. on Rs. 1680.Rs. 1600 is the P.W. of Rs. 1680,i.e.,Rs. 80 is on Rs. 1600 at 15%.Time =100 x 80year=1year = 4 months.1600 x 153"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's gain of a certain sum due 2 years hence at 10% per annum is Rs. 24. The present worth is:",
+        "options": {
+            "A": "Rs. 480",
+            "B": "Rs. 520",
+            "C": "Rs. 600",
+            "D": "Rs. 960"
+        },
+        "correct_answer": "C",
+        "answer_description": "T.D. =B.G. x 100= Rs.24 x 100= Rs. 120.Rate x Time10 x 2P.W. =100 x T.D.= Rs.100 x 120= Rs. 600.Rate x Time10 x 2"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's discount on a sum of money for 1years is Rs. 558 and the true discount on the same sum for 2 years is Rs. 600. The rate percent is:",
+        "options": {
+            "A": "10%",
+            "B": "13%",
+            "C": "12%",
+            "D": "15%"
+        },
+        "correct_answer": "C",
+        "answer_description": "B.D. foryears= Rs. 558.B.D. for 2 years= Rs.558 x2x 23= Rs. 744T.D. for 2 years = Rs. 600.Sum =B.D. x T.D.= Rs.744 x 600= Rs. 3100.B.D. - T.D144Thus, Rs. 744 is S.I. on Rs. 3100 for 2 years.Rate =100 x 744%= 12%3100 x 2"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The banker's gain on a sum due 3 years hence at 12% per annum is Rs. 270. The banker's discount is:",
+        "options": {
+            "A": "Rs. 960",
+            "B": "Rs. 840",
+            "C": "Rs. 1020",
+            "D": "Rs. 760"
+        },
+        "correct_answer": "C",
+        "answer_description": "T.D. =B.G. x 100= Rs.270 x 100= Rs. 750.R x T12 x 3B.D. = Rs.(750 + 270) = Rs. 1020."
+    }
+]

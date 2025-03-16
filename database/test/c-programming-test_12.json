@@ -1,0 +1,256 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many times thewhileloop will get executed if ashort intis 2 byte wide?#include<stdio.h>\r\nint main()\r\n{\r\n    int j=1;\r\n    while(j <= 255)\r\n    {\r\n        printf(\"%c %d\\n\", j, j);\r\n        j++;\r\n    }\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Infinite times",
+               "B": "255 times",
+               "C": "256 times",
+               "D": "254 times"
+          },
+          "correct_answer": "B",
+          "answer_description": "Thewhile(j <= 255)loop will get executed 255 times. The size short int(2 byte wide) does not affect thewhile()loop."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following errors would be reported by the compiler on compiling the program given below?#include<stdio.h>\r\nint main()\r\n{\r\n    int a = 5;\r\n    switch(a)\r\n    {\r\n\tcase 1:\r\n\tprintf(\"First\");\r\n\r\n\tcase 2:\r\n\tprintf(\"Second\");\r\n\r\n\tcase 3 + 2:\r\n\tprintf(\"Third\");\r\n\r\n\tcase 5:\r\n\tprintf(\"Final\");\r\n\tbreak;\r\n\r\n    }\r\n    return 0;\r\n}",
+          "options": {
+               "A": "There is nobreakstatement in each case.",
+               "B": "Expression as incase 3 + 2is not allowed.",
+               "C": "Duplicate casecase 5:",
+               "D": "No error will be reported."
+          },
+          "correct_answer": "C",
+          "answer_description": "Because,case 3 + 2:andcase 5:have the same constant value 5."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error, if any in the program.#include<stdio.h>\r\nint main()\r\n{\r\n    int P = 10;\r\n    switch(P)\r\n    {\r\n       case 10:\r\n       printf(\"Case 1\");\r\n\r\n       case 20:\r\n       printf(\"Case 2\");\r\n       break;\r\n\r\n       case P:\r\n       printf(\"Case 2\");\r\n       break;\r\n    }\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Error: No default value is specified",
+               "B": "Error: Constant expression required at linecase P:",
+               "C": "Error: There is nobreakstatement in each case.",
+               "D": "No error will be reported."
+          },
+          "correct_answer": "B",
+          "answer_description": "The compiler will report the error \"Constant expression required\" in the linecase P:. Because, variable names cannot be used withcasestatements.Thecasestatements will accept only constant expression."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\nint main()\n{\n    int i=2;\n    printf(\"%d, %d\\n\", ++i, ++i);\n    return 0;\n}",
+          "options": {
+               "A": "3, 4",
+               "B": "4, 3",
+               "C": "4, 4",
+               "D": "Output may vary from compiler to compiler"
+          },
+          "correct_answer": "D",
+          "answer_description": "The order of evaluation of arguments passed to a function call is unspecified.Anyhow, we consider++i, ++iare Right-to-Left associativity. The output of the program is 4, 3.In TurboC, the output will be 4, 3.In GCC, the output will be 4, 4."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the expressiona=b=5the order of Assignment is NOT decided by Associativity of operators",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "The equal to=operator has Right-to-Left Associativity. So it assignsb=5thena=b."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the notation for following functions?1.  int f(int a, float b)\n    {\n        /* Some code */\n    }\n\n2.  int f(a, b)\n    int a; float b;\n    {\n        /* Some code */\n    }",
+          "options": {
+               "A": "1. KR Notation2. ANSI Notation",
+               "B": "1. Pre ANSI C Notation2. KR Notation",
+               "C": "1. ANSI Notation2. KR Notation",
+               "D": "1. ANSI Notation2. Pre ANSI Notation"
+          },
+          "correct_answer": "C",
+          "answer_description": "KR Notation means Kernighan and Ritche Notation."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many times the program will print \"IndiaBIX\" ?#include<stdio.h>\n\nint main()\n{\n    printf(\"IndiaBIX\");\n    main();\n    return 0;\n}",
+          "options": {
+               "A": "Infinite times",
+               "B": "32767 times",
+               "C": "65535 times",
+               "D": "Till stack overflows"
+          },
+          "correct_answer": "D",
+          "answer_description": "Acall stackorfunction stackis used for several related purposes, but the main reason for having one is to keep track of the point to which each active subroutine should return control when it finishes executing.Astack overflowoccurs when too much memory is used on the call stack.Here functionmain()is called repeatedly and its return address is stored in the stack. After stack memory is full. It shows stack overflow error."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n#define SQR(x)(x*x)\n\nint main()\n{\n    int a, b=3;\n    a = SQR(b+2);\n    printf(\"%d\\n\", a);\n    return 0;\n}",
+          "options": {
+               "A": "25",
+               "B": "11",
+               "C": "Error",
+               "D": "Garbage value"
+          },
+          "correct_answer": "B",
+          "answer_description": "The macro functionSQR(x)(x*x)calculate the square of the given number'x'. (Eg: 102)Step 1:int a, b=3;Here the variablea, bare declared as an integer type and the variablebis initialized to 3.Step 2:a = SQR(b+2);becomes,=>a = b+2 * b+2;HereSQR(x)is replaced by macro tox*x.=>a = 3+2 * 3+2;=>a = 3 + 6 + 2;=>a = 11;Step 3:printf(\"%d\\n\", a);It prints the value of variable 'a'.Hence the output of the program is 11"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A preprocessor directive is a message from programmer to the preprocessor.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "True, the programmer tells the compiler to include the preprocessor when compiling."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    char *p;\n    p=\"hello\";\n    printf(\"%s\\n\", *&*&p);\n    return 0;\n}",
+          "options": {
+               "A": "llo",
+               "B": "hello",
+               "C": "ello",
+               "D": "h"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How will you free the allocated memory ?",
+          "options": {
+               "A": "remove(var-name);",
+               "B": "free(var-name);",
+               "C": "delete(var-name);",
+               "D": "dalloc(var-name);"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a file contains the line \"I am a boy\\r\\n\" then on reading this line into the arraystrusingfgets(). What willstrcontain?",
+          "options": {
+               "A": "\"I am a boy\\r\\n\\0\"",
+               "B": "\"I am a boy\\r\\0\"",
+               "C": "\"I am a boy\\n\\0\"",
+               "D": "\"I am a boy\""
+          },
+          "correct_answer": "C",
+          "answer_description": "Declaration:char *fgets(char *s, int n, FILE *stream);fgetsreads characters from stream into the strings. It stops when it reads either n - 1 characters or a newline character, whichever comes first.Therefore, the stringstrcontain \"I am a boy\\n\\0\""
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which files will get closed through thefclose()in the following program?#include<stdio.h>\n\nint main()\n{\n    FILE *fs, *ft, *fp;\n    fp = fopen(\"A.C\", \"r\");\n    fs = fopen(\"B.C\", \"r\");\n    ft = fopen(\"C.C\", \"r\");\n    fclose(fp, fs, ft);\n    return 0;\n}",
+          "options": {
+               "A": "\"A.C\" \"B.C\" \"C.C\"",
+               "B": "\"B.C\" \"C.C\"",
+               "C": "\"A.C\"",
+               "D": "Error infclose()"
+          },
+          "correct_answer": "D",
+          "answer_description": "Extra parameter in call to fclose()."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the file 'source.txt' contains a line \"Be my friend\" which of the following will be the output of below program?#include<stdio.h>\n\nint main()\n{\n    FILE *fs, *ft;\n    char c[10];\n    fs = fopen(\"source.txt\", \"r\");\n    c[0] = getc(fs);\n    fseek(fs, 0, SEEK_END);\n    fseek(fs, -3L, SEEK_CUR);\n    fgets(c, 5, fs);\n    puts(c);\n    return 0;\n}",
+          "options": {
+               "A": "friend",
+               "B": "frien",
+               "C": "end",
+               "D": "Error infseek();"
+          },
+          "correct_answer": "C",
+          "answer_description": "The filesource.txtcontains \"Be my friend\".fseek(fs, 0, SEEK_END);moves the file pointer to the end of the file.fseek(fs, -3L, SEEK_CUR);moves the file pointer backward by 3 characters.fgets(c, 5, fs);read the file from the current position of the file pointer.Hence, it contains the last 3 characters of \"Be my friend\".Therefore, it prints \"end\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "According to ANSI specifications which is the correct way of declaringmainwhen it receives command-line arguments?",
+          "options": {
+               "A": "int main(int argc, char *argv[])",
+               "B": "int main(argc, argv)\nint argc; char *argv;",
+               "C": "int main()\n{\n    int argc; char *argv;\n}",
+               "D": "None of above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (myprog.c) given below if it is executed from the command line?cmd>myprog one two three/* myprog.c */\n#include<stdio.h>\n#include<stdlib.h>\n\nint main(int argc, char **argv)\n{\n    printf(\"%s\\n\", *++argv);\n    return 0;\n}",
+          "options": {
+               "A": "myprog",
+               "B": "one",
+               "C": "two",
+               "D": "three"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the correct statement which correctly allocates memory dynamically for 2D array following program?#include<stdio.h>\n#include<stdlib.h>\n\nint main()\n{\n    int *p, i, j;\n    /* Add statement here */\n    for(i=0; i<3; i++)\n    {\n        for(j=0; j<4; j++)\n        {\n            p[i*4+j] = i;\n            printf(\"%d\", p[i*4+j]);\n        }\n    }\n    return 0;\n}",
+          "options": {
+               "A": "p = (int*) malloc(3, 4);",
+               "B": "p = (int*) malloc(3*sizeof(int));",
+               "C": "p = malloc(3*4*sizeof(int));",
+               "D": "p = (int*) malloc(3*4*sizeof(int));"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "malloc()allocates memory from the heap and not from the stack.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the following program.#include<stdio.h>\n#include<stdarg.h>\nvoid display(char *s, ...);\nint fun1();\nint fun2();\n\nint main()\n{\n    int (*p1)();\n    int (*p2)();\n    p1 = fun1;\n    p2 = fun2;\n    display(\"IndiaBIX\", p1, p2);\n    return 0;\n}\nvoid display(char *s, ...)\n{\n    int (*pp1)();\n    int (*pp2)();\n    va_list ptr;\n\n    va_start(ptr, s);\n    pp1 = va_arg(ptr, int(*)());\n    (*pp1)();\n\n    pp2 = va_arg(ptr, int(*)());\n    (*pp2)();\n\n}\nint fun1()\n{\n    printf(\"Hello\");\n}\nint fun2()\n{\n    printf(\"Hi\");\n}",
+          "options": {
+               "A": "Error: invalid functiondisplay()call",
+               "B": "Error: invalidva_start(ptr, s);",
+               "C": "Error:va_argcannot extract function pointer from variable argument list.",
+               "D": "Error: Rvalue required for t"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What do the following declaration signify?int (*ptr)[30];",
+          "options": {
+               "A": "ptris a pointer to an array of 30 integer pointers.",
+               "B": "ptris a array of 30 integer function pointer.",
+               "C": "ptris a array of 30 integer pointers.",
+               "D": "ptris a array 30 pointers."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A snowflake schema is which of the following types of tables?",
+        "options": {
+            "A": "Fact",
+            "B": "Dimension",
+            "C": "Helper",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The generic two-level data warehouse architecture includes which of the following?",
+        "options": {
+            "A": "At least one data mart",
+            "B": "Data that can extracted from numerous internal and external sources",
+            "C": "Near real-time updates",
+            "D": "All of the above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Fact tables are which of the following?",
+        "options": {
+            "A": "Completely denoralized",
+            "B": "Partially denoralized",
+            "C": "Completely normalized",
+            "D": "Partially normalized"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Data transformation includes which of the following?",
+        "options": {
+            "A": "A process to change data from a detailed level to a summary level",
+            "B": "A process to change data from a summary level to a detailed level",
+            "C": "Joining data from one source into various sources of data",
+            "D": "Separating data from one source into various sources of data"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Reconciled data is which of the following?",
+        "options": {
+            "A": "Data stored in the various operational systems throughout the organization.",
+            "B": "Current data intended to be the single source for all decision support systems.",
+            "C": "Data stored in one operational system in the organization.",
+            "D": "Data that has been selected and formatted for end-user support applications."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following Python code?def mystery_function(x):\r\n    return x if x > 0 else mystery_function(-x)\r\n\r\nresult = mystery_function(-5)\r\nprint(result)",
+        "options": {
+            "A": "-5",
+            "B": "5",
+            "C": "0",
+            "D": "This code will result in an infinite loop."
+        },
+        "correct_answer": "B",
+        "answer_description": "Themystery_functionrecursively calls itself with the absolute value of the input until the input is greater than 0. Therefore,mystery_function(-5)returnsmystery_function(5), resulting in the output 5."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the value ofresultafter executing the following Python code?my_list = [1, 2, 3, 4, 5]\r\nresult = my_list[::2]",
+        "options": {
+            "A": "[1, 3, 5]",
+            "B": "[2, 4]",
+            "C": "[5, 3, 1]",
+            "D": "[1, 2, 3, 4, 5]"
+        },
+        "correct_answer": "A",
+        "answer_description": "The slicing notationmy_list[::2]extracts elements with a step of 2, starting from index 0. Therefore, it includes elements at indices 0, 2, and 4, resulting in the list [1, 3, 5]."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following Python code?x = 5\r\ny = 2\r\n\r\nresult = x // y",
+        "options": {
+            "A": "2.5",
+            "B": "2",
+            "C": "3",
+            "D": "2.0"
+        },
+        "correct_answer": "B",
+        "answer_description": "The//operator performs integer division in Python, discarding any remainder. Therefore,5 // 2results in 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the correct way to check if a key is present in a dictionary?my_dict = {'name': 'John', 'age': 25}\r\nkey_to_check = 'age'",
+        "options": {
+            "A": "if key_to_check in my_dict.keys():",
+            "B": "if key_to_check in my_dict:",
+            "C": "if my_dict.contains(key_to_check):",
+            "D": "if my_dict.exists(key_to_check):"
+        },
+        "correct_answer": "B",
+        "answer_description": "The correct way to check if a key is present in a dictionary is to use theinkeyword directly on the dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following Python code?x =[1, 2, 3]y = x\r\ny[0] = 10\r\nprint(x)",
+        "options": {
+            "A": "[10, 2, 3]",
+            "B": "[1, 2, 3]",
+            "C": "[10, 2, 3](but with a warning)",
+            "D": "[1, 2, 3](but with a warning)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Bothxandyreference the same list object. Therefore, modifyingyalso modifiesx, resulting in the output[10, 2, 3]."
+    }
+]

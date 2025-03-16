@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "The third figure in each row comprises of parts which are not common to the first two figures."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "In each row, the second figure is obtained from the first figure by adding two mutually perpendicular line segments at the centre and the third figure is obtained from the first figure by adding four circles outside the main figure."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "In each row, the third figure comprises of a black circle and only those line segments which are not common to the first and the second figures."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "In each column, the second figure (middle figure) is obtained by removing the upper part of the first figure (uppermost figure) and the third figure (lowermost figure) is obtained by vertically inverting the upper part of the first figure."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, find out which of the answer figures (1), (2), (3) and (4) completes the figure matrix ?",
+        "image_path": null,
+        "question": "Select a suitable figure from the four alternatives that would complete the figure matrix.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "The third figure in each row comprises of the parts common to the first two figures."
+    }
+]

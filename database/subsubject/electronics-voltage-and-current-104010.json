@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true?",
+        "options": {
+            "A": "Unlike charges repel and like charges attract.",
+            "B": "Like charges repel and unlike charges attract.",
+            "C": "Unlike charges attract and like charges attract.",
+            "D": "Like charges repel and unlike charges repel."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If an electrical system is compared to a fluid system, the electrical current corresponds to the:",
+        "options": {
+            "A": "pressure",
+            "B": "pump",
+            "C": "water wheel",
+            "D": "water flow"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

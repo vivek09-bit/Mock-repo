@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The prices of petrol and diesel in the domestic market have remained unchanged for the past few months.The crude oil prices in the international market have gone up substantially in the last few months.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "D",
+        "answer_description": "The prices of petrol and diesel being stagnant in the domestic market and the increase in the same in the international market must be backed by independent causes."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The government has recently fixed the fees for professional courses offered by the unaided institutions which are much lower than the fees charged last year.The parents of the aspiring students launched a severe agitation last year protesting against the high fees charged by the unaided institutions.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "B",
+        "answer_description": "The parents' protest against high fees being charged by the institutions led the government to interfere and fix the fees at a more affordable level."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The Reserve Bank of India has recently put restrictions on few small banks in the country.The small banks in the private and co-operative sector in India are not in a position to withstand the competitions of the bigger in the public sector.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "B",
+        "answer_description": "The inability of the small banks to compete with the bigger ones shall not ensure security and good service to the customers, which is an essential concomitant that has to be looked into by the Reserve Bank. I seems to be a remedial step for the same."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:All the schools in the area had to be kept closed for most part of the week.Many parents have withdrawn their children from the local schools.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "D",
+        "answer_description": "Closing the schools for a week and the parents withdrawing their wards from the local schools are independent issues, which must have been triggered by different individual causes."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:India has surpassed the value of tea exports this year over all the earlier years due to an increase in demand for quality tea in the European market.There is an increase in demand of coffee in the domestic market during the last two years.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "C",
+        "answer_description": "The two statements discuss two separate statistical and generalised results."
+    }
+]

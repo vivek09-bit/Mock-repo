@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The SQL command to create a table is:",
+        "options": {
+            "A": "MAKE TABLE.",
+            "B": "ALTER TABLE.",
+            "C": "DEFINE TABLE.",
+            "D": "CREATE TABLE."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A ________ is a stored program that is attached to a table or a view.",
+        "options": {
+            "A": "pseudofile",
+            "B": "embedded SELECT statement",
+            "C": "trigger",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The DROP TABLE statement:",
+        "options": {
+            "A": "deletes the table structure only.",
+            "B": "deletes the table structure along with the table data.",
+            "C": "works whether or not referential integrity constraints would be violated.",
+            "D": "is not an SQL statement."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL views can be used to hide:",
+        "options": {
+            "A": "columns and rows only.",
+            "B": "complicated SQL syntax only.",
+            "C": "both of the above can be hidden by an SQL view.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The SQL statement to create a view is:",
+        "options": {
+            "A": "CREATE VIEW.",
+            "B": "MAKE VIEW.",
+            "C": "SELECT VIEW.",
+            "D": "INSERT VIEW."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

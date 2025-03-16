@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sachin walks 20 km towards North. He turns left and walks 40 km. He again turns left and walks 20 km. Finally he moves 20 km after turning to the left. How far is he from his starting position?",
+        "options": {
+            "A": "20 km.",
+            "B": "30 km.",
+            "C": "50 km.",
+            "D": "60 km."
+        },
+        "correct_answer": "A",
+        "answer_description": "Required distance = 40 - 20 = 20 km."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "From his house, Lokesh went 15 km to the North. Then he turned west and covered 10 km. Then he turned south and covered 5 km. Finally turning to the east, he covered 10 km. In which direction is he from his house?",
+        "options": {
+            "A": "East",
+            "B": "West",
+            "C": "North",
+            "D": "South"
+        },
+        "correct_answer": "C",
+        "answer_description": "Therefore, it is clear that he is in the North from his house."
+    }
+]

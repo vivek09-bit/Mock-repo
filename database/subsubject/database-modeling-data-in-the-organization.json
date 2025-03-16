@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A binary relationship is which of the following?",
+        "options": {
+            "A": "A relationship between two attributes",
+            "B": "A relationship between two entities",
+            "C": "An attribute with two different relationships",
+            "D": "An entity with two different relationships"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If there are two entities with a relationship between them, and one of the entities is completely dependent on the other, then which of the following must exist?",
+        "options": {
+            "A": "Derived attribute",
+            "B": "Optional one cardinality",
+            "C": "Multi-valued attribute",
+            "D": "Weak entity"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A relationship is which of the following?",
+        "options": {
+            "A": "A person, place, or thing",
+            "B": "Property or characteristic of an entity",
+            "C": "Link between entities",
+            "D": "Weak entity"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following conditions should exist if you want to convert a relationship to an associative entity?",
+        "options": {
+            "A": "Some of the relationships for the participating entities are \"many\".",
+            "B": "The resulting associative entity has an independent meaning.",
+            "C": "The resulting associative entity has no attributes.",
+            "D": "All of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A good identifier is which of the following?",
+        "options": {
+            "A": "One that can change over time",
+            "B": "Can be null",
+            "C": "One that is unique",
+            "D": "Be intelligent"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

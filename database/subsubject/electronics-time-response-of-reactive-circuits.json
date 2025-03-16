@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What voltage will the capacitor charge up to in the given circuit for the single input pulse shown?",
+        "options": {
+            "A": "3.15 V",
+            "B": "4.3 V",
+            "C": "4.75 V",
+            "D": "4.9 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a periodic pulse waveform is applied to anRCdifferentiating circuit, which two conditions are possible?",
+        "options": {
+            "A": "tw5ortw> 5",
+            "B": "tw= 5ortw> 5",
+            "C": "tw5ortw< 5",
+            "D": "tw5ortw< 5"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "AnRLintegrator and anRCdifferentiator can act as what types of filters, respectively?",
+        "options": {
+            "A": "low-pass, low-pass",
+            "B": "low-pass, high-pass",
+            "C": "high-pass, high-pass",
+            "D": "high-pass, low-pass"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a repetitive-pulseRCintegrator circuit, what would the steady-state voltage equal at the end of the fifth pulse? Assume aVinof 20 V.",
+        "options": {
+            "A": "1.46 V",
+            "B": "14.62 V",
+            "C": "20 V",
+            "D": "0 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a circuit that produces short-duration spikes?",
+        "options": {
+            "A": "A trigger pulse generator",
+            "B": "An RL integrator",
+            "C": "A timing circuit",
+            "D": "A pulse waveform-to-dc converter"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

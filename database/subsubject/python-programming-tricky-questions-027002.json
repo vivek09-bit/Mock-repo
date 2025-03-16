@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following Python code?def outer_function(x):\r\n    def inner_function():\r\n        return x + 1\r\n    return inner_function\r\n\r\nclosure = outer_function(5)\r\nresult = closure()\r\nprint(result)",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "11",
+            "D": "This code will result in an error."
+        },
+        "correct_answer": "B",
+        "answer_description": "Theinner_functionis a closure that \"remembers\" the value ofxfrom its enclosing scope. Whenclosure()is called, it returns5 + 1, resulting in the output6."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following Python code?def mysterious_function(a, b=[]):\r\n    b.append(a)\r\n    return b\r\n\r\nresult1 = mysterious_function(1)\r\nresult2 = mysterious_function(2)\r\nresult3 = mysterious_function(3)\r\n\r\nprint(result1 + result2 + result3)",
+        "options": {
+            "A": "[1, 2, 3, 1, 2, 3, 1, 2, 3]",
+            "B": "[1, 2, 3]",
+            "C": "[1, 2, 3, 3, 3, 3, 3, 3, 3]",
+            "D": "This code will result in an error."
+        },
+        "correct_answer": "A",
+        "answer_description": "Themysterious_functionappends the value ofato the listband returnsb. In the code, result1 is[1], result2 is[1, 2], andresult3is[1, 2, 3]. Whenprint(result1 + result2 + result3)is executed, it concatenates the three lists, resulting in[1, 2, 3, 1, 2, 3, 1, 2, 3]. Therefore, the output of the code is[1, 2, 3, 1, 2, 3, 1, 2, 3]."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following Python code?def power(x, n=2):\n    return x ** n\n\nresult1 = power(2)\nresult2 = power(2, 3)\n\nprint(result1 + result2)",
+        "options": {
+            "A": "10",
+            "B": "16",
+            "C": "12",
+            "D": "64"
+        },
+        "correct_answer": "C",
+        "answer_description": "The code defines a function called power that calculates the power of a number using the**operator. In the code,result1is the result of callingpower(2), which calculates 2 raised to the power of 2, resulting in 4.Similarly,result2is the result of callingpower(2, 3), which calculates 2 raised to the power of 3, resulting in 8. The expressionresult1 + result2calculates the sum of result1 and result2, resulting in 4 + 8 = 12.Finally, 12 is printed to the console as the output of the code."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following Python code?my_list = [1, 2, 3, 4]\r\nresult = [x if x % 2 == 0 else -x for x in my_list]\r\nprint(result)",
+        "options": {
+            "A": "[1, -2, 3, -4]",
+            "B": "[-1, 2, -3, 4]",
+            "C": "[1, -2, -3, -4]",
+            "D": "[1, -2, 3, 4]"
+        },
+        "correct_answer": "B",
+        "answer_description": "List comprehension is used to create a new list where even numbers are unchanged, and odd numbers are negated."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class CustomError(Exception):\r\n    def __init__(self, message):\r\n        super().__init__(message)\r\n\r\nraise CustomError(\"An example custom error.\")What will happen when this code is executed?",
+        "options": {
+            "A": "The code will run without any errors.",
+            "B": "The code will result in aTypeError.",
+            "C": "The code will result in aNameError.",
+            "D": "The code will raise a custom error of typeCustomError."
+        },
+        "correct_answer": "D",
+        "answer_description": "The code raises a custom error of typeCustomErrorwith the specified message."
+    }
+]

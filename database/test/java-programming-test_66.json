@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the most restrictive access modifier that will allow members of one class to have access to members of another class in the same package?",
+          "options": {
+               "A": "public",
+               "B": "abstract",
+               "C": "protected",
+               "D": "synchronized",
+               "E": "default access"
+          },
+          "correct_answer": "E",
+          "answer_description": "defaultaccess is the \"package oriented\" access modifier.Option A and C are wrong becausepublicandprotectedare less restrictive. Option B and D are wrong becauseabstractandsynchronizedare not access modifiers."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is a valid declaration within an interface?",
+          "options": {
+               "A": "public static short stop = 23;",
+               "B": "protected short stop = 23;",
+               "C": "transient short stop = 23;",
+               "D": "final void madness(short stop);"
+          },
+          "correct_answer": "A",
+          "answer_description": "(A) is valid interface declarations.(B) and (C) are incorrect because interface variables cannot be eitherprotectedortransient. (D) is incorrect because interface methods cannot befinalorstatic."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want a class to have access to members of another class in the same package. Which is the most restrictive access that accomplishes this objective?",
+          "options": {
+               "A": "public",
+               "B": "private",
+               "C": "protected",
+               "D": "default access"
+          },
+          "correct_answer": "D",
+          "answer_description": "The only two real contenders are C and D.Protectedaccess Option C makes a member accessible only to classes in the same package or subclass of the class. While default access Option D makes a member accessible only to classes in the same package."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "switch(x) \n{ \n    default:  \n        System.out.println(\"Hello\"); \n}Which two are acceptable types for x?bytelongcharfloatShortLong",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "3 and 5",
+               "D": "4 and 6"
+          },
+          "correct_answer": "A",
+          "answer_description": "Switchstatements are based on integer expressions and since both bytes and chars can implicitly be widened to an integer, these can also be used. Also shorts can be used.ShortandLongare wrapper classes and reference types can not be used as variables."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Switch2 \n{\n    final static short x = 2;\n    public static int y = 0;\n    public static void main(String [] args) \n    {\n        for (int z=0; z < 3; z++) \n        {\n            switch (z) \n            {\n                case y: System.out.print(\"0 \");   /* Line 11 */\n                case x-1: System.out.print(\"1 \"); /* Line 12 */\n                case x: System.out.print(\"2 \");   /* Line 13 */\n            }\n        }\n    }\n}",
+          "options": {
+               "A": "0 1 2",
+               "B": "0 1 2 1 2 2",
+               "C": "Compilation fails at line 11.",
+               "D": "Compilation fails at line 12."
+          },
+          "correct_answer": "C",
+          "answer_description": "Case expressions must be constant expressions. Sincexis markedfinal, lines 12 and 13 are legal; however y is not afinalso the compiler will fail at line 11."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Switch2 \n{\n    final static short x = 2;\n    public static int y = 0;\n    public static void main(String [] args) \n    {\n        for (int z=0; z < 3; z++) \n        {\n            switch (z) \n            {\n                case x: System.out.print(\"0 \");\n                case x-1: System.out.print(\"1 \");\n                case x-2: System.out.print(\"2 \");\n            }\n        }\n    }\n}",
+          "options": {
+               "A": "0 1 2",
+               "B": "0 1 2 1 2 2",
+               "C": "2 1 0 1 0 0",
+               "D": "2 1 2 0 1 2"
+          },
+          "correct_answer": "D",
+          "answer_description": "The case expressions are all legal becausexis markedfinal, which means the expressions can be evaluated at compile time. In the first iteration of the for loop casex-2matches, so 2 is printed. In the second iteration,x-1is matched so 1 and 2 are printed (remember, once a match is found all remaining statements are executed until a break statement is encountered). In the third iteration,xis matched. So 0 1 and 2 are printed."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Switch2 \n{\n    final static short x = 2;\n    public static int y = 0;\n    public static void main(String [] args) \n    {\n        for (int z=0; z < 4; z++) \n        {\n            switch (z) \n            {\n                case x: System.out.print(\"0 \");\n                default: System.out.print(\"def \");\n                case x-1: System.out.print(\"1 \");  \n                            break;\n                case x-2: System.out.print(\"2 \");\n            }\n        }\n    }\n}",
+          "options": {
+               "A": "0 def 1",
+               "B": "2 1 0 def 1",
+               "C": "2 1 0 def def",
+               "D": "2 1 0 def 1 def 1"
+          },
+          "correct_answer": "D",
+          "answer_description": "Whenz == 0, casex-2is matched. Whenz == 1, casex-1is matched and then the break occurs. Whenz == 2, casex, then default, thenx-1are all matched. Whenz == 3, default, thenx-1are matched. The rules for default are that it will fall through from above like any other case (for instance whenz == 2), and that it will match when no other cases match (for instance whenz==3)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which collection class allows you to grow or shrink its size and provides indexed access to its elements, but whose methods are not synchronized?",
+          "options": {
+               "A": "java.util.HashSet",
+               "B": "java.util.LinkedHashSet",
+               "C": "java.util.List",
+               "D": "java.util.ArrayList"
+          },
+          "correct_answer": "D",
+          "answer_description": "All of the collection classes allow you to grow or shrink the size of your collection.ArrayListprovides an index to its elements. The newer collection classes tend not to have synchronized methods. Vector is an older implementation ofArrayListfunctionality and has synchronized methods; it is slower thanArrayList."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{ \n    public static void main (String args[]) \n    {\n        String str = NULL; \n        System.out.println(str); \n    } \n}",
+          "options": {
+               "A": "NULL",
+               "B": "Compile Error",
+               "C": "Code runs but no output",
+               "D": "Runtime Exception"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct because to set the value of aStringvariable to null you must use \"null\" and not \"NULL\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will not directly cause a thread to stop?",
+          "options": {
+               "A": "notify()",
+               "B": "wait()",
+               "C": "InputStream access",
+               "D": "sleep()"
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct.notify()- wakes up a single thread that is waiting on this object's monitor.Option B is wrong.wait()causes the current thread to wait until another thread invokes thenotify()method or thenotifyAll()method for this object.Option C is wrong. Methods of the InputStream class block until input data is available, the end of the stream is detected, or an exception is thrown. Blocking means that a thread may stop until certain conditions are met.Option D is wrong.sleep()- Causes the currently executing thread to sleep (temporarily cease execution) for a specified number of milliseconds. The thread does not lose ownership of any monitors."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class SyncTest \n{\n    public static void main (String [] args) \n    {\n        Thread t = new Thread() \n        {\n            Foo f = new Foo();\n            public void run() \n            {\n                f.increase(20);\n            }\n        };\n    t.start();\n    }\n}\nclass Foo \n{\n    private int data = 23;\n    public void increase(int amt) \n    {\n        int x = data;\n        data = x + amt;\n    }\n}and assuming that data must be protected from corruption, whatâ€”if anythingâ€”can you add to the preceding code to ensure the integrity of data?",
+          "options": {
+               "A": "Synchronize the run method.",
+               "B": "Wrap a synchronize(this) around the call tof.increase().",
+               "C": "The existing code will cause a runtime exception.",
+               "D": "Synchronize theincrease()method"
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct because synchronizing the code that actually does the increase will protect the code from being accessed by more than one thread at a time.Option A is incorrect because synchronizing therun()method would stop other threads from running therun()method (a bad idea) but still would not prevent other threads with other runnables from accessing theincrease()method.Option B is incorrect for virtually the same reason as Aâ€”synchronizing the code that calls theincrease()method does not prevent other code from calling theincrease()method."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Test116 \n{ \nstatic final StringBuffer sb1 = new StringBuffer(); \nstatic final StringBuffer sb2 = new StringBuffer(); \npublic static void main(String args[]) \n{ \n    new Thread() \n    { \n        public void run() \n        { \n            synchronized(sb1) \n            { \n                sb1.append(\"A\"); \n                sb2.append(\"B\"); \n            } \n        } \n    }.start(); \n\n    new Thread() \n    { \n        public void run() \n        { \n            synchronized(sb1) \n            { \n                sb1.append(\"C\"); \n                sb2.append(\"D\"); \n            } \n        } \n    }.start(); /* Line 28 */\n\n    System.out.println (sb1 + \" \" + sb2); \n    } \n}",
+          "options": {
+               "A": "main()will finish before starting threads.",
+               "B": "main()will finish in the middle of one thread.",
+               "C": "main()will finish after one thread.",
+               "D": "Cannot be determined."
+          },
+          "correct_answer": "D",
+          "answer_description": "Can you guarantee the order in which threads are going to run? No you can't. So how do you know what the output will be? The output cannot be determined.add this code after line 28:try { Thread.sleep(5000); } catch(InterruptedException e) { }and you have some chance of predicting the outcome."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "If only one thread is blocked in the wait method of an object, and another thread executes the modify on that same object, then the first thread immediately resumes execution.",
+               "B": "If a thread is blocked in the wait method of an object, and another thread executes the notify method on the same object, it is still possible that the first thread might never resume execution.",
+               "C": "If a thread is blocked in the wait method of an object, and another thread executes the notify method on the same object, then the first thread definitely resumes execution as a direct and sole consequence of the notify call.",
+               "D": "If two threads are blocked in the wait method of one object, and another thread executes the notify method on the same object, then the first thread that executed the wait call first definitely resumes execution as a direct and sole consequence of the notify call."
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct - The notify method only wakes the thread. It does not guarantee that the thread will run.Option A is incorrect - just because another thread activates the modify method in A this does not mean that the thread will automatically resume executionOption C is incorrect - This is incorrect because as said in Answer B notify only wakes the thread but further to this once it is awake it goes back into the stack and awaits execution therefore it is not a  \"direct and sole consequence of the notify call\"Option D is incorrect - The notify method wakes one waiting thread up. If there are more than one sleeping threads then the choice as to which thread to wake is made by the machine rather than you therefore you cannot guarantee that the notify'ed thread will be the first waiting thread."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "Memory is reclaimed by callingRuntime.gc().",
+               "B": "Objects are not collected if they are accessible from live threads.",
+               "C": "AnOutOfMemoryerror is only thrown if a single block of memory cannot be found that is large enough for a particular requirement.",
+               "D": "Objects that havefinalize()methods always have theirfinalize()methods called before the program ends."
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct. If an object can be accessed from a live thread, it can't be garbage collected.Option A is wrong.Runtime.gc()asks the garbage collector to run, but the garbage collector never makes any guarantees about when it will run or what unreachable objects it will free from memory.Option C is wrong. The garbage collector runs immediately the system is out of memory before anOutOfMemoryExceptionis thrown by the JVM.Option D is wrong. If this were the case then the garbage collector would actively hang onto objects until a program finishes - this goes against the purpose of the garbage collector."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (when you run with the -ea option) ?public class Test \n{  \n    public static void main(String[] args) \n    {\n        int x = 0;  \n        assert (x > 0) : \"assertion failed\"; /* Line 6 */\n        System.out.println(\"finished\"); \n    } \n}",
+          "options": {
+               "A": "finished",
+               "B": "Compilation fails.",
+               "C": "An AssertionError is thrown.",
+               "D": "An AssertionError is thrown and finished is output."
+          },
+          "correct_answer": "C",
+          "answer_description": "An assertion Error is thrown as normal giving the output \"assertion failed\". The word \"finished\" is not printed (ensure you run with the-eaoption)Assertion failures are generally labeled in the stack trace with the file and line number from which they were thrown, and also in this case with the error's detail message  \"assertion failed\". The detail message is supplied by the assert statement in line 6."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class Test2 \n{\n    public static int x;\n    public static int foo(int y) \n    {\n        return y * 2;\n    }\n    public static void main(String [] args) \n    {\n        int z = 5;\n        assert z > 0; /* Line 11 */\n        assert z > 2: foo(z); /* Line 12 */\n        if ( z < 7 )\n            assert z > 4; /* Line 14 */\n\n        switch (z) \n        {\n            case 4: System.out.println(\"4 \");\n            case 5: System.out.println(\"5 \");\n            default: assert z < 10;\n        }\n\n        if ( z < 10 )\n            assert z > 4: z++; /* Line 22 */\n        System.out.println(z);\n    }\n}which line is an example of an inappropriate use of assertions?",
+          "options": {
+               "A": "Line 11",
+               "B": "Line 12",
+               "C": "Line 14",
+               "D": "Line 22"
+          },
+          "correct_answer": "D",
+          "answer_description": "Assert statements should not cause side effects. Line 22 changes the value ofzif the assert statement isfalse.Option A is fine; a second expression in an assert statement is not required.Option B is fine because it is perfectly acceptable to call a method with the second expression of an assert statement.Option C is fine because it is proper to call an assert statement conditionally."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "Assertions can be enabled or disabled on a class-by-class basis.",
+               "B": "Conditional compilation is used to allow tested classes to run at full speed.",
+               "C": "Assertions are appropriate for checking the validity of arguments in a method.",
+               "D": "The programmer can choose to execute a return statement or to throw an exception if an assertion fails."
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct. The assertion status can be set for a named top-level class and any nested classes contained therein. This setting takes precedence over the class loader's default assertion status, and over any applicable per-package default. If the named class is not a top-level class, the change of status will have no effect on the actual assertion status of any class.Option B is wrong. Is there such a thing as conditional compilation in Java?Option C is wrong. For private methods - yes. But do not use assertions to check the parameters of a public method. An assert is inappropriate in public methods because the method guarantees that it will always enforce the argument checks. A public method must check its arguments whether or not assertions are enabled. Further, the assert construct does not throw an exception of the specified type. It can throw only anAssertionError.Option D is wrong. Because you're never supposed to handle an assertion failure. That means don't catch it with acatchclause and attempt to recover."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?String x = \"xyz\";\nx.toUpperCase(); /* Line 2 */\nString y = x.replace('Y', 'y');\ny = y + \"abc\";\nSystem.out.println(y);",
+          "options": {
+               "A": "abcXyZ",
+               "B": "abcxyz",
+               "C": "xyzabc",
+               "D": "XyZabc"
+          },
+          "correct_answer": "C",
+          "answer_description": "Line 2 creates a newStringobject with the value \"XYZ\", but this new object is immediately lost because there is no reference to it. Line 3 creates a newStringobject referenced byy. This newStringobject has the value \"xyz\" because there was no \"Y\" in the String object referred to byx. Line 4 creates a newStringobject, appends \"abc\" to the value \"xyz\", and refersyto the result."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Tree { } \nclass Pine extends Tree { } \nclass Oak extends Tree { } \npublic class Forest1 \n{ \n    public static void main (String [] args)\n    { \n        Tree tree = new Pine(); \n        if( tree instanceof Pine ) \n            System.out.println (\"Pine\"); \n        else if( tree instanceof Tree ) \n            System.out.println (\"Tree\"); \n        else if( tree instanceof Oak ) \n            System.out.println ( \"Oak\" ); \n        else \n            System.out.println (\"Oops \"); \n    } \n}",
+          "options": {
+               "A": "Pine",
+               "B": "Tree",
+               "C": "Forest",
+               "D": "Oops"
+          },
+          "correct_answer": "A",
+          "answer_description": "The program prints \"Pine\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What two statements are true about the result obtained from callingMath.random()?The result is less than 0.0.The result is greater than or equal to 0.0..The result is less than 1.0.The result is greater than 1.0.The result is greater than or equal to 1.0.",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "4 and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) and (3) are correct. The result range forrandom()is0.0to <1.0;1.0is not in range."
+     }
+]

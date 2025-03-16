@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "IfVccof a 555 timer circuit is set to +10 V what is the level of output voltage from the circuit?",
+        "options": {
+            "A": "VOH= 10 V,VOL= 0 V",
+            "B": "VOH= 10 V,VOL= 0.1 V",
+            "C": "VOH= 8.5 V,VOL= 0 V",
+            "D": "VOH= 8.5 V,VOL= 0.1 V"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the resistor in the Schmitt trigger astable multivibrator is a variable resistor, what part of the output voltage waveform will change when the resistance is changed?",
+        "options": {
+            "A": "the shape of the waveform",
+            "B": "the amplitude of the waveform",
+            "C": "the period of the waveform",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

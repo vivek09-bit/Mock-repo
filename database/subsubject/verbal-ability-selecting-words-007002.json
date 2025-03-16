@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "Success in this examination depends ...... hard work alone.",
+        "options": {
+            "A": "at",
+            "B": "over",
+            "C": "for",
+            "D": "on"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "My uncle decided to take ...... and my sister to the market.",
+        "options": {
+            "A": "I",
+            "B": "mine",
+            "C": "me",
+            "D": "myself"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "If you smuggle goods into the country, they may be ...... by the customs authority.",
+        "options": {
+            "A": "possessed",
+            "B": "punished",
+            "C": "confiscated",
+            "D": "fined"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "Man does not live by ...... alone.",
+        "options": {
+            "A": "food",
+            "B": "bread",
+            "C": "meals",
+            "D": "diet"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "Piyush behaves strangely at times and, therefore, nobody gets ...... with him.",
+        "options": {
+            "A": "about",
+            "B": "through",
+            "C": "along",
+            "D": "up"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

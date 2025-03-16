@@ -1,0 +1,266 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)In the following questions choose the word which is the exact OPPOSITE of the given words.",
+          "image_path": null,
+          "question": "DEAR",
+          "options": {
+               "A": "Priceless",
+               "B": "Free",
+               "C": "Worthless",
+               "D": "Cheap"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)In the following questions choose the word which is the exact OPPOSITE of the given words.",
+          "image_path": null,
+          "question": "MINOR",
+          "options": {
+               "A": "Big",
+               "B": "Major",
+               "C": "Tall",
+               "D": "Heavy"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "In high school many of us never realised  the importance that grammar would ...... in later life.",
+          "options": {
+               "A": "figure",
+               "B": "portray",
+               "C": "play",
+               "D": "exercise"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "Physically we are now all neighbors, but psychologically. we are ...... to each other.",
+          "options": {
+               "A": "primitives",
+               "B": "complimentary",
+               "C": "strangers",
+               "D": "cowards"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "The robbers were arrested and ...... prison yesterday.",
+          "options": {
+               "A": "brought into",
+               "B": "brought to",
+               "C": "taken into",
+               "D": "taken to"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "He is a person of sound character and ...... disposition.",
+          "options": {
+               "A": "beneficent",
+               "B": "morous",
+               "C": "amiable",
+               "D": "amicable"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 7)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "This, partly, explains how the Mehta family has been able to ...... its lavish lifestyle in recent times, despite the fact that all its assets have been ......",
+          "options": {
+               "A": "keep, removed",
+               "B": "afford, attached",
+               "C": "develop, liquidated",
+               "D": "keep up, destroyed"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 8)In each questions below five words are given. Find out that word, the spelling of which is WRONG. The letter of that word is the answer. If all the four words are spelt correctly, the answer is 'E', i.e., \"All Correct\".",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Filled",
+               "B": "Fulfiled",
+               "C": "Expelled",
+               "D": "Skilled",
+               "E": "All correct"
+          },
+          "correct_answer": "B",
+          "answer_description": "Fulfilled"
+     },
+     {
+          "direction": "Direction (Q.No. 9)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "It was to beP :before their school examinationQ :which was due to startR :the last expeditionS :in a month'sThe Proper sequence should be:",
+          "options": {
+               "A": "SRQP",
+               "B": "RQSP",
+               "C": "RPQS",
+               "D": "SPRQ"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 11)Which of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+          "image_path": null,
+          "question": "I have got some tea, but I do not haveasugar.",
+          "options": {
+               "A": "some",
+               "B": "got",
+               "C": "more",
+               "D": "any",
+               "E": "No correction required"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 11)Which of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+          "image_path": null,
+          "question": "Anand has the gutsto rise fromthe occasion and come out successfully.",
+          "options": {
+               "A": "in rising from",
+               "B": "to raise with",
+               "C": "to rise to",
+               "D": "to rise against",
+               "E": "No correction required"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 12)In each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+          "image_path": null,
+          "question": "\"Anand stuck up a friendship with Mahesh in just 2 days\" means ......",
+          "options": {
+               "A": "Anand friendship with Mahesh came to an end recently",
+               "B": "Anand found out the other friends of Mahesh",
+               "C": "Anand fixed a deal with Mahesh in 2 days",
+               "D": "Anand's friendship with Mahesh lasted for 2 years",
+               "E": "Anand became a friend of Mahesh in less than 2 days"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 17)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "A prima facie case is such",
+          "options": {
+               "A": "As it seems at first sight",
+               "B": "As it is made to seem at first sight",
+               "C": "As it turns out to be at the end",
+               "D": "As it seems to the court after a number of hearings"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 17)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "One absorbed in his own thoughts and feelings rather than in things outside",
+          "options": {
+               "A": "Scholar",
+               "B": "Recluse",
+               "C": "Introvert",
+               "D": "Intellectual"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 17)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "The part of government which is concerned with making of rules",
+          "options": {
+               "A": "Court",
+               "B": "Tribunal",
+               "C": "Bar",
+               "D": "Legislature"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 17)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "That which cannot be believed",
+          "options": {
+               "A": "Incredible",
+               "B": "Incredulous",
+               "C": "Implausible",
+               "D": "Unreliable"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 17)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "One who does not care for literature or art",
+          "options": {
+               "A": "Primitive",
+               "B": "Illiterate",
+               "C": "Philistine",
+               "D": "Barbarian"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "Hestruck several bad patchesbefore he made good.",
+          "options": {
+               "A": "came across bad soil",
+               "B": "Had a bad time",
+               "C": "Went through many illness",
+               "D": "Had many professional difficulties"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "Do not imagine that Dharmendra is really sorry that his wife died. Those are onlycrocodile tears.",
+          "options": {
+               "A": "Pretended sorrow",
+               "B": "Tears a crocodile",
+               "C": "A weeping crocodile",
+               "D": "Mild regret"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "The case washeld overdue to the great opposition to it.",
+          "options": {
+               "A": "stopped",
+               "B": "postponed",
+               "C": "dropped",
+               "D": "cancelled"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

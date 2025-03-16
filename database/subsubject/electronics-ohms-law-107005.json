@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the voltage in the given circuit was cut in half, what would the current equal?",
+        "options": {
+            "A": "10 mA",
+            "B": "30 mA",
+            "C": "60 mA",
+            "D": "90 mA"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

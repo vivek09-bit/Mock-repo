@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFrom amongst the figures marked (1), (2), (3) and (4), select the figure which satisfies the same conditions of placement of the dots as in figure (X).",
+        "image_path": null,
+        "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "In fig. (X), one of the dots lies in the region common to the square and the rectangle only, another dot lies in the region common to all the four elements - the circle, the square, the triangle and the rectangle and the third dot lies in the region common to the triangle and the rectangle only. In fig. (2) there is no region common to the triangle and the rectangle only. In fig. (3) there is no region common to the square and the rectangle only. In fig. (4) there is no region common to all the four elements - the circle, the square, the triangle and the rectangle. Only fig. (1) consists of all the three types of regions."
+    },
+    {
+        "direction": "Directions to SolveFrom amongst the figures marked (1), (2), (3) and (4), select the figure which satisfies the same conditions of placement of the dots as in figure (X).",
+        "image_path": null,
+        "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "In fig. (X), one of the dots lies in the region common to the circle the triangle and the rectangle only, another dot lies in the region common to the circle and the triangle only and the third dot lies in the region common to the circle, the square and the triangle only. In each of the figures (1), (2) and (4) there is no region common to the circle, the triangle and the rectangle only. Only fig. (3) consists of all the three types of regions."
+    },
+    {
+        "direction": "Directions to SolveFrom amongst the figures marked (1), (2), (3) and (4), select the figure which satisfies the same conditions of placement of the dots as in figure (X).",
+        "image_path": null,
+        "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "In fig. (X), one of the dots lies in the region common to the circle and the triangle only and the other dot lies in the region common to the square and the triangle only. In each of the figures (2), (3) and (4), there is no region common to the circle and the triangle only. Only fig. (1) consists of both the types of regions."
+    },
+    {
+        "direction": "Directions to SolveFrom amongst the figures marked (1), (2), (3) and (4), select the figure which satisfies the same conditions of placement of the dots as in figure (X).",
+        "image_path": null,
+        "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "In fig. (X), one of the dots lies in the region common to the circle and the square only, another dot lies in the region common to all the three figures - the circle, the square and the triangle and the third dot lies in the region common to the circle and the triangle only. In each of the alternatives (1), (3) and (4), there is no region common to the circle and the triangle only. Only fig. (2) consists of all the three types of regions."
+    },
+    {
+        "direction": "Directions to SolveFrom amongst the figures marked (1), (2), (3) and (4), select the figure which satisfies the same conditions of placement of the dots as in figure (X).",
+        "image_path": null,
+        "question": "Select the figure which satisfies the same conditions of placement of the dots as in Figure-X.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "In fig. (X), one of the dots lies in the region common to the square and the triangle only and the other dot lies in the region common to all the three figures - the circle, the square and the triangle. In each of the alternatives (1) and (2), there is no region common to the square and the triangle only. In alternative (3), there is no region common to all the three figures. Only, alternative (4) consists of both the types of regions."
+    }
+]

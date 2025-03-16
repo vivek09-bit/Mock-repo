@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Lala Lajpat Rai is the author of the book",
+        "options": {
+            "A": "India Divided",
+            "B": "Unhappy India",
+            "C": "Mother India",
+            "D": "Hind Swaraj"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

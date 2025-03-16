@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The intersecting lines drawn on maps and globes are",
+        "options": {
+            "A": "latitudes",
+            "B": "longitudes",
+            "C": "geographic grids",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The light of distant stars is affected by",
+        "options": {
+            "A": "the earth's atmosphere",
+            "B": "interstellar dust",
+            "C": "both (a) and (b)",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The landmass of which of the following continents is the least?",
+        "options": {
+            "A": "Africa",
+            "B": "Asia",
+            "C": "Australia",
+            "D": "Europe"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Without ____ the equator would be much hotter than it is while the poles would be much cooler.",
+        "options": {
+            "A": "latitudinal redistribution of heat",
+            "B": "cycle of air circulation",
+            "C": "global wind pattern",
+            "D": "All are similar terms"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The habitats valuable for commercially harvested species are called",
+        "options": {
+            "A": "coral reefs",
+            "B": "sea grass bed",
+            "C": "hot spots",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

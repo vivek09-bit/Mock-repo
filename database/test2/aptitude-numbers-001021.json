@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of even numbers between 1 and 31 is:",
+        "options": {
+            "A": "6",
+            "B": "28",
+            "C": "240",
+            "D": "512"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let Sn= (2 + 4 + 6 + ... + 30). This is an A.P. in whicha= 2,d= 2 andl= 30Let the number of terms ben.Then,a+ (n- 1)d= 302 + (n- 1) x 2 = 30n= 15.Sn=n(a+l)=15x (2 + 30) = (15 x 16) = 240.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 91876 * 2 is completely divisible by 8, then the smallest whole number in place of * will be:",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Then number 6x2 must be divisible by 8.x= 3, as 632 is divisible 8."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "2056 x 987 = ?",
+        "options": {
+            "A": "1936372",
+            "B": "2029272",
+            "C": "1896172",
+            "D": "1926172",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "2056 x 987= 2056 x (1000 - 13)= 2056 x 1000 - 2056 x 13= 2056000 - 26728= 2029272."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On multiplying a number by 7, the product is a number each of whose digits is 3. The smallest such number is:",
+        "options": {
+            "A": "47619",
+            "B": "47719",
+            "C": "48619",
+            "D": "47649"
+        },
+        "correct_answer": "A",
+        "answer_description": "By hit and trial, we find that47619 x 7 = 333333."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 60% of3of a number is 36, then the number is:5",
+        "options": {
+            "A": "80",
+            "B": "100",
+            "C": "75",
+            "D": "90"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the number bex. Then60% of3ofx= 36560x3xx= 361005x=36 x25= 1009Required number = 100"
+    }
+]

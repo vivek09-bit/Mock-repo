@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is unique about TTL devices such as the 74S00?",
+        "options": {
+            "A": "The gate transistors are silicon (S), and the gates therefore have lower values of leakage current.",
+            "B": "The S denotes the fact that a single gate is present in the IC rather than the usual package of 2–6 gates.",
+            "C": "The S denotes a slow version of the device, which is a consequence of its higher power rating.",
+            "D": "The devices use Schottky transistors and diodes to prevent them from going into saturation; this results in faster turn on and turn off times, which translates into higher frequency operation."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Refer to the figure given below. What type of device is shown and what input levels are required to turn the LED off?",
+        "options": {
+            "A": "The device is an open-collector AND gate and requires both inputs to be HIGH in order to turn the LED off.",
+            "B": "The device is a Schottky AND gate and requires only one low input to turn the LED off.",
+            "C": "The device is an open-collector AND gate and requires only one low input to turn the LED off.",
+            "D": "The device is a Schottky open-collector AND gate and requires a low on both inputs to turn the LED off."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Generally, the voltage measured at an unused TTL input would typically be measured between:",
+        "options": {
+            "A": "1.4 to 1.8 V.",
+            "B": "0 to 5 V.",
+            "C": "0 to 1.8 V.",
+            "D": "0.8 to 5 V."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The IEEE/ANSI notation of an internal underlined diamond denotes:",
+        "options": {
+            "A": "totem-pole outputs.",
+            "B": "open-collector outputs.",
+            "C": "quadrature amplifiers.",
+            "D": "tristate buffers."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The bipolar TTL logic family that was developed to increase switching speed by preventing transistor saturation is:",
+        "options": {
+            "A": "emitter-coupled logic (ECL).",
+            "B": "current-mode logic (CML).",
+            "C": "transistor-transistor logic (TTL).",
+            "D": "emitter-coupled logic (ECL) and transistor-transistor logic (TTL)."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

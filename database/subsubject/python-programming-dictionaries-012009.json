@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thedictionary.update(key=value)method?",
+        "options": {
+            "A": "Adds a new key-value pair to the dictionary.",
+            "B": "Updates the values of the dictionary with new values.",
+            "C": "Removes a key-value pair from the dictionary.",
+            "D": "Raises aSyntaxError."
+        },
+        "correct_answer": "A",
+        "answer_description": "Theupdate()method with key=value adds a new key-value pair to the dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you remove a specific key-value pair from a dictionary?",
+        "options": {
+            "A": "dictionary.remove(key)",
+            "B": "dictionary.delete(key)",
+            "C": "dictionary.clear(key)",
+            "D": "del dictionary[key]"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thedelkeyword is used to remove a specific key-value pair from a dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between thedictionary.keys()anddictionary.values()methods?",
+        "options": {
+            "A": "Both methods return the keys of the dictionary.",
+            "B": "Both methods return the values of the dictionary.",
+            "C": "dictionary.keys()returns a list of keys, whiledictionary.values()returns a list of values.",
+            "D": "dictionary.keys()returns a list of values, whiledictionary.values()returns a list of keys."
+        },
+        "correct_answer": "C",
+        "answer_description": "Thekeys()method returns a list of keys, and thevalues()method returns a list of values in a dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you check if a key exists in a dictionary using theget()method?",
+        "options": {
+            "A": "if key.get(dictionary):",
+            "B": "if key.exists_in(dictionary.get()):",
+            "C": "if dictionary.get(key) is not None:",
+            "D": "if key in dictionary.get():"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theget()method returnsNoneif the key is not present, so checking foris not Noneverifies key existence."
+    }
+]

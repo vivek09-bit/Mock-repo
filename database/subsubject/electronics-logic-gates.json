@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The output will be a LOW for any case when one or more inputs are zero in a(n):",
+        "options": {
+            "A": "OR gate",
+            "B": "NOT gate",
+            "C": "AND gate",
+            "D": "NAND gate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a signal passing through a gate is inhibited by sending a low into one of the inputs, and the output is HIGH, the gate is a(n):",
+        "options": {
+            "A": "AND",
+            "B": "NAND",
+            "C": "NOR",
+            "D": "OR"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A single transistor can be used to build which of the following digital logic gates?",
+        "options": {
+            "A": "AND gates",
+            "B": "OR gates",
+            "C": "NOT gates",
+            "D": "NAND gates"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The logic gate that will have HIGH or \"1\" at its output when any one of its inputs is HIGH is a(n):",
+        "options": {
+            "A": "OR gate",
+            "B": "AND gate",
+            "C": "NOR gate",
+            "D": "NOT gate"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many NAND circuits are contained in a 7400  NAND IC?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

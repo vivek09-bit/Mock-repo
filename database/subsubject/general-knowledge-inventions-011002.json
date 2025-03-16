@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the name of the CalTech seismologist who invented the scale used to measure the magnitude of earthquakes?",
+        "options": {
+            "A": "Charles Richter",
+            "B": "Hiram Walker",
+            "C": "Giuseppe Mercalli",
+            "D": "Joshua Rumble"
+        },
+        "correct_answer": "A",
+        "answer_description": "Richter was born on an Ohio farm in 1900. He died in 1985."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What Galileo invented?",
+        "options": {
+            "A": "Barometer",
+            "B": "Pendulum clock",
+            "C": "Microscope",
+            "D": "Thermometer"
+        },
+        "correct_answer": "D",
+        "answer_description": "Various authors have credited the invention of the thermometer to Cornelius Drebbel, Robert Fludd, Galileo Galilei or Santorio Santorio. The thermometer was not a single invention, however, but a development.Galileo Galilei also discovered that objects (glass spheres filled with aqueous alcohol) of slightly different densities would rise and fall, which is nowadays the principle of the Galileo thermometer (shown). Today such thermometers are calibrated to a temperature scale."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "This statesman, politican, scholar, inventor, and one of early presidents of USA invented the swivel chair, the spherical sundial, the moldboard plow, and the cipher wheel.",
+        "options": {
+            "A": "George Washington",
+            "B": "Alexander Hamilton",
+            "C": "John Adams",
+            "D": "Thomas Jefferson"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thomas Jefferson (April 13, 1743 - July 4, 1826) was the third President of the United States (1801-1809) and the principal author of the Declaration of Independence (1776)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What James Watt invented?",
+        "options": {
+            "A": "Diving bell",
+            "B": "Steam boat",
+            "C": "Hot air balloon",
+            "D": "Rotary steam engine"
+        },
+        "correct_answer": "D",
+        "answer_description": "Invented in 1765."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Where is the village of Branston, after which the famous pickle is named?",
+        "options": {
+            "A": "Yorkshire",
+            "B": "Lancashire",
+            "C": "Staffordshire",
+            "D": "Norfolk"
+        },
+        "correct_answer": "C",
+        "answer_description": "The village of Branston is in Staffordshire, just south of Burton-on-Trent."
+    }
+]

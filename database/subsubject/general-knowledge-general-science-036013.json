@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following metals remain in liquid for under normal conditions?",
+        "options": {
+            "A": "Radium",
+            "B": "Zinc",
+            "C": "Uranium",
+            "D": "Mercury"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Potassium Permanganate is used for purifying drinking water, because",
+        "options": {
+            "A": "it is a sterilising agent",
+            "B": "it dissolves the impurities of water",
+            "C": "it is a reducing agent",
+            "D": "it is an oxidising agent"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an element?",
+        "options": {
+            "A": "Ruby",
+            "B": "Sapphire",
+            "C": "Emerald",
+            "D": "Diamond"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

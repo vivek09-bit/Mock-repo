@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You are connecting your access point and it is set to root. What does Extended Service Set ID mean?",
+        "options": {
+            "A": "That you have more than one access point and they are in the same SSID connected by a distribution system.",
+            "B": "That you have more than one access point and they are in separate SSIDs connected by a distribution system.",
+            "C": "That you have multiple access points, but they are placed physically in different buildings.",
+            "D": "That you have multiple access points, but one is a repeater access point."
+        },
+        "correct_answer": "A",
+        "answer_description": "Extended Service Set ID means that you have more than one access point and they all are set to the same SSID and all are connected together in the same VLAN or distribution system so users can roam."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Cisco's Unified Wireless Solution provides a mesh solution. What devices do you absolutely need to purchase to run a Cisco solution?WCSControllerAccess pointBridge",
+        "options": {
+            "A": "1 and 2",
+            "B": "2 and 3",
+            "C": "1 and 4 only",
+            "D": "4 only"
+        },
+        "correct_answer": "B",
+        "answer_description": "The Cisco Unified Wireless Solution is a great product, but you must purchase specialized devices. Cisco managed access points and a controller are the devices you need to purchase to run the Unified Wireless Solution."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the frequency range of the IEEE 802.11g standard?",
+        "options": {
+            "A": "2.4Gbps",
+            "B": "5Gbps",
+            "C": "2.4GHz",
+            "D": "5GHz"
+        },
+        "correct_answer": "C",
+        "answer_description": "The IEEE 802.11b and IEEE 802.11g standards both run in the 2.4GHz RF range."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many non-overlapping channels are available with 802.11g?",
+        "options": {
+            "A": "3",
+            "B": "12",
+            "C": "23",
+            "D": "40"
+        },
+        "correct_answer": "A",
+        "answer_description": "The IEEE 802.11g standard provides 3 non-overlapping channels."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the maximum distance running the lowest data rate for 802.11g?",
+        "options": {
+            "A": "About 100 feet",
+            "B": "About 175 feet",
+            "C": "About 300 feet",
+            "D": "About 350 feet"
+        },
+        "correct_answer": "C",
+        "answer_description": "The IEEE 802.11g standard's lowest data rate is 6Mbps, but it can run from a distance of about 300 feet."
+    }
+]

@@ -1,0 +1,267 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+          "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "8"
+          },
+          "correct_answer": "A",
+          "answer_description": "N = H.C.F. of (4665 - 1305), (6905 - 4665) and (6905 - 1305)= H.C.F. of 3360, 2240 and 5600 = 1120.Sum of digits in N = ( 1 + 1 + 2 + 0 ) = 4"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+          "options": {
+               "A": "76 kg",
+               "B": "76.5 kg",
+               "C": "85 kg",
+               "D": "Data inadequate",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Total weight increased = (8 x 2.5) kg = 20 kg.Weight of new person = (65 + 20) kg = 85 kg.Video Explanation:https://youtu.be/ceg2jvHsiJU"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2 ?",
+          "options": {
+               "A": "4",
+               "B": "8",
+               "C": "16",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Since the number is greater than the number obtained on reversing the digits, so the ten's digit is greater than the unit's digit.Let ten's and unit's digits be 2xandxrespectively.Then, (10 x 2x+x) - (10x+ 2x) = 369x= 36x= 4.Required difference = (2x+x) - (2x-x) = 2x= 8."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be:",
+          "options": {
+               "A": "12 years",
+               "B": "14 years",
+               "C": "18 years",
+               "D": "20 years"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the present ages of son and father bexand (60 -x) years respectively.Then, (60 -x) - 6 = 5(x- 6)54 -x= 5x- 306x= 84x= 14.Son's age after 6 years = (x+ 6) = 20 years.."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Three candidates contested an election and received 1136, 7636 and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+          "options": {
+               "A": "57%",
+               "B": "60%",
+               "C": "65%",
+               "D": "90%"
+          },
+          "correct_answer": "A",
+          "answer_description": "Total number of votes polled = (1136 + 7636 + 11628) = 20400.Required percentage =11628x 100% = 57%.20400"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+          "options": {
+               "A": "30%",
+               "B": "70%",
+               "C": "100%",
+               "D": "250%"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let C.P.= Rs. 100. Then, Profit = Rs. 320, S.P. = Rs. 420.New C.P. = 125% of Rs. 100 = Rs. 125New S.P. = Rs. 420.Profit = Rs. (420 - 125) = Rs. 295.Required percentage =295x 100%=1475% = 70% (approximately).42021Video Explanation:https://youtu.be/bQA8SB8ycbw"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the cost ofxmetres of wire is d rupees, then what is the cost ofymetres of wire at the same rate?",
+          "options": {
+               "A": "Rs.xyd",
+               "B": "Rs. (xd)",
+               "C": "Rs. (yd)",
+               "D": "Rs.ydx"
+          },
+          "correct_answer": "D",
+          "answer_description": "Cost ofxmetres = Rs. d.Cost of 1 metre = Rs.dxCost ofymetres = Rs.d.y= Rs.yd.xx"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A flagstaff 17.5 m high casts a shadow of length 40.25 m. The height of the building, which casts a shadow of length 28.75 m under similar conditions will be:",
+          "options": {
+               "A": "10 m",
+               "B": "12.5 m",
+               "C": "17.5 m",
+               "D": "21.25 m"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the height of the buildingxmetres.Less lengthy shadow, Less in the height (Direct Proportion)40.25 : 28.75::17.5 :x40.25 xx= 28.75 x 17.5x=28.75 x 17.540.25x= 12.5"
+     },
+     {
+          "direction": "Direction (Q.No. 9)Each of the questions given below consists of a question followed by three statements. You have to study the question and the statements and decide which of the statement(s) is/are necessary to answer the question.",
+          "image_path": null,
+          "question": "In how many days can 10 women finish a work?I.10 men can complete the work in 6 days.II.10 men and 10 women together can complete the work in 33days7III.If 10 men work for 3 days and thereafter 10 women replace them, the remaining work in completed in 4 days.",
+          "options": {
+               "A": "Any two of the three",
+               "B": "I and II only",
+               "C": "II and III only",
+               "D": "I and III only",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "I.(10 x 6) men can complete the work in 1 day.1 man's 1 day's work =160II.10 x24men +10 x24women can complete the work in 1 day.77240men's 1 day work +240women's 1 day work = 1.77240x1+240women's 1 day's work = 1.7607240women's 1 day's work =1 -4=377710 women's 1 day's work =3x7x 10=172408So, 10 women can finish the work in 8 days.III.(10 men's work for 3 days) + (10 women's work for 4 days) = 1(10 x 3) men's 1 day's work + (10 x 4) women's 1 day's work = 130 men's 1 day's work + 40 women's 1 day's work = 1Thus, I and III will give us the answer.And, II and III will give us the answer.Correct answer is (A)."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of these questions is followed by three statements. You have to study the question and all the three statements given to decide whether any information provided in the statement(s) is redundant and can be dispensed with while answering the given question.",
+          "image_path": null,
+          "question": "8 men and 14 women are working together in a field. After working for 3 days, 5 men and 8 women leave the work. How many more days will be required to complete the work?I.19 men and 12 women together can complete the work in 18 days.II.16 men can complete two-third of the work in 16 days.III.In 1 day, the work done by three men in equal to the work done by four women.",
+          "options": {
+               "A": "I only",
+               "B": "II only",
+               "C": "III only",
+               "D": "I or II or III",
+               "E": "II or III only"
+          },
+          "correct_answer": "D",
+          "answer_description": "Clearly, I only gives the answer.Similarly, II only gives the answer.And, III only gives the answer.Correct answer is (D)."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of these questions is followed by three statements. You have to study the question and all the three statements given to decide whether any information provided in the statement(s) is redundant and can be dispensed with while answering the given question.",
+          "image_path": null,
+          "question": "A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth. The percentage of decrease in area is:",
+          "options": {
+               "A": "10%",
+               "B": "10.08%",
+               "C": "20%",
+               "D": "28%"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let original length =xand original breadth =y.Decrease in area=xy -80xx90y100100=xy-18xy25=7xy.25Decrease % =7xyx1x 100%= 28%.25xy"
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the capacity of a cylindrical tank?I.Radius of the base is half of its height which is 28 metres.II.Area of the base is 616 sq. metres and its height is 28 metres.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "C",
+          "answer_description": "I gives,h= 28 m andr= 14.Capacity =r2h, which can be obtained.Thus, I alone gives the answer.II gives,r2= 616 m2andh= 28 m.Capacity = (r2xh) = (616 x 28) m3.Thus, II alone gives the answer.Correct answer is (C)."
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "In 100 m race, A covers the distance in 36 seconds and B in 45 seconds. In this race A beats B by:",
+          "options": {
+               "A": "20 m",
+               "B": "25 m",
+               "C": "22.5 m",
+               "D": "9 m"
+          },
+          "correct_answer": "A",
+          "answer_description": "Distance covered by B in 9 sec. =100x 9m= 20 m.45A beats B by 20 metres."
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A 6% stock yields 8%. The market value of the stock is:",
+          "options": {
+               "A": "Rs. 48",
+               "B": "Rs. 75",
+               "C": "Rs. 96",
+               "D": "Rs. 133.33"
+          },
+          "correct_answer": "B",
+          "answer_description": "For an income of Rs. 8, investment = Rs. 100.For an income of Rs. 6, investment = Rs.100x 6= Rs. 75.8Market value of Rs. 100 stock = Rs. 75."
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+          "options": {
+               "A": "32",
+               "B": "48",
+               "C": "64",
+               "D": "96",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "We may have(1 black and 2 non-black) or (2 black and 1 non-black) or (3 black).Required number of ways= (3C1x6C2) + (3C2x6C1) + (3C3)=3 x6 x 5+3 x 2x 6+ 12 x 12 x 1= (45 + 18 + 1)= 64."
+     },
+     {
+          "direction": "Direction (Q.No. 12)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "If Rs. 10 be allowed as true discount on a bill of Rs. 110 due at the end of a certain time, then the discount allowed on the same sum due at the end of double the time is:",
+          "options": {
+               "A": "Rs. 20",
+               "B": "Rs. 21.81",
+               "C": "Rs. 22",
+               "D": "Rs. 18.33"
+          },
+          "correct_answer": "D",
+          "answer_description": "S.I. on Rs. (110 - 10) for a certain time = Rs. 10.S.I. on Rs. 100 for double the time = Rs. 20.T.D. on Rs. 120 = Rs. (120 - 100) = Rs. 20.T.D. on Rs. 110 = Rs.20x 110= Rs. 18.33120"
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 18)Find the odd man out.",
+          "image_path": null,
+          "question": "10, 14, 16, 18, 21, 24, 26",
+          "options": {
+               "A": "26",
+               "B": "24",
+               "C": "21",
+               "D": "18"
+          },
+          "correct_answer": "C",
+          "answer_description": "Each of the numbers except 21 is an even number."
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 18)Find the odd man out.",
+          "image_path": null,
+          "question": "835, 734, 642, 751, 853, 981, 532",
+          "options": {
+               "A": "751",
+               "B": "853",
+               "C": "981",
+               "D": "532"
+          },
+          "correct_answer": "A",
+          "answer_description": "In each number except 751, the difference of third and first digit is the middle one."
+     },
+     {
+          "direction": "Direction (Q.No. 19)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "1, 2, 6, 15, 31, 56, 91",
+          "options": {
+               "A": "31",
+               "B": "91",
+               "C": "56",
+               "D": "15"
+          },
+          "correct_answer": "B",
+          "answer_description": "1, 1 + 12= 2, 2 + 22= 6, 6 + 32= 15, 15 + 42= 31, 31 + 52= 56, 56 + 62= 92Last number of given series must be 92 not 91."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Insert the missing number.",
+          "image_path": null,
+          "question": "7, 26, 63, 124, 215, 342, (....)",
+          "options": {
+               "A": "481",
+               "B": "511",
+               "C": "391",
+               "D": "421"
+          },
+          "correct_answer": "B",
+          "answer_description": "Numbers are (23- 1), (33- 1), (43- 1), (53- 1), (63- 1), (73- 1) etc.So, the next number is (83- 1) = (512 - 1) = 511."
+     }
+]

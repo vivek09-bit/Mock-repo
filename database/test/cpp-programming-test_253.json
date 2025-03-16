@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "Class is an instance of object.",
+               "B": "Object is an instance of a class.",
+               "C": "Class is an instance of data type.",
+               "D": "Object is an instance of data type."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not a type of inheritance?",
+          "options": {
+               "A": "Multiple",
+               "B": "Multilevel",
+               "C": "Distributive",
+               "D": "Hierarchical"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following keyword is used to overload an operator?",
+          "options": {
+               "A": "overload",
+               "B": "operator",
+               "C": "friend",
+               "D": "override"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following factors supports the statement that reusability is a desirable feature of a language?",
+          "options": {
+               "A": "It decreases the testing time.",
+               "B": "It lowers the maintenance cost.",
+               "C": "It reduces the compilation time.",
+               "D": "Both A and B."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What happens if the base and derived class contains definition of a function with same prototype?",
+          "options": {
+               "A": "Compiler reports an error on compilation.",
+               "B": "Only base class function will get called irrespective of object.",
+               "C": "Only derived class function will get called irrespective of object.",
+               "D": "Base class object will call base class function and derived class object will call derived class function."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is a mechanism of static polymorphism?",
+          "options": {
+               "A": "Operator overloading",
+               "B": "Function overloading",
+               "C": "Templates",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is incorrect?",
+          "options": {
+               "A": "The default value for an argument can be a global constant.",
+               "B": "The default arguments are given in the function prototype.",
+               "C": "Compiler uses the prototype information to build a call, not the function definition.",
+               "D": "The default arguments are given in the function prototype and should be repeated in the function definition."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following function / type of function cannot be overloaded?",
+          "options": {
+               "A": "Member function",
+               "B": "Static function",
+               "C": "Virtual function",
+               "D": "Both B and C"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h>\nint BixFunction(int a, int b = 3, int c = 3)\n{\n    cout<< ++a * ++b * --c ; \n    return 0;\n}\nint main()\n{\n    BixFunction(5, 0, 0); \n    return 0;\n}",
+          "options": {
+               "A": "8",
+               "B": "6",
+               "C": "-6",
+               "D": "-8"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nstruct MyData\n{\n    public:\n    int Addition(int a, int b = 10)\n    {\n        return (a *= b + 2);\n    }\n    float Addition(int a, float b);\n};\nint main()\n{\n    MyData data;\n    cout<<data.Addition(1)<<\" \";\n    cout<<data.Addition(3, 4);\n    return 0; \n}",
+          "options": {
+               "A": "12 12",
+               "B": "12 18",
+               "C": "3 14",
+               "D": "18 12",
+               "E": "Compilation fails."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?Once the variable and the reference are linked they are tied together.Once the reference of a variable is declared another reference of that variable is not allowed.",
+          "options": {
+               "A": "Only 1 is correct.",
+               "B": "Only 2 is correct.",
+               "C": "Both 1 and 2 are correct.",
+               "D": "Both 1 and 2 are incorrect."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "An array of references is acceptable.",
+               "B": "Once a reference variable has been defined to refer to a particular variable it can refer to any other variable.",
+               "C": "An array of references is not acceptable.",
+               "D": "Reference is like a structure."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "A reference is a constant pointer.",
+               "B": "A reference is not a constant pointer.",
+               "C": "An array of references is acceptable.",
+               "D": "It is possible to create a reference to a reference."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct with respect to the use of friend keyword inside a class?",
+          "options": {
+               "A": "A private data member can be declared as a friend.",
+               "B": "A class may be declared as a friend.",
+               "C": "An object may be declared as a friend.",
+               "D": "We can use friend keyword as a class name."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?",
+          "options": {
+               "A": "Data items in a class must be private.",
+               "B": "Both data and functions can be either private or public.",
+               "C": "Member functions of a class must be private.",
+               "D": "Constructor of a class cannot be private."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following means \"The use of an object of one class in definition of another class\"?",
+          "options": {
+               "A": "Encapsulation",
+               "B": "Inheritance",
+               "C": "Composition",
+               "D": "Abstraction"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about destructors?",
+          "options": {
+               "A": "A destructor has void return type.",
+               "B": "A destructor has integer return type.",
+               "C": "A destructor has no return type.",
+               "D": "A destructors return type is always same as that of main()."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When are the Global objects destroyed?",
+          "options": {
+               "A": "When the control comes out of the block in which they are being used.",
+               "B": "When the program terminates.",
+               "C": "When the control comes out of the function in which they are being used.",
+               "D": "As soon as local objects die."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Destructor has the same name as the constructor and it is preceded by ______ .",
+          "options": {
+               "A": "!",
+               "B": "?",
+               "C": "~",
+               "D": "$"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many default constructors per class are possible?",
+          "options": {
+               "A": "Only one",
+               "B": "Two",
+               "C": "Three",
+               "D": "Unlimited"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

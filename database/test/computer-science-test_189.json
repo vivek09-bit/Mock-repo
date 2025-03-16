@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to remove files?",
+          "options": {
+               "A": "dm",
+               "B": "rm",
+               "C": "delete",
+               "D": "erase",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What TCP/IP protocol is used for remote terminal connection service?",
+          "options": {
+               "A": "UDP",
+               "B": "RARP",
+               "C": "FTP",
+               "D": "TELNET",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which directory can you store system user default files used for creating user directories?",
+          "options": {
+               "A": "/usr/tmp",
+               "B": "/etc/default",
+               "C": "/etc/skel",
+               "D": "/etc/users",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "The /etc/skel directory contains files and directories that are automatically copied over to a new user's home directory when such user is created."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the main Apache configuration file?",
+          "options": {
+               "A": "/etc/apache.conf",
+               "B": "/etc/httpd/config.ini",
+               "C": "/etc/httpd/conf/httpd.conf",
+               "D": "/etc/srm.conf",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What shell's wild-card is used to match any number of characters including none?",
+          "options": {
+               "A": "*",
+               "B": "?",
+               "C": "[!ijk]",
+               "D": "[ijk]",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How can you navigate around virtual consoles?",
+          "options": {
+               "A": "Alt+Function Key",
+               "B": "Ctrl+Function Key",
+               "C": "Ctrl+Alt+Del",
+               "D": "Alt+a+w+Function Key",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For you to create a swap partition by using fdisk, what must the partition's system ID type be?",
+          "options": {
+               "A": "83",
+               "B": "82",
+               "C": "5",
+               "D": "4",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What file contains the list of port numbers (and associated names) monitored by inetd?",
+          "options": {
+               "A": "/etc/services",
+               "B": "/etc/nsorder",
+               "C": "/etc/nsswitch.conf/",
+               "D": "/etc/hosts",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The location for subdirectories for local programs and executables for user and administrative commands, is:",
+          "options": {
+               "A": "/usr",
+               "B": "/tmp",
+               "C": "/opt",
+               "D": "/mnt",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to assign executable permission to all of the files named \"report\"?",
+          "options": {
+               "A": "chmod ugo + x report",
+               "B": "chmod u + x report",
+               "C": "chmod ugo + rw report",
+               "D": "chmod ugo + r report",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "LILO",
+          "options": {
+               "A": "stands for Linux loader",
+               "B": "is the Linux boot loader",
+               "C": "is a tool used to boot the Kernel on x86 hardware",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to set user and group quotas?",
+          "options": {
+               "A": "/sbin/usrquota",
+               "B": "/sbin/edquota",
+               "C": "/sbin/quotaon",
+               "D": "/sbin/quota",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Where can system and mail logs be found in Ret Hat Linux?",
+          "options": {
+               "A": "/var/log",
+               "B": "/etc/log",
+               "C": "/mail",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following command can be used to rename a file in UNIX?",
+          "options": {
+               "A": "ren",
+               "B": "mv",
+               "C": "remove",
+               "D": "change",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the main Apache configuration file?",
+          "options": {
+               "A": "httpd.conf",
+               "B": "apache.con",
+               "C": "/etc/profile",
+               "D": "system.ini",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What shell's wild-card is used to match a single character?",
+          "options": {
+               "A": "[!ijk]",
+               "B": "[ijk]",
+               "C": "?",
+               "D": "*",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used with vi editor to move the cursor to the left?",
+          "options": {
+               "A": "h",
+               "B": "k",
+               "C": "j",
+               "D": "i",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To build a modularized kernel, the kernel-headers and kernel-source packages must first be installed. Where will you find the kernel-headers and kernel-source?",
+          "options": {
+               "A": "/usr/local",
+               "B": "/usr/src/linux",
+               "C": "/usr/sre/redhat",
+               "D": "/usr/bin",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "After you have compiled your kernel, what do you have to edit to boot your new kernel image?",
+          "options": {
+               "A": "/boot/lilo.conf",
+               "B": "/etc/conf.modules",
+               "C": "/etc/named.boot",
+               "D": "/etc/lilo.conf",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to compare the files?",
+          "options": {
+               "A": "ccp",
+               "B": "du",
+               "C": "cmp",
+               "D": "comp",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

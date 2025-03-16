@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you create an empty set?",
+        "options": {
+            "A": "empty_set = set()",
+            "B": "empty_set = {}",
+            "C": "empty_set = set([])",
+            "D": "empty_set = set('')"
+        },
+        "correct_answer": "A",
+        "answer_description": "An empty set can be created using theset()constructor."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following methods is used to remove and return an arbitrary element from a set?",
+        "options": {
+            "A": "set.remove(element)",
+            "B": "set.discard(element)",
+            "C": "set.pop()",
+            "D": "set.delete(element)"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thepop()method removes and returns an arbitrary element from the set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the expressionset([1, 2, 2, 3, 4, 4, 5])?",
+        "options": {
+            "A": "{1, 2, 3, 4, 5}",
+            "B": "[1, 2, 3, 4, 5]",
+            "C": "set([1, 2, 3, 4, 5])",
+            "D": "({1, 2, 2, 3, 4, 4, 5})"
+        },
+        "correct_answer": "A",
+        "answer_description": "A set automatically removes duplicate elements, resulting in {1, 2, 3, 4, 5}."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following methods is used to check if a set is a subset of another set?",
+        "options": {
+            "A": "set.is_subset(other_set)",
+            "B": "set.contains(other_set)",
+            "C": "set.issubset(other_set)",
+            "D": "set.subset(other_set)"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theissubset()method is used to check if a set is a subset of another set."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theset.update(iterable)method?",
+        "options": {
+            "A": "Adds elements to the set.",
+            "B": "Removes elements from the set.",
+            "C": "Updates the set with elements from another set.",
+            "D": "Raises aTypeErrorsince sets are immutable."
+        },
+        "correct_answer": "A",
+        "answer_description": "Theupdate()method is used to add elements to the set."
+    }
+]

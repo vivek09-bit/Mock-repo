@@ -1,0 +1,273 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about Managed Code?",
+          "options": {
+               "A": "Managed code is the code that  is compiled by the JIT compilers.",
+               "B": "Managed code is the code  where  resources are  Garbage Collected.",
+               "C": "Managed code is the code that runs on top of Windows.",
+               "D": "Managed code is the code that is written to target the services of the CLR.",
+               "E": "Managed code is the code that can run on top of Linux."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the root of the .NET type hierarchy?",
+          "options": {
+               "A": "System.Object",
+               "B": "System.Type",
+               "C": "System.Base",
+               "D": "System.Parent",
+               "E": "System.Root"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following code snippets are the correct way to determine whether a is Odd or Even?int a;\nString res; \nif (a % 2 == 0)\n    res = \"Even\"; \nelse \n    res = \"Odd\";int a; \nString res; \nif (a Mod 2 == 0) \n    res = \"Even\"; \nelse\n    res = \"Odd\";int a;\nConsole.WriteLine(a Mod 2 == 0 ? \"Even\": \"Odd\");int a; \nString res;\na % 2 == 0 ? res = \"Even\" : res = \"Odd\";\nConsole.WriteLine(res);",
+          "options": {
+               "A": "1, 3",
+               "B": "1 Only",
+               "C": "2, 3",
+               "D": "4 Only",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the C#.NET code snippet given below?if (age > 18 || no < 11)\n    a = 25;The conditionno < 11will get evaluated onlyif age > 18evaluates toFalse.The conditionno < 11will get evaluatedif age > 18evaluates toTrue.The statementa = 25will get evaluatedifany one one of the two conditions isTrue.||is known as a short circuiting logical operator.The statementa = 25will get evaluated onlyifboth the conditions areTrue.",
+          "options": {
+               "A": "1, 4, 5",
+               "B": "2, 4",
+               "C": "1, 3, 4",
+               "D": "2, 3, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about Bitwise^operator used in C#.NET?",
+          "options": {
+               "A": "The^operator can be used to put ON a bit.",
+               "B": "The^operator can be used to put OFF a bit.",
+               "C": "The^operator can be used to Invert a bit.",
+               "D": "The^operator can be used to check whether a bit is ON.",
+               "E": "The^operator can be used to check whether a bit is OFF."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Supposenis a variable of the type Byte and we wish to put OFF its fourth bit (from right) without disturbing any other bits. Which of the following statements will do this correctly?",
+          "options": {
+               "A": "n = n && HF7",
+               "B": "n = n & 16",
+               "C": "n = n & 0xF7",
+               "D": "n = n & HexF7",
+               "E": "n = n & 8"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?byte b1 = 0xAB;\nbyte b2 = 0x99;\nbyte temp;\ntemp = (byte)~b2;\nConsole.Write(temp + \" \");\ntemp = (byte)(b1 << b2);\nConsole.Write (temp + \" \");\ntemp = (byte) (b2 >> 2);\nConsole.WriteLine(temp);",
+          "options": {
+               "A": "102 1 38",
+               "B": "108 0 32",
+               "C": "102 0 38",
+               "D": "1 0 1"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?class Student s1, s2; // Here 'Student' is a user-defined class.\ns1 = new Student(); \ns2 = new Student();",
+          "options": {
+               "A": "Contents ofs1ands2will be exactly same.",
+               "B": "The two objects will get created on the stack.",
+               "C": "Contents of the two objects created will be exactly same.",
+               "D": "The two objects will always be created in adjacent memory locations.",
+               "E": "We should usedelete()to delete the two objects from memory."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about objects of a user-defined class calledSample?All objects ofSampleclass will always have exactly same data.Objects ofSampleclass may have same or different data.Whether objects ofSampleclass will have same or different data depends upon a Project Setting made in Visual Studio.NET.Conceptually, each object ofSampleclass will have instance data and instance member functions of theSampleclass.All objects ofSampleclass will share one copy of member functions.",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 4",
+               "C": "4, 5",
+               "D": "3, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about thethisreference?thisreference can be modified in the instance member function of a class.Static functions of a class never receive thethisreference.Instance member functions of a class always receive athisreference.thisreference continues to exist even after control returns from an instance member function.While  calling an  instance  member function we  are  not required to pass thethisreference explicitly.",
+          "options": {
+               "A": "1, 4",
+               "B": "2, 3, 5",
+               "C": "3, 4",
+               "D": "2, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?struct Book\n{\n    private String name; \n    private int noofpages; \n    private Single price;\n}\nBook b = new Book();",
+          "options": {
+               "A": "The structure variablebwill be created on the heap.",
+               "B": "We  can add a zero-argument constructor to the above structure.",
+               "C": "When the program terminates, variablebwill get garbage collected.",
+               "D": "The structure variablebwill be created on the stack.",
+               "E": "We can inherit a new structure fromstruct Book."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about Structures used in C#.NET?A Structure can be declared within a procedure.Structs can implement aninterfacebut they cannot inherit from anotherstruct.struct members cannot be declared asprotected.A Structure can be empty.It is an error to initialize an instance field in astruct.",
+          "options": {
+               "A": "1, 2, 4",
+               "B": "2, 3, 5",
+               "C": "2, 4",
+               "D": "1, 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many bytes will the structure variablesampoccupy in memory if it is defined as shown below?class Trial\n{ \n    int i; \n    Decimal d;\n}\nstruct Sample\n{\n    private int x; \n    private Single y; \n    private Trial z;\n}\nSample samp = new Sample();",
+          "options": {
+               "A": "20 bytes",
+               "B": "12 bytes",
+               "C": "8 bytes",
+               "D": "16 bytes",
+               "E": "24 bytes"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to call subroutineMyFun()of theSampleclass given below?class Sample\n{\n    public void MyFun(int i, Single j)\n    {\n        Console.WriteLine(\"Welcome to IndiaBIX !\");\n    }\n}",
+          "options": {
+               "A": "delegate void del(int i);\nSample s = new Sample();\ndel d = new del(ref s.MyFun);\nd(10, 1.1f);",
+               "B": "delegate void del(int i, Single j);\ndel d;\nSample s = new Sample();\nd = new del(ref s.MyFun);\nd(10, 1.1f);",
+               "C": "Sample s = new Sample();\ndelegate void d = new del(ref MyFun);\nd(10, 1.1f);",
+               "D": "delegate void del(int i, Single]);\nSample s = new Sample();\ndel = new delegate(ref MyFun);\ndel(10, 1.1f);"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to access all elements of the Stack collection created using the C#.NET code snippet given below?Stack st = new Stack();\nst.Push(11);\nst.Push(22);\nst.Push(-53);\nst.Push(33);\nst.Push(66);",
+          "options": {
+               "A": "IEnumerable e;\ne = st.GetEnumerator(); \nwhile (e.MoveNext())\nConsole.WriteLine(e.Current);",
+               "B": "IEnumerator e;\ne = st.GetEnumerable(); \nwhile (e.MoveNext())\nConsole.WriteLine(e.Current);",
+               "C": "IEnumerator e;\ne = st.GetEnumerator(); \nwhile (e.MoveNext()) \nConsole.WriteLine(e.Current);",
+               "D": "IEnumerator e;\ne = Stack.GetEnumerator(); \nwhile (e.MoveNext()) \nConsole.WriteLine(e.Current);"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In aHashTableKey cannot be null, but Value can be.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following can be declared as a virtual in a class?MethodsPropertiesEventsFieldsStatic fields",
+          "options": {
+               "A": "1, 2, 3",
+               "B": "3, 5",
+               "C": "2, 4",
+               "D": "2, 3, 5"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct implementation of the interface given below?interface IMyInterface\n{ \n    double MyFun(Single i);\n}",
+          "options": {
+               "A": "class MyClass\n{\n    double MyFun(Single i) as IMyInterface.MyFun\n    {\n        // Some code\n    }\n}",
+               "B": "class MyClass \n{\n    MyFun (Single i) As Double\n    {\n        // Some code\n    } \n}",
+               "C": "class MyClass: implements IMyInterface\n{\n    double fun(Single si) implements IMyInterface.MyFun()\n    {\n        //Some code\n    } \n}",
+               "D": "class MyClass: IMyInterface\n{\n    double IMyInterface.MyFun(Single i)\n    {\n        // Some code\n    } \n}"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?interface IMyInterface \n{\n    void fun1(); \n    void fun2();\n}\nclass MyClass: IMyInterface\n{ \n    private int i; \n    void IMyInterface.fun1()\n    { \n        // Some code\n    } \n}",
+          "options": {
+               "A": "ClassMyClassis an abstract class.",
+               "B": "ClassMyClasscannot contain instance data.",
+               "C": "ClassMyClassfully implements the interfaceIMyInterface.",
+               "D": "InterfaceIMyInterfaceshould be inherited from theObjectclass.",
+               "E": "The compiler will report an error since the interfaceIMyInterfaceis only partially implemented."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?interface IPerson\n{ \n    String FirstName\n    { \n        get; \n        set;\n    }\n    String LastName\n    {\n        get; \n        set;\n    }\n    void Print(); \n    void Stock(); \n    int Fun(); \n}",
+          "options": {
+               "A": "Properties cannot be declared inside an interface.",
+               "B": "This is a perfectly workable interface.",
+               "C": "The properties in the interface must have a body.",
+               "D": "Subroutine in the interface must have a body.",
+               "E": "Functions cannot be declared inside an interface."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

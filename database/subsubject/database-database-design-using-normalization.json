@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Needing to using more complicated SQL in database applications is a(n) ________ of normalization.",
+        "options": {
+            "A": "advantage",
+            "B": "disadvantage",
+            "C": "either an advantage or disadvantage",
+            "D": "neither an advantage nor disadvantage"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Eliminating modification anomalies is a(n) ________ of normalization.",
+        "options": {
+            "A": "advantage",
+            "B": "disadvantage",
+            "C": "either an advantage or disadvantage",
+            "D": "neither an advantage nor disadvantage"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Multivalued dependencies should ________ be eliminated.",
+        "options": {
+            "A": "always",
+            "B": "commonly",
+            "C": "seldom",
+            "D": "never"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When assessing the table structure of an acquired set of tables with data, accessing the validity of possible referential integrity constraints on foreign keys is (part of) the:",
+        "options": {
+            "A": "first step.",
+            "B": "second step.",
+            "C": "third step.",
+            "D": "fourth step."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Using the SQL GROUP BY phrase with a SELECT statement can help detect which of the following problems?",
+        "options": {
+            "A": "The multivalue, multicolumn problem",
+            "B": "The inconsistent values problem",
+            "C": "The missing values problem",
+            "D": "The general-purpose remarks column problem"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

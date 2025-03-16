@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have a network that needs 29 subnets while maximizing the number of host addresses available on each subnet. How many bits must you borrow from the host field to provide the correct subnet mask?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "D",
+        "answer_description": "A 240 mask is 4 subnet bits and provides 16 subnets, each with 14 hosts. We need more subnets, so let's add subnet bits. One more subnet bit would be a 248 mask. This provides 5 subnet bits (32 subnets) with 3 host bits (6 hosts per subnet). This is the best answer."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If an Ethernet port on a router were assigned an IP address of 172.16.112.1/25, what would be the valid subnet address of this host?",
+        "options": {
+            "A": "172.16.112.0",
+            "B": "172.16.0.0",
+            "C": "172.16.96.0",
+            "D": "172.16.255.0"
+        },
+        "correct_answer": "A",
+        "answer_description": "A /25 mask is 255.255.255.128. Used with a Class B network, the third and fourth octets are used for subnetting with a total of 9 subnet bits, 8 bits in the third octet and 1 bit in the fourth octet. Since there is only 1 bit in the fourth octet, the bit is either off or on-which is a value of 0 or 128. The host in the question is in the 0 subnet, which has a broadcast address of 127 since 128 is the next subnet."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have an interface on a router with the IP address of 192.168.192.10/29. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "30",
+            "D": "32"
+        },
+        "correct_answer": "A",
+        "answer_description": "A /29 (255.255.255.248), regardless of the class of address, has only 3 host bits. Six hosts is the maximum number of hosts on this LAN, including the router interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the subnetwork number of a host with an IP address of 172.16.66.0/21?",
+        "options": {
+            "A": "172.16.36.0",
+            "B": "172.16.48.0",
+            "C": "172.16.64.0",
+            "D": "172.16.0.0"
+        },
+        "correct_answer": "C",
+        "answer_description": "A /21 is 255.255.248.0, which means we have a block size of 8 in the third octet, so we just count by 8 until we reach 66. The subnet in this question is 64.0. The next subnet is 72.0, so the broadcast address of the 64 subnet is 71.255."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The network address of 172.16.0.0/19 provides how many subnets and hosts?",
+        "options": {
+            "A": "7 subnets, 30 hosts each",
+            "B": "8 subnets, 8,190 hosts each",
+            "C": "8 subnets, 2,046 hosts each",
+            "D": "7 subnets, 2,046 hosts each"
+        },
+        "correct_answer": "B",
+        "answer_description": "A CIDR address of /19 is 255.255.224.0. This is a Class B address, so that is only 3 subnet bits, but it provides 13 host bits, or 8 subnets, each with 8,190 hosts."
+    }
+]

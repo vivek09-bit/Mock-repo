@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A distributed database is which of the following?",
+        "options": {
+            "A": "A single logical database that is spread to multiple locations and is interconnected by a network",
+            "B": "A loose collection of file that is spread to multiple locations and is interconnected by a network",
+            "C": "A single logical database that is limited to one location.",
+            "D": "A loose collection of file that is limited to one location."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A semijoin is which of the following?",
+        "options": {
+            "A": "Only the joining attributes are sent from one site to another and then all of the rows are returned.",
+            "B": "All of the attributes are sent from one site to another and then only the required rows are returned.",
+            "C": "Only the joining attributes are sent from one site to another and then only the required rows are returned.",
+            "D": "All of the attributes are sent from one site to another and then only the required rows are returned."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a disadvantage of replication?",
+        "options": {
+            "A": "Reduced network traffic",
+            "B": "If the database fails at one site, a copy can be located at another site.",
+            "C": "Each site must have the same storage capacity.",
+            "D": "Each transaction may proceed without coordination across the network."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A distributed database can use which of the following strategies?",
+        "options": {
+            "A": "Totally centralized at one location and accessed by many sites",
+            "B": "Partially or totally replicated across sites",
+            "C": "Partitioned into segments at different sites",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not one of the stages in the evolution of distributed DBMS?",
+        "options": {
+            "A": "Unit of work",
+            "B": "Remote unit of work",
+            "C": "Distributed unit of Work",
+            "D": "Distributed request"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

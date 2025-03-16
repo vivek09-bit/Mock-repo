@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "void start() {  \n    A a = new A(); \n    B b = new B(); \n    a.s(b);  \n    b = null; /* Line 5 */\n    a = null;  /* Line 6 */\n    System.out.println(\"start completed\"); /* Line 7 */\n}When is the B object, created in line 3, eligible for garbage collection?",
+        "options": {
+            "A": "after line 5",
+            "B": "after line 6",
+            "C": "after line 7",
+            "D": "There is no way to be absolutely certain."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "class HappyGarbage01 \n{ \n    public static void main(String args[]) \n    {\n        HappyGarbage01 h = new HappyGarbage01(); \n        h.methodA(); /* Line 6 */\n    } \n    Object methodA() \n    {\n        Object obj1 = new Object(); \n        Object [] obj2 = new Object[1]; \n        obj2[0] = obj1; \n        obj1 = null; \n        return obj2[0]; \n    } \n}Where will be the most chance of the garbage collector being invoked?",
+        "options": {
+            "A": "After line 9",
+            "B": "After line 10",
+            "C": "After line 11",
+            "D": "Garbage collector never invoked inmethodA()"
+        },
+        "correct_answer": "D",
+        "answer_description": "Option D is correct. Garbage collection takes place after the method has returned its reference to the object. The method returns to line 6, there is no reference to store the return value. so garbage collection takes place after line 6.Option A is wrong. Because the reference toobj1is stored inobj2[0]. The Objectobj1still exists on the heap and can be accessed by an active thread through the reference stored inobj2[0].Option B is wrong. Because it is only one of the references to the objectobj1, the other reference is maintained inobj2[0].Option C is wrong. The garbage collector will not be called here because a reference to the object is being maintained and returned inobj2[0]."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "class Bar { } \nclass Test \n{  \n    Bar doBar() \n    {\n        Bar b = new Bar(); /* Line 6 */\n        return b; /* Line 7 */\n    } \n    public static void main (String args[]) \n    { \n        Test t = new Test();  /* Line 11 */\n        Bar newBar = t.doBar();  /* Line 12 */\n        System.out.println(\"newBar\"); \n        newBar = new Bar(); /* Line 14 */\n        System.out.println(\"finishing\"); /* Line 15 */\n    } \n}At what point is theBarobject, created on line 6, eligible for garbage collection?",
+        "options": {
+            "A": "after line 12",
+            "B": "after line 14",
+            "C": "after line 7, whendoBar()completes",
+            "D": "after line 15, whenmain()completes"
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct. All references to theBarobject created on line 6 are destroyed when a new reference to a newBarobject is assigned to the variablenewBaron line 14. Therefore theBarobject, created on line 6, is eligible for garbage collection after line 14.Option A is wrong. This actually protects the object from garbage collection.Option C is wrong. Because the reference in thedoBar()method is returned on line 7 and is stored innewBaron line 12. This preserver the object created on line 6.Option D is wrong. Not applicable because the object is eligible for garbage collection after line 14."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "class Test \n{  \n    private Demo d; \n    void start() \n    {  \n        d = new Demo(); \n        this.takeDemo(d); /* Line 7 */\n    } /* Line 8 */\n    void takeDemo(Demo demo) \n    { \n        demo = null;  \n        demo = new Demo(); \n    } \n}When is the Demo object eligible for garbage collection?",
+        "options": {
+            "A": "After line 7",
+            "B": "After line 8",
+            "C": "After thestart()method completes",
+            "D": "When the instance running this code is made eligible for garbage collection."
+        },
+        "correct_answer": "D",
+        "answer_description": "Option D is correct. By a process of elimination.Option A is wrong. The variabledis a member of theTestclass and is never directly set to null.Option B is wrong. A copy of the variabledis set to null and not the actual variabled.Option C is wrong. The variabledexists outside thestart()method (it is a class member). So, when thestart()method finishes the variabledstill holds a reference."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public class X \n{\n    public static void main(String [] args) \n    {\n        X x = new X();\n        X x2 = m1(x); /* Line 6 */\n        X x4 = new X();\n        x2 = x4; /* Line 8 */\n        doComplexStuff();\n    }\n    static X m1(X mx) \n    {\n        mx = new X();\n        return mx;\n    }\n}After line 8 runs. how many objects are eligible for garbage collection?",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "correct_answer": "B",
+        "answer_description": "By the time line 8 has run, the only object without a reference is the one generated as a result of line 6. Remember that \"Java is pass by value,\" so the reference variablexis not affected by them1()method.Ref: http://www.javaworld.com/javaworld/javaqa/2000-05/03-qa-0526-pass.html"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The first microprocessor had a(n)________.",
+        "options": {
+            "A": "1-bit data bus",
+            "B": "2-bit data bus",
+            "C": "4-bit data bus",
+            "D": "8-bit data bus"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which microprocessor has multiplexed data and address lines?",
+        "options": {
+            "A": "8086/8088",
+            "B": "80286",
+            "C": "80386",
+            "D": "Pentium"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not an operand?",
+        "options": {
+            "A": "Variable",
+            "B": "Register",
+            "C": "Memory location",
+            "D": "Assembler"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not part of the execution unit (EU)?",
+        "options": {
+            "A": "Arithmetic logic unit (ALU)",
+            "B": "Clock",
+            "C": "General registers",
+            "D": "Flags"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 20-bit address bus can locate ________.",
+        "options": {
+            "A": "1,048,576 locations",
+            "B": "2,097,152 locations",
+            "C": "4,194,304 locations",
+            "D": "8,388,608 locations"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

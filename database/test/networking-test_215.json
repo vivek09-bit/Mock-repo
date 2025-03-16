@@ -1,0 +1,145 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which class of IP address has the most host addresses available by default?",
+          "options": {
+               "A": "A",
+               "B": "B",
+               "C": "C",
+               "D": "A and B"
+          },
+          "correct_answer": "A",
+          "answer_description": "Class A addressing provides 24 bits for host addressing."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are types of flow control?BufferingCut-throughWindowingCongestion avoidance",
+          "options": {
+               "A": "1 and 2",
+               "B": "1, 3 and 4",
+               "C": "2 only",
+               "D": "3 only"
+          },
+          "correct_answer": "B",
+          "answer_description": "The common types of flow control are buffering, windowing, and congestion avoidance."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have a network with a subnet of 172.16.17.0/22. Which is the valid host address?",
+          "options": {
+               "A": "172.16.17.1 255.255.255.252",
+               "B": "172.16.0.1 255.255.240.0",
+               "C": "172.16.20.1 255.255.254.0",
+               "D": "172.16.18.255 255.255.252.0"
+          },
+          "correct_answer": "D",
+          "answer_description": "A Class B network ID with a /22 mask is 255.255.252.0, with a block size of 4 in the third octet. The network address in the question is in subnet 172.16.16.0 with a broadcast address of 172.16.19.255. Only option E even has the correct subnet mask listed, and 172.16.18.255 is a valid host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To test the IP stack on your local host, which IP address would you ping?",
+          "options": {
+               "A": "127.0.0.0",
+               "B": "1.0.0.127",
+               "C": "127.0.0.1",
+               "D": "127.0.0.255"
+          },
+          "correct_answer": "C",
+          "answer_description": "To test the local stack on your host, ping the loopback interface of 127.0.0.1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command displays the configuration register setting?",
+          "options": {
+               "A": "show ip route",
+               "B": "show boot version",
+               "C": "show version",
+               "D": "show flash"
+          },
+          "correct_answer": "C",
+          "answer_description": "Theshow versioncommand provides you with the current configuration register setting."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to stop RIP routing updates from exiting out an interface but still allow the interface to receive RIP route updates?",
+          "options": {
+               "A": "Router(config-if)# no routing",
+               "B": "Router(config-if)# passive-interface",
+               "C": "Router(config-router)# passive-interface s0",
+               "D": "Router(config-router)# no routing updates"
+          },
+          "correct_answer": "C",
+          "answer_description": "The(config-router)#passive-interfacecommand stops updates from being sent out an interface, but route updates are still received."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will display all the EIGRP feasible successor routes known to a router?",
+          "options": {
+               "A": "show ip routes *",
+               "B": "show ip eigrp summary",
+               "C": "show ip eigrp topology",
+               "D": "show ip eigrp adjacencies"
+          },
+          "correct_answer": "C",
+          "answer_description": "Any secondary route to a remote network is considered a feasible successor, and those routes are only found in the topology table and used as backup routes in case of primary route failure. You can see the topology table with theshow ip eigrp topologycommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which router command allows you to view the entire contents of all access lists?",
+          "options": {
+               "A": "Router#show interface",
+               "B": "Router>show ip interface",
+               "C": "Router#show access-lists",
+               "D": "Router>show all access-lists"
+          },
+          "correct_answer": "C",
+          "answer_description": "Theshow access-listscommand will allow you to view the entire contents of all access lists, but it will not show you the interfaces to which the access lists are applied."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the frequency range of the IEEE 802.11a standard?",
+          "options": {
+               "A": "2.4Gbps",
+               "B": "5Gbps",
+               "C": "2.4GHz",
+               "D": "5GHz"
+          },
+          "correct_answer": "D",
+          "answer_description": "The IEEE 802.11a standard runs in the 5GHz RF range."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the maximum distance running the lowest data rate for 802.11b?",
+          "options": {
+               "A": "About 100 feet",
+               "B": "About 175 feet",
+               "C": "About 300 feet",
+               "D": "About 350 feet"
+          },
+          "correct_answer": "D",
+          "answer_description": "The IEEE 802.11b standard provides the lowest data rate at 1Mbps, but it also has the longest distance, which is about 350 feet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want to ping the loopback address of your local host(with IPv6). What will you type?",
+          "options": {
+               "A": "ping 127.0.0.1",
+               "B": "ping 0.0.0.0",
+               "C": "ping ::1",
+               "D": "trace 0.0.::1"
+          },
+          "correct_answer": "C",
+          "answer_description": "The loopback address with IPv4 is127.0.0.1. With IPv6, that address is::1."
+     }
+]

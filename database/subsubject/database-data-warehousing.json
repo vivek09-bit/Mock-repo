@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Data scrubbing is which of the following?",
+        "options": {
+            "A": "A process to reject data from the data warehouse and to create the necessary indexes",
+            "B": "A process to load the data in the data warehouse and to create the necessary indexes",
+            "C": "A process to upgrade the quality of data after it is moved into a data warehouse",
+            "D": "A process to upgrade the quality of data before it is moved into a data warehouse"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The @active data warehouse architecture includes which of the following?",
+        "options": {
+            "A": "At least one data mart",
+            "B": "Data that can extracted from numerous internal and external sources",
+            "C": "Near real-time updates",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A goal of data mining includes which of the following?",
+        "options": {
+            "A": "To explain some observed event or condition",
+            "B": "To confirm that data exists",
+            "C": "To analyze data for expected relationships",
+            "D": "To create a new data warehouse"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An operational system is which of the following?",
+        "options": {
+            "A": "A system that is used to run the business in real time and is based on historical data.",
+            "B": "A system that is used to run the business in real time and is based on current data.",
+            "C": "A system that is used to support decision making and is based on current data.",
+            "D": "A system that is used to support decision making and is based on historical data."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A data warehouse is which of the following?",
+        "options": {
+            "A": "Can be updated by end users.",
+            "B": "Contains numerous naming conventions and formats.",
+            "C": "Organized around important subject areas.",
+            "D": "Contains only current data."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

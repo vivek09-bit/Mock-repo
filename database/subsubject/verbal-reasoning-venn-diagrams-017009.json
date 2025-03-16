@@ -1,0 +1,15 @@
+[
+    {
+        "direction": "Directions to SolveEach of these questions given below contains three elements. These elements may or may not have some inter linkage. Each group of elements may fit into one of these diagrams at (A), (B), (C), (D) and/or (E). You have to indicate the group of elements which correctly fits into the diagrams.",
+        "image_path": null,
+        "question": "Which of the following diagrams indicates the best relation between Paper, Stationery and Ink ?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "Paper and Ink are different from one another but both these belong to stationery."
+    }
+]

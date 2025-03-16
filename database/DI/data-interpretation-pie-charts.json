@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveThe following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.Various Expenditures (in percentage) Incurred in Publishing a Book",
+        "image_path": "images\\15-2-1-1.png",
+        "question": "If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be amount of royalty to be paid for these books?",
+        "options": {
+            "A": "Rs. 19,450",
+            "B": "Rs. 21,200",
+            "C": "Rs. 22,950",
+            "D": "Rs. 26,150"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the amount of Royalty to be paid for these books be Rs.r.Then, 20 : 15 = 30600 :rr= Rs.30600 x 15= Rs. 22,950.20"
+    },
+    {
+        "direction": "Directions to SolveThe following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.Various Expenditures (in percentage) Incurred in Publishing a Book",
+        "image_path": "images\\15-2-1-1.png",
+        "question": "What is the central angle of the sector corresponding to the expenditure incurred on Royalty?",
+        "options": {
+            "A": "15°",
+            "B": "24°",
+            "C": "54°",
+            "D": "48°"
+        },
+        "correct_answer": "C",
+        "answer_description": "Central angle corresponding to Royalty= (15% of 360)°=15x 360°100= 54°."
+    },
+    {
+        "direction": "Directions to SolveThe following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.Various Expenditures (in percentage) Incurred in Publishing a Book",
+        "image_path": "images\\15-2-1-1.png",
+        "question": "The price of the book is marked 20% above the C.P. If the marked price of the book is Rs. 180, then what is the cost of the paper used in a single copy of the book?",
+        "options": {
+            "A": "Rs. 36",
+            "B": "Rs. 37.50",
+            "C": "Rs. 42",
+            "D": "Rs. 44.25"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, marked price of the book = 120% of C.P.Also, cost of paper = 25% of C.PLet the cost of paper for a single book be Rs.n.Then, 120 : 25 = 180 :nn= Rs.25 x 180= Rs. 37.50 .120"
+    },
+    {
+        "direction": "Directions to SolveThe following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.Various Expenditures (in percentage) Incurred in Publishing a Book",
+        "image_path": "images\\15-2-1-1.png",
+        "question": "If 5500 copies are published and the transportation cost on them amounts to Rs. 82500, then what should be the selling price of the book so that the publisher can earn a profit of 25%?",
+        "options": {
+            "A": "Rs. 187.50",
+            "B": "Rs. 191.50",
+            "C": "Rs. 175",
+            "D": "Rs. 180"
+        },
+        "correct_answer": "A",
+        "answer_description": "For the publisher to earn a profit of 25%, S.P. = 125% of C.P.Also Transportation Cost = 10% of C.P.Let the S.P. of 5500 books be Rs.x.Then, 10 : 125 = 82500 :xx= Rs.125 x 82500= Rs. 1031250.10S.P. of one book = Rs.1031250= Rs. 187.50 .5500"
+    },
+    {
+        "direction": "Directions to SolveThe following pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. Study the pie-chart and the answer the questions based on it.Various Expenditures (in percentage) Incurred in Publishing a Book",
+        "image_path": "images\\15-2-1-1.png",
+        "question": "Royalty on the book is less than the printing cost by:",
+        "options": {
+            "A": "5%",
+            "B": "331%5",
+            "C": "20%",
+            "D": "25%"
+        },
+        "correct_answer": "D",
+        "answer_description": "Printing Cost of book = 20% of C.P.Royalty on book = 15% of C.P.Difference = (20% of C.P.) - (15% of C.P) = 5% of C.P.Percentage difference=Differencex 100%Printing Cost=5% of C.P.x 100% = 25%.Printing Cost"
+    }
+]

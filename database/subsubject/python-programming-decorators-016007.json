@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the@contextlib.asynccontextmanagerdecorator?",
+        "options": {
+            "A": "Converts a method to a class method",
+            "B": "Enables the use of the 'with' statement for resource management in asynchronous code",
+            "C": "Marks a method as a static method",
+            "D": "Decorates a method with dynamic behavior"
+        },
+        "correct_answer": "B",
+        "answer_description": "The@contextlib.asynccontextmanagerdecorator is used for creating asynchronous context managers, enabling the use of the 'async with' statement in asynchronous code."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary use case for the@contextlib.suppressdecorator?",
+        "options": {
+            "A": "Converts a method to a class method",
+            "B": "Marks a method as a static method",
+            "C": "Suppresses specified exceptions within a context",
+            "D": "Decorates a method with dynamic behavior"
+        },
+        "correct_answer": "C",
+        "answer_description": "The@contextlib.suppressdecorator is used to suppress specified exceptions within a context, allowing the code to continue execution even if those exceptions are raised."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the@functools.lru_cachedecorator'smaxsizeparameter?",
+        "options": {
+            "A": "The maximum number of unique arguments to be cached",
+            "B": "The maximum size of the cache in bytes",
+            "C": "The maximum number of function calls to be cached",
+            "D": "The maximum number of distinct values to be cached"
+        },
+        "correct_answer": "C",
+        "answer_description": "The@functools.lru_cachedecorator'smaxsizeparameter controls the maximum number of function calls to be cached."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary use case for the@contextlib.ExitStack?",
+        "options": {
+            "A": "Converts a method to a class method",
+            "B": "Manages a stack of cleanup callbacks for managing resources",
+            "C": "Marks a method as a static method",
+            "D": "Decorates a method with dynamic behavior"
+        },
+        "correct_answer": "B",
+        "answer_description": "The@contextlib.ExitStackis used for managing a stack of cleanup callbacks, making it useful for managing resources within a context."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary use case for the@contextlib.redirect_stdoutdecorator?",
+        "options": {
+            "A": "Converts a method to a class method",
+            "B": "Redirects standard output to a specified file or file-like object",
+            "C": "Marks a method as a static method",
+            "D": "Decorates a method with dynamic behavior"
+        },
+        "correct_answer": "B",
+        "answer_description": "The@contextlib.redirect_stdoutdecorator is used to redirect standard output to a specified file or file-like object within a context."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "A",
+        "answer_description": "The pins, equal in number to the number of sides in the main figure are attached to the midpoint of a side of the main figure in case of figures (2), (3), (4) and (5). In fig. (1), these pins are attached to a vertex of the main figure."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "C",
+        "answer_description": "In all other figures, the two line segments are parallel to each other."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "D",
+        "answer_description": "In all other figures, the arrow and the V sign lie towards the black end of the main figure."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "A",
+        "answer_description": "In all other figures, there are two small line segments towards the pin and three small line segments towards the arrow."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "B",
+        "answer_description": "The lines outside the shaded circle are not equally distributed along the circumference in fig. (2)."
+    }
+]

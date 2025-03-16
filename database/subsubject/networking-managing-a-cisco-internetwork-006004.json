@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The corporate office sends you a new router to connect, but upon connecting the console cable, you see that there is already a configuration on the router. What should be done before a new configuration is entered in the router?",
+        "options": {
+            "A": "RAM should be erased and the router restarted.",
+            "B": "Flash should be erased and the router restarted.",
+            "C": "NVRAM should be erased and the router restarted.",
+            "D": "The new configuration should be entered and saved."
+        },
+        "correct_answer": "C",
+        "answer_description": "Before you start to configure the router, you should erase the NVRAM with theerase startup-configcommand and then reload the router using thereloadcommand."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will show you the IOS version running on your router?",
+        "options": {
+            "A": "sh IOS",
+            "B": "sh flash",
+            "C": "sh version",
+            "D": "sh running-config"
+        },
+        "correct_answer": "C",
+        "answer_description": "The best answer isshow version, which shows you the IOS file running currently on your router. Theshow flashcommand shows you the contents of flash memory, not which file is running."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need to gather the IP address of a remote switch that is located in Hawaii. What can you do to find the address?",
+        "options": {
+            "A": "Issue theshow ip arpcommand on the router connected to the switch.",
+            "B": "Issue theshow ip routecommand on the router connected to the switch.",
+            "C": "Issue theshow cdp neighborcommand on the router connected to the switch.",
+            "D": "Issue theshow cdp neighbors detailcommand on the router connected to the switch."
+        },
+        "correct_answer": "D",
+        "answer_description": "Although option A is certainly the \"best\" answer, unfortunately option  D will work just fine and your boss would probably prefer you to use theshow cdp neighbors detailcommand."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A network administrator wants to upgrade the IOS of a router without removing the image currently installed. What command will display the amount of memory consumed by the current IOS image and indicate whether there is enough room available to hold both the current and new images?",
+        "options": {
+            "A": "show version",
+            "B": "show flash",
+            "C": "show memory",
+            "D": "show buffers"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theshow flashcommand will provide you with the current IOS name and size and the size of flash memory."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You copy a configuration from a network host to a router's RAM. The configuration looks correct, yet it is not working at all. What could the problem be?",
+        "options": {
+            "A": "You copied the wrong configuration into RAM.",
+            "B": "You copied the configuration into flash memory instead.",
+            "C": "The copy did not override the shutdown command in running-config.",
+            "D": "The IOS became corrupted after the copy command was initiated."
+        },
+        "correct_answer": "C",
+        "answer_description": "Since the configuration looks correct, you probably didn't screw up the copy job. However, when you perform a copy from a network host to a router, the interfaces are automatically shut down and need to be manually enabled with theno shutdowncommand."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary difference between a list and an array?",
+        "options": {
+            "A": "Lists can only store integers, while arrays can store any data type.",
+            "B": "Arrays have a fixed size, while lists can dynamically grow or shrink.",
+            "C": "Lists are one-dimensional, while arrays can be multi-dimensional.",
+            "D": "Arrays are not iterable, while lists can be iterated over."
+        },
+        "correct_answer": "C",
+        "answer_description": "Arrays in Python can be multi-dimensional, allowing for the storage of data in multiple dimensions, while lists are one-dimensional."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thearray.append(element)method do?",
+        "options": {
+            "A": "Appends a new array to the existing array.",
+            "B": "Adds an element to the end of the array.",
+            "C": "Removes the last element from the array.",
+            "D": "Raises anIndexError."
+        },
+        "correct_answer": "B",
+        "answer_description": "Theappend()method in thearraymodule adds an element to the end of the array."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you access the element at index 2 in a one-dimensional array namedarr?",
+        "options": {
+            "A": "arr.get(2)",
+            "B": "arr[2]",
+            "C": "arr.element(2)",
+            "D": "arr.at(2)"
+        },
+        "correct_answer": "B",
+        "answer_description": "In Python arrays, elements can be accessed using square brackets and the index, likearr[index]."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about NumPy arrays in Python is true?",
+        "options": {
+            "A": "NumPy arrays are only one-dimensional.",
+            "B": "NumPy arrays can only store integer values.",
+            "C": "NumPy arrays are less efficient than Python lists.",
+            "D": "NumPy arrays support element-wise operations."
+        },
+        "correct_answer": "D",
+        "answer_description": "NumPy arrays in Python support element-wise operations, making them efficient for mathematical computations."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you create a 2D NumPy array?",
+        "options": {
+            "A": "np.array([[1, 2, 3], [4, 5, 6]])",
+            "B": "numpy.create_2d_array([[1, 2, 3], [4, 5, 6]])",
+            "C": "array.create([[1, 2, 3], [4, 5, 6]])",
+            "D": "np.array([1, 2, 3], [4, 5, 6])"
+        },
+        "correct_answer": "A",
+        "answer_description": "The correct syntax to create a 2D NumPy array isnp.array([[1, 2, 3], [4, 5, 6]])."
+    }
+]

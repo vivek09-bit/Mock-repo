@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert hexadecimal value 16 to decimal.",
+        "options": {
+            "A": "2210",
+            "B": "1610",
+            "C": "1010",
+            "D": "2010"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert the following decimal number to 8-bit binary.187",
+        "options": {
+            "A": "101110112",
+            "B": "110111012",
+            "C": "101111012",
+            "D": "101111002"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert binary 111111110010 to hexadecimal.",
+        "options": {
+            "A": "EE216",
+            "B": "FF216",
+            "C": "2FE16",
+            "D": "FD216"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert the following binary number to decimal.010112",
+        "options": {
+            "A": "11",
+            "B": "35",
+            "C": "15",
+            "D": "10"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert the binary number 1001.00102to decimal.",
+        "options": {
+            "A": "90.125",
+            "B": "9.125",
+            "C": "125",
+            "D": "12.5"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

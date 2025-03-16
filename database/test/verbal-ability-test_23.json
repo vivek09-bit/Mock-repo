@@ -1,0 +1,265 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 3)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "My wife has got",
+               "B": "a new job",
+               "C": "a month ago.",
+               "D": "No error."
+          },
+          "correct_answer": "A",
+          "answer_description": "My wife got"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 3)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "A body of volunteers",
+               "B": "have been organised",
+               "C": "to spread the message of the saint.",
+               "D": "No error."
+          },
+          "correct_answer": "B",
+          "answer_description": "has been organised"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 3)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "In spite of several reminders,",
+               "B": "he did not so far send",
+               "C": "any reply to me, letters.",
+               "D": "No error."
+          },
+          "correct_answer": "B",
+          "answer_description": "he has not so far sent"
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 5)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "He being the eldest son,",
+               "B": "his father expects him",
+               "C": "to take care of several things",
+               "D": "besides his regular studies.",
+               "E": "No error."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 5)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "He was very disappointed",
+               "B": "when he found",
+               "C": "that someone else",
+               "D": "had secured  higher marks.",
+               "E": "No error."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 8)In each of the sentences given below a word is printed in bold. Below it four choices are given. Pick up the one which is most nearly the same in meaning as the word printer in bold and can replaces it without altering the meaning of the sentence.",
+          "image_path": null,
+          "question": "Shebaffledall our attempts to find her.",
+          "options": {
+               "A": "defeated",
+               "B": "thwarted",
+               "C": "foiled",
+               "D": "circumvented"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 8)In each of the sentences given below a word is printed in bold. Below it four choices are given. Pick up the one which is most nearly the same in meaning as the word printer in bold and can replaces it without altering the meaning of the sentence.",
+          "image_path": null,
+          "question": "Even today many people are guided byabstrusemoral values.",
+          "options": {
+               "A": "dangerous",
+               "B": "impracticable",
+               "C": "obscure",
+               "D": "irrational"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 8)In each of the sentences given below a word is printed in bold. Below it four choices are given. Pick up the one which is most nearly the same in meaning as the word printer in bold and can replaces it without altering the meaning of the sentence.",
+          "image_path": null,
+          "question": "Thepioneersleft a blazing trial of courage, manliness and chivalry.",
+          "options": {
+               "A": "inventors",
+               "B": "explorers",
+               "C": "colonialist",
+               "D": "settlers"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "She has an aversion ...... taking even onion and garlic.",
+          "options": {
+               "A": "with",
+               "B": "at",
+               "C": "against",
+               "D": "to"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 10)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "He is a very careful person, he never takes side but remains ......",
+          "options": {
+               "A": "impartial",
+               "B": "unbiased",
+               "C": "neutral",
+               "D": "prejudiced"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 11)In each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+          "image_path": null,
+          "question": "The national unity of a free peopleP :to make it impracticableQ :for there to be an arbitrary administrationR :depends upon a sufficiently even balance of political powerS :against a revolutionary opposition that is irreconcilably opposed to itThe Proper sequence should be:",
+          "options": {
+               "A": "QRPS",
+               "B": "QRSP",
+               "C": "RPQS",
+               "D": "RSPQ"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 12)Which of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+          "image_path": null,
+          "question": "We don't knowhow did the thief madean escape.",
+          "options": {
+               "A": "how the thief did make",
+               "B": "how the thief does make",
+               "C": "how the thief made",
+               "D": "how was the thief made",
+               "E": "No correction required"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 14)In questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+          "image_path": null,
+          "question": "The old man felled some trees in the garden withhardly no effortat all.",
+          "options": {
+               "A": "hard effort",
+               "B": "hardly any effort",
+               "C": "a hardly any effort",
+               "D": "No improvement"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 14)In questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+          "image_path": null,
+          "question": "As he is past his teens now, he can lookforhimself.",
+          "options": {
+               "A": "after",
+               "B": "to",
+               "C": "around",
+               "D": "No improvement"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 16)In questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+          "image_path": null,
+          "question": "S1:This weather-vane often tops a church spire, tower or high building.P :They are only wind-vanes.Q :Neither alone can tell us what the weather will be.R :They are designed to point to direction from which the wind is coming.S :Just as the barometer only tells us the pressure of air, the weather-vane tells us the direction of wind.S6:The weather-vane can, however give us some indication of other.The Proper sequence should be:",
+          "options": {
+               "A": "PQRS",
+               "B": "PSRQ",
+               "C": "PRSQ",
+               "D": "SPQR"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 15 - 16)In questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+          "image_path": null,
+          "question": "S1:I took cigarettes from my case.P :But when the fit of coughing was over, he replaced it between his lips.Q :I lit one of them and placed it between the lips.R :Then with a feeble hand he removed the cigarette.S :Slowly he took a pull at it and coughed violently.S6:Then he continues to draw on it.The Proper sequence should be:",
+          "options": {
+               "A": "PSQR",
+               "B": "QPSR",
+               "C": "QSRP",
+               "D": "SRPQ"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "A voice loud enough to be heard",
+          "options": {
+               "A": "Audible",
+               "B": "Applaudable",
+               "C": "Laudable",
+               "D": "Oral"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "A drawing on transparent paper",
+          "options": {
+               "A": "Red print",
+               "B": "Blue print",
+               "C": "Negative",
+               "D": "Transparency"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)In questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+          "image_path": null,
+          "question": "Extreme old age when a man behaves like a fool",
+          "options": {
+               "A": "Imbecility",
+               "B": "Senility",
+               "C": "Dotage",
+               "D": "Superannuation"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 20)In the following questions four alternatives are given for the idiom/phraseitalicised and underlinedin the sentence. Choose the alternative which best expresses the meaning of idiom/phrase.",
+          "image_path": null,
+          "question": "It was he whoput a spoke in my wheel.",
+          "options": {
+               "A": "tried to cause an accident",
+               "B": "helped in the execution of the plan",
+               "C": "thwarted in the execution of the plan",
+               "D": "destroyed the plan"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

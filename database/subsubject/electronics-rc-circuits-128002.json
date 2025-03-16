@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the magnitude of theimpedancein the given circuit.",
+        "options": {
+            "A": "24.1 M",
+            "B": "10 M",
+            "C": "26.1 M",
+            "D": "0"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate thephase anglein the given circuit.",
+        "options": {
+            "A": "0°",
+            "B": "90°",
+            "C": "22.52°",
+            "D": "67.48°"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the phase angle for a parallel circuit consisting of a 500 kHz, 5 Vac source with a 47 pF capacitor, and a 4.7 kresistor in parallel?",
+        "options": {
+            "A": "55.3°",
+            "B": "–55.3°",
+            "C": "34.8°",
+            "D": "–34.8°"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which circuit is represented by the frequency response curve in the given figure?",
+        "options": {
+            "A": "High-pass filter",
+            "B": "Low-pass filter",
+            "C": "Band-pass filter",
+            "D": "Band-stop filter"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is thephase anglein the given circuit?",
+        "options": {
+            "A": "14.95°",
+            "B": "36.88°",
+            "C": "0°",
+            "D": "90°"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

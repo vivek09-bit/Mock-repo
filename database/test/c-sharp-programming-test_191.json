@@ -1,0 +1,271 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following utilities can be used to compile managed assemblies into processor-specific native code?",
+          "options": {
+               "A": "gacutil",
+               "B": "ngen",
+               "C": "sn",
+               "D": "dumpbin",
+               "E": "ildasm"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are value types?IntegerArraySingleStringLong",
+          "options": {
+               "A": "1, 2, 5",
+               "B": "1, 3, 5",
+               "C": "2, 4",
+               "D": "3, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are the correct way to initialise the variablesiandjto a value 10 each?int i = 10; int j = 10;int i, j;\ni = 10 : j = 10;int i = 10, j = 10;int i, j = 10;int i = j = 10;",
+          "options": {
+               "A": "2, 4",
+               "B": "1, 3",
+               "C": "3, 5",
+               "D": "4, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the output of the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{\n    public enum color\n    { red, green, blue };\n    \n    class SampleProgram\n    {\n        static void Main (string[ ] args)\n        {\n            color c = color.blue;\n            switch (c)\n            {\n                case color.red:\n                    Console.WriteLine(color.red); \n                    break; \n                \n                case color.green: \n                    Console.WriteLine(color.green); \n                    break; \n                \n                case color.blue: \n                    Console.WriteLine(color.blue); \n                    break; \n            } \n        } \n    } \n}",
+          "options": {
+               "A": "red",
+               "B": "blue",
+               "C": "0",
+               "D": "1",
+               "E": "2"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?int i = 2, j = i;\nif (Convert.ToBoolean((i | j & 5) & (j - 25 * 1)))\n    Console.WriteLine(1); \nelse\n    Console.WriteLine(0);",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "Compile Error",
+               "D": "Run time Error"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which of the following should the methods of a class differ if they are to be treated as overloaded methods?Type of argumentsReturn type of methodsNumber of argumentsNames of methodsOrder of arguments",
+          "options": {
+               "A": "2, 4",
+               "B": "3, 5",
+               "C": "1, 3, 5",
+               "D": "3, 4, 5"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Assumeclass Bis inherited fromclass A. Which of the following statements is correct about construction of an object ofclass B?",
+          "options": {
+               "A": "While creating the object firstly the constructor ofclass Bwill be called followed by constructor ofclass A.",
+               "B": "While creating the object firstly the constructor ofclass Awill be called followed by constructor ofclass B.",
+               "C": "The constructor of onlyclass Bwill be called.",
+               "D": "The constructor of onlyclass Awill be called.",
+               "E": "The order of calling constructors depends upon whether constructors inclass Aandclass Bareprivateorpublic."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How can you prevent inheritance from a class in C#.NET ?",
+          "options": {
+               "A": "Declare the class asshadows.",
+               "B": "Declare the class asoverloads.",
+               "C": "Declare the class assealed.",
+               "D": "Declare the class assuppress.",
+               "E": "Declare the class asoverride."
+          },
+          "correct_answer": "C",
+          "answer_description": "C#.NET allowssealedattribute to be used as a part of class statement. Classes declared withsealedkeyword cannot be used as based class for other classes.  Most important reason to do this world be to prevent behavior of a class to be changed in any way."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ifs1ands2are references to two strings then which of the following are the correct ways to find whether the contents of the two strings are equal?if(s1 = s2)if(s1 == s2)int c;\nc = s1.CompareTo(s2);if( strcmp(s1, s2) )if (s1 is s2)",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 3",
+               "C": "4, 5",
+               "D": "3, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about delegates?",
+          "options": {
+               "A": "Delegates cannot be used to call a static method of a class.",
+               "B": "Delegates cannot be used to call procedures that receive variable number of arguments.",
+               "C": "If signatures of two methods are same they can be called through the same delegate object.",
+               "D": "Delegates cannot be used to call an instance function. Delegates cannot be used to call an instance subroutine."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following forms of applying an attribute is correct?",
+          "options": {
+               "A": "< Serializable() > class sample\n{ /* ... */ }",
+               "B": "(Serializable()) class sample\n{ /* ... */ }",
+               "C": "[ Serializable() ] class sample\n{ /* ... */ }",
+               "D": "Serializablef) class sample\n{ /* ... */ }",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Once applied which of the following CANNOT inspect the applied attribute?",
+          "options": {
+               "A": "CLR",
+               "B": "Linker",
+               "C": "ASP.NET Runtime",
+               "D": "Visual Studio.NET",
+               "E": "Language compilers"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct output for the C#.NET code snippet given below?enum color: int\n{ \n    red,\n    green, \n    blue = 5, \n    cyan,\n    magenta = 10, \n    yellow \n}\nConsole.Write( (int) color.green + \", \" ); \nConsole.Write( (int) color.yellow );",
+          "options": {
+               "A": "2, 11",
+               "B": "1, 11",
+               "C": "2, 6",
+               "D": "1, 5",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "AStudentclass has a property calledrollNoandstuis a reference to aStudentobject and we want the statementstu.RollNo = 28to fail. Which of the following options will ensure this functionality?",
+          "options": {
+               "A": "DeclarerollNoproperty with both get and set accessors.",
+               "B": "DeclarerollNoproperty with only set accessor.",
+               "C": "DeclarerollNoproperty with get, set and normal accessors.",
+               "D": "DeclarerollNoproperty with only get accessor.",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to implement a read only propertyLengthin aSampleclass?",
+          "options": {
+               "A": "class Sample\n{\n    int len;\n    public int Length\n    {\n        get\n        {\n            return len;\n        } \n    } \n}",
+               "B": "class Sample\n{\n    public int Length\n    {\n        get\n        {\n            return Length;\n        } \n    } \n}",
+               "C": "class Sample\n{\n    int len;\n    public int Length\n    {\n        get\n        {\n            return len;\n        } \n        set\n        {\n            len = value;\n        } \n    } \n}",
+               "D": "class Sample\n{\n    int len;\n    public int Length\n    {\n        Readonly get\n        {\n            return len;\n        } \n    } \n}"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a namespace is present in a library then which of the following is the correct way to use the elements of the namespace?",
+          "options": {
+               "A": "Add Reference of the namespace.Use the elements of the namespace.",
+               "B": "Add Reference of the namespace.Import the namespace.Use the elements of the namespace.",
+               "C": "Import the namespace.Use the elements of the namespace.",
+               "D": "Copy the library in the same directory as the project that is trying to use it.Use the elements of the namespace.",
+               "E": "Install the namespace in Global Assembly Cache.Use the elements of the namespace."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In C#.NET if we do not catch the exception thrown at runtime then which of the following will catch it?",
+          "options": {
+               "A": "Compiler",
+               "B": "CLR",
+               "C": "Linker",
+               "D": "Loader",
+               "E": "Operating system"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about exception handling in C#.NET?tryblocks cannot be nested.In one function, there can be only onetryblock.An exception must be caught in the same function in which it is thrown.All values set up in the exception object are available in thecatchblock.While throwing a user-defined exception multiple values can be set in the exception, object.",
+          "options": {
+               "A": "1 only",
+               "B": "1 and 2 only",
+               "C": "3 only",
+               "D": "4 and 5 only",
+               "E": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "All code insidefinallyblock is guaranteed to execute irrespective of whether an exception occurs in theprotectedblock or not.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following unary operators can be overloaded?truefalse+newis",
+          "options": {
+               "A": "1, 2, 3",
+               "B": "3, 4, 5",
+               "C": "3 only",
+               "D": "5 only"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

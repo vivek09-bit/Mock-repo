@@ -1,0 +1,71 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If (64)2- (36)2= 20 xx, thenx= ?",
+        "options": {
+            "A": "70",
+            "B": "120",
+            "C": "180",
+            "D": "140",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "20 xx= (64 + 36)(64 - 36) = 100 x 28x=100 x 28= 14020"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following can't be the square of natural number ?",
+        "options": {
+            "A": "32761",
+            "B": "81225",
+            "C": "42437",
+            "D": "20164",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "The square of a natural number never ends in 7.42437 is not the square of a natural number."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(22+ 42+ 62+ ... + 202) = ?",
+        "options": {
+            "A": "770",
+            "B": "1155",
+            "C": "1540",
+            "D": "385 x 385"
+        },
+        "correct_answer": "C",
+        "answer_description": "(22+ 42+ 62+ ... + 202)  = (1 x 2)2+ (2 x 2)2+ (2 x 3)2+ ... + (2 x 10)2= (22x 12) + (22x 22) + (22x 32) + ... + (22x 102)= 22x [12+ 22+ 32+ ... + 102]Ref:(12+ 22+ 32+ ... +n2) =1n(n+ 1)(2n+ 1)6=4 x1x 10 x 11 x 216= (4 x 5 x 77)= 1540."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "854 x 854 x 854 - 276 x 276 x 276= ?854 x 854 + 854 x 276 + 276 x 276",
+        "options": {
+            "A": "1130",
+            "B": "578",
+            "C": "565",
+            "D": "1156",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given Exp. =(a3-b3)= (a-b) = (854 - 276) = 578(a2+ab+b2)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "35 + 15 x 1.5 = ?",
+        "options": {
+            "A": "85",
+            "B": "51.5",
+            "C": "57.5",
+            "D": "5.25",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Given Exp. = 35 + 15 x3= 35 +45= 35 + 22.5   = 57.522"
+    }
+]

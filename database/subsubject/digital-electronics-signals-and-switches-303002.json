@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is parallel data transmission preferred over serial data transmission for most applications?",
+        "options": {
+            "A": "It is much slower.",
+            "B": "It is cheaper.",
+            "C": "More people use it.",
+            "D": "It is much faster."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Determine if diodesD1andD2in the given figure are forward or reverse biased.",
+        "options": {
+            "A": "D1forward andD2reverse",
+            "B": "D2forward andD1reverse",
+            "C": "D1andD2reverse",
+            "D": "D1andD2forward"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With surface-mount technology (SMT), the devices should:",
+        "options": {
+            "A": "utilize transistor outline connections",
+            "B": "mount directly",
+            "C": "have parallel connecting pins",
+            "D": "require holes and pads"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To forward bias a diode, a ________ potential is needed on the ________ and a ________ is needed on the ________.",
+        "options": {
+            "A": "negative, cathode, positive, anode",
+            "B": "negative, anode, positive, cathode"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why, in most applications, are transistor switches used in place of relays?",
+        "options": {
+            "A": "They consume less power.",
+            "B": "They are faster.",
+            "C": "They are quieter and smaller.",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

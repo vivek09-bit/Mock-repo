@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Any number with an exponent of zero is equal to:",
+        "options": {
+            "A": "zero",
+            "B": "one",
+            "C": "that number",
+            "D": "ten"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the decimal numbering system, what is the MSD?",
+        "options": {
+            "A": "The middle digit of a stream of numbers",
+            "B": "The digit to the right of the decimal point",
+            "C": "The last digit on the right",
+            "D": "The digit with the most weight"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements does NOT describe an advantage of digital technology?",
+        "options": {
+            "A": "The values may vary over a continuous range.",
+            "B": "The circuits are less affected by noise.",
+            "C": "The operation can be programmed.",
+            "D": "Information storage is easy."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The generic array logic (GAL) device is ________.",
+        "options": {
+            "A": "one-time programmable",
+            "B": "reprogrammable",
+            "C": "a CMOS device",
+            "D": "reprogrammable and a CMOS device"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The range of voltages between VL(max)and VH(min)are ________.",
+        "options": {
+            "A": "unknown",
+            "B": "unnecessary",
+            "C": "unacceptable",
+            "D": "between 2 V and 5 V"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

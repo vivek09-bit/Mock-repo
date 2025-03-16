@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+        "options": {
+            "A": "(1/3)",
+            "B": "(1/8)",
+            "C": "(2/8)",
+            "D": "(1/16)"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is a simple division series; each number is one-half of the previous number.In other terms to say, the number is divided by 2 successively to get the next result.4/2 = 2\n2/2 = 1\n1/2 = 1/2\n(1/2)/2 = 1/4\n(1/4)/2 = 1/8 and so on."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+        "options": {
+            "A": "7",
+            "B": "10",
+            "C": "12",
+            "D": "13"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is a simple alternating addition and subtraction series. In the first pattern, 3 is added; in the second, 2 is subtracted."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",
+        "options": {
+            "A": "20",
+            "B": "22",
+            "C": "23",
+            "D": "26"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is an alternating number subtraction series. First, 2 is subtracted, then 4, then 2, and so on."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?",
+        "options": {
+            "A": "22",
+            "B": "24",
+            "C": "25",
+            "D": "26"
+        },
+        "correct_answer": "C",
+        "answer_description": "In this simple alternating subtraction and addition series; 1 is subtracted, then 2 is added, and so on."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "27",
+            "D": "53"
+        },
+        "correct_answer": "B",
+        "answer_description": "In this series, each number is repeated, then 13 is subtracted to arrive at the next number."
+    }
+]

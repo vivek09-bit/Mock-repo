@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "ZA5, Y4B, XC6, W3D, _____",
+        "options": {
+            "A": "E7V",
+            "B": "V2E",
+            "C": "VE5",
+            "D": "VE7"
+        },
+        "correct_answer": "D",
+        "answer_description": "There are three series to look for here. The first letters are alphabetical in reverse: Z, Y, X, W, V. The second letters are in alphabetical order, beginning with A. The number series is as follows: 5, 4, 6, 3, 7."
+    },
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "QPO, NML, KJI, _____, EDC",
+        "options": {
+            "A": "HGF",
+            "B": "CAB",
+            "C": "JKL",
+            "D": "GHI"
+        },
+        "correct_answer": "A",
+        "answer_description": "This series consists of letters in a reverse alphabetical order."
+    },
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "JAK, KBL, LCM, MDN, _____",
+        "options": {
+            "A": "OEP",
+            "B": "NEO",
+            "C": "MEN",
+            "D": "PFQ"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is an alternating series in alphabetical order. The middle letters follow the order ABCDE. The first and third letters are alphabetical beginning with J. The third letter is repeated as a first letter in each subsequent three-letter segment."
+    },
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "BCB, DED, FGF, HIH, ___",
+        "options": {
+            "A": "JKJ",
+            "B": "HJH",
+            "C": "IJI",
+            "D": "JHJ"
+        },
+        "correct_answer": "A",
+        "answer_description": "This series consists of a simple alphabetical order with the first two letters of all segments: B, C, D, E, F, G, H, I, J, K. The third letter of each segment is a repetition of the first letter."
+    },
+    {
+        "direction": "Directions to SolveIn these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or  end of the series.",
+        "image_path": null,
+        "question": "P5QR, P4QS, P3QT, _____, P1QV",
+        "options": {
+            "A": "PQW",
+            "B": "PQV2",
+            "C": "P2QU",
+            "D": "PQ3U"
+        },
+        "correct_answer": "C",
+        "answer_description": "The first two letters, PQ, are static. The third letter is in alphabetical order, beginning with R. The number series is in descending order beginning with 5."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
+        "options": {
+            "A": "Rs. 45",
+            "B": "Rs. 50",
+            "C": "Rs. 55",
+            "D": "Rs. 60"
+        },
+        "correct_answer": "D",
+        "answer_description": "(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls)C.P. of 12 balls = S.P. of 17 balls = Rs.720.C.P. of 1 ball = Rs.720= Rs. 60.12"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
+        "options": {
+            "A": "Rs. 21,000",
+            "B": "Rs. 22,500",
+            "C": "Rs. 25,300",
+            "D": "Rs. 25,800"
+        },
+        "correct_answer": "C",
+        "answer_description": "85 : 18700 = 115 :xx=18700 x 115= 25300.85Hence, S.P. = Rs. 25,300."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
+        "options": {
+            "A": "142% gain7",
+            "B": "15% gain",
+            "C": "142% loss7",
+            "D": "15 % loss"
+        },
+        "correct_answer": "A",
+        "answer_description": "C.P. of 1 orange = Rs.350= Rs. 3.50100S.P. of 1 orange = Rs.48= Rs. 412Gain% =0.50x 100%=100% = 142%3.5077"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:",
+        "options": {
+            "A": "515% loss17",
+            "B": "515% gain17",
+            "C": "62% gain3",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "C.P. of 1sttransistor = Rs.100x 840= Rs. 700.120C.P. of 2ndtransistor = Rs.100x 960= Rs. 100096So, total C.P. = Rs. (700 + 1000) = Rs. 1700.Total S.P. = Rs. (840 + 960) = Rs. 1800.Gain % =100x 100%= 515%170017"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+        "options": {
+            "A": "No profit, no loss",
+            "B": "5%",
+            "C": "8%",
+            "D": "10%",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "C.P. of 56 kg rice = Rs. (26 x 20 + 30 x 36) = Rs. (520 + 1080) = Rs. 1600.S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680.Gain =80x 100% = 5%.1600"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveStudy the following table and answer the questions based on it.Expenditures of a Company (in Lakh Rupees) per Annum Over the given Years.YearItem of ExpenditureSalaryFuel and TransportBonusInterest on LoansTaxes1998288983.0023.48319993421122.5232.510820003241013.8441.67420013361333.6836.48820024201423.9649.498",
+        "image_path": null,
+        "question": "What is the average amount of interest per year which the company had to pay during this period?",
+        "options": {
+            "A": "Rs. 32.43 lakhs",
+            "B": "Rs. 33.72 lakhs",
+            "C": "Rs. 34.18 lakhs",
+            "D": "Rs. 36.66 lakhs"
+        },
+        "correct_answer": "D",
+        "answer_description": "Average amount of interest paid by the Company during the given period= Rs.23.4 + 32.5 + 41.6 + 36.4 + 49.4lakhs5= Rs.183.3lakhs5= Rs. 36.66 lakhs."
+    },
+    {
+        "direction": "Directions to SolveStudy the following table and answer the questions based on it.Expenditures of a Company (in Lakh Rupees) per Annum Over the given Years.YearItem of ExpenditureSalaryFuel and TransportBonusInterest on LoansTaxes1998288983.0023.48319993421122.5232.510820003241013.8441.67420013361333.6836.48820024201423.9649.498",
+        "image_path": null,
+        "question": "The total amount of bonus paid by the company during the given period is approximately what percent of the total amount of salary paid during this period?",
+        "options": {
+            "A": "0.1%",
+            "B": "0.5%",
+            "C": "1%",
+            "D": "1.25%"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required percentage=(3.00 + 2.52 + 3.84 + 3.68 + 3.96)x 100%(288 + 342 + 324 + 336 + 420)=17x 100%17101%."
+    },
+    {
+        "direction": "Directions to SolveStudy the following table and answer the questions based on it.Expenditures of a Company (in Lakh Rupees) per Annum Over the given Years.YearItem of ExpenditureSalaryFuel and TransportBonusInterest on LoansTaxes1998288983.0023.48319993421122.5232.510820003241013.8441.67420013361333.6836.48820024201423.9649.498",
+        "image_path": null,
+        "question": "Total expenditure on all these items in 1998 was approximately what percent of the total expenditure in 2002?",
+        "options": {
+            "A": "62%",
+            "B": "66%",
+            "C": "69%",
+            "D": "71%"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required percentage=(288 + 98 + 3.00 + 23.4 + 83)x 100%(420 + 142 + 3.96 + 49.4 + 98)=495.4x 100%713.3669.45%."
+    },
+    {
+        "direction": "Directions to SolveStudy the following table and answer the questions based on it.Expenditures of a Company (in Lakh Rupees) per Annum Over the given Years.YearItem of ExpenditureSalaryFuel and TransportBonusInterest on LoansTaxes1998288983.0023.48319993421122.5232.510820003241013.8441.67420013361333.6836.48820024201423.9649.498",
+        "image_path": null,
+        "question": "The total expenditure of the company over these items during the year 2000 is?",
+        "options": {
+            "A": "Rs. 544.44 lakhs",
+            "B": "Rs. 501.11 lakhs",
+            "C": "Rs. 446.46 lakhs",
+            "D": "Rs. 478.87 lakhs"
+        },
+        "correct_answer": "A",
+        "answer_description": "Total expenditure of the Company during 2000= Rs. (324 + 101 + 3.84 + 41.6 + 74) lakhs= Rs. 544.44 lakhs."
+    },
+    {
+        "direction": "Directions to SolveStudy the following table and answer the questions based on it.Expenditures of a Company (in Lakh Rupees) per Annum Over the given Years.YearItem of ExpenditureSalaryFuel and TransportBonusInterest on LoansTaxes1998288983.0023.48319993421122.5232.510820003241013.8441.67420013361333.6836.48820024201423.9649.498",
+        "image_path": null,
+        "question": "The ratio between the total expenditure on Taxes for all the years and the total expenditure on Fuel and Transport for all the years respectively is approximately?",
+        "options": {
+            "A": "4:7",
+            "B": "10:13",
+            "C": "15:18",
+            "D": "5:8"
+        },
+        "correct_answer": "B",
+        "answer_description": "Required ratio=(83 + 108 + 74 + 88 + 98)(98 + 112 + 101 + 133 + 142)=451586=11.3=10.13"
+    }
+]

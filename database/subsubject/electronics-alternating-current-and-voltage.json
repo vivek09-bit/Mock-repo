@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of waveform is shown in the given circuit?",
+        "options": {
+            "A": "Sine wave",
+            "B": "Square wave",
+            "C": "Triangle wave",
+            "D": "Sawtooth wave"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In both induction and synchronous ac motors",
+        "options": {
+            "A": "the operating speed is very steady",
+            "B": "the stator magnetic field is stationary",
+            "C": "the stator magnetic field rotates",
+            "D": "the \"squirrel cage\" forms the rotor"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the peak-to-peak voltage of the waveform in the given circuit?",
+        "options": {
+            "A": "2 V",
+            "B": "4 V",
+            "C": "6 V",
+            "D": "8 V"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Most practical alternators generate electricity from",
+        "options": {
+            "A": "a coil rotating within a magnetic field",
+            "B": "a magnetic field rotating around fixed windings",
+            "C": "a permanent magnet rotating within a varying electromagnetic field",
+            "D": "none of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A half-cycle average voltage of 12 V is equal to what rms voltage?",
+        "options": {
+            "A": "13.33 V",
+            "B": "8.48 V",
+            "C": "18.84 V",
+            "D": "7.64 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

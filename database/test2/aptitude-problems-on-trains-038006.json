@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. Fast train completely passes a man sitting in the slower train in 5 seconds. What is the length of the fast train?",
+        "options": {
+            "A": "23 m",
+            "B": "232m9",
+            "C": "277m9",
+            "D": "29 m"
+        },
+        "correct_answer": "C",
+        "answer_description": "Relative speed = (40 - 20) km/hr =20 x5m/sec =50m/sec.189Length of faster train =50x 5m =250m = 277m.999"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively. The length of the train is:",
+        "options": {
+            "A": "45 m",
+            "B": "50 m",
+            "C": "54 m",
+            "D": "72 m"
+        },
+        "correct_answer": "B",
+        "answer_description": "2 kmph =2 x5m/sec =5m/sec.1894 kmph =4 x5m/sec =10m/sec.189Let the length of the train bexmetres and its speed byym/sec.Then,x= 9 andx= 10.y-59y-1099y- 5 =xand 10(9y- 10) = 9x9y-x= 5 and 90y- 9x= 100.On solving, we get:x= 50.Length of the train is 50 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr. The other one walks at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?",
+        "options": {
+            "A": "66 km/hr",
+            "B": "72 km/hr",
+            "C": "78 km/hr",
+            "D": "81 km/hr"
+        },
+        "correct_answer": "D",
+        "answer_description": "4.5 km/hr =4.5 x5m/sec =5m/sec = 1.25 m/sec, and1845.4 km/hr =5.4 x5m/sec =3m/sec = 1.5 m/sec.182Let the speed of the train bexm/sec.Then, (x- 1.25) x 8.4 = (x- 1.5) x 8.58.4x- 10.5 = 8.5x- 12.750.1x= 2.25x= 22.5Speed of the train =22.5 x18km/hr = 81 km/hr.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train travelling at 48 kmph completely crosses another train having half its length and travelling in opposite direction at 42 kmph, in 12 seconds. It also passes a railway platform in 45 seconds. The length of the platform is",
+        "options": {
+            "A": "400 m",
+            "B": "450 m",
+            "C": "560 m",
+            "D": "600 m"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the length of the first train bexmetres.Then, the length of the second train isxmetres.2Relative speed = (48 + 42) kmph =90 x5m/sec = 25 m/sec.18[x+ (x/2)]= 12 or3x= 300     orx= 200.252Length of first train = 200 m.Let the length of platform beymetres.Speed of the first train =48 x5m/sec =40m/sec.183(200 +y) x3= 4540600 + 3y= 1800y= 400 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. and travels towards B at 20 kmph. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 kmph. At what time will they meet?",
+        "options": {
+            "A": "9 a.m.",
+            "B": "10 a.m.",
+            "C": "10.30 a.m.",
+            "D": "11 a.m."
+        },
+        "correct_answer": "B",
+        "answer_description": "Suppose they meetxhours after 7 a.m.Distance covered by A inxhours = 20xkm.Distance covered by B in (x- 1) hours = 25(x- 1) km.20x+ 25(x- 1) = 11045x= 135x= 3.So, they meet at 10 a.m."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "My first lesson ...... forgiveness came from my mother.",
+        "options": {
+            "A": "upon",
+            "B": "about",
+            "C": "in",
+            "D": "on"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "At one point, it looked as if an area of agreement would ...... specially over the issue of productivity linked wages.",
+        "options": {
+            "A": "develop",
+            "B": "come out",
+            "C": "emerge",
+            "D": "grow"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "Do you know ......?",
+        "options": {
+            "A": "where she comes from",
+            "B": "where does she come from",
+            "C": "where from she comes",
+            "D": "from where does she come"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "God is ......",
+        "options": {
+            "A": "graceful",
+            "B": "gracious",
+            "C": "grateful",
+            "D": "greatful"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolvePick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+        "image_path": null,
+        "question": "He is so ...... that he immediately believe my story of ghosts.",
+        "options": {
+            "A": "innocent",
+            "B": "credulous",
+            "C": "vociferous",
+            "D": "credible"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

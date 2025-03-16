@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can a digital one-shot be implemented using HDL?",
+        "options": {
+            "A": "By using a resistor and a capacitor",
+            "B": "By applying the concept of a counter",
+            "C": "By using a library function",
+            "D": "By applying a level trigger"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Integrated-circuit counter chips are used in numerous applications including:",
+        "options": {
+            "A": "timing operations, counting operations, sequencing, and frequency multiplication",
+            "B": "timing operations, counting operations, sequencing, and frequency division",
+            "C": "timing operations, decoding operations, sequencing, and frequency multiplication",
+            "D": "data generation, counting operations, sequencing, and frequency multiplication"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Synchronous construction reduces the delay time of a counter to the delay of:",
+        "options": {
+            "A": "all flip-flops and gates",
+            "B": "all flip-flops and gates after a 3 count",
+            "C": "a single gate",
+            "D": "a single flip-flop and a gate"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Synchronous counters eliminate the delay problems encountered with asynchronous counters because the:",
+        "options": {
+            "A": "input clock pulses are applied only to the first and last stages",
+            "B": "input clock pulses are applied only to the last stage",
+            "C": "input clock pulses are not used to activate any of the counter stages",
+            "D": "input clock pulses are applied simultaneously to each stage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between combinational logic and sequential logic?",
+        "options": {
+            "A": "Combinational circuits are not triggered by timing pulses, sequential circuits are triggered by timing pulses.",
+            "B": "Combinational and sequential circuits are both triggered by timing pulses.",
+            "C": "Neither circuit is triggered by timing pulses."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

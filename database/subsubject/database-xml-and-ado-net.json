@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The XSLT processor copies the elements of the stylesheet until it finds a command in the format:",
+        "options": {
+            "A": "SELECT ... FROM ... WHERE.",
+            "B": "{item, action}.",
+            "C": "{for-each select}.",
+            "D": "<HTML>...<\\HTML>."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What standard, protocol or language was generalized to become a standard protocol for sending messages of any type, using any protocol?",
+        "options": {
+            "A": "SOAP",
+            "B": "SGML",
+            "C": "SQL",
+            "D": "ADO"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is not true about XML Schemas:",
+        "options": {
+            "A": "They are used to define the content and structure of data.",
+            "B": "They define a set of symbols and the relationships of those symbols.",
+            "C": "They are themselves XML documents.",
+            "D": "They have their own syntax."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The most popular way to materialize XML documents is to use:",
+        "options": {
+            "A": "DTD.",
+            "B": "XSLT.",
+            "C": "HTML.",
+            "D": "SOAP."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With XML:",
+        "options": {
+            "A": "views are not limited to one multi-valued path only.",
+            "B": "documents can automatically be generated from database data only.",
+            "C": "database data can automatically be extracted from XML documents only.",
+            "D": "With XML, all of the above are true."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

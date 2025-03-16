@@ -1,0 +1,62 @@
+[
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "Tanya is older than Eric.Cliff is older than Tanya.Eric is older than Cliff.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "B",
+        "answer_description": "Because the first two statements are true, Eric is the  youngest of the three, so the third statement must be false."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "Blueberries cost more than strawberries.Blueberries cost less than raspberries.Raspberries cost more than strawberries and blueberries.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "A",
+        "answer_description": "Because the first two statements are true, raspberries are the most expensive of the three."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "All the trees in the park are flowering trees.Some of the trees in the park are dogwoods.All dogwoods in the park are flowering trees.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "A",
+        "answer_description": "All of the trees in the park are flowering trees, So all dogwoodsin the parkare flowering trees."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "Mara runs faster than Gail.Lily runs faster than Mara.Gail runs faster than Lily.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "B",
+        "answer_description": "We know from the first two statements that Lily runs fastest. Therefore, the third statement must be false."
+    },
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "Apartments in the Riverdale Manor cost less than apartments in The Gaslight Commons.Apartments in the Livingston Gate cost more than apartments in the The Gaslight Commons.Of the three apartment buildings, the Livingston Gate costs the most.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "A",
+        "answer_description": "Since the Gaslight Commons costs more than the Riverdale Manor and the Livingston Gate costs more than the Gaslight Commons, it is true that the Livingston Gate costs the most."
+    }
+]

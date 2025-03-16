@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a variable?",
+        "options": {
+            "A": "An object that holdsTrueby default",
+            "B": "A value that is stored in a memory location",
+            "C": "A named location in memory that stores a value",
+            "D": "A method called implicitly while accessing the attributes of an object"
+        },
+        "correct_answer": "C",
+        "answer_description": "In Python, a variable is a named representation of a memory location that is used to store a value, such as a number, string, or boolean. By assigning a value to a variable, you can easily refer to that value later in your code."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a valid variable name?",
+        "options": {
+            "A": "my_variable",
+            "B": "123_variable",
+            "C": "_my_variable",
+            "D": "MY_VARIABLE"
+        },
+        "correct_answer": "B",
+        "answer_description": "In Python, variable names must begin with a letter or an underscore, and can be followed by any combination of letters, underscores, and numbers.Here are some examples of valid variable names in Python:my_var\nMyVar\n_myVar\nMyVar123\nage\nx25\nindia_bix_comHere are some examples of invalid variable names in Python:2myvar\nmy-var\nmy var\nfood+nonfoodVariable names in Python must start with a letter or an underscore. They can contain letters, numbers, and underscores. They cannot start with a number or contain any spaces."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which data type is assigned to a variable that contains a string?",
+        "options": {
+            "A": "byte",
+            "B": "char",
+            "C": "str",
+            "D": "text"
+        },
+        "correct_answer": "C",
+        "answer_description": "In Python, thestrdata type is used to represent strings of text. Strings are immutable sequences of Unicode characters. They are denoted by single quotes ('), double quotes (\"), or triple quotes (''' or \"\"\") and can contain any Unicode character.Here are some examples of strings in Python:'Hello, IndiaBIX!'\n\n\"This is a string.\"\n\n'''This is a\nmultiline string.'''"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the correct way to assign a value of 5 to a variable called 'x'?",
+        "options": {
+            "A": "x = 5",
+            "B": "int x = 5",
+            "C": "var x = 5",
+            "D": "def x = 5"
+        },
+        "correct_answer": "A",
+        "answer_description": "In Python, you can assign a value to a variable using the equal sign=. The variable name comes first, followed by the value to be assigned."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens when you assign a new value to an existing variable?",
+        "options": {
+            "A": "The old value is replaced with the new value in the same memory location",
+            "B": "The variable is assinged to a new memory location that holds the new value",
+            "C": "The variable may or may not use the same memory location that holds the new value",
+            "D": "Python returns an error message and stops running the code"
+        },
+        "correct_answer": "C",
+        "answer_description": "In Python, when you assign a new value to an existing variable, the variable may or may not use the same memory location, depending on the type of the new value and whether it is mutable or immutable.For immutable types such as int, float, and str, a new memory location is typically created for the new value, and the variable is updated to reference this new memory location.For mutable types such as list, dict, and set, the memory location could remain the same if the size of the data does not change. However, if the size of the data changes, a new memory location may be allocated to store the updated value.In the case of the string variable in the example:my_string = \"Hello\"\nprint(my_string)  # Output: Hello\n\nmy_string = \"World\"\nprint(my_string)  # Output: WorldThe string variablemy_stringwould reference a new memory location after being reassigned to \"World\" because strings are immutable in Python."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Decode the following ASCII message.1010011101010010101011000100101100101000001001000100000110100101000100",
+        "options": {
+            "A": "STUDYHARD",
+            "B": "STUDY HARD",
+            "C": "stydyhard",
+            "D": "study hard"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The voltages in digital electronics are continuously variable.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One hex digit is sometimes referred to as a(n):",
+        "options": {
+            "A": "byte",
+            "B": "nibble",
+            "C": "grouping",
+            "D": "instruction"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the most widely used alphanumeric code for computer input and output?",
+        "options": {
+            "A": "Gray",
+            "B": "ASCII",
+            "C": "Parity",
+            "D": "EBCDIC"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a typical PC uses a 20-bit address code, how much memory can the CPU address?",
+        "options": {
+            "A": "20 MB",
+            "B": "10 MB",
+            "C": "1 MB",
+            "D": "580 MB"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

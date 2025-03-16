@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To which king belongs the Lion capital at Sarnath?",
+          "options": {
+               "A": "Chandragupta",
+               "B": "Ashoka",
+               "C": "Kanishka",
+               "D": "Harsha"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Objectives Resolution which laid down the main objectives to guide the deliberations of the Assembly was moved by",
+          "options": {
+               "A": "Sardar Patel",
+               "B": "Jawaharlal Nehru",
+               "C": "K.M. Munshi",
+               "D": "B.R. Ambedkar"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For seeing objects at the surface of water from a submarine under water, the instrument used is",
+          "options": {
+               "A": "kaleidoscope",
+               "B": "periscope",
+               "C": "spectroscope",
+               "D": "telescope"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "GATT (General Agreement on Tariffs and Trade) is",
+          "options": {
+               "A": "international agreement signed in 1947 between non-communist nations with the object of encouraging international trade unobstructed by tariff barriers",
+               "B": "agreement which seeks to achieve its aim by arranging and encouraging bargaining with trade concessions between members",
+               "C": "Both option A and B",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "India's first Technicolor film ____ in the early 1950s was produced by ____",
+          "options": {
+               "A": "'Jhansi Ki Rani', Sohrab Modi",
+               "B": "'Jhansi Ki Rani', Sir Syed Ahmed",
+               "C": "'Mirza Ghalib', Sohrab Modi",
+               "D": "'Mirza Ghalib', Munshi Premchand"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Penicillin is widely used as",
+          "options": {
+               "A": "an antiseptic",
+               "B": "a disinfectant",
+               "C": "an antibiotic",
+               "D": "an insecticide"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On a stationary sail boat, air is blown from a fan attached to the boat. The boat",
+          "options": {
+               "A": "moves in opposite direction in which the air is blown",
+               "B": "does not move",
+               "C": "moves in the same direction in which air blows",
+               "D": "spins around"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two counties did Anil Kumble play for?",
+          "options": {
+               "A": "Nottinghamshire & Lancashire",
+               "B": "Nottinghamshire & Leicestershire",
+               "C": "Northamptonshire & Leicestershire",
+               "D": "Northamptonshire & Lancashire"
+          },
+          "correct_answer": "C",
+          "answer_description": "Kumble had a great season with Northants taking 105 wickets."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which country, which made its debut in the Norwich Union League in 2003, signed Rahul Dravid as their overseas player?",
+          "options": {
+               "A": "Holland",
+               "B": "Ireland",
+               "C": "Wales",
+               "D": "Scotland"
+          },
+          "correct_answer": "D",
+          "answer_description": "Rahul had a highly succesful stint with Kent in 2000."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The average power (in watts) used by a 20 to 25 inch home color television is...?",
+          "options": {
+               "A": "70-100",
+               "B": "25-50",
+               "C": "500-800",
+               "D": "Over 1000"
+          },
+          "correct_answer": "A",
+          "answer_description": "About the same as as the most popular light bulb size."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is a MAC?",
+          "options": {
+               "A": "A Computer made by Apple",
+               "B": "Memory Address Corruption",
+               "C": "Mediocre Apple Computer",
+               "D": "Media Access Control"
+          },
+          "correct_answer": "D",
+          "answer_description": "MAC is short for Media Access Control address, an address unique to every piece of network hardware."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The mass number of a nucleus is",
+          "options": {
+               "A": "always less than its atomic number",
+               "B": "the sum of the number of protons and neutrons present in the nucleus",
+               "C": "always more than the atomic weight",
+               "D": "a fraction"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The official language of the Government of India is",
+          "options": {
+               "A": "English",
+               "B": "Malayalam",
+               "C": "Hindi",
+               "D": "Marathi"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When and where was hockey introduced for women in Olympics?",
+          "options": {
+               "A": "1908 at London",
+               "B": "1980 at Moscow",
+               "C": "1936 at Berlin",
+               "D": "1924 at Paris"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The main producers of free gas are",
+          "options": {
+               "A": "the south Bassein and Tapti fields in the western offshore",
+               "B": "the gas fields in Tripura and Andhra Pradesh (KG Basin)",
+               "C": "both (a) and (b)",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ali Sher, an Arjuna Award winner, is associated with",
+          "options": {
+               "A": "Golf",
+               "B": "Football",
+               "C": "Yatching",
+               "D": "Hockey"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "National Institute of Nutrition is located in which of the following place?",
+          "options": {
+               "A": "Bangalore",
+               "B": "Kerala",
+               "C": "Gandhinagar",
+               "D": "Hyderabad"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The 'Char Minar' is in",
+          "options": {
+               "A": "Ahmedabad",
+               "B": "Hyderabad",
+               "C": "Delhi",
+               "D": "Sikri"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The headquarters of the UNESCO is at",
+          "options": {
+               "A": "Rome",
+               "B": "Geneva",
+               "C": "New York",
+               "D": "Paris"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Amalgams are",
+          "options": {
+               "A": "highly coloured alloys",
+               "B": "alloys which contain mercury as one of the contents",
+               "C": "alloys which have great resistance to abrasion",
+               "D": "alloys which contain carbon"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

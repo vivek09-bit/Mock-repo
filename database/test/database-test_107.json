@@ -1,0 +1,242 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The HAVING clause does which of the following?",
+          "options": {
+               "A": "Acts like a WHERE clause but is used for groups rather than rows.",
+               "B": "Acts like a WHERE clause but is used for rows rather than columns.",
+               "C": "Acts like a WHERE clause but is used for columns rather than groups.",
+               "D": "Acts EXACTLY like a WHERE clause."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The keyword BETWEEN can be used in a WHERE clause to refer to a range of values.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the relational model, relationships between relations or tables are created by using:",
+          "options": {
+               "A": "composite keys.",
+               "B": "determinants.",
+               "C": "candidate keys.",
+               "D": "foreign keys."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When building a database from an existing set of tables, we may safely assume that there are no multivalued dependencies in the data we are given.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which isnottrue about surrogate keys?",
+          "options": {
+               "A": "They are short.",
+               "B": "They are fixed.",
+               "C": "They have meaning to the user.",
+               "D": "They are numeric."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For every relationship, how many possible sets of minimum cardinalities are there?",
+          "options": {
+               "A": "Two",
+               "B": "Three",
+               "C": "Four",
+               "D": "Six"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "All primary keys are required.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If any required (NOT NULL) columns are missing from the view, the view cannot be used for inserting new data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Information systems and organizations do not just influence each other; they create each other.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To see the contents of the SQL*Plus buffer, type:",
+          "options": {
+               "A": "CONTENTS.",
+               "B": "BUFFER.",
+               "C": "CURRENT.",
+               "D": "LIST."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "SQL*Plus is a text editor.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "SQL Server automatically creates an index on:",
+          "options": {
+               "A": "primary keys only.",
+               "B": "foreign key only.",
+               "C": "both primary and foreign keys.",
+               "D": "SQL Server never automatically creates an index."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In OLE DB, actions that an object can perform are called:",
+          "options": {
+               "A": "properties.",
+               "B": "collections.",
+               "C": "methods.",
+               "D": "abstractions."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An application that uses the ODBC interface could process any database that is ODBC-compliant without any program coding changes.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Business Intelligence (BI) reporting analyses can be performed using ________ .",
+          "options": {
+               "A": "standard SQL only",
+               "B": "extensions to SQL only",
+               "C": "OLAP only",
+               "D": "both standard SQL and extensions to SQL"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Another name for multimedia data is unstructured data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A function returns one value and has only output parameters.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is true concerning JDBC?",
+          "options": {
+               "A": "It is language independent.",
+               "B": "It is similar in concept to ODBC.",
+               "C": "It is useful for all object-oriented languages.",
+               "D": "It consists of three main layers."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Data replication is favored where most process requests are read-only and where the data are relatively static.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true concerning the following statement: class Manager extends Employee",
+          "options": {
+               "A": "Manager is a concrete class and a superclass.",
+               "B": "Manager is a concrete class and a subclass.",
+               "C": "Manager is an abstract class and a superclass.",
+               "D": "Manager is an abstract class and a subclass."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

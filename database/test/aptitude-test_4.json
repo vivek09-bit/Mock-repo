@@ -1,0 +1,264 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A fires 5 shots to B's 3 but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:",
+          "options": {
+               "A": "30 birds",
+               "B": "60 birds",
+               "C": "72 birds",
+               "D": "90 birds"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let the total number of shots bex. Then,Shots fired by A =5x8Shots fired by B =3x8Killing shots by A =1of5x=5x3824Shots missed by B =1of3x=3x28163x= 27 orx=27 x 16= 144.163Birds killed by A =5x=5x 144= 30.2424"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's age at present?",
+          "options": {
+               "A": "16 years",
+               "B": "18 years",
+               "C": "20 years",
+               "D": "Cannot be determined",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let the ages of Kunal and Sagar 6 years ago be 6xand 5xyears respectively.Then,(6x+ 6) + 4=11(5x+ 6) + 41010(6x+ 10) = 11(5x+ 10)5x= 10x= 2.Sagar's present age = (5x+ 6) = 16 years."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+          "options": {
+               "A": "1 year",
+               "B": "2 years",
+               "C": "25 years",
+               "D": "Data inadequate",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "Given that:1. The difference of age b/w R and Q = The difference of age b/w Q and T.2. Sum of age of R and T is 50 i.e. (R + T) = 50.Question: R - Q = ?.Explanation:R - Q = Q - T(R + T) = 2QNow given that, (R + T) = 50So, 50 = 2Q and therefore Q = 25.Question is (R - Q) = ?Here we know the value(age) of Q (25), but we don't know the age of R.Therefore, (R-Q) cannot be determined."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "1+1= ?1 +a(n-m)1 +a(m-n)",
+          "options": {
+               "A": "0",
+               "B": "12",
+               "C": "1",
+               "D": "am+n"
+          },
+          "correct_answer": "C",
+          "answer_description": "1+1=1+11 +anam1 +aman1 +a(n-m)1 +a(m-n)=am+an(am+an)(am+an)=(am+an)(am+an)= 1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "1+1+1= ?1 +x(b-a)+x(c-a)1 +x(a-b)+x(c-b)1 +x(b-c)+x(a-c)",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "xa-b-c",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Given Exp. =1+1+11 +xb+xcxaxa1 +xa+xcxbxb1 +xb+xaxcxc=xa+xb+xc(xa+xb+xc)(xa+xb+xc)(xa+xb+xc)=(xa+xb+xc)(xa+xb+xc)= 1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Simran started a software business by investing Rs. 50,000. After six months, Nanda joined her with a capital of Rs. 80,000. After 3 years, they earned a profit of Rs. 24,500. What was Simran's share in the profit?",
+          "options": {
+               "A": "Rs. 9,423",
+               "B": "Rs. 10,250",
+               "C": "Rs. 12,500",
+               "D": "Rs. 10,500"
+          },
+          "correct_answer": "D",
+          "answer_description": "Simran : Nanda = (50000 x 36) : (80000 x 30) = 3 : 4.Simran's share = Rs.24500 x3= Rs. 10,500.7"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+          "options": {
+               "A": "12 days",
+               "B": "15 days",
+               "C": "16 days",
+               "D": "18 days"
+          },
+          "correct_answer": "B",
+          "answer_description": "A's 2 day's work =1x 2=1.2010(A + B + C)'s 1 day's work =1+1+1=6=1.2030606010Work done in 3 days =1+1=1.10105Now,1work is done in 3 days.5Whole work will be done in (3 x 5) = 15 days."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
+          "options": {
+               "A": "8 kmph",
+               "B": "11 kmph",
+               "C": "12 kmph",
+               "D": "14 kmph"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the distance travelled byxkm.Then,x-x= 210153x- 2x= 60x= 60 km.Time taken to travel 60 km at 10 km/hr =60hrs= 6 hrs.10So, Robert started 6 hours before 2 P.M.i.e.,at 8 A.M.Required speed =60kmph.= 12 kmph.5"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A man rows to a place 48 km distant and come back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:",
+          "options": {
+               "A": "1 km/hr",
+               "B": "1.5 km/hr",
+               "C": "2 km/hr",
+               "D": "2.5 km/hr"
+          },
+          "correct_answer": "A",
+          "answer_description": "Suppose he move 4 km downstream inxhours. Then,Speed downstream =4km/hr.xSpeed upstream =3km/hr.x48+48= 14 orx=1.(4/x)(3/x)2So, Speed downstream = 8 km/hr, Speed upstream = 6 km/hr.Rate of the stream =1(8 - 6) km/hr = 1 km/hr.2"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
+          "options": {
+               "A": "3 : 7",
+               "B": "5 : 7",
+               "C": "7 : 3",
+               "D": "7 : 5"
+          },
+          "correct_answer": "C",
+          "answer_description": "By the rule of alligation:Cost of 1 kg pulses of 1stkindCost of 1 kg pulses of 2ndkindRs. 15Mean PriceRs. 16.50Rs. 203.501.50Required rate = 3.50 : 1.50  = 7 : 3."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If loga+logb= log (a+b), then:ba",
+          "options": {
+               "A": "a+b= 1",
+               "B": "a-b= 1",
+               "C": "a=b",
+               "D": "a2-b2= 1"
+          },
+          "correct_answer": "A",
+          "answer_description": "loga+ logb= log (a+b)balog (a+b) = logaxb= log 1.baSo,a+b= 1."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by:",
+          "options": {
+               "A": "22.75 m",
+               "B": "25 m",
+               "C": "19.5 m",
+               "D": "74m7"
+          },
+          "correct_answer": "B",
+          "answer_description": "A : B = 200 : 169.A : C = 200 : 182.C=CxA=182x200= 182 : 169.BAB200169When C covers 182 m, B covers 169 m.When C covers 350 m, B covers169x 350m= 325 m.182Therefore, C beats B by (350 - 325) m = 25 m."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If 6thMarch, 2005 is Monday,what was the day of the week on 6thMarch, 2004?",
+          "options": {
+               "A": "Sunday",
+               "B": "Saturday",
+               "C": "Tuesday",
+               "D": "Wednesday"
+          },
+          "correct_answer": "A",
+          "answer_description": "The year 2004 is a leap year. So, it has 2 odd days.But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.The day on 6thMarch, 2005 will be 1 day beyond the day on 6thMarch, 2004.Given that, 6thMarch, 2005 is Monday.6thMarch, 2004 is Sunday (1 day before to 6thMarch, 2005)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:",
+          "options": {
+               "A": "145°",
+               "B": "150°",
+               "C": "155°",
+               "D": "160°"
+          },
+          "correct_answer": "C",
+          "answer_description": "Angle traced by hour hand in 12 hrs = 360°.Angle traced by hour hand in 5 hrs 10 min.i.e.,31hrs =360x31°= 155°.6126"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+          "options": {
+               "A": "144°",
+               "B": "150°",
+               "C": "168°",
+               "D": "180°"
+          },
+          "correct_answer": "D",
+          "answer_description": "Angle traced by the hour hand in 6 hours =360x 6°= 180°.12"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The market value of a 10.5% stock, in which an income of Rs. 756 is derived by investing Rs. 9000, brokerage being%, is:",
+          "options": {
+               "A": "Rs. 108.25",
+               "B": "Rs. 112.20",
+               "C": "Rs. 124.75",
+               "D": "Rs. 125.25"
+          },
+          "correct_answer": "C",
+          "answer_description": "For an income of Rs. 756, investment = Rs. 9000.For an income of Rs.21, investment = Rs.9000x21= Rs. 125.27562For a Rs. 100 stock, investment = Rs. 125.Market value of Rs. 100 stock = Rs.125 -1= Rs. 124.754"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?",
+          "options": {
+               "A": "113",
+               "B": "313",
+               "C": "14",
+               "D": "952"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, there are 52 cards, out of which there are 12 face cards.P (getting a face card) =12=3.5213"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
+          "options": {
+               "A": "115",
+               "B": "2557",
+               "C": "35256",
+               "D": "1221"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let S be the sample space.Then,n(S) =52C2=(52 x 51)= 1326.(2 x 1)Let E = event of getting 2 kings out of 4.n(E) =4C2=(4 x 3)= 6.(2 x 1)P(E) =n(E)=6=1.n(S)1326221"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The true discount on Rs. 2562 due 4 months hence is Rs. 122. The rate percent is:",
+          "options": {
+               "A": "12%",
+               "B": "131%3",
+               "C": "15%",
+               "D": "14%"
+          },
+          "correct_answer": "C",
+          "answer_description": "P.W. = Rs. (2562 - 122) = Rs. 2440.S.I. on Rs. 2440 for 4 months is Rs. 122.Rate =100 x 122%= 15%.2440 x13"
+     },
+     {
+          "direction": "Direction (Q.No. 20)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "22, 33, 66, 99, 121, 279, 594",
+          "options": {
+               "A": "33",
+               "B": "121",
+               "C": "279",
+               "D": "594"
+          },
+          "correct_answer": "C",
+          "answer_description": "Each of the number except 279 is a multiple of 11."
+     }
+]

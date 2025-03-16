@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following methods is used to insert an element at a specific index in a list?",
+        "options": {
+            "A": "add(index, element)",
+            "B": "insert(index, element)",
+            "C": "append(index, element)",
+            "D": "push(index, element)"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theinsert(index, element)method is used to insert an element at a specific index in a list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you reverse the order of elements in a list in Python?",
+        "options": {
+            "A": "reverse()",
+            "B": "list.reverse()",
+            "C": "reversed(list)",
+            "D": "list.reversed()"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thelist.reverse()method is used to reverse the order of elements in a list in-place."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thecountmethod in Python lists?",
+        "options": {
+            "A": "To count the number of occurrences of a specific element.",
+            "B": "To count the total number of elements in the list.",
+            "C": "To count the number of unique elements in the list.",
+            "D": "To count the number of elements satisfying a condition."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thecountmethod in Python lists is used to count the number of occurrences of a specific element."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is used to remove the first occurrence of a specific element from a list?",
+        "options": {
+            "A": "remove(element)",
+            "B": "delete(element)",
+            "C": "pop(element)",
+            "D": "discard(element)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theremove(element)method is used to remove the first occurrence of a specific element from a list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the correct way to create a new list by multiplying each element of an existing list by 2 in Python?",
+        "options": {
+            "A": "new_list = list * 2",
+            "B": "new_list = [element * 2 for element in old_list]",
+            "C": "new_list = old_list.multiply(2)",
+            "D": "new_list = old_list * 2"
+        },
+        "correct_answer": "B",
+        "answer_description": "The correct way to create a new list by multiplying each element of an existing list by 2 is using a list comprehension as shown in option B."
+    }
+]

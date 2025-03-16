@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+        "options": {
+            "A": "5",
+            "B": "512",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "answer_description": "B's 10 day's work =1x 10=2.153Remaining work =1 -2=1.33Now,1work is done by A in 1 day.181work is done by A in18 x1= 6 days.33"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+        "options": {
+            "A": "35",
+            "B": "40",
+            "C": "45",
+            "D": "50"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let 1 man's 1 day's work =xand 1 woman's 1 day's work =y.Then, 4x+ 6y=1and 3x+ 7y=1.810Solving the two equations, we get:x=11,y=14004001 woman's 1 day's work =1.40010 women's 1 day's work =1x 10=1.40040Hence, 10 women will complete the work in 40 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A and B can together finish a work 30 days. They worked together for 20 days and then B left. After another 20 days, A finished the remaining work. In how many days A alone can finish the work?",
+        "options": {
+            "A": "40",
+            "B": "50",
+            "C": "54",
+            "D": "60"
+        },
+        "correct_answer": "D",
+        "answer_description": "(A + B)'s 20 day's work =1x 20=2.303Remaining work =1 -2=1.33Now,1work is done by A in 20 days.3Therefore, the whole work will be done by A in (20 x 3) = 60 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "P can complete a work in 12 days working 8 hours a day. Q can complete the same work in 8 days working 10 hours a day. If both P and Q work together, working 8 hours a day, in how many days can they complete the work?",
+        "options": {
+            "A": "5511",
+            "B": "5611",
+            "C": "6511",
+            "D": "6611"
+        },
+        "correct_answer": "A",
+        "answer_description": "P can complete the work in (12 x 8) hrs. = 96 hrs.Q can complete the work in (8 x 10) hrs. = 80 hrs.P's1 hour's work =1and Q's 1 hour's work =1.9680(P + Q)'s 1 hour's work =1+1=11.9680480So, both P and Q will finish the work in480hrs.11Number of days of 8 hours each =480x1=60days = 55days.1181111"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work. How many days will 5 women and 10 children take to complete the work?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "1 woman's 1 day's work =1701 child's 1 day's work =1140(5 women + 10 children)'s day's work =5+10=1+1=170140141475 women and 10 children will complete the work in 7 days."
+    }
+]

@@ -1,0 +1,265 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If your router is facilitating a CSU/DSU, which of the following commands do you need to use to provide the router with a 64000bps serial link?",
+          "options": {
+               "A": "RouterA(config)#bandwidth 64",
+               "B": "RouterA(config-if)#bandwidth 64000",
+               "C": "RouterA(config-if)#clock rate 64",
+               "D": "RouterA(config-if)#clock rate 64000"
+          },
+          "correct_answer": "D",
+          "answer_description": "Theclock ratecommand is two words, and the speed of the line is in bps."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Acknowledgments, sequencing, and flow control are characteristics of which OSI layer?",
+          "options": {
+               "A": "Layer 2",
+               "B": "Layer 3",
+               "C": "Layer 4",
+               "D": "Layer 7"
+          },
+          "correct_answer": "C",
+          "answer_description": "A reliable Transport layer connection uses acknowledgments to make sure all data is transmitted and received reliably. A reliable connection is defined by a virtual circuit that uses acknowledgments, sequencing, and flow control, which are characteristics of the Transport layer (layer 4)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What are the decimal and hexadecimal equivalents for the binary number10110111?",
+          "options": {
+               "A": "69/0x2102",
+               "B": "183/B7",
+               "C": "173/A6",
+               "D": "83/0xC5"
+          },
+          "correct_answer": "B",
+          "answer_description": "You must be able to take a binary number and convert it into both decimal and hexadecimal. \nTo convert to decimal, just add up the 1s using their values. The values that are turned on with \nthe binary number of10110111are128 + 32 + 16 + 4 + 2 + 1 = 183. To get the hexadecimal \nequivalent, you need to break the eight binary digits into nibbles (4 bits),1011and0111. By add-\ning up these values, you get11and7. In hexadecimal,11isB, so the answer is0xB7."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the decimal and hexadecimal equivalents of the binary number 10011101?",
+          "options": {
+               "A": "155, 0x9B",
+               "B": "157, 0x9D",
+               "C": "159, 0x9F",
+               "D": "185, 0xB9"
+          },
+          "correct_answer": "B",
+          "answer_description": "To turn a binary number into decimal, you just have to add the values of each bit that is a 1. The values of 10011101 are 128, 16, 8, 4, and 1. 128 + 16 + 8 + 4 + 1 = 157.Hexadecimal is a base-16 number system. The values of hexadecimal are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F-16 characters total, from which to create all the numbers you'll ever need. So, if 1001 in binary is 9, then the hexadecimal equivalent is 9. Since we then have 1101, which is 13 in binary, the hexadecimal answer is D and the complete hexadecimal answer is 0x9D."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have a network with a subnet of 172.16.17.0/22. Which is the valid host address?",
+          "options": {
+               "A": "172.16.17.1 255.255.255.252",
+               "B": "172.16.0.1 255.255.240.0",
+               "C": "172.16.20.1 255.255.254.0",
+               "D": "172.16.18.255 255.255.252.0"
+          },
+          "correct_answer": "D",
+          "answer_description": "A Class B network ID with a /22 mask is 255.255.252.0, with a block size of 4 in the third octet. The network address in the question is in subnet 172.16.16.0 with a broadcast address of 172.16.19.255. Only option E even has the correct subnet mask listed, and 172.16.18.255 is a valid host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the problem with an interface if you typeshow interface serial 0and receive the following message?\"Serial0 is administratively down, line protocol is down.\"",
+          "options": {
+               "A": "The keepalives are different times.",
+               "B": "The administrator has the interface shut down.",
+               "C": "The administrator is pinging from the interface.",
+               "D": "No cable is attached."
+          },
+          "correct_answer": "B",
+          "answer_description": "If an interface is shut down, theshow interfacecommand will show the interface as administratively shut down. (It is possible that no cable is attached, but you can't tell that from this message.)"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You typeRouter#sh ruand receive an% ambiguous commanderror. Why did you receive this message?",
+          "options": {
+               "A": "The command requires additional options or parameters.",
+               "B": "There is more than one show command that starts with the lettersru.",
+               "C": "There is no show command that starts withru.",
+               "D": "The command is being executed from the wrong router mode."
+          },
+          "correct_answer": "B",
+          "answer_description": "The% ambiguous commanderror means that there is more then one possible command that starts withru. Use a question mark to find the correct command."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You are troubleshooting a connectivity problem in your corporate network and want to isolate the problem. You suspect that a router on the route to an unreachable network is at fault. What IOS user exec command should you issue?",
+          "options": {
+               "A": "Router> ping",
+               "B": "Router> trace",
+               "C": "Router> show ip route",
+               "D": "Router> show interface"
+          },
+          "correct_answer": "B",
+          "answer_description": "The commandtraceroute(trace for short), which can be issued from user mode or privileged mode, is used to find the path a packet takes through an internetwork and will also show you where the packet stops because of an error on a router."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You save the configuration on a router with the copy running-config startup-config command and reboot the router. The router, however, comes up with a blank configuration. What can the problem be?",
+          "options": {
+               "A": "You didn't boot the router with the correct command.",
+               "B": "NVRAM is corrupted.",
+               "C": "The configuration register setting is incorrect.",
+               "D": "The newly upgraded IOS is not compatible with the hardware of the router."
+          },
+          "correct_answer": "C",
+          "answer_description": "If you save a configuration and reload the router and it comes up either in setup mode or as a blank configuration, chances are you have the configuration register setting incorrect."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need to gather the IP address of a remote switch that is located in Hawaii. What can you do to find the address?",
+          "options": {
+               "A": "Issue theshow ip arpcommand on the router connected to the switch.",
+               "B": "Issue theshow ip routecommand on the router connected to the switch.",
+               "C": "Issue theshow cdp neighborcommand on the router connected to the switch.",
+               "D": "Issue theshow cdp neighbors detailcommand on the router connected to the switch."
+          },
+          "correct_answer": "D",
+          "answer_description": "Although option A is certainly the \"best\" answer, unfortunately option  D will work just fine and your boss would probably prefer you to use theshow cdp neighbors detailcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The configuration register setting of 0x2102 provides what function to a router?",
+          "options": {
+               "A": "Tells the router to boot into ROM monitor mode",
+               "B": "Provides password recovery",
+               "C": "Tells the router to look in NVRAM for the boot sequence",
+               "D": "Boots the IOS from a TFTP server"
+          },
+          "correct_answer": "C",
+          "answer_description": "The default configuration setting of 0x2102 tells the router to look in NVRAM for the boot sequence."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Corporate router receives an IP packet with a source IP address of 192.168.214.20 and a destination address of 192.168.22.3. Looking at the output from the Corporate router, what will the router do with this packet?Corp#sh ip route\n[output cut]\nR    192.168.215.0 [120/2] via 192.168.20.2, 00:00:23, Serial0/0\nR    192.168.115.0 [120/1] via 192.168.20.2, 00:00:23, Serial0/0\nR    192.168.30.0 [120/1] via 192.168.20.2, 00:00:23, Serial0/0\nC    192.168.20.0 is directly connected, Serial0/0\nC    192.168.214.0 is directly connected, FastEthernet0/0",
+          "options": {
+               "A": "The packet will be discarded.",
+               "B": "The packet will be routed out the S0/0 interface.",
+               "C": "The router will broadcast looking for the destination.",
+               "D": "The packet will be routed out the Fa0/0 interface."
+          },
+          "correct_answer": "A",
+          "answer_description": "Since the routing table shows no route to the 192.168.22.0 network, the router will discard the packet and send an ICMP destination unreachable message out interface FastEthernet 0/0, which is the source LAN where the packet originated from."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have created a named access list called Blocksales. Which of the following is a valid command for applying this to packets trying to enter interface s0 of your router?",
+          "options": {
+               "A": "(config)#ip access-group 110 in",
+               "B": "(config-if)#ip access-group 110 in",
+               "C": "(config-if)#ip access-group Blocksales in",
+               "D": "(config-if)#blocksales ip access-list in"
+          },
+          "correct_answer": "C",
+          "answer_description": "Using a named access list just replaces the number used when applying the list to the router's interface.ip access-group Blocksales inis correct."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are valid ways to refer only to host 172.16.30.55 in an IP access list?172.16.30.55 0.0.0.255172.16.30.55 0.0.0.0any 172.16.30.55host 172.16.30.550.0.0.0 172.16.30.55ip any 172.16.30.55",
+          "options": {
+               "A": "1 and 4",
+               "B": "2 and 4",
+               "C": "1, 4 and 6",
+               "D": "3 and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "The wildcard 0.0.0.0 tells the router to match all four octets. This wildcard format alone can be replaced with thehostcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following access lists will allow only HTTP traffic into network 196.15.7.0?",
+          "options": {
+               "A": "access-list 100 permit tcp any 196.15.7.0 0.0.0.255 eq www",
+               "B": "access-list 10 deny tcp any 196.15.7.0 eq www",
+               "C": "access-list 100 permit 196.15.7.0 0.0.0.255 eq www",
+               "D": "access-list 110 permit ip any 196.15.7.0 0.0.0.255",
+               "E": "access-list 110 permit www 196.15.7.0 0.0.0.255"
+          },
+          "correct_answer": "A",
+          "answer_description": "The first thing to check in a question like this is the access-list number. Right away, you can see that the second option is wrong because it is using a standard IP access-list number. The second thing to check is the protocol. If you are filtering by upper-layer protocol, then you must be using either UDP or TCP; this eliminates the fourth option. The third and last answers have the wrong syntax."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What router command allows you to determine whether an IP access list is enabled on a particular interface?",
+          "options": {
+               "A": "show ip port",
+               "B": "show access-lists",
+               "C": "show ip interface",
+               "D": "show access-lists interface"
+          },
+          "correct_answer": "C",
+          "answer_description": "Only theshow ip interfacecommand will tell you which interfaces have access lists applied.show access-listswill not show you which interfaces have an access list applied."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many non-overlapping channels are available with 802.11a?",
+          "options": {
+               "A": "3",
+               "B": "12",
+               "C": "23",
+               "D": "40"
+          },
+          "correct_answer": "B",
+          "answer_description": "The IEEE 802.11a standard provides up to 12 non-overlapping channels."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What multicast addresses does EIGRPv6 use?",
+          "options": {
+               "A": "FF02::A",
+               "B": "FF02::9",
+               "C": "FF02::5",
+               "D": "FF02::6"
+          },
+          "correct_answer": "A",
+          "answer_description": "EIGRPv6's multicast address stayed very near the same. In IPv4 it was224.0.0.10; now it isFF02::A(A=10 in hexadecimal notation)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To enable OSPFv3, which of the following would you use?",
+          "options": {
+               "A": "Router1(config-if)#ipv6 ospf 10 area 0.0.0.0",
+               "B": "Router1(config-if)#ipv6 router rip 1",
+               "C": "Router1(config)#ipv6 router eigrp 10",
+               "D": "Router1(config-rtr)#no shutdown",
+               "E": "Router1(config-if)#ipv6 eigrp 10"
+          },
+          "correct_answer": "A",
+          "answer_description": "To enable OSPFv3, you enable the protocol as with RIPng. The command string is ipv6ospf <process-id> area <area-id>."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following describes an industry-wide standard suite of protocols and algorithms that allows for secure data transmission over an IP-based network that functions at the layer 3 Network layer of the OSI model?",
+          "options": {
+               "A": "HDLC",
+               "B": "Cable",
+               "C": "VPN",
+               "D": "IPSec",
+               "E": "xDSL"
+          },
+          "correct_answer": "D",
+          "answer_description": "IPSec is an industry-wide standard suite of protocols and algorithms that allows for secure data transmission over an IP-based network that functions at the layer 3 Network layer of the OSI model."
+     }
+]

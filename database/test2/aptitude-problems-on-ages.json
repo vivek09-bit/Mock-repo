@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years,  how many times would he be of Ronit's age?",
+        "options": {
+            "A": "2 times",
+            "B": "21times2",
+            "C": "23times4",
+            "D": "3 times"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let Ronit's present age bexyears. Then, father's present age =(x+ 3x) years = 4xyears.(4x+ 8) =5(x+ 8)28x+ 16 = 5x+ 403x= 24x= 8.Hence, required ratio =(4x+ 16)=48= 2.(x+ 16)24"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+        "options": {
+            "A": "4 years",
+            "B": "8 years",
+            "C": "10 years",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the ages of children bex, (x+ 3), (x+ 6), (x+ 9) and (x+ 12) years.Then,x+ (x+ 3) + (x+ 6) + (x+ 9) + (x+ 12) = 505x= 20x= 4.Age of the youngest child =x= 4 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+        "options": {
+            "A": "14 years",
+            "B": "19 years",
+            "C": "33 years",
+            "D": "38 years"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the son's present age bexyears. Then, (38 -x) =x2x= 38.x= 19.Son's age 5 years back (19 - 5) = 14 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10",
+            "E": "11"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let C's age bexyears. Then, B's age = 2xyears. A's age = (2x+ 2) years.(2x+ 2) + 2x+x= 275x= 25x= 5.Hence, B's age = 2x= 10 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?",
+        "options": {
+            "A": "24",
+            "B": "27",
+            "C": "40",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the present ages of Sameer and Anand be 5xyears and 4xyears respectively.Then,5x+ 3=114x+ 399(5x+ 3) = 11(4x+ 3)45x+ 27 = 44x+ 3345x- 44x= 33 - 27x= 6.Anand's present age = 4x= 24 years."
+    }
+]

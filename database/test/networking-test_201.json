@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to upgrade an IOS on a Cisco router?",
+          "options": {
+               "A": "copy tftp run",
+               "B": "copy tftp start",
+               "C": "config net",
+               "D": "copy tftp flash"
+          },
+          "correct_answer": "D",
+          "answer_description": "Thecopy tftp flashcommand places a new file in flash memory, which is the default location for the Cisco IOS in Cisco routers."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A receiving host has failed to receive all of the segments that it should acknowledge. What can the host do to improve the reliability of this communication session?",
+          "options": {
+               "A": "Send a different source port number.",
+               "B": "Restart the virtual circuit.",
+               "C": "Decrease the sequence number.",
+               "D": "Decrease the window size."
+          },
+          "correct_answer": "D",
+          "answer_description": "A receiving host can control the transmitter by using flow control (TCP uses Windowing by default). By decreasing the window size, the receiving host can slow down the transmitting host so the receiving host does not overflow its buffers."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which fields are contained within an IEEE Ethernet frame header?Source and destination MAC addressSource and destination network addressSource and destination MAC address and source and destination network addressFCS field",
+          "options": {
+               "A": "1 and 4",
+               "B": "2 only",
+               "C": "2 and 3 only",
+               "D": "3 only"
+          },
+          "correct_answer": "A",
+          "answer_description": "An Ethernet frame has source and destination MAC addresses, an Ether-Type field to identify the Network layer protocol, the data, and the FCS field that holds the answer to the CRC."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following describe router functions?",
+          "options": {
+               "A": "Packet switching",
+               "B": "Packet filtering",
+               "C": "Internetwork communication",
+               "D": "Path selection",
+               "E": "All of the above"
+          },
+          "correct_answer": "E",
+          "answer_description": "Routers provide packet switching, packet filtering, internetwork communication, and path selection."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are types of flow control?BufferingCut-throughWindowingCongestion avoidance",
+          "options": {
+               "A": "1 and 2",
+               "B": "1, 3 and 4",
+               "C": "2 only",
+               "D": "3 only"
+          },
+          "correct_answer": "B",
+          "answer_description": "The common types of flow control are buffering, windowing, and congestion avoidance."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What type of RJ45 UTP cable is used between switches?",
+          "options": {
+               "A": "Straight-through",
+               "B": "Crossover cable",
+               "C": "Crossover with a CSU/DSU",
+               "D": "Crossover with a router in between the two switches"
+          },
+          "correct_answer": "B",
+          "answer_description": "To connect two switches together, you would use a RJ45 UTP crossover cable."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are layers in the TCP/IP model?ApplicationSessionTransportInternetData LinkPhysical",
+          "options": {
+               "A": "1 and 2",
+               "B": "1, 3 and 4",
+               "C": "2, 3 and 5",
+               "D": "3, 4 and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "This seems like a hard question at first because it doesn't make sense. The listed answers are from the OSI model and the question asked about the TCP/IP protocol stack (DoD model). However, let's just look for what is wrong. First, the Session layer is not in the TCP/IP model; neither are the Data Link and Physical layers. This leaves us with the Transport layer (Host-to-Host in the DoD model), Internet layer (Network layer in the OSI), and Application layer (Application/Process in the DoD)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following protocols uses both TCP and UDP?",
+          "options": {
+               "A": "FTP",
+               "B": "SMTP",
+               "C": "Telnet",
+               "D": "DNS"
+          },
+          "correct_answer": "D",
+          "answer_description": "DNS uses TCP for zone exchanges between servers and UDP when a client is trying to resolve a hostname to an IP address."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The network address of 172.16.0.0/19 provides how many subnets and hosts?",
+          "options": {
+               "A": "7 subnets, 30 hosts each",
+               "B": "8 subnets, 8,190 hosts each",
+               "C": "8 subnets, 2,046 hosts each",
+               "D": "7 subnets, 2,046 hosts each"
+          },
+          "correct_answer": "B",
+          "answer_description": "A CIDR address of /19 is 255.255.224.0. This is a Class B address, so that is only 3 subnet bits, but it provides 13 host bits, or 8 subnets, each with 8,190 hosts."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements describe the IP address 10.16.3.65/23?The subnet address is 10.16.3.0 255.255.254.0.The lowest host address in the subnet is 10.16.2.1 255.255.254.0.The last valid host address in the subnet is 10.16.2.254 255.255.254.0.The broadcast address of the subnet is 10.16.3.255 255.255.254.0.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1, 2 and 4",
+               "D": "2, 3 and 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "The mask 255.255.254.0 (/23) used with a Class A address means that there are 15 subnet bits and 9 host bits. The block size in the third octet is 2 (256 - 254). So this makes the subnets in the interesting octet 0, 2, 4, 6, etc., all the way to 254. The host 10.16.3.65 is in the 2.0 subnet. The next subnet is 4.0, so the broadcast address for the 2.0 subnet is 3.255. The valid host addresses are 2.1 through 3.254."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a host on a network has the address 172.16.45.14/30, what is the subnetwork this host belongs to?",
+          "options": {
+               "A": "172.16.45.0",
+               "B": "172.16.45.4",
+               "C": "172.16.45.8",
+               "D": "172.16.45.12"
+          },
+          "correct_answer": "D",
+          "answer_description": "A /30, regardless of the class of address, has a 252 in the fourth octet. This means we have a block size of 4 and our subnets are 0, 4, 8, 12, 16, etc. Address 14 is obviously in the 12 subnet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On a VLSM network, which mask should you use on point-to-point WAN links in order to reduce the waste of IP addresses?",
+          "options": {
+               "A": "/27",
+               "B": "/28",
+               "C": "/29",
+               "D": "/30"
+          },
+          "correct_answer": "D",
+          "answer_description": "A point-to-point link uses only two hosts. A /30, or 255.255.255.252, mask provides two hosts per subnet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three commands can be used to check LAN connectivity problems on a router?show interfacesshow ip routetracertpingdns lookups",
+          "options": {
+               "A": "1 ,2 and 4",
+               "B": "2 and 5",
+               "C": "3 and 5",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Thetracertcommand is a Windows command and will not work on a router! A router uses thetraceroutecommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement describes a spanning-tree network that has converged?",
+          "options": {
+               "A": "All switch and bridge ports are in the forwarding state.",
+               "B": "All switch and bridge ports are assigned as either root or designated ports.",
+               "C": "All switch and bridge ports are in either the forwarding or blocking state.",
+               "D": "All switch and bridge ports are either blocking or looping."
+          },
+          "correct_answer": "C",
+          "answer_description": "Convergence occurs when all ports on bridges and switches have transitioned to either the forwarding or blocking states. No data is forwarded until convergence is complete. Before data can be forwarded again, all devices must be updated."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A switch has been configured for three different VLANs: VLAN2, VLAN3, and VLAN4. A router has been added to provide communication between the VLANs. What type of interface is necessary on the router if only one connection is to be made between the router and the switch?",
+          "options": {
+               "A": "10Mbps Ethernet",
+               "B": "56Kbps Serial",
+               "C": "100Mbps Ethernet",
+               "D": "1Gbps Ethernet"
+          },
+          "correct_answer": "C",
+          "answer_description": "Although you can use either 100Mbps or 1Gbps Ethernet, the 100Mbps is necessary at a minimum and is the best answer to this question. You need to trunk the link from the switch to the router to make this connection work with inter-VLAN communication."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want to create a standard access list that denies the subnet of the following host: 172.16.198.94/19. Which of the following would you start your list with?",
+          "options": {
+               "A": "access-list 10 deny 172.16.192.0 0.0.31.255",
+               "B": "access-list 10 deny 172.16.0.0 0.0.255.255",
+               "C": "access-list 10 deny 172.16.172.0 0.0.31.255",
+               "D": "access-list 10 deny 172.16.188.0 0.0.15.255"
+          },
+          "correct_answer": "A",
+          "answer_description": "First, you must know that a /19 is 255.255.224.0, which is a block size of 32 in the third octet. Counting by 32, this makes our subnet 192 in the third octet, and the wildcard for the third octet would be 31 since the wildcard is always one less than the block size."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are advantages of using NAT?Translation introduces switching path delays.Conserves legally registered addresses.Causes loss of end-to-end IP traceability.Increases flexibility when connecting to the Internet.Certain applications will not function with NAT enabled.Reduces address overlap occurrence.",
+          "options": {
+               "A": "1, 3 and 4",
+               "B": "3, 5 and 6",
+               "C": "5 and 6",
+               "D": "2, 4 and 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "NAT is not perfect, but there are some advantages. It conserves global addresses, which allow us to add millions of hosts to the Internet without \"real\" IP addresses. This provides flexibility in our corporate networks. NAT can also allow you to use the same subnet more than once in the same network without overlapping networks."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will clear all the translations active on your router?",
+          "options": {
+               "A": "show ip nat translations",
+               "B": "show ip nat statistics",
+               "C": "debug ip nat",
+               "D": "clear ip nat translations *"
+          },
+          "correct_answer": "D",
+          "answer_description": "The commandclear ip nat translations *will clear all the active NAT entries in your translation table."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Port Address Translation is also termed what?",
+          "options": {
+               "A": "NAT Fast",
+               "B": "NAT Static",
+               "C": "NAT Overload",
+               "D": "Overloading Static"
+          },
+          "correct_answer": "C",
+          "answer_description": "Another term for port address translation is NAT Overload because that is the command used to enable port address translation."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the frequency range of the IEEE 802.11b standard?",
+          "options": {
+               "A": "2.4Gbps",
+               "B": "5Gbps",
+               "C": "2.4GHz",
+               "D": "5GHz"
+          },
+          "correct_answer": "C",
+          "answer_description": "The IEEE 802.11b and IEEE 802.11g standards both run in the 2.4GHz RF range."
+     }
+]

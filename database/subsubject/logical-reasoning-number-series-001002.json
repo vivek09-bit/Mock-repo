@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 21, 9, 21, 11, 21, 13, 21, ... What number should come next?",
+        "options": {
+            "A": "14",
+            "B": "15",
+            "C": "21",
+            "D": "23"
+        },
+        "correct_answer": "B",
+        "answer_description": "In this alternating repetition series, the random number 21 is interpolated every other number into an otherwise simple addition series that increases by 2, beginning with the number 9."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 58, 52, 46, 40, 34, ... What number should come next?",
+        "options": {
+            "A": "26",
+            "B": "28",
+            "C": "30",
+            "D": "32"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is a simple subtraction series. Each number is 6 less than the previous number."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 3, 4, 7, 8, 11, 12, ... What number should come next?",
+        "options": {
+            "A": "7",
+            "B": "10",
+            "C": "14",
+            "D": "15"
+        },
+        "correct_answer": "D",
+        "answer_description": "This alternating addition series begins with 3; then 1 is added to give 4; then 3 is added to give 7; then 1 is added, and so on."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 8, 22, 8, 28, 8, ... What number should come next?",
+        "options": {
+            "A": "9",
+            "B": "29",
+            "C": "32",
+            "D": "34"
+        },
+        "correct_answer": "D",
+        "answer_description": "This is a simple addition series with a random number, 8, interpolated as every other number. In the series, 6 is added to each number except 8, to arrive at the next number."
+    },
+    {
+        "direction": "Directions to SolveIn each series, look for the degree and direction of change between the numbers. In other words, do the numbers increase or decrease,  and by how much",
+        "image_path": null,
+        "question": "Look at this series: 31, 29, 24, 22, 17, ... What number should come next?",
+        "options": {
+            "A": "15",
+            "B": "14",
+            "C": "13",
+            "D": "12"
+        },
+        "correct_answer": "A",
+        "answer_description": "This is a simple alternating subtraction series, which subtracts 2, then 5."
+    }
+]

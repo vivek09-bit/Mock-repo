@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thefile.writelines(lines)method do?",
+        "options": {
+            "A": "Writes a single line to the file",
+            "B": "Writes multiple lines to the file from a list",
+            "C": "Writes the entire content of another file",
+            "D": "Writes a specific number of characters to the file"
+        },
+        "correct_answer": "B",
+        "answer_description": "file.writelines(lines)writes multiple lines to the file from a list."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you read and print the lines containing the word \"error\" from a log file named \"logfile.txt\"?",
+        "options": {
+            "A": "with open(\"logfile.txt\", \"r\") as file:\r\n    lines = file.readlines()\r\n    for line in lines:\r\n        if \"error\" in line.lower():\r\n            print(line)",
+            "B": "print_error_lines(\"logfile.txt\")",
+            "C": "with open(\"logfile.txt\", \"r\") as file:\r\n    print(file.read(\"error\"))",
+            "D": "with open(\"logfile.txt\", \"r\") as file:\r\n    for line in file:\r\n        if \"error\".casefold() in line:\r\n            print(line)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Usingline.lower()to make the comparison case-insensitive."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you create a new directory named \"data_folder\" in the current working directory?",
+        "options": {
+            "A": "os.mkdir(\"data_folder\")",
+            "B": "create_directory(\"data_folder\")",
+            "C": "shutil.new_dir(\"data_folder\")",
+            "D": "os.create_folder(\"data_folder\")"
+        },
+        "correct_answer": "A",
+        "answer_description": "Usingos.mkdir()to create a new directory."
+    }
+]

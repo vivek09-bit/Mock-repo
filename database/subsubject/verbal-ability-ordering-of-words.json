@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "When heP :did not knowQ :he was nervous andR :heard the hue and cry at midnightS :what to doThe Proper sequence should be:",
+        "options": {
+            "A": "RQPS",
+            "B": "QSPR",
+            "C": "SQPR",
+            "D": "PQRS"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "It has been established thatP :Einstein wasQ :although a great scientistR :weak in arithmeticS :right from his school daysThe Proper sequence should be:",
+        "options": {
+            "A": "SRPQ",
+            "B": "QPRS",
+            "C": "QPSR",
+            "D": "RQPS"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "ThenP :it struck meQ :of courseR :suitable it wasS :how eminentlyThe Proper sequence should be:",
+        "options": {
+            "A": "SPQR",
+            "B": "QSRP",
+            "C": "PSRQ",
+            "D": "QPSR"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "I read an advertisement that saidP :posh, air-conditionedQ :gentleman of tasteR :are available forS :fully furnished roomsThe Proper sequence should be:",
+        "options": {
+            "A": "PQRS",
+            "B": "PSRQ",
+            "C": "PSQR",
+            "D": "SRPQ"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "Since the beginning of historyP :have managed to catchQ :the Eskimos and Red IndiansR :by a very difficulty methodS :a few specimens of this aquatic animalThe Proper sequence should be:",
+        "options": {
+            "A": "QRPS",
+            "B": "SQPR",
+            "C": "SQRP",
+            "D": "QPSR"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

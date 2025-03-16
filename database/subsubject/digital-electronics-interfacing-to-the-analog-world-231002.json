@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The main advantage of the successive-approximation A/D converter over the counter-ramp A/D converter is its:",
+        "options": {
+            "A": "more complex circuitry",
+            "B": "less complex circuitry",
+            "C": "longer conversion time",
+            "D": "shorter conversion time"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the current in the feedback resistor for the circuit given below?",
+        "options": {
+            "A": "0.625 mA",
+            "B": "1.25 mA",
+            "C": "1.875 mA",
+            "D": "1.625 mA"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The quantization error in an analog-to-digital converter can be reduced by:",
+        "options": {
+            "A": "increasing the number of bits in the counter and DAC.",
+            "B": "decreasing the number of bits in the counter and increasing the number of bits in the DAC.",
+            "C": "increasing the number of bits in the counter and decreasing the number of bits in the DAC.",
+            "D": "decreasing the number of bits in the counter and DAC."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One disadvantage of the tracking A/D converter is:",
+        "options": {
+            "A": "that it requires two counters—one for up and one for down.",
+            "B": "that the binary output will oscillate between two binary states when the analog input is constant.",
+            "C": "the need for an accurate clock reference for the counter.",
+            "D": "the need for a latch and its associated control circuit."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the range of output voltage of a 6-bit DAC is 0 to 15 volts, what is the step voltage of the output?",
+        "options": {
+            "A": "0.117 volt/step",
+            "B": "0.234 volt/step",
+            "C": "2.13 volts/step",
+            "D": "4.26 volts/step"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Some of the columns of a relation are at different sites is which of the following?",
+        "options": {
+            "A": "Data Replication",
+            "B": "Horizontal Partitioning",
+            "C": "Vertical Partitioning",
+            "D": "Horizontal and Vertical Partitioning"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning a global transaction?",
+        "options": {
+            "A": "The required data are at one local site and the distributed DBMS routes requests as necessary.",
+            "B": "The required data are located in at least one nonlocal site and the distributed DBMS routes requests as necessary.",
+            "C": "The required data are at one local site and the distributed DBMS passes the request to only the local DBMS.",
+            "D": "The required data are located in at least one nonlocal site and the distributed DBMS passes the request to only the local DBMS."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A homogenous distributed database is which of the following?",
+        "options": {
+            "A": "The same DBMS is used at each location and data are not distributed across all nodes.",
+            "B": "The same DBMS is used at each location and data are distributed across all nodes.",
+            "C": "A different DBMS is used at each location and data are not distributed across all nodes.",
+            "D": "A different DBMS is used at each location and data are distributed across all nodes."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Replication should be used when which of the following exist?",
+        "options": {
+            "A": "When transmission speeds and capacity in a network prohibit frequent refreshing of large tables.",
+            "B": "When using many nodes with different operating systems and DBMSs and database designs.",
+            "C": "The application's data can be somewhat out-of-date.",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Storing a separate copy of the database at multiple locations is which of the following?",
+        "options": {
+            "A": "Data Replication",
+            "B": "Horizontal Partitioning",
+            "C": "Vertical Partitioning",
+            "D": "Horizontal and Vertical Partitioning"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

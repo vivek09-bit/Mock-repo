@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The first death anniversary day of Sri Rajiv Gandhi was observed as the",
+        "options": {
+            "A": "National Integration Day",
+            "B": "Peace and Love Day",
+            "C": "Secularism Day",
+            "D": "Anti-Terrorism Day"
+        },
+        "correct_answer": "D",
+        "answer_description": "May 21, the death anniversary of ex-prime minister of India, Shri Rajiv Gandhi is also observed as Anti Terrorism Day in India."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "20th August is celebrated as",
+        "options": {
+            "A": "Earth Day",
+            "B": "Sadbhavana Divas",
+            "C": "No Tobacco Day",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Rajiv Gandhi's birthday is celebrated as Sadbhawana Diwas on 20th August."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When is the World Population Day observed?",
+        "options": {
+            "A": "May 31",
+            "B": "October 4",
+            "C": "December 10",
+            "D": "July 11"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "January 15 is celebrated as the",
+        "options": {
+            "A": "Republic Day",
+            "B": "Ugadhi",
+            "C": "Teachers' Day",
+            "D": "Army Day"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The centenary of Mahatma Gandhi's arrival in South Africa was celebrated in",
+        "options": {
+            "A": "May 1993",
+            "B": "August 1993",
+            "C": "July 1993",
+            "D": "September 1993"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

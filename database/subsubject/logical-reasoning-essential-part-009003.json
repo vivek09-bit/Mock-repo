@@ -1,0 +1,41 @@
+[
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "shoe",
+        "options": {
+            "A": "sole",
+            "B": "leather",
+            "C": "laces",
+            "D": "walking"
+        },
+        "correct_answer": "A",
+        "answer_description": "All shoes have a sole of some sort.Not all shoes are  made of leather (choice b); nor do they all have laces (choice c).Walking (choice d) is not essential to a shoe."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "swimming",
+        "options": {
+            "A": "pool",
+            "B": "bathing suit",
+            "C": "water",
+            "D": "life jacket"
+        },
+        "correct_answer": "C",
+        "answer_description": "Water is essential for swimming-without water, there is no swimming. The other choices are things that may or may not be present."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "lightning",
+        "options": {
+            "A": "electricity",
+            "B": "thunder",
+            "C": "brightness",
+            "D": "rain"
+        },
+        "correct_answer": "A",
+        "answer_description": "Lightning is produced from a discharge of electricity, so electricity is essential. Thunder and rain are not essential to the production of lightning (choices b and d). Brightness may be a byproduct of lightning, but it is not essential (choice c)."
+    }
+]

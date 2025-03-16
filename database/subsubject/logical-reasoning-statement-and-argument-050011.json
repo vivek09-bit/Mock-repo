@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should children be legally made responsible to take care of their parents during their old age?Arguments:Yes. Such matter can only be solved by legal means.Yes. Only this will bring some relief to poor parents.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "D",
+        "answer_description": "Taking care of the parents is a moral duty of the children and cannot be thrust upon them legally, nor such a compulsion can ensure good care of the old people. So, none of the arguments holds strong."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should there be reservation in Government jobs for candidates from single child family?Arguments:No. This is not advisable as the jobs should be offered to only deserving candidates without any reservation for a particular group.Yes. This will help reduce the growing population in India as the parents will be encouraged to adopt single child norm.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "D",
+        "answer_description": "The Government has already made provisions for reservation of jobs for the economically backward sections, which is a must. So, abolishing the practice of reservation altogether has no meaning. Thus, argument I is vague. Also, more reservations would lead to non-recruitment of many more deserving candidates. Besides, such a reservation, if  implemented, will cater to the job requirements of only a small section of population and not a major part of it. So, argument II also does not hold strong."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should higher education be completely stopped for some time?Arguments:No. It will hamper the country's future progress.Yes. It will reduce the educated unemployment.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, higher education is not the cause of unemployment. In fact, it has created greater job opportunities. So, argument II is vague. Also, higher education promotes the country's development. So, argument I holds."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should we scrap the 'Public Distribution System' in India?Arguments:Yes, Protectionism is over, everyone must get the bread on his/her own.Yes. The poor do not get any benefit because of corruption.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "D",
+        "answer_description": "The Public Distribution System is indeed necessary to provide basic amenities to the economically backward sections of population. So, argument I is vague. Also, if the Objectives of a system are not fulfilled because of corruption, then getting rid of the system is no solution. Instead, efforts should be made to end corruption and extend its benefits to the people for whom it is meant. So, argument II also does not hold,"
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should India have no military force at all?Arguments:No. Other countries in the world do not believe in non-violence.Yes. Many Indians believe in non-violence.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "D",
+        "answer_description": "Clearly, India needs to have military force to defend itself against the threat of other military powers in the world. So, none of the arguments holds strong."
+    }
+]

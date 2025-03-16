@@ -1,0 +1,41 @@
+[
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "10, 100, 200, 310, ?",
+        "options": {
+            "A": "400",
+            "B": "410",
+            "C": "420",
+            "D": "430"
+        },
+        "correct_answer": "D",
+        "answer_description": "The pattern is + 90 + 100, + 110,.....So, missing term = 310 + 120 = 430."
+    },
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "11, 10, ?, 100, 1001, 1000, 10001",
+        "options": {
+            "A": "101",
+            "B": "110",
+            "C": "111",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "The pattern is - 1, x 10 + 1, - 1, x 10 + 1, - 1, x 10 + 1, .....So, missing term = 10 x 10 + 1 = 101."
+    },
+    {
+        "direction": "Directions to SolveChoose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "image_path": null,
+        "question": "2, 7, 27, 107, 427, ?",
+        "options": {
+            "A": "1262",
+            "B": "1707",
+            "C": "4027",
+            "D": "4207"
+        },
+        "correct_answer": "B",
+        "answer_description": "The pattern is + 5, + 20, + 80, + 320, ...... i.e. + (5 x 12), + (5 x 22), + (5 x 42), + (5 x 82),.....So, missing term = 427 + (5 x 162) = 427 + 1280 = 1707."
+    }
+]

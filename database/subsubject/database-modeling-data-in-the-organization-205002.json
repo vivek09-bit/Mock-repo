@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A rectangle represents which of the following in an ERD?",
+        "options": {
+            "A": "Attribute",
+            "B": "Entity",
+            "C": "Optional One",
+            "D": "Relationship"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An entity name should be which of the following?",
+        "options": {
+            "A": "A singular noun",
+            "B": "Specific to the organization",
+            "C": "Concise",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An oval represents which of the following in an ERD?",
+        "options": {
+            "A": "Attribute",
+            "B": "Entity",
+            "C": "Optional One",
+            "D": "Relationship"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When the minimum and maximum number of instances of an entity is one, you know which of the following?",
+        "options": {
+            "A": "Mandatory one",
+            "B": "Optional one",
+            "C": "Mandatory many",
+            "D": "Cannot tell"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An attribute name should be which of the following?",
+        "options": {
+            "A": "Singular verb or verb phrase",
+            "B": "Follow a standard format",
+            "C": "Use a alias",
+            "D": "All of the above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

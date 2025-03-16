@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A triangular-wave oscillator can consist of an op-amp comparator, followed by a(n)",
+        "options": {
+            "A": "differentiator",
+            "B": "amplifier",
+            "C": "integrator",
+            "D": "multivibrator"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ramp voltage at the output of an op-amp integrator",
+        "options": {
+            "A": "increases or decreases at a linear rate",
+            "B": "increases or decreases exponentially",
+            "C": "is always increasing and never decreasing",
+            "D": "is constant"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A two-pole high-pass active filter would have a roll-off rate of",
+        "options": {
+            "A": "40 dB/decade",
+            "B": "–40 dB/decade",
+            "C": "20 dB/decade",
+            "D": "–20 dB/decade"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The fact that the same operation may apply to two or more classes is called what?",
+        "options": {
+            "A": "Inheritance",
+            "B": "Polymorphism",
+            "C": "Encapsulation",
+            "D": "Multiple classification"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The object-oriented development life cycle is which of the following?",
+        "options": {
+            "A": "Analysis, design, and implementation steps in the given order and using multiple iterations.",
+            "B": "Analysis, design, and implementation steps in the given order and going through the steps no more than one time.",
+            "C": "Analysis, design, and implementation steps in any order and using multiple iterations.",
+            "D": "Analysis, design, and implementation steps in any order and going through the steps no more than one time."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Multiplicity is the same as what concept for an ERD?",
+        "options": {
+            "A": "Relationship",
+            "B": "Attribute",
+            "C": "Entity",
+            "D": "Cardinality"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Composition is a stronger form of which of the following?",
+        "options": {
+            "A": "Aggregation",
+            "B": "Encapsulation",
+            "C": "Inheritance",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An abstract class is which of the following?",
+        "options": {
+            "A": "A class that has direct instances, but whose descendants may have direct instances.",
+            "B": "A class that has no direct instances, but whose descendants may have direct instances.",
+            "C": "A class that has direct instances, but whose descendants may not have direct instances.",
+            "D": "A class that has no direct instances, but whose descendants may not have direct instances"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

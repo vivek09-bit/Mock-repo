@@ -1,0 +1,252 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement will you add in the following program to work it correctly?#include<stdio.h>\nint main()\n{\n    printf(\"%f\\n\", log(36.0));\n    return 0;\n}",
+          "options": {
+               "A": "#include<conio.h>",
+               "B": "#include<math.h>",
+               "C": "#include<stdlib.h>",
+               "D": "#include<dos.h>"
+          },
+          "correct_answer": "B",
+          "answer_description": "math.his a header file in the standard library of C programming language designed for basic mathematical operations.Declaration syntax:double log(double);"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n#define PRINT(i) printf(\"%d,\",i)\n\nint main()\n{\n    int x=2, y=3, z=4;\n    PRINT(x);\n    PRINT(y);\n    PRINT(z);\n    return 0;\n}",
+          "options": {
+               "A": "2, 3, 4,",
+               "B": "2, 2, 2,",
+               "C": "3, 3, 3,",
+               "D": "4, 4, 4,"
+          },
+          "correct_answer": "A",
+          "answer_description": "The macroPRINT(i) print(\"%d,\", i);prints the given variable value in an integer format.Step 1:int x=2, y=3, z=4;The variable x, y, z are declared as an integer type and initialized to 2, 3, 4 respectively.Step 2:PRINT(x);becomesprintf(\"%d,\",x). Hence it prints '2'.Step 3:PRINT(y);becomesprintf(\"%d,\",y). Hence it prints '3'.Step 4:PRINT(z);becomesprintf(\"%d,\",z). Hence it prints '4'.Hence the output of the program is 2, 3, 4."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program assuming that the array begins at the location 1002 and size of an integer is 4 bytes?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int a[3][4] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };\r\n    printf(\"%u, %u, %u\\n\", a[0]+1, *(a[0]+1), *(*(a+0)+1));\r\n    return 0;\r\n}",
+          "options": {
+               "A": "448, 4, 4",
+               "B": "520, 2, 2",
+               "C": "1006, 2, 2",
+               "D": "Error"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements correct aboutkused in the below statement?char ****k;",
+          "options": {
+               "A": "kis a pointer to a pointer to a pointer to a char",
+               "B": "kis a pointer to a pointer to a pointer to a pointer to a char",
+               "C": "kis a pointer to a char pointer",
+               "D": "kis a pointer to a pointer to a char"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does the following declaration mean?int (*ptr)[10];",
+          "options": {
+               "A": "ptris array of pointers to 10 integers",
+               "B": "ptris a pointer to an array of 10 integers",
+               "C": "ptris an array of 10 integers",
+               "D": "ptris an pointer to array"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program in Turbo-C ?#include<stdio.h>\n\nint main()\n{\n    int arr[5], i=-1, z;\n    while(i<5)\n        arr[i]=++i;\n\n    for(i=0; i<5; i++)\n        printf(\"%d, \", arr[i]);\n\n    return 0;\n}",
+          "options": {
+               "A": "1, 2, 3, 4, 5,",
+               "B": "-1, 0, 1, 2, 3, 4",
+               "C": "0, 1, 2, 3, 4,",
+               "D": "0, -1, -2, -3, -4,"
+          },
+          "correct_answer": "C",
+          "answer_description": "Since C is a compiler dependent language, it may give different outputs at different platforms. We have given the Turbo-C Compiler (under DOS) output.Please try the above programs in Windows (Turbo-C Compiler) and Linux (GCC Compiler), you will understand the difference better."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program in 16-bit platform (Turbo C under DOS) ?#include<stdio.h>\n\nint main()\n{\n    printf(\"%d, %d, %d\", sizeof(3.0f), sizeof('3'), sizeof(3.0));\n    return 0;\n}",
+          "options": {
+               "A": "8, 1, 4",
+               "B": "4, 2, 8",
+               "C": "4, 2, 4",
+               "D": "10, 3, 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:printf(\"%d, %d, %d\", sizeof(3.0f), sizeof('3'), sizeof(3.0));The sizeof function returns the size of the given expression.sizeof(3.0f)is a floating point constant. The size offloatis 4 bytessizeof('3')It converts '3' in to ASCII value.. The size ofintis 2 bytessizeof(3.0)is a double constant. The size ofdoubleis 8 bytesHence the output of the program is 4,2,8Note: The above program may produce different output in other platform due to the platform dependency of C compiler.In Turbo C, 4 2 8. But in GCC, the output will be 4 4 8."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program?#include<stdio.h>\n\nint main()\n{\n    struct emp\n    {\n        char name[20];\n        float sal;\n    };\n    struct emp e[10];\n    int i;\n    for(i=0; i<=9; i++)\n        scanf(\"%s %f\", e[i].name, &e[i].sal);\n    return 0;\n}",
+          "options": {
+               "A": "Error: invalid structure member",
+               "B": "Error: Floating point formats not linked",
+               "C": "No error",
+               "D": "None of above"
+          },
+          "correct_answer": "B",
+          "answer_description": "At run time it will show an error then program will be terminated.Sample output: Turbo C (Windows)c:\\>myprogram\n                                                          \nSample\n12.123\n\nscanf : floating point formats not linked \nAbnormal program termination"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A structure can contain similar or dissimilar elements",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A pointer union CANNOT be created",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program if value25given toscanf()?#include<stdio.h>\n\nint main()\n{\n    int i;\n    printf(\"%d\\n\", scanf(\"%d\", &i));\n    return 0;\n}",
+          "options": {
+               "A": "25",
+               "B": "2",
+               "C": "1",
+               "D": "5"
+          },
+          "correct_answer": "C",
+          "answer_description": "Thescanffunction returns the number of input is given.printf(\"%d\\n\", scanf(\"%d\", &i));Thescanffunction returns the value 1(one).Therefore, the output of the program is '1'."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program?#include<stdio.h>\r\n#include<stdlib.h>\r\n\r\nint main()\r\n{\r\n    unsigned char;\r\n    FILE *fp;\r\n    fp=fopen(\"trial\", \"r\");\r\n    if(!fp)\r\n    {\r\n        printf(\"Unable to open file\");\r\n        exit(1);\r\n    }\r\n    fclose(fp);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Error: inunsigned charstatement",
+               "B": "Error: unknown file pointer",
+               "C": "No error",
+               "D": "None of above"
+          },
+          "correct_answer": "C",
+          "answer_description": "This program tries to open the filetrial.txtin read mode. If file not exists or unable to read it prints\"Unable to open file\"and then terminate the program.If file exists, it simply close the file and then terminates the program."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (sample.c) given below if it is executed from the command line?cmd>sample friday tuesday sunday/* sample.c */\n#include<stdio.h>\n\nint main(int argc, char *argv[])\n{\n    printf(\"%c\", *++argv[2] );\n    return 0;\n}",
+          "options": {
+               "A": "s",
+               "B": "f",
+               "C": "u",
+               "D": "r"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (sample.c) given below if it is executed from the command line (turbo c under DOS)?cmd>sample Good Morning/* sample.c */\n#include<stdio.h>\n\nint main(int argc, char *argv[])\n{\n    printf(\"%d %s\", argc, argv[1]);\n    return 0;\n}",
+          "options": {
+               "A": "3 Good",
+               "B": "2 Good",
+               "C": "Good Morning",
+               "D": "3 Morning"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Even if integer/float arguments are supplied at command prompt they are treated as strings.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the different command line arguments are supplied at different times would the output of the following program change?#include<stdio.h>\n\nint main(int argc, char **argv)\n{\n    printf(\"%d\\n\", argv[argc]);\n    return 0;\n}",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n\r\ntypedef struct error {int warning, err, exception;} ERROR;\r\nint main()\r\n{\r\n    ERROR e;\r\n    e.err=1;\r\n    printf(\"%d\\n\", e.err);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "Error"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n\nint main()\n{\n    const int i=0;\n    printf(\"%d\\n\", i++);\n    return 0;\n}",
+          "options": {
+               "A": "10",
+               "B": "11",
+               "C": "No output",
+               "D": "Error: ++needs a value"
+          },
+          "correct_answer": "D",
+          "answer_description": "This program will show an error \"Cannot modify a const object\".Step 1:const int i=0;The constant variable'i'is declared as an integer and initialized with value of '0'(zero).Step 2:printf(\"%d\\n\", i++);Here the variable'i'is increemented by 1(one). This will create an error \"Cannot modify a const object\".Because, we cannot modify aconstvariable."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which standard library function will you use to find the last occurance of a character in a string in C?",
+          "options": {
+               "A": "strnchar()",
+               "B": "strchar()",
+               "C": "strrchar()",
+               "D": "strrchr()"
+          },
+          "correct_answer": "D",
+          "answer_description": "strrchr()returns a pointer to the last occurrence of character in a string.Example:#include <stdio.h>\r\n#include <string.h>\r\n\r\nint main()\r\n{\r\n    char str[30] = \"12345678910111213\";\r\n    printf(\"The last position of '2' is %d.\\n\",\r\n            strrchr(str, '2') - str);\r\n    return 0;\r\n}Output: The last position of '2' is 14."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Data written into a file usingfwrite()can be read back usingfscanf()",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "fwrite()- Unformatted write in to a file.fscanf()- Formatted read from a file."
+     }
+]

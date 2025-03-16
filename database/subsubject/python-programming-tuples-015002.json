@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about tuples in Python is correct?",
+        "options": {
+            "A": "Tuples allow in-place modification of elements.",
+            "B": "Tuples can be nested to any level.",
+            "C": "Tuples can only contain elements of the same data type.",
+            "D": "Tuples support random access of elements by index."
+        },
+        "correct_answer": "B",
+        "answer_description": "Tuples in Python can contain other tuples, allowing nesting to any level."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you convert a list to a tuple?",
+        "options": {
+            "A": "tuple(list)",
+            "B": "list.to_tuple()",
+            "C": "(tuple)list",
+            "D": "list.as_tuple()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thetuple()constructor can be used to convert a list to a tuple."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the expression(1, 2, 3) + (4, 5, 6)?",
+        "options": {
+            "A": "(1, 2, 3, 4, 5, 6)",
+            "B": "((1, 2, 3), (4, 5, 6))",
+            "C": "[1, 2, 3, 4, 5, 6]",
+            "D": "(5, 7, 9)"
+        },
+        "correct_answer": "A",
+        "answer_description": "The '+' operator concatenates tuples in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method is used to find the index of a specific element in a tuple?",
+        "options": {
+            "A": "index()",
+            "B": "find()",
+            "C": "get_index()",
+            "D": "search()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theindex()method is used to find the index of a specific element in a tuple."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output oflen((1, [2, 3], 'hello'))?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thelen()function returns the number of elements in the tuple, and in this case, there are three elements."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If an analog signal is to be converted to an 8-bit resolution, how many comparators are used in a parallel-encoded ADC?",
+        "options": {
+            "A": "127",
+            "B": "128",
+            "C": "255",
+            "D": "256"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transducer is a device that:",
+        "options": {
+            "A": "converts a physical variable to an electrical variable",
+            "B": "converts analog data to meaningful data",
+            "C": "controls a physical variable",
+            "D": "stores digital data and then processes that data according to a set of specified instructions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many different voltages can be output from a DAC with a 6-bit resolution?",
+        "options": {
+            "A": "6",
+            "B": "16",
+            "C": "32",
+            "D": "64"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 4-bitR/2RD/A converter has a reference of 5 V. What is the analog output for the input code 0101?",
+        "options": {
+            "A": "3.125 V",
+            "B": "0.3125 V",
+            "C": "0.78125 V",
+            "D": "–3.125 V"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following describes the basic operation of a single-slope A/D converter.",
+        "options": {
+            "A": "The input voltage is used to set the frequency of a voltage-controlled oscillator (VCO). The VCO quits changing frequency when the input voltage stabilizes. The frequency of the VCO, which is proportional to the analog input voltage, is measured and is displayed on the digital display as a voltage reading.",
+            "B": "A ramp generator is used to enable a counter through a comparator. When the ramp voltage equals the input voltage the counter is latched and then reset. The counter reading is proportional to the input voltage since the ramp is changing at a constant V/second rate.",
+            "C": "A ramp voltage and analog input voltage are applied to a comparator. As the input voltage causes the integrating capacitor to charge, it will at some point equal the ramp voltage. The ramp voltage is measured and displayed on the digital panel meter.",
+            "D": "Any of the above could be correct, depending on the specific type of A/D converter involved."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

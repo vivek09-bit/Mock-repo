@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A ripple counter's speed is limited by the propagation delay of:",
+        "options": {
+            "A": "each flip-flop",
+            "B": "all flip-flops and gates",
+            "C": "the flip-flops only with gates",
+            "D": "only circuit gates"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To operate correctly, starting a ring counter requires:",
+        "options": {
+            "A": "clearing all the flip-flops",
+            "B": "presetting one flip-flop and clearing all the others",
+            "C": "clearing one flip-flop and presetting all the others",
+            "D": "presetting all the flip-flops"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of register would shift a complete binary number in one bit at a time and shift all the stored bits out one bit at a time?",
+        "options": {
+            "A": "PIPO",
+            "B": "SISO",
+            "C": "SIPO",
+            "D": "PISO"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Synchronous counters eliminate the delay problems encountered with asynchronous (ripple) counters because the:",
+        "options": {
+            "A": "input clock pulses are applied only to the first and last stages",
+            "B": "input clock pulses are applied only to the last stage",
+            "C": "input clock pulses are not used to activate any of the counter stages",
+            "D": "input clock pulses are applied simultaneously to each stage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One of the major drawbacks to the use of asynchronous counters is that:",
+        "options": {
+            "A": "low-frequency applications are limited because of internal  propagation delays",
+            "B": "high-frequency applications are limited because of internal propagation delays",
+            "C": "Asynchronous counters do not have major drawbacks and are suitable for use in high- and low-frequency counting applications.",
+            "D": "Asynchronous counters do not have propagation delays, which limits their use in high-frequency applications."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

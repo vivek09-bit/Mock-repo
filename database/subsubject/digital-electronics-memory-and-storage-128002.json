@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a DRAM, what is the state of R/W during a read operation?",
+        "options": {
+            "A": "Low",
+            "B": "High",
+            "C": "Hi-Z",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The condition occurring when two or more devices try to write data to a bus simultaneously is called ________.",
+        "options": {
+            "A": "address decoding",
+            "B": "bus contention",
+            "C": "bus collisions",
+            "D": "address multiplexing"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is/are the basic refresh mode(s) for dynamic RAM?",
+        "options": {
+            "A": "Burst refresh",
+            "B": "Distributed refresh",
+            "C": "Open refresh",
+            "D": "Burst refresh and distributed refresh"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For the given circuit, what memory location is being addressed?",
+        "options": {
+            "A": "10111",
+            "B": "249",
+            "C": "5",
+            "D": "157"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One of the most important specifications on magnetic media is the ________.",
+        "options": {
+            "A": "rotation speed",
+            "B": "tracks per inch",
+            "C": "data transfer rate",
+            "D": "polarity reversal rate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

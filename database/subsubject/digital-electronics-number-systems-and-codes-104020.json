@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Select one of the following statements that best describes the parity method of error detection.",
+        "options": {
+            "A": "Parity checking is best suited for detecting single-bit errors in transmitted codes.",
+            "B": "Parity checking is not suitable for detecting single-bit errors in transmitted codes.",
+            "C": "Parity checking is capable of detecting and correcting errors in transmitted codes.",
+            "D": "Parity checking is best suited for detecting double-bit errors that occur during the transmission of codes from one location to another."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the primary advantage of using the BCD code instead of straight binary coding?",
+        "options": {
+            "A": "Fewer bits are required to represent a decimal number with the BCD code.",
+            "B": "The relative ease of converting to and from decimal.",
+            "C": "BCD codes are easily converted to hexadecimal codes.",
+            "D": "BCD codes are easily converted to straight binary codes."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many BCD code bits and how many straight binary bits would be required to represent the decimal number 643?",
+        "options": {
+            "A": "12 BCD, 12 binary",
+            "B": "12 BCD, 10 binary",
+            "C": "12 BCD, 9 binary",
+            "D": "16 BCD, 9 binary"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When using the repeated division by 2 method of converting from decimal to binary, one must write the first remainder as the:",
+        "options": {
+            "A": "MSB",
+            "B": "MSB, provided the following sequence of remainders are written in descending order until the final remainder is achieved.",
+            "C": "LSB",
+            "D": "LSB, provided the final remainder is used to replace the original LSB, which is then moved to the MSB position."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

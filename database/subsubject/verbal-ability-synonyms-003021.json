@@ -1,0 +1,54 @@
+[
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "COMMENSURATE",
+        "options": {
+            "A": "Measurable",
+            "B": "Proportionate",
+            "C": "Begining",
+            "D": "Appropriate"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "DEBACLE",
+        "options": {
+            "A": "Collapse",
+            "B": "Decline",
+            "C": "Defeat",
+            "D": "Disgrace"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "GERMANE",
+        "options": {
+            "A": "Responsible",
+            "B": "Logical",
+            "C": "Possible",
+            "D": "Relevant"
+        },
+        "correct_answer": "D",
+        "answer_description": "GERMANE - Relevant to a subject under consideration."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "DISTINCTION",
+        "options": {
+            "A": "Diffusion",
+            "B": "Disagreement",
+            "C": "Different",
+            "D": "Degree"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

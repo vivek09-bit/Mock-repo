@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Battle of Plassey was fought in",
+        "options": {
+            "A": "1757",
+            "B": "1782",
+            "C": "1748",
+            "D": "1764"
+        },
+        "correct_answer": "A",
+        "answer_description": "The Battle of Plassey, 23 June 1757, was a decisive British East India Company victory over the Nawab of Bengal and his French allies, establishing Company rule in South Asia which expanded over much of the Indies for the next 190 years. The battle took place at Palashi, Bengal, on the river banks of the Bhagirathi River, about 150 km north of Calcutta, near Murshidabad, then capital of undivided Bengal. The belligerents were Siraj-ud-daulah, the last independent Nawab of Bengal, and the British East India Company.More info:http://en.wikipedia.org/wiki/Battle_of_Plassey"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The territory of Porus who offered strong resistance to Alexander was situated between the rivers of",
+        "options": {
+            "A": "Sutlej and Beas",
+            "B": "Jhelum and Chenab",
+            "C": "Ravi and Chenab",
+            "D": "Ganga and Yamuna"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Under Akbar, the Mir Bakshi was required to look after",
+        "options": {
+            "A": "military affairs",
+            "B": "the state treasury",
+            "C": "the royal household",
+            "D": "the land revenue system"
+        },
+        "correct_answer": "A",
+        "answer_description": "The head of the military was called the Mir Bakshi, appointed from among the leading nobles of the court. The Mir Bakshi was in charge of intelligence gathering, and also made recommendations to the emperor for military appointments and promotions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Tripitakasare sacred books of",
+        "options": {
+            "A": "Buddhists",
+            "B": "Hindus",
+            "C": "Jains",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The trident-shaped symbol of Buddhism does not represent",
+        "options": {
+            "A": "Nirvana",
+            "B": "Sangha",
+            "C": "Buddha",
+            "D": "Dhamma"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

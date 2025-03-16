@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class A \n{\n    final public int GetResult(int a, int b) { return 0; } \n} \nclass B extends A \n{ \n    public int GetResult(int a, int b) {return 1; } \n} \npublic class Test \n{\n    public static void main(String args[]) \n    { \n        B b = new B(); \n        System.out.println(\"x = \" + b.GetResult(0, 1));  \n    } \n}",
+          "options": {
+               "A": "x = 0",
+               "B": "x = 1",
+               "C": "Compilation fails.",
+               "D": "An exception is thrown at runtime."
+          },
+          "correct_answer": "C",
+          "answer_description": "The code doesn't compile because the method GetResult() inclass Ais final and so cannot be overridden."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class BoolArray \n{\n    boolean [] b = new boolean[3];\n    int count = 0;\n\n    void set(boolean [] x, int i) \n    {\n        x[i] = true;\n        ++count;\n    }\n\n    public static void main(String [] args) \n    {\n        BoolArray ba = new BoolArray();\n        ba.set(ba.b, 0);\n        ba.set(ba.b, 2);\n        ba.test();\n    }\n\n    void test() \n    {\n        if ( b[0] && b[1] | b[2] )\n            count++;\n        if ( b[1] && b[(++count - 2)] )\n            count += 7;\n        System.out.println(\"count = \" + count);\n    }\n}",
+          "options": {
+               "A": "count = 0",
+               "B": "count = 2",
+               "C": "count = 3",
+               "D": "count = 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "The reference variablesbandxboth refer to the same boolean array.countis incremented for each call to theset()method, and once again when the first if test istrue. Because of the&&short circuit operator,countis not incremented during the secondiftest."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class SC2 \n{\n    public static void main(String [] args) \n    {\n        SC2 s = new SC2();\n        s.start();\n    }\n\n    void start() \n    {\n        int a = 3;\n        int b = 4;\n        System.out.print(\" \" + 7 + 2 + \" \");\n        System.out.print(a + b);\n        System.out.print(\" \" + a + b + \" \");\n        System.out.print(foo() + a + b + \" \");\n        System.out.println(a + b + foo());\n    }\n\n    String foo() \n    {\n        return \"foo\";\n    }\n}",
+          "options": {
+               "A": "9 7 7 foo 7 7foo",
+               "B": "72 34 34 foo34 34foo",
+               "C": "9 7 7 foo34 34foo",
+               "D": "72 7 34 foo34 7foo"
+          },
+          "correct_answer": "D",
+          "answer_description": "Because all of these expressions use the+operator, there is no precedence to worry about and all of the expressions will be evaluated from left to right. If either operand being evaluated is a String, the+operator will concatenate the two operands; if both operands are numeric, the+operator will add the two operands."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements are equivalent?3/23<23*43<<2",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "1 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "(1) is wrong.3/2 = 1(integer arithmetic).(2) is wrong.3 < 2 = false.(3) is correct.3 * 4 = 12.(4) is correct.3 <<2= 12. In binary3is11, now shift the bits two places to the left and we get1100which is12in binary(3*2*2)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public void foo( boolean a, boolean b)\n{ \n    if( a ) \n    {\n        System.out.println(\"A\"); /* Line 5 */\n    } \n    else if(a && b) /* Line 7 */\n    { \n        System.out.println( \"A && B\"); \n    } \n    else /* Line 11 */\n    { \n        if ( !b ) \n        {\n            System.out.println( \"notB\") ;\n        } \n        else \n        {\n            System.out.println( \"ELSE\" ) ; \n        } \n    } \n}",
+          "options": {
+               "A": "Ifais true andbis true then the output is \"A && B\"",
+               "B": "Ifais true andbis false then the output is \"notB\"",
+               "C": "Ifais false andbis true then the output is \"ELSE\"",
+               "D": "Ifais false andbis false then the output is \"ELSE\""
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is correct. The output is \"ELSE\". Only when a is false do the output lines after 11 get some chance of executing.Option A is wrong. The output is \"A\". Whenais true, irrespective of the value ofb, only the line 5 output will be executed. The condition at line 7 will never be evaluated (when a is true it will always be trapped by the line 12 condition) therefore the output will never be \"A && B\".Option B is wrong. The output is \"A\". Whenais true, irrespective of the value ofb, only the line 5 output will be executed.Option D is wrong. The output is \"notB\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?Float f = new Float(\"12\"); \nswitch (f) \n{\n    case 12: System.out.println(\"Twelve\"); \n    case 0: System.out.println(\"Zero\"); \n    default: System.out.println(\"Default\"); \n}",
+          "options": {
+               "A": "Zero",
+               "B": "Twelve",
+               "C": "Default",
+               "D": "Compilation fails"
+          },
+          "correct_answer": "D",
+          "answer_description": "Theswitchstatement can only be supported by integers or variables more \"narrow\" than an integer i.e.byte,char,short. Here aFloatwrapper object is used and so the compilation fails."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{  \n    public static void aMethod() throws Exception \n    {\n        try /* Line 5 */\n        {\n            throw new Exception(); /* Line 7 */\n        } \n        finally /* Line 9 */\n        {\n            System.out.print(\"finally \"); /* Line 11 */\n        } \n    } \n    public static void main(String args[]) \n    {\n        try \n        {\n            aMethod();  \n        } \n        catch (Exception e) /* Line 20 */\n        {\n            System.out.print(\"exception \"); \n        } \n        System.out.print(\"finished\"); /* Line 24 */\n    } \n}",
+          "options": {
+               "A": "finally",
+               "B": "exception finished",
+               "C": "finally exception finished",
+               "D": "Compilation fails"
+          },
+          "correct_answer": "C",
+          "answer_description": "This is what happens:(1) The execution of thetryblock (line 5) completes abruptly because of thethrowstatement (line 7).(2) The exception cannot be assigned to the parameter of any catch clause of thetrystatement therefore thefinallyblock is executed (line 9) and \"finally\" is output (line 11).(3) Thefinallyblock completes normally, and then thetrystatement completes abruptly because of thethrowstatement (line 7).(4) The exception is propagated up the call stack and is caught by the catch in the main method (line 20). This prints \"exception\".(5) Lastly program execution continues, because the exception has been caught, and \"finished\" is output (line 24)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true for the classjava.util.ArrayList?",
+          "options": {
+               "A": "The elements in the collection are ordered.",
+               "B": "The collection is guaranteed to be immutable.",
+               "C": "The elements in the collection are guaranteed to be unique.",
+               "D": "The elements in the collection are accessed using a unique key."
+          },
+          "correct_answer": "A",
+          "answer_description": "Yes, always the elements in the collection are ordered."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is true about a method-local inner class?",
+          "options": {
+               "A": "It must be marked final.",
+               "B": "It can be marked abstract.",
+               "C": "It can be marked public.",
+               "D": "It can be marked static."
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct because a method-local inner class can beabstract, although it means a subclass of the inner class must be created if the abstract class is to be used (so an abstract method-local inner class is probably not useful).Option A is incorrect because a method-local inner class does not have to be declaredfinal(although it is legal to do so).C and D are incorrect because a method-local inner class cannot be madepublic(remember-you cannot mark any local variables aspublic), orstatic."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class X implements Runnable \n{ \n    public static void main(String args[]) \n    {\n        /* Missing code? */\n    } \n    public void run() {} \n}Which of the following line of code is suitable to start a thread ?",
+          "options": {
+               "A": "Thread t = new Thread(X);",
+               "B": "Thread t = new Thread(X); t.start();",
+               "C": "X run = new X(); Thread t = new Thread(run); t.start();",
+               "D": "Thread t = new Thread(); x.run();"
+          },
+          "correct_answer": "C",
+          "answer_description": "Option C is suitable to start a thread."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class MyThread extends Thread \n{\n    public static void main(String [] args) \n    {\n        MyThread t = new MyThread();\n        t.start();\n        System.out.print(\"one. \");\n        t.start();\n        System.out.print(\"two. \");\n    }\n    public void run() \n    {\n        System.out.print(\"Thread \");\n    }\n}",
+          "options": {
+               "A": "Compilation fails",
+               "B": "An exception occurs at runtime.",
+               "C": "It prints \"Thread one. Thread two.\"",
+               "D": "The output cannot be determined."
+          },
+          "correct_answer": "B",
+          "answer_description": "When thestart()method is attempted a second time on a single Thread object, the method will throw anIllegalThreadStateException(you will not need to know this exception name for the exam). Even if the thread has finished running, it is still illegal to callstart()again."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class s implements Runnable \n{ \n    int x, y; \n    public void run() \n    { \n        for(int i = 0; i < 1000; i++) \n            synchronized(this) \n            { \n                x = 12; \n                y = 12; \n            } \n        System.out.print(x + \" \" + y + \" \"); \n    } \n    public static void main(String args[]) \n    { \n        s run = new s(); \n        Thread t1 = new Thread(run); \n        Thread t2 = new Thread(run); \n        t1.start(); \n        t2.start(); \n    } \n}",
+          "options": {
+               "A": "DeadLock",
+               "B": "It print 12 12 12 12",
+               "C": "Compilation Error",
+               "D": "Cannot determine output."
+          },
+          "correct_answer": "B",
+          "answer_description": "The program will execute without any problems and print 12 12 12 12."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class MyThread extends Thread \n{ \n    MyThread() {} \n    MyThread(Runnable r) {super(r); } \n    public void run() \n    { \n        System.out.print(\"Inside Thread \");\n    } \n} \nclass MyRunnable implements Runnable \n{ \n    public void run() \n    { \n        System.out.print(\" Inside Runnable\"); \n    } \n} \nclass Test \n{  \n    public static void main(String[] args) \n    { \n        new MyThread().start(); \n        new MyThread(new MyRunnable()).start(); \n    } \n}",
+          "options": {
+               "A": "Prints \"Inside Thread Inside Thread\"",
+               "B": "Prints \"Inside Thread Inside Runnable\"",
+               "C": "Does not compile",
+               "D": "Throws exception at runtime"
+          },
+          "correct_answer": "A",
+          "answer_description": "If a Runnable object is passed to the Thread constructor, then the run method of theThreadclass will invoke the run method of theRunnableobject.In this case, however, the run method in theThreadclass is overridden by the run method inMyThreadclass. Therefore therun()method inMyRunnableis never invoked.Both times, therun()method inMyThreadis invoked instead."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{\n    public static int y;\n    public static void foo(int x) \n    {\n        System.out.print(\"foo \");\n        y = x;\n    }\n    public static int bar(int z) \n    {\n        System.out.print(\"bar \");\n        return y = z;\n    }\n    public static void main(String [] args ) \n    {\n        int t = 0;\n        assert t > 0 : bar(7);\n        assert t > 1 : foo(8); /* Line 18 */\n        System.out.println(\"done \");\n    }\n}",
+          "options": {
+               "A": "bar",
+               "B": "bar done",
+               "C": "foo done",
+               "D": "Compilation fails"
+          },
+          "correct_answer": "D",
+          "answer_description": "Thefoo()method returns void. It is a perfectly acceptable method, but because it returns void it cannot be used in anassertstatement, so line 18 will not compile."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class Test \n{ \n    public void foo() \n    {\n        assert false; /* Line 5 */\n        assert false; /* Line 6 */\n    } \n    public void bar()\n    {\n        while(true)\n        {\n            assert false; /* Line 12 */\n        } \n        assert false;  /* Line 14 */\n    } \n}What causes compilation to fail?",
+          "options": {
+               "A": "Line 5",
+               "B": "Line 6",
+               "C": "Line 12",
+               "D": "Line 14"
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct. Compilation fails because of an unreachable statement at line 14. It is a compile-time error if a statement cannot be executed because it is unreachable. The question is now, why is line 20 unreachable? If it is because of the assert then surely line 6 would also be unreachable. The answer must be something other than assert.Examine the following:A while statement can complete normally if and only if at least one of the following is true:- Thewhilestatement is reachable and the condition expression is not a constant expression with value true.-There is a reachable break statement that exits thewhilestatement.The while statement at line 11 is infinite and there is no break statement therefore line 14 is unreachable. You can test this with the following code:public class Test80 \n{ \n    public void foo() \n    {\n        assert false; \n        assert false; \n    } \n    public void bar()\n    {\n        while(true)\n        {\n            assert false; \n            break; \n        } \n        assert false;  \n    } \n}"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is true?",
+          "options": {
+               "A": "In anassertstatement, the expression after the colon (:) can be any Java expression.",
+               "B": "If aswitchblock has no default, adding anassertdefault is considered appropriate.",
+               "C": "In anassertstatement, if the expression after the colon (:) does not have a value, the assert's error message will be empty.",
+               "D": "It is appropriate to handle assertion failures using acatchclause."
+          },
+          "correct_answer": "B",
+          "answer_description": "Adding an assertion statement to aswitchstatement that previously had no default case is considered an excellent use of theassertmechanism.Option A is incorrect because only Java expressions that return a value can be used. For instance, a method that returnsvoidis illegal.Option C is incorrect because the expression after the colon must have a value.Option D is incorrect because assertions throw errors and not exceptions, and assertion errors do cause program termination and should not be handled."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class Test2 \n{\n    public static int x;\n    public static int foo(int y) \n    {\n        return y * 2;\n    }\n    public static void main(String [] args) \n    {\n        int z = 5;\n        assert z > 0; /* Line 11 */\n        assert z > 2: foo(z); /* Line 12 */\n        if ( z < 7 )\n            assert z > 4; /* Line 14 */\n\n        switch (z) \n        {\n            case 4: System.out.println(\"4 \");\n            case 5: System.out.println(\"5 \");\n            default: assert z < 10;\n        }\n\n        if ( z < 10 )\n            assert z > 4: z++; /* Line 22 */\n        System.out.println(z);\n    }\n}which line is an example of an inappropriate use of assertions?",
+          "options": {
+               "A": "Line 11",
+               "B": "Line 12",
+               "C": "Line 14",
+               "D": "Line 22"
+          },
+          "correct_answer": "D",
+          "answer_description": "Assert statements should not cause side effects. Line 22 changes the value ofzif the assert statement isfalse.Option A is fine; a second expression in an assert statement is not required.Option B is fine because it is perfectly acceptable to call a method with the second expression of an assert statement.Option C is fine because it is proper to call an assert statement conditionally."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class NFE \n{\n    public static void main(String [] args) \n    {\n    String s = \"42\";\n        try \n        {\n            s = s.concat(\".5\");  /* Line 8 */\n            double d = Double.parseDouble(s);\n            s = Double.toString(d);\n            int x = (int) Math.ceil(Double.valueOf(s).doubleValue());\n            System.out.println(x);\n        }\n        catch (NumberFormatException e) \n        {\n            System.out.println(\"bad number\");\n        }\n    }\n}",
+          "options": {
+               "A": "42",
+               "B": "42.5",
+               "C": "43",
+               "D": "bad number"
+          },
+          "correct_answer": "C",
+          "answer_description": "All of this code is legal, and line 8 creates a new String with a value of \"42.5\". Lines 9 and 10 convert theStringto a double and then back again. Line 11 is funâ€”Math.ceil()'s argument expression is evaluated first. We invoke thevalueOf()method that returns an anonymousDoubleobject (with a value of42.5). Then thedoubleValue()method is called (invoked on the newly created Double object), and returns adoubleprimitive (there and back again), with a value of (you guessed it)42.5. Theceil()method converts this to43.0, which is cast to anintand assigned tox."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program (in jdk1.6 or above)?public class BoolTest \n{\n    public static void main(String [] args) \n    {\n        Boolean b1 = new Boolean(\"false\");\n        boolean b2;\n        b2 = b1.booleanValue();\n        if (!b2) \n        {\n            b2 = true;\n            System.out.print(\"x \");\n        }\n        if (b1 & b2) /* Line 13 */\n        {\n            System.out.print(\"y \");\n        }\n        System.out.println(\"z\");\n    }\n}",
+          "options": {
+               "A": "z",
+               "B": "x z",
+               "C": "y z",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test138 \n{ \n    public static void stringReplace (String text) \n    {\n        text = text.replace ('j' , 'c'); /* Line 5 */\n    } \n    public static void bufferReplace (StringBuffer text) \n    { \n        text = text.append (\"c\");  /* Line 9 */\n    } \n    public static void main (String args[]) \n    { \n        String textString = new String (\"java\"); \n        StringBuffer textBuffer = new StringBuffer (\"java\"); /* Line 14 */\n        stringReplace(textString); \n        bufferReplace(textBuffer); \n        System.out.println (textString + textBuffer); \n    } \n}",
+          "options": {
+               "A": "java",
+               "B": "javac",
+               "C": "javajavac",
+               "D": "Compile error"
+          },
+          "correct_answer": "C",
+          "answer_description": "A string is immutable, it cannot be changed, that's the reason for theStringBufferclass. ThestringReplacemethod does not change the string declared on line 14, so this remains set to \"java\".Method parameters are always passed by value - a copy is passed into the method - if the copy changes, the original remains intact, line 5 changes the reference i.e. text points to a newStringobject, however this is lost when the method completes. ThetextBufferis aStringBufferso it can be changed.This change is carried out on line 9, so \"java\" becomes \"javac\", the text reference on line 9 remains unchanged. This gives us the output of \"javajavac\""
+     }
+]

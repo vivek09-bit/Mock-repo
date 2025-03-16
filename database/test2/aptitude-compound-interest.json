@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits Rs. 1600 each on 1stJanuary and 1stJuly of a year. At the end of the year, the amount he would have gained by way of interest is:",
+        "options": {
+            "A": "Rs. 120",
+            "B": "Rs. 121",
+            "C": "Rs. 122",
+            "D": "Rs. 123"
+        },
+        "correct_answer": "B",
+        "answer_description": "Amount= Rs.1600 x1 +52+ 1600 x1 +52 x 1002 x 100= Rs.1600 x41x41+ 1600 x41404040= Rs.1600 x4141+ 14040= Rs.1600 x 41 x 8140 x 40= Rs. 3321.C.I. = Rs. (3321 - 3200) = Rs. 121"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+        "options": {
+            "A": "625",
+            "B": "630",
+            "C": "640",
+            "D": "650"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the sum be Rs.x. Then,C.I. =x1 +42-x=676x-x=51x.100625625S.I. =xx 4 x 2=2x.1002551x-2x= 162525x= 625."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+        "options": {
+            "A": "Rs. 2160",
+            "B": "Rs. 3120",
+            "C": "Rs. 3972",
+            "D": "Rs. 6240",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let P = Rs. 100. Then, S.I. Rs. 60 and T = 6 years.R =100 x 60= 10% p.a.100 x 6Now, P = Rs. 12000. T = 3 years and R = 10% p.a.C.I.= Rs.12000 x1 +103- 1100= Rs.12000 x3311000= 3972."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between the compound interests on Rs. 5000 for 1years at 4% per annum compounded yearly and half-yearly?",
+        "options": {
+            "A": "Rs. 2.04",
+            "B": "Rs. 3.06",
+            "C": "Rs. 4.80",
+            "D": "Rs. 8.30"
+        },
+        "correct_answer": "A",
+        "answer_description": "C.I. when interestcompounded yearly= Rs.5000 x1 +4x1 +x 4100100= Rs.5000 x26x512550= Rs. 5304.C.I. when interest iscompounded half-yearly= Rs.5000 x1 +23100= Rs.5000 x51x51x51505050= Rs. 5306.04Difference = Rs. (5306.04 - 5304) = Rs. 2.04"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The compound interest on Rs. 30,000 at 7% per annum is Rs. 4347. The period (in years) is:",
+        "options": {
+            "A": "2",
+            "B": "212",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "Amount = Rs. (30000 + 4347) = Rs. 34347.Let the time benyears.Then, 300001 +7n= 34347100107n=34347=11449=10721003000010000100n= 2 years."
+    }
+]

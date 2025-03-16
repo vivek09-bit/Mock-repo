@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the color code for a 2205% resistor?",
+        "options": {
+            "A": "Red, Red, Brown, Gold",
+            "B": "Orange, Orange, Black, Gold",
+            "C": "Red, Red, Black, Gold",
+            "D": "Red, Red, Brown, Silver"
+        },
+        "correct_answer": "A",
+        "answer_description": "Resistor colour coding series:\n\nBlack   0 \nBrown   1 \nRed     2 \nOrange  3 \nYellow  4 \nGreen   5 \nBlue    6 \nViolet  7  \nGray    8   \nWhite   9 \nNone    20% \nSilver  10% \nGold    5% \n\nTherefore Red, Red, Brown, Gold \n           2    2    1015% \n\n = 22 x 10 = 220 ohm 5% (tolerance).Video Explanation:https://youtu.be/8YHFQCqBGcA"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 60 J of energy are available for every 15 C of charge, what is the voltage?",
+        "options": {
+            "A": "4 V",
+            "B": "60 V",
+            "C": "15 V",
+            "D": "0.25 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An atom's atomic number is determined by the number of:",
+        "options": {
+            "A": "neutrons minus protons",
+            "B": "protons",
+            "C": "electrons",
+            "D": "neutrons"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A voltage will influence current only if the circuit is:",
+        "options": {
+            "A": "open",
+            "B": "insulated",
+            "C": "high resistance",
+            "D": "closed"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which resistive component is designed to be temperature sensitive?",
+        "options": {
+            "A": "Thermistor",
+            "B": "Rheostat",
+            "C": "Potentiometer",
+            "D": "Photoconductive cell"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

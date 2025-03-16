@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which of the following is a single-entity instance of one type of related to a single-entity instance of another type?",
+        "options": {
+            "A": "One-to-One Relationship",
+            "B": "One-to-Many Relationship",
+            "C": "Many-to-Many Relationship",
+            "D": "Composite Relationship"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Entities can be associated with one another in which of the following?",
+        "options": {
+            "A": "Entities",
+            "B": "Attributes",
+            "C": "Identifiers",
+            "D": "Relationships"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of entity has its relationship to another entity determined by an attribute in that other entity called a discriminator?",
+        "options": {
+            "A": "Supertype entity",
+            "B": "Subtype entity",
+            "C": "Archetype entity",
+            "D": "Instance entity"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of entity represents a logical generalization whose actual occurrence is represented by a second, associated entity?",
+        "options": {
+            "A": "Supertype entity",
+            "B": "Subtype entity",
+            "C": "Archetype entity",
+            "D": "Instance entity"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a one-to-many relationship, the entity that is on the many side of the relationship is called a(n) ________ entity.",
+        "options": {
+            "A": "parent",
+            "B": "child",
+            "C": "instance",
+            "D": "subtype"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

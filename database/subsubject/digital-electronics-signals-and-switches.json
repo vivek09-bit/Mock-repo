@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why does the TTL family use a totem-pole circuit on the output?",
+        "options": {
+            "A": "It provides active pull-up.",
+            "B": "It provides active pull-down.",
+            "C": "It provides active pull-up and active pull-down."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the frequency of a clock waveform if the period of that waveform is1.25s?",
+        "options": {
+            "A": "8 kHz",
+            "B": "0.8 kHz",
+            "C": "0.8 MHz",
+            "D": "8 MHz"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is the given circuit called an inverter?",
+        "options": {
+            "A": "The output is the opposite (inverse) of the input.",
+            "B": "The output is in phase with the input.",
+            "C": "The output is the same as the input.",
+            "D": "There is no output."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The hexadecimal number 4B16is transmitted as an 8-bit word in parallel. What is the time required for this transmission if the clock frequency is 2.25 MHz?",
+        "options": {
+            "A": "444 ns",
+            "B": "444s",
+            "C": "3.55s",
+            "D": "3.55 ms"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Internally, a computer's binary data are almost always transmitted on parallel channels, commonly referred to as the:",
+        "options": {
+            "A": "parallel bus",
+            "B": "serial bus",
+            "C": "data bus",
+            "D": "memory bus"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

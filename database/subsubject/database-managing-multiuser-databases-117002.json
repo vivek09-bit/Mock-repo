@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following occurs when a transaction rereads data it has previously read and finds modification or deletions caused by a committed transaction?",
+        "options": {
+            "A": "Nonrepeatable read",
+            "B": "Phantom read",
+            "C": "Dirty read",
+            "D": "Consistent read"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The advantage of optimistic locking is that:",
+        "options": {
+            "A": "the lock is obtained only after the transaction has processed.",
+            "B": "the lock is obtained before the transaction has processed.",
+            "C": "the lock never needs to be obtained.",
+            "D": "transactions that are best suited are those with a lot of activity."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following refers to a cursor type that when the cursor is opened, a primary key value is saved for each row in the recordset; when the application accesses a row, the key is used to fetch the current values of the row?",
+        "options": {
+            "A": "Forward only",
+            "B": "Static",
+            "C": "Keyset",
+            "D": "Dynamic"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following refers to a cursor type where changes of any type and from any source are visible?",
+        "options": {
+            "A": "Forward only",
+            "B": "Static",
+            "C": "Keyset",
+            "D": "Dynamic"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following disallows both dirty reads and nonrepeatable reads, but allows phantom reads?",
+        "options": {
+            "A": "Read committed",
+            "B": "Read uncommitted",
+            "C": "Repeatable read",
+            "D": "Serializable"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

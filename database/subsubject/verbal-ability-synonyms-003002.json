@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "CANNY",
+        "options": {
+            "A": "Obstinate",
+            "B": "Handsome",
+            "C": "Clever",
+            "D": "Stout"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "ALERT",
+        "options": {
+            "A": "Energetic",
+            "B": "Observant",
+            "C": "Intelligent",
+            "D": "Watchful"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "WARRIOR",
+        "options": {
+            "A": "Soldier",
+            "B": "Sailor",
+            "C": "Pirate",
+            "D": "Spy"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "DISTANT",
+        "options": {
+            "A": "Far",
+            "B": "Removed",
+            "C": "Reserved",
+            "D": "Separate"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "ADVERSITY",
+        "options": {
+            "A": "Failure",
+            "B": "Helplessness",
+            "C": "Misfortune",
+            "D": "Crisis"
+        },
+        "correct_answer": "C",
+        "answer_description": "Adversity is a very difficult or unfavourable situation."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+        "options": {
+            "A": "44%7",
+            "B": "55%11",
+            "C": "10%",
+            "D": "12%"
+        },
+        "correct_answer": "B",
+        "answer_description": "Cost Price (C.P.) = Rs. (4700 + 800) = Rs. 5500.Selling Price (S.P.) = Rs. 5800.Gain = (S.P.) - (C.P.) = Rs.(5800 - 5500) = Rs. 300.Gain % =300x 100%= 55%550011"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The cost price of 20 articles is the same as the selling price ofxarticles. If the profit is 25%, then the value ofxis:",
+        "options": {
+            "A": "15",
+            "B": "16",
+            "C": "18",
+            "D": "25"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let C.P. of each article be Re. 1 C.P. ofxarticles = Rs.x.S.P. ofxarticles = Rs. 20.Profit = Rs. (20 -x).20 -xx 100 = 25x2000 - 100x= 25x125x= 2000x= 16.Video Explanation:https://youtu.be/sidqvjUoZxY"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+        "options": {
+            "A": "6623",
+            "B": "100",
+            "C": "10513",
+            "D": "120"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let C.P. be Rs.xand S.P. be Rs.y.Then, 3(y-x) = (2y-x)y= 2x.Profit = Rs. (y-x) = Rs. (2x-x) = Rs.x.Profit % =xx 100% = 100%xVideo Explanation:https://youtu.be/dPzF10mGsWE"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+        "options": {
+            "A": "30%",
+            "B": "70%",
+            "C": "100%",
+            "D": "250%"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let C.P.= Rs. 100. Then, Profit = Rs. 320, S.P. = Rs. 420.New C.P. = 125% of Rs. 100 = Rs. 125New S.P. = Rs. 420.Profit = Rs. (420 - 125) = Rs. 295.Required percentage =295x 100%=1475% = 70% (approximately).42021Video Explanation:https://youtu.be/bQA8SB8ycbw"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "C.P. of 6 toffees = Re. 1S.P. of 6 toffees = 120% of Re. 1 = Rs.65For Rs.6, toffees sold = 6.5For Re. 1, toffees sold =6 x5= 5.6Video Explanation:https://youtu.be/7wKrnZ0LKA8"
+    }
+]

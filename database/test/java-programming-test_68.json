@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two of the following are legal declarations for nonnested classes and interfaces?final abstract class Test {}public static interface Test {}final public class Test {}protected abstract class Test {}protected interface Test {}abstract public class Test {}",
+          "options": {
+               "A": "1 and 4",
+               "B": "2 and 5",
+               "C": "3 and 6",
+               "D": "4 and 6"
+          },
+          "correct_answer": "C",
+          "answer_description": "(3), (6). Both are legal class declarations.(1) is wrong because a class cannot beabstractandfinalâ€”there would be no way to use such a class. (2) is wrong because interfaces and classes cannot be marked asstatic. (4) and (5) are wrong because classes and interfaces cannot be marked asprotected."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class While \n{\n    public void loop() \n    {\n        int x= 0;\n        while ( 1 ) /* Line 6 */\n        {\n            System.out.print(\"x plus one is \" + (x + 1)); /* Line 8 */\n        }\n    }\n}Which statement is true?",
+          "options": {
+               "A": "There is a syntax error on line 1.",
+               "B": "There are syntax errors on lines 1 and 6.",
+               "C": "There are syntax errors on lines 1, 6, and 8.",
+               "D": "There is a syntax error on line 6."
+          },
+          "correct_answer": "D",
+          "answer_description": "Using the integer1in the while statement, or any other looping or conditional construct for that matter, will result in a compiler error. This is old C Program syntax, not valid Java.A, B and C are incorrect because line 1 is valid (Java is case sensitive so While is a valid class name). Line 8 is also valid because an equation may be placed in a String operation as shown."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int I = 0;\n    outer:\n    while (true) \n    {\n        I++;\n        inner:\n        for (int j = 0; j < 10; j++) \n        {\n            I += j;\n            if (j == 3)\n                continue inner;\n            break outer;\n        }\n        continue outer;\n    }\nSystem.out.println(I);",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "A",
+          "answer_description": "The program flows as follows:Iwill be incremented after thewhileloop is entered, thenIwill be incremented (by zero) when theforloop is entered. Theifstatement evaluates to false, and thecontinuestatement is never reached. Thebreakstatement tells the JVM to break out of the outer loop, at which pointIis printed and the fragment is done."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \r\n{ \r\n    private static float[] f = new float[2]; \r\n    public static void main (String[] args) \r\n    {\r\n        System.out.println(\"f[0] = \" + f[0]); \r\n    } \r\n}",
+          "options": {
+               "A": "f[0] = 0",
+               "B": "f[0] = 0.0",
+               "C": "Compile Error",
+               "D": "Runtime Exception"
+          },
+          "correct_answer": "B",
+          "answer_description": "The choices are between Option A and B, what this question is really testing is your knowledge of default values of an initialized array. This is an array typefloati.e. it is a type that uses decimal point numbers therefore its initial value will be0.0and not0"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements are true about comparing two instances of the same class, given that theequals()andhashCode()methods have been properly overridden?If theequals()method returns true, thehashCode()comparison==must return true.If theequals()method returns false, thehashCode()comparison!=must return true.If thehashCode()comparison==returns true, theequals()method must return true.If thehashCode()comparison==returns true, theequals()method might return true.",
+          "options": {
+               "A": "1 and 4",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "1 and 3"
+          },
+          "correct_answer": "A",
+          "answer_description": "(1) is a restatement of theequals()andhashCode()contract. (4) is true because if thehashCode()comparison returns==, the two objects might or might not be equal.(2) and (3) are incorrect because thehashCode()method is very flexible in its return values, and often two dissimilar objects can return the same hash code value."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "x = 0;\nif (x1.hashCode() != x2.hashCode() )  x = x + 1;\nif (x3.equals(x4) )  x = x + 10;\nif (!x5.equals(x6) ) x = x + 100;\nif (x7.hashCode() == x8.hashCode() )  x = x + 1000;\nSystem.out.println(\"x = \" + x);and assuming that theequals()andhashCode()methods are properly implemented, if the output is \"x = 1111\", which of the following statements will always be true?",
+          "options": {
+               "A": "x2.equals(x1)",
+               "B": "x3.hashCode() == x4.hashCode()",
+               "C": "x5.hashCode() != x6.hashCode()",
+               "D": "x8.equals(x7)"
+          },
+          "correct_answer": "B",
+          "answer_description": "By contract, if two objects are equivalent according to theequals()method, then thehashCode()method must evaluate them to be==.Option A is incorrect because if thehashCode()values are not equal, the two objects must not be equal.Option C is incorrect because ifequals()is not true there is no guarantee of any result fromhashCode().Option D is incorrect becausehashCode()will often return==even if the two objects do not evaluate toequals()being true."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true about a static nested class?",
+          "options": {
+               "A": "You must have a reference to an instance of the enclosing class in order to instantiate it.",
+               "B": "It does not have access to nonstatic members of the enclosing class.",
+               "C": "It's variables and methods must bestatic.",
+               "D": "It must extend the enclosing class."
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct because a static nested class is not tied to an instance of the enclosing class, and thus can't access the nonstatic members of the class (just as a static method can't access nonstatic members of a class).Option A is incorrect because static nested classes do not need (and can't use) a reference to an instance of the enclosing class.Option C is incorrect because static nested classes can declare and define nonstatic members.Option D is wrong because it just is. There's no rule that says an inner or nested class has to extend anything."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which constructs an anonymous inner class instance?",
+          "options": {
+               "A": "Runnable r = new Runnable() { };",
+               "B": "Runnable r = new Runnable(public void run() { });",
+               "C": "Runnable r = new Runnable { public void run(){}};",
+               "D": "System.out.println(new Runnable() {public void run() { }});"
+          },
+          "correct_answer": "D",
+          "answer_description": "D is correct. It defines an anonymous inner class instance, which also means it creates an instance of that new anonymous class at the same time. The anonymous class is an implementer of theRunnableinterface, so it must override therun()method ofRunnable.A is incorrect because it doesn't override therun()method, so it violates the rules of interface implementation.B and C use incorrect syntax."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "class Boo \n{\n    Boo(String s) { }\n    Boo() { }\n}\nclass Bar extends Boo \n{\n    Bar() { }\n    Bar(String s) {super(s);}\n    void zoo() \n    {\n    // insert code here\n    }\n}which one create an anonymous inner class from within class Bar?",
+          "options": {
+               "A": "Boo f = new Boo(24) { };",
+               "B": "Boo f = new Bar() { };",
+               "C": "Bar f = new Boo(String s) { };",
+               "D": "Boo f = new Boo.Bar(String s) { };"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B is correct because anonymous inner classes are no different from any other class when it comes to polymorphism. That means you are always allowed to declare a reference variable of the superclass type and have that reference variable refer to an instance of a subclass type, which in this case is an anonymous subclass ofBar. Since Bar is a subclass ofBoo, it all works.Option A is incorrect because it passes an int to theBooconstructor, and there is no matching constructor in theBooclass.Option C is incorrect because it violates the rules of polymorphismâ€”you cannot refer to a superclass type using a reference variable declared as the subclass type. The superclass is not guaranteed to have everything the subclass has.Option D uses incorrect syntax."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class HorseTest \n{\n    public static void main (String [] args) \n    {\n        class Horse \n        {\n            public String name; /* Line 7 */\n            public Horse(String s) \n            {\n                name = s;\n            }\n        } /* class Horse ends */\n        \n        Object obj = new Horse(\"Zippo\"); /* Line 13 */\n        Horse h = (Horse) obj; /* Line 14 */\n        System.out.println(h.name);\n    }\n} /* class HorseTest ends */",
+          "options": {
+               "A": "An exception occurs at runtime at line 10.",
+               "B": "It prints \"Zippo\".",
+               "C": "Compilation fails because of an error on line 7.",
+               "D": "Compilation fails because of an error on line 13."
+          },
+          "correct_answer": "B",
+          "answer_description": "The code in theHorseTestclass is perfectly legal. Line 13 creates an instance of the method-local inner classHorse, using a reference variable declared as type Object. Line 14 casts theHorseobject to aHorsereference variable, which allows line 15 to compile. If line 14 were removed, theHorseTestcode would not compile, because classObjectdoes not have a name variable."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public abstract class AbstractTest \n{\n    public int getNum() \n    {\n        return 45;\n    }\n    public abstract class Bar \n    {\n        public int getNum() \n        {\n            return 38;\n        }\n    }\n    public static void main (String [] args) \n    {\n        AbstractTest t = new AbstractTest() \n        {\n            public int getNum() \n            {\n                return 22;\n            }\n        };\n        AbstractTest.Bar f = t.new Bar() \n        {\n            public int getNum() \n            {\n                return 57;\n            }\n        };\n        \n        System.out.println(f.getNum() + \" \" + t.getNum());\n    }\n}",
+          "options": {
+               "A": "57 22",
+               "B": "45 38",
+               "C": "45 57",
+               "D": "An exception occurs at runtime."
+          },
+          "correct_answer": "A",
+          "answer_description": "You can define an inner class asabstract, which means you can instantiate only concrete subclasses of the abstract inner class. The object referenced by the variabletis an instance of an anonymous subclass ofAbstractTest, and the anonymous class overrides thegetNum()method to return 22. The variable referenced byfis an instance of an anonymous subclass ofBar, and the anonymousBarsubclass also overrides thegetNum()method (to return 57). Remember that to instantiate aBarinstance, we need an instance of the enclosingAbstractTestclass to tie to the newBarinner class instance.AbstractTestcan't be instantiated because it's abstract, so we created an anonymous subclass (non-abstract) and then used the instance of that anonymous subclass to tie to the newBarsubclass instance."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class MyThread extends Thread \n{\n    public static void main(String [] args) \n    {\n        MyThread t = new MyThread(); /* Line 5 */\n        t.run();  /* Line 6 */\n    }\n\n    public void run() \n    {\n        for(int i=1; i < 3; ++i) \n        {\n            System.out.print(i + \"..\");\n        }\n    }\n}",
+          "options": {
+               "A": "This code will not compile due to line 5.",
+               "B": "This code will not compile due to line 6.",
+               "C": "1..2..",
+               "D": "1..2..3.."
+          },
+          "correct_answer": "C",
+          "answer_description": "Line 6 calls therun()method, so therun()method executes as a normal method should and it prints \"1..2..\"A is incorrect because line 5 is the proper way to create an object.B is incorrect because it is legal to call therun()method, even though this will not start a true thread of execution. The code after line 6 will not execute until therun()method is complete.D is incorrect because the for loop only does two iterations."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class ThreadTest extends Thread \n{ \n    public void run() \n    { \n        System.out.println(\"In run\"); \n        yield(); \n        System.out.println(\"Leaving run\"); \n    } \n    public static void main(String []argv) \n    { \n        (new ThreadTest()).start(); \n    } \n}",
+          "options": {
+               "A": "The code fails to compile in themain()method",
+               "B": "The code fails to compile in therun()method",
+               "C": "Only the text \"In run\" will be displayed",
+               "D": "The text \"In run\" followed by \"Leaving run\" will be displayed"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test107 implements Runnable \n{ \n    private int x; \n    private int y; \n\n    public static void main(String args[]) \n    {\n        Test107 that = new Test107(); \n        (new Thread(that)).start(); \n        (new Thread(that)).start(); \n    } \n    public synchronized void run() \n    {\n        for(int i = 0; i < 10; i++) \n        { \n            x++; \n            y++; \n            System.out.println(\"x = \" + x + \", y = \" + y); /* Line 17 */\n        } \n    } \n}",
+          "options": {
+               "A": "Compilation error.",
+               "B": "Will print in this order:x = 1 y = 1   x = 2 y = 2   x = 3 y = 3   x = 4 y = 4   x = 5 y = 5...but the output will be produced by both threads running simultaneously.",
+               "C": "Will print in this order:x = 1 y = 1   x = 2 y = 2   x = 3 y = 3   x = 4 y = 4   x = 5 y = 5...but the output will be produced by first one thread then the other. This is guaranteed by the synchronised code.",
+               "D": "Will print in this orderx = 1 y = 2 x = 3 y = 4  x = 5 y = 6 x = 7 y = 8..."
+          },
+          "correct_answer": "C",
+          "answer_description": "Both threads are operating on the same instance variables. Because the code is synchronized the first thread will complete before the second thread begins. Modify line 17 to print the thread names:System.out.println(Thread.currentThread().getName() + \" x = \" + x + \", y = \" + y);"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Q126 implements Runnable \n{ \n    private int x; \n    private int y; \n\n    public static void main(String [] args) \n    { \n        Q126 that = new Q126(); \n        (new Thread(that)).start( ); /* Line 8 */\n        (new Thread(that)).start( ); /* Line 9 */\n    } \n    public synchronized void run( ) /* Line 11 */\n    { \n        for (;;) /* Line 13 */\n        { \n            x++; \n            y++; \n            System.out.println(\"x = \" + x + \"y = \" + y); \n        } \n    } \n}",
+          "options": {
+               "A": "An error at line 11 causes compilation to fail",
+               "B": "Errors at lines 8 and 9 cause compilation to fail.",
+               "C": "The program prints pairs of values forxandythat might not always be the same on the same line (for example, \"x=2, y=1\")",
+               "D": "The program prints pairs of values forxandythat are always the same on the same line (for example, \"x=1, y=1\". In addition, each value appears once (for example, \"x=1, y=1\" followed by \"x=2, y=2\")"
+          },
+          "correct_answer": "D",
+          "answer_description": "The synchronized code is the key to answering this question. Becausexandyare both incremented inside the synchronized method they are always incremented together. Also keep in mind that the two threads share the same reference to theQ126object.Also note that because of the infinite loop at line 13, only one thread ever gets to execute."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What allows the programmer to destroy an object x?",
+          "options": {
+               "A": "x.delete()",
+               "B": "x.finalize()",
+               "C": "Runtime.getRuntime().gc()",
+               "D": "Only the garbage collection system can destroy an object."
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct. When an object is no longer referenced, it may be reclaimed by the garbage collector. If an object declares a finalizer, the finalizer is executed before the object is reclaimed to give the object a last chance to clean up resources that would not otherwise be released. When a class is no longer needed, it may be unloaded.Option A is wrong. I found 4delete()methods in all of the Java class structure. They are:delete()- Method in classjava.io.File: Deletes the file or directory denoted by this abstract pathname.delete(int, int)- Method in classjava.lang.StringBuffer: Removes the characters in a substring of thisStringBuffer.delete(int, int)- Method in interfacejavax.accessibility.AccessibleEditableText: Deletes the text between two indicesdelete(int, int)- Method in class :javax.swing.text.JTextComponent.AccessibleJTextComponent; Deletes the text between two indicesNone of these destroy the object to which they belong.Option B is wrong. I found 19finalize()methods. The most interesting, from this questions point of view, was thefinalize()method in classjava.lang.Objectwhich is called by the garbage collector on an object when garbage collection determines that there are no more references to the object. This method does not destroy the object to which it belongs.Option C is wrong. But it is interesting. TheRuntimeclass has many methods, two of which are:getRuntime()- Returns the runtime object associated with the current Java application.gc()- Runs the garbage collector. Calling this method suggests that the Java virtual machine expend effort toward recycling unused objects in order to make the memory they currently occupy available for quick reuse. When control returns from the method call, the virtual machine has made its best effort to recycle all discarded objects. Interesting as this is, it doesn't destroy the object."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is true?",
+          "options": {
+               "A": "It is sometimes good practice to throw anAssertionErrorexplicitly.",
+               "B": "Privategetter()andsetter()methods should not use assertions to verify arguments.",
+               "C": "If anAssertionErroris thrown in a try-catch block, the finally block will be bypassed.",
+               "D": "It is proper to handle assertion statement failures using acatch (AssertionException ae)block."
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct because it is sometimes advisable to thrown an assertion error even if assertions have been disabled.Option B is incorrect because it is considered appropriate to check argument values in private methods using assertions.Option C is incorrect;finallyis never bypassed.Option D is incorrect becauseAssertionErrorsshould never be handled."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class StringRef \n{\n    public static void main(String [] args) \n    {\n        String s1 = \"abc\";\n        String s2 = \"def\";\n        String s3 = s2;   /* Line 7 */\n        s2 = \"ghi\";\n        System.out.println(s1 + s2 + s3);\n    }\n}",
+          "options": {
+               "A": "abcdefghi",
+               "B": "abcdefdef",
+               "C": "abcghidef",
+               "D": "abcghighi"
+          },
+          "correct_answer": "C",
+          "answer_description": "After line 7 executes, boths2ands3refer to a String object that contains the value \"def\". When line 8 executes, a newStringobject is created with the value \"ghi\", to whichs2refers. The reference variables3still refers to the (immutable)Stringobject with the value \"def\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class WrapTest \n{\n    public static void main(String [] args) \n    {\n        int result = 0;\n        short s = 42;\n        Long x = new Long(\"42\");\n        Long y = new Long(42);\n        Short z = new Short(\"42\");\n        Short x2 = new Short(s);\n        Integer y2 = new Integer(\"42\");\n        Integer z2 = new Integer(42);\n\n        if (x == y) /* Line 13 */\n            result = 1;\n        if (x.equals(y) ) /* Line 15 */\n            result = result + 10;\n        if (x.equals(z) ) /* Line 17 */\n            result = result + 100;\n        if (x.equals(x2) ) /* Line 19 */\n            result = result + 1000;\n        if (x.equals(z2) ) /* Line 21 */\n            result = result + 10000;\n\n        System.out.println(\"result = \" + result);\n    }\n}",
+          "options": {
+               "A": "result = 1",
+               "B": "result = 10",
+               "C": "result = 11",
+               "D": "result = 11010"
+          },
+          "correct_answer": "B",
+          "answer_description": "Line 13 fails because==compares reference values, not object values. Line 15 succeeds because bothStringand primitive wrapper constructors resolve to the same value (except for the Character wrapper). Lines 17, 19, and 21 fail because theequals()method fails if the object classes being compared are different and not in the same tree hierarchy."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Q207 \n{ \n    public static void main(String[] args) \n    {\n        int i1 = 5; \n        int i2 = 6; \n        String s1 = \"7\"; \n        System.out.println(i1 + i2 + s1); /* Line 8 */\n    } \n}",
+          "options": {
+               "A": "18",
+               "B": "117",
+               "C": "567",
+               "D": "Compiler error"
+          },
+          "correct_answer": "B",
+          "answer_description": "This question is about the+(plus) operator and the overriden+(string cocatanation) operator. The rules that apply when you have a mixed expression of numbers and strings are:If either operand is aString, the+operator concatenates the operands.If both operands are numeric, the+operator adds the operands.The expression on line 6 above can be read as \"Add the valuesi1andi2together, then take the sum and convert it to a string and concatenate it with theStringfrom the variables1\". In code, the compiler probably interprets the expression on line 8 above as:System.out.println( new StringBuffer() \n    .append(new Integer(i1 + i2).toString()) \n    .append(s1) \n    .toString() );"
+     }
+]

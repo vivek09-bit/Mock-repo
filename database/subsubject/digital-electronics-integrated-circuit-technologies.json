@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not a MOSFET terminal?",
+        "options": {
+            "A": "Gate",
+            "B": "Drain",
+            "C": "Source",
+            "D": "Base"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For a CMOS gate, which is the best speed-power product?",
+        "options": {
+            "A": "1.4 pJ",
+            "B": "1.6 pJ",
+            "C": "2.4 pJ",
+            "D": "3.3 pJ"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which transistor element is used in CMOS logic?",
+        "options": {
+            "A": "FET",
+            "B": "MOSFET",
+            "C": "Bipolar",
+            "D": "Unijunction"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a TTL circuit, if an excessive number of load gate inputs are connected, ________.",
+        "options": {
+            "A": "VOH(min)drops below VOH",
+            "B": "VOHdrops below VOH(min)",
+            "C": "VOHexceeds VOH(min)",
+            "D": "VOHand VOH(min)are unaffected"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The greater the propagation delay, the ________.",
+        "options": {
+            "A": "lower the maximum frequency",
+            "B": "higher the maximum frequency",
+            "C": "maximum frequency is unaffected",
+            "D": "minimum frequency is unaffected"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

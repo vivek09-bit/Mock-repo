@@ -1,0 +1,280 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which   of  the   following   statements   correctly   define   .NET Framework?",
+          "options": {
+               "A": "It is an environment for developing, building, deploying and executing Desktop Applications, Web Applications and Web Services.",
+               "B": "It is an environment for developing, building, deploying and executing only Web Applications.",
+               "C": "It is an environment for developing, building, deploying and executing Distributed Applications.",
+               "D": "It is an environment for developing, building, deploying and executing Web Services.",
+               "E": "It is an environment for development and execution of Windows applications."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are TRUE about the .NET CLR?It   provides   a   language-neutral   development   &   execution environment.It ensures that an application would not be able to access memory that it is not authorized to access.It provides services to run \"managed\" applications.The resources are garbage collected.It provides services to run \"unmanaged\" applications.",
+          "options": {
+               "A": "Only 1 and 2",
+               "B": "Only 1, 2 and 4",
+               "C": "1, 2, 3, 4",
+               "D": "Only 4 and 5",
+               "E": "Only 3 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?switch (id)\n{\n    case 6: \n        grp = \"Grp B\"; \n        break;\n    \n    case 13:\n        grp = \"Grp D\";\n        break;\n    \n    case 1:\n        grp = \"Grp A\";\n        break;\n    \n    case ls > 20:\n        grp = \"Grp E\";\n        break ;\n    \n    case Else:\n        grp = \"Grp F\";\n        break;\n}",
+          "options": {
+               "A": "Compiler will report an error incase ls > 20as well as incase Else.",
+               "B": "There is no error in this switch case statement.",
+               "C": "Compiler will report an error only incase Else.",
+               "D": "Compiler will report an error as there is nodefaultcase.",
+               "E": "The order of the first three cases should becase 1,case 6,case 13(ascending)."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct output for the C#.NET program given below?int i = 20 ;\nfor( ; ; )\n{\n    Console.Write(i + \" \"); \n    if (i >= -10)\n        i -= 4; \n    else \n        break;\n}",
+          "options": {
+               "A": "20 16 12 84 0 -4 -8",
+               "B": "20 16 12 8 4 0",
+               "C": "20 16 12 8 4 0 -4 -8 -12",
+               "D": "16 12 8 4 0",
+               "E": "16 8 0 -8"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct?Aswitchstatement can act on numerical as well asBooleantypes.Aswitchstatement  can  act  oncharacters,stringsandenumerationstypes.We cannot declare variables within acasestatementifit is not enclosed by{ }.Theforeachstatement is used to iterate through the collection to get the desired information and should be used to change the contents of the collection to avoid unpredictable side effects.All of the expressions of theforstatement are not optional.",
+          "options": {
+               "A": "1, 2",
+               "B": "2, 3",
+               "C": "3, 5",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are NOT Relational operators in C#.NET?>=!=Not<=<>=",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 4",
+               "C": "3, 5",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about functions used\nin C#.NET?Function definitions cannot be nested.Functions can be called recursively.If we do not return a value from a function then a value-1gets returned.To return the control from middle of a function exit function should be used.Function calls can be nested.",
+          "options": {
+               "A": "1, 2, 5",
+               "B": "2, 3, 5",
+               "C": "2, 3",
+               "D": "4, 5",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about constructors?",
+          "options": {
+               "A": "If we provide a one-argument constructor then the compiler still provides a zero-argument constructor.",
+               "B": "Static constructors can use optional arguments.",
+               "C": "Overloaded constructors cannot use optional arguments.",
+               "D": "If we do not provide a constructor, then the compiler provides a zero-argument constructor."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{ \n    class Sample\n    { \n        public int func()\n        {\n            return 1;\n        } \n        public Single func()\n        { \n            return 2.4f ;\n        } \n    } \n    class Program\n    { \n        static void Main(string[ ] args)\n        {\n            Sample s1 = new Sample(); \n            int i;\n            i = s1.func(); \n            Single j; \n            j = s1.func(); \n        } \n    } \n}",
+          "options": {
+               "A": "func()is a valid overloaded function.",
+               "B": "Overloading works only in case of subroutines and not in case of functions.",
+               "C": "func()cannot be considered overloaded because: return value cannot be used to distinguish between two overloaded functions.",
+               "D": "The call toi = s1.func()will assign1toi.",
+               "E": "The callj = s1.func()will assign2.4toj."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement will you add in the functionfun()of classB, if it is to produce the output\"Welcome to IndiaBIX.com!\"?namespace IndiabixConsoleApplication\n{ \n    class A\n    {\n        public void fun()\n        {\n            Console.Write(\"Welcome\");\n        } \n    } \n    class B: A\n    {\n        public void fun()\n        {\n            // [*** Add statement here ***]\n            Console.WriteLine(\" to IndiaBIX.com!\");\n        } \n    } \n    class MyProgram\n    { \n        static void Main (string[ ] args)\n        { \n            B b = new B(); \n            b.fun();\n        } \n    } \n}",
+          "options": {
+               "A": "base.fun();",
+               "B": "A::fun();",
+               "C": "fun();",
+               "D": "mybase.fun();",
+               "E": "A.fun();"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the array declaration given below?int[][][] intMyArr = new int[2][][];",
+          "options": {
+               "A": "intMyArrrefers to a 2-D jagged array containing 2 rows.",
+               "B": "intMyArrrefers to a 2-D jagged array containing 3 rows.",
+               "C": "intMyArrrefers to a 3-D jagged array containing 2 2-D jagged arrays.",
+               "D": "intMyArrrefers to a 3-D jagged array containing three 2-D jagged arrays.",
+               "E": "intMyArrrefers to a 3-D jagged array containing 2 2-D rectangular arrays."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will be the correct output for the C#.NET code snippet given below?String s1=\"Kicit\";\nConsole.Write(s1.IndexOf('c') + \" \"); \nConsole.Write(s1.Length);",
+          "options": {
+               "A": "3 6",
+               "B": "2 5",
+               "C": "3 5",
+               "D": "2 6",
+               "E": "3 7"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET code snippet given below?class Trial\n{ \n    int i;\n    Decimal d;\n}\nstruct Sample\n{\n    private int x;\n    private Single y;\n    private Trial z;\n}\nSample ss = new Sample();",
+          "options": {
+               "A": "sswill be created on the heap.",
+               "B": "Trial object referred byzwill be created on the stack.",
+               "C": "zwill be created on the heap.",
+               "D": "Bothssandzwill be created on the heap.",
+               "E": "sswill be created on the stack."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is true about anenumused in C#.NET?",
+          "options": {
+               "A": "An implicit cast is needed to convert fromenumtype to an integral type.",
+               "B": "Anenumvariable cannot have apublicaccess modifier.",
+               "C": "Anenumvariable cannot have aprivateaccess modifier.",
+               "D": "Anenumvariable can be defined inside a class or a namespace.",
+               "E": "Anenumvariable cannot have aprotectedaccess modifier."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will be the correct output for the C#.NET code snippet given below?enum color : int\n{\n    red = -3,\n    green,\n    blue \n}\nConsole.Write( (int) color.red + \", \"); \nConsole.Write( (int) color.green + \", \"); \nConsole.Write( (int) color.blue );",
+          "options": {
+               "A": "-3, -2, -1",
+               "B": "-3, 0, 1",
+               "C": "0, 1, 2",
+               "D": "red, green, blue",
+               "E": "color.red, color.green, color.blue"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about theStackcollection?It can be used for evaluation of expressions.All elements in theStackcollection can be accessed using an enumerator.It is used to maintain a FIFO list.All elements stored in aStackcollection must be of similar type.Top-most element of theStackcollection can be accessed using thePeek()method.",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "3 and 4 only",
+               "C": "1, 2 and 5 only",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about aHashTablecollection?It is a keyed collection.It is a ordered collection.It is an indexed collection.It implements aIDictionaryEnumeratorinterface in its inner class.The key - value pairs present in aHashTablecan be accessed using theKeysandValuesproperties of the inner class that implements theIDictionaryEnumeratorinterface.",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "1, 2 and 3 only",
+               "C": "4 and 5 only",
+               "D": "1, 4 and 5 only",
+               "E": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about properties used in C#.NET?",
+          "options": {
+               "A": "Every property must have a set accessor and a get accessor.",
+               "B": "Properties cannot be overloaded.",
+               "C": "Properties of a class are actually methods that work like data members.",
+               "D": "A property has to be either read only or a write only."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET program given below?using System;\nnamespace IndiabixConsoleApplication\n{\n    class MyProgram\n    {\n        static void Main(string[] args)\n        {\n            int index = 6;\n            int val = 44;\n            int[] a = new int[5];\n            try\n            {\n                a[index] = val ;\n            }    \n            catch(IndexOutOfRangeException e)\n            {\n                Console.Write(\"Index out of bounds \");\n            }\n            Console.Write(\"Remaining program\");\n        }\n    }\n}",
+          "options": {
+               "A": "Value44will get assigned toa[6].",
+               "B": "It will output: Index out of bounds",
+               "C": "It will output: Remaining program",
+               "D": "It will not produce any output.",
+               "E": "It will output: Index out of bounds Remaining program"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following keyword is used to overload user-defined types by defining static member functions?",
+          "options": {
+               "A": "op",
+               "B": "opoverload",
+               "C": "operator",
+               "D": "operatoroverload",
+               "E": "udoperator"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

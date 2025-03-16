@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A nonvolatile type of memory that can be programmed and erased in sectors, rather than one byte at a time is:",
+        "options": {
+            "A": "flash memory",
+            "B": "EPROM",
+            "C": "EEPROM",
+            "D": "MPROM"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following best describes static memory devices?",
+        "options": {
+            "A": "memory devices that are magnetic in nature and do not require constant refreshing",
+            "B": "semiconductor memory devices in which stored data is retained as long as power is applied",
+            "C": "memory devices that are magnetic in nature and require constant refreshing",
+            "D": "semiconductor memory devices in which stored data will not be retained with the power applied unless constantly refreshed"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the principal advantage of using address multiplexing with DRAM memory?",
+        "options": {
+            "A": "reduced memory access time",
+            "B": "reduced requirement for constant refreshing of the memory contents",
+            "C": "reduced pin count and decrease in package size",
+            "D": "no requirement for a chip-select input line, thereby reducing the pin count"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

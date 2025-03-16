@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The present Lok Sabha is the",
+        "options": {
+            "A": "14th Lok Sabha",
+            "B": "15th Lok Sabha",
+            "C": "16th Lok Sabha",
+            "D": "17th Lok Sabha"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Parliament of India can make use of the residuary powers",
+        "options": {
+            "A": "at all times",
+            "B": "only during national emergency",
+            "C": "during national emergency as well as constitutional emergency as well in a state",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The members of Lok Sabha hold office for a term of",
+        "options": {
+            "A": "4 years",
+            "B": "5 years",
+            "C": "6 years",
+            "D": "3 years"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Parliament exercises control over council of ministers, the real executive, in several ways. Which one of the following has been wrongly listed as a method of control over executive?",
+        "options": {
+            "A": "Questions",
+            "B": "Supplementary questions",
+            "C": "Adjournment motions",
+            "D": "None of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The number of writs that can be prayed for and issued by the Supreme Court and/or a High Court is",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

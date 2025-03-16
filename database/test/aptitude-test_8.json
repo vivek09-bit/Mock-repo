@@ -1,0 +1,271 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the numbers 13aand 13b.Then, 13ax 13b= 2028ab= 12.Now, the co-primes with product 12 are (1, 12) and (3, 4).[Note: Two integersaandbare said to becoprimeor relatively prime if they have no common positive factor other than 1 or, equivalently, if their greatest common divisor is 1 ]So, the required numbers are (13 x 1, 13 x 12) and (13 x 3, 13 x 4).Clearly, there are 2 such pairs."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the least number which when doubled will be exactly divisible by 12, 18, 21 and 30 ?",
+          "options": {
+               "A": "196",
+               "B": "630",
+               "C": "1260",
+               "D": "2520"
+          },
+          "correct_answer": "B",
+          "answer_description": "L.C.M. of 12, 18, 21 30                 2 | 12  -  18  -  21  -  30----------------------------= 2 x 3 x 2 x 3 x 7 x 5 = 1260.       3 |  6  -   9  -  21  -  15----------------------------Required number = (1260 ÷ 2)            |  2  -   3  -   7  -   5= 630."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?",
+          "options": {
+               "A": "69",
+               "B": "78",
+               "C": "96",
+               "D": "Cannot be determined",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the ten's digit bexand unit's digit bey.Then,x+y= 15 andx-y= 3   ory-x= 3.Solvingx+y= 15   andx-y= 3, we get:x= 9,y= 6.Solvingx+y= 15   andy-x= 3, we get:x= 6,y= 9.So, the number is either 96 or 69.Hence, the number cannot be determined."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",
+          "options": {
+               "A": "3",
+               "B": "5",
+               "C": "9",
+               "D": "11"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the ten's digit bexand unit's digit bey.Then, number = 10x+y.Number obtained by interchanging the digits = 10y+x.(10x+y) + (10y+x) = 11(x+y), which is divisible by 11.Video Explanation:https://youtu.be/lytJE8GqRvM"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+          "options": {
+               "A": "3",
+               "B": "4",
+               "C": "9",
+               "D": "Cannot be determined",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the ten's digit bexand unit's digit bey.Then, (10x+y) - (10y+x) = 369(x-y) = 36x-y= 4.Video Explanation:https://youtu.be/7QOJjAmGVx0"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ifmandnare whole numbers such thatmn= 121, the value of (m- 1)n+ 1is:",
+          "options": {
+               "A": "1",
+               "B": "10",
+               "C": "121",
+               "D": "1000"
+          },
+          "correct_answer": "D",
+          "answer_description": "We know that 112= 121.Puttingm= 11 andn= 2, we get:(m- 1)n+ 1= (11 - 1)(2 + 1)= 103= 1000."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A shopkeeper sells some toys at Rs. 250 each. What percent profit does he make? To find the answer, which of the following information given in Statements I and II is/are necessary?I.Number of toys sold.II.Cost price of each toy.",
+          "options": {
+               "A": "Only I is necessary",
+               "B": "Only II is necessary",
+               "C": "Both I and II are necessary",
+               "D": "Either I or II ins necessary",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "S.P. = Rs. 250 each.To find gain percent, we must know the C.P. of each.Correct answer is (B)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+          "options": {
+               "A": "230 m",
+               "B": "240 m",
+               "C": "260 m",
+               "D": "320 m",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Relative speed = (120 + 80) km/hr=200 x5m/sec18=500m/sec.9Let the length of the other train bexmetres.Then,x+ 270=50099x+ 270 = 500x= 230."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is:",
+          "options": {
+               "A": "48 km/hr",
+               "B": "54 km/hr",
+               "C": "66 km/hr",
+               "D": "82 km/hr"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the speed of the second train bexkm/hr.Relative speed= (x+ 50) km/hr=(x+ 50) x5m/sec18=250 + 5xm/sec.18Distance covered = (108 + 112) = 220 m.220= 6250 + 5x18250 + 5x= 660x= 82 km/hr."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "What is the length of a running train crossing another 180 metre long train running in the opposite direction?I.The relative speed of the two trains was 150 kmph.II.The trains took 9 seconds to cross each other.",
+          "options": {
+               "A": "I alone sufficient while II alone not sufficient to answer",
+               "B": "II alone sufficient while I alone not sufficient to answer",
+               "C": "Either I or II alone sufficient to answer",
+               "D": "Both I and II are not sufficient to answer",
+               "E": "Both I and II are necessary to answer"
+          },
+          "correct_answer": "E",
+          "answer_description": "Let the two trains of lengthametres andbmetres be moving in opposite directions atum/s andvm/s.Time taken to cross each other =(a+b)sec.(u+v)Now,b= 180,u+v=150 x5m/sec=125m/sec.1839 =a+ 180(125/3)a= (375 - 180) = 195 m."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "Which of the following statements is not correct?",
+          "options": {
+               "A": "log1010 = 1",
+               "B": "log (2 + 3) = log (2 x 3)",
+               "C": "log101 = 0",
+               "D": "log (1 + 2 + 3) = log 1 + log 2 + log 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "(a) Since logaa= 1, so log1010 = 1.(b) log (2 + 3) = log 5 and log (2 x 3) = log 6 = log 2 + log 3log (2 + 3)log (2 x 3)(c) Since loga1 = 0, so log101 = 0.(d) log (1 + 2 + 3) = log 6 = log (1 x 2 x 3) = log 1 + log 2 + log 3.So, (b) is incorrect."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "The ratio between the perimeter and the breadth of a rectangle is 5 : 1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+          "options": {
+               "A": "16 cm",
+               "B": "18 cm",
+               "C": "24 cm",
+               "D": "Data inadequate",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "2(l+b)=5b12l+ 2b= 5b3b= 2lb=2l3Then, Area = 216 cm2lxb= 216lx2l= 2163l2= 324l= 18 cm."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?",
+          "options": {
+               "A": "2.91 m",
+               "B": "3 m",
+               "C": "5.82 m",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Area of the park = (60 x 40) m2= 2400 m2.Area of the lawn = 2109 m2.Area of the crossroads = (2400 - 2109) m2= 291 m2.Let the width of the road bexmetres. Then,60x+ 40x-x2= 291x2- 100x+ 291 = 0(x- 97)(x- 3) = 0x= 3.Video Explanation:https://youtu.be/R3CtrAKGxkc"
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A boat having a length 3 m and breadth 2 m is floating on a lake. The boat sinks by 1 cm when a man gets on it. The mass of the man is:",
+          "options": {
+               "A": "12 kg",
+               "B": "60 kg",
+               "C": "72 kg",
+               "D": "96 kg"
+          },
+          "correct_answer": "B",
+          "answer_description": "Volume of water displaced= (3 x 2 x 0.01) m3= 0.06 m3.Mass of man= Volume of water displaced x Density of water= (0.06 x 1000) kg= 60 kg."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "A can run 22.5 m while B runs 25 m. In a kilometre race B beats A by:",
+          "options": {
+               "A": "100 m",
+               "B": "1111m9",
+               "C": "25 m",
+               "D": "50 m"
+          },
+          "correct_answer": "A",
+          "answer_description": "When B runs 25 m, A runs45m.2When B runs 1000 m, A runs45x1x 1000m= 900 m.225B beats A by 100 m."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?",
+          "options": {
+               "A": "810",
+               "B": "1440",
+               "C": "2880",
+               "D": "50400",
+               "E": "5760"
+          },
+          "correct_answer": "D",
+          "answer_description": "In the word 'CORPORATION', we treat the vowels OOAIO as one letter.Thus, we have CRPRTN (OOAIO).This has 7 (6 + 1) letters of which R occurs 2 times and the rest are different.Number of ways arranging these letters =7!= 2520.2!Now, 5 vowels in which O occurs 3 times and the rest are different, can be arrangedin5!= 20 ways.3!Required number of ways = (2520 x 20) = 50400.Video Explanation:https://youtu.be/o3fwMoB0duw"
+     },
+     {
+          "direction": "Direction (Q.No. 10)Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements andGive answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.Give answer(E) if the data in both Statements I and II together are necessary to answer the question.",
+          "image_path": null,
+          "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+          "options": {
+               "A": "13",
+               "B": "34",
+               "C": "719",
+               "D": "821",
+               "E": "921"
+          },
+          "correct_answer": "A",
+          "answer_description": "Total number of balls = (8 + 7 + 6) = 21.Let E= event that the ball drawn is neither red nor green= event that the ball drawn is blue.n(E) = 7.P(E) =n(E)=7=1.n(S)213"
+     },
+     {
+          "direction": "Direction (Q.No. 18)Find the odd man out.",
+          "image_path": null,
+          "question": "3, 5, 7, 12, 17, 19",
+          "options": {
+               "A": "19",
+               "B": "17",
+               "C": "5",
+               "D": "12"
+          },
+          "correct_answer": "D",
+          "answer_description": "Each of the numbers is a prime number except 12."
+     },
+     {
+          "direction": "Direction (Q.No. 19)Find out the wrong number in the given sequence of numbers.",
+          "image_path": null,
+          "question": "6, 13, 18, 25, 30, 37, 40",
+          "options": {
+               "A": "25",
+               "B": "30",
+               "C": "37",
+               "D": "40"
+          },
+          "correct_answer": "D",
+          "answer_description": "The differences between two successive terms from the beginning are 7, 5, 7, 5, 7, 5.So, 40 is wrong."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Find out the wrong number in the series.",
+          "image_path": null,
+          "question": "3, 7, 15, 39, 63, 127, 255, 511",
+          "options": {
+               "A": "7",
+               "B": "15",
+               "C": "39",
+               "D": "63",
+               "E": "127"
+          },
+          "correct_answer": "C",
+          "answer_description": "Go on multiplying 2 and adding 1 to get the next number.So, 39 is wrong."
+     }
+]

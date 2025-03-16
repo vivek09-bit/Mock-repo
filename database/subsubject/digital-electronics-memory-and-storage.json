@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many address bits are needed to select all memory locations in the 2118 16K × 1 RAM?",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "14",
+            "D": "16"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The check sum method of testing a ROM:",
+        "options": {
+            "A": "indicates if the data in more than one memory location is incorrect.",
+            "B": "provides a means for locating and correcting data errors in specific memory locations.",
+            "C": "allows data errors to be pinpointed to a specific memory location.",
+            "D": "simply indicates that the contents of the ROM are incorrect."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Refer to the given figures (a) and (b). A logic analyzer is used to check the circuit in figure (a) and displays the waveforms shown in figure (b). The actual analyzer display shows all four data outputs,Q0-Q3. The analyzer's cursor is placed at position X and all four of the data output lines show a LOW level output. What is wrong, if anything, with the circuit?",
+        "options": {
+            "A": "Nothing is wrong, according to the display. The outputs are in the open state and should show zero output voltage.",
+            "B": "The circuit is in the READ mode and the outputs,Q0-Q3, should reflect the contents of the memory at that address. The chip is defective; replace the chip.",
+            "C": "The circuit is in themode and should be writing the contents of the selected address toQ0–Q3.",
+            "D": "TheQ0–Q3 lines can be either LOW or HIGH, since the chip is in the tristate mode in which case their level is unpredictable."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the meaning of RAM, and what is its primary role?",
+        "options": {
+            "A": "Readily Available Memory; it is the first level of memory used by the computer in all of its operations.",
+            "B": "Random Access Memory; it is memory that can be reached by any sub- system within a computer, and at any time.",
+            "C": "Random Access Memory; it is the memory used for short-term temporary data storage within the computer.",
+            "D": "Resettable Automatic Memory; it is memory that can be used and then automatically reset, or cleared, after being read from or written to."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The storage element for a static RAM is the ________.",
+        "options": {
+            "A": "diode",
+            "B": "resistor",
+            "C": "capacitor",
+            "D": "flip-flop"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

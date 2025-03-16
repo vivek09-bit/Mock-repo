@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the peak value of a household appliance that uses a 230 V ac source?",
+        "options": {
+            "A": "163 V",
+            "B": "230 V",
+            "C": "325 V",
+            "D": "480 V"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the waveform period difference between the 60 Hz electricity used in this country and the 50 Hz used in Europe?",
+        "options": {
+            "A": "3 ms",
+            "B": "16 ms",
+            "C": "4 ms",
+            "D": "20 ms"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Test equipment selection enables the technician to both generate signals and:",
+        "options": {
+            "A": "change circuit conditions",
+            "B": "inject signals",
+            "C": "sense circuit conditions",
+            "D": "change signal frequencies"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is ac current transfer more effective than dc current transfer over long distances?",
+        "options": {
+            "A": "due to the height of power lines",
+            "B": "due to the use of ac generators",
+            "C": "due to step-up and step-down transformers reducing I2R losses",
+            "D": "due to very high voltages"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A sine wave reaches maximum positive voltage at:",
+        "options": {
+            "A": "90°",
+            "B": "0°",
+            "C": "–90°",
+            "D": "360°"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

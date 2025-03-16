@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will a 1F capacitor store?",
+        "options": {
+            "A": "one coulomb of charge",
+            "B": "6.24 x 1012electrons",
+            "C": "one volt",
+            "D": "oneA of current"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In an RC circuit, true power (PR) equals:",
+        "options": {
+            "A": "",
+            "B": "VS× I",
+            "C": "I2R",
+            "D": "VT× RT"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the power factor if the apparent power of a circuit is 5 W, while the true power is 4 W?",
+        "options": {
+            "A": "0.0 W",
+            "B": "0.8 W",
+            "C": "1.0 W",
+            "D": "1.25 W"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the reactive power of a circuit is 50 mW while the apparent power is 64 mW, then what is the true power of the circuit?",
+        "options": {
+            "A": "14 mW",
+            "B": "36 mW",
+            "C": "40 mW",
+            "D": "114 mW"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:",
+        "options": {
+            "A": "81 min.",
+            "B": "108 min.",
+            "C": "144 min.",
+            "D": "192 min."
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the slower pipe alone fill the tank inxminutes.Then, faster pipe will fill it inxminutes.31+3=1xx364=1x36x= 144 min."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?",
+        "options": {
+            "A": "15 min",
+            "B": "20 min",
+            "C": "27.5 min",
+            "D": "30 min"
+        },
+        "correct_answer": "D",
+        "answer_description": "Part filled by (A + B) in 1 minute =1+1=1.604024Suppose the tank is filled inxminutes.Then,x1+1= 122440xx1= 1215x= 30 min."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A tap can fill a tank in 6 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?",
+        "options": {
+            "A": "3 hrs 15 min",
+            "B": "3 hrs 45 min",
+            "C": "4 hrs",
+            "D": "4 hrs 15 min"
+        },
+        "correct_answer": "B",
+        "answer_description": "Time taken by one tap to fillhalf of the tank= 3 hrs.Part filled by the four taps in 1 hour =4 x1=2.63Remaining part =1 -1=1.222:1::1 :x32x=1x 1 x3=3hoursi.e.,45 mins.224So, total time taken = 3 hrs. 45 mins."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in:",
+        "options": {
+            "A": "6 hours",
+            "B": "62hours3",
+            "C": "7 hours",
+            "D": "71hours2"
+        },
+        "correct_answer": "C",
+        "answer_description": "(A + B)'s 1 hour's work =1+1=9=3.12156020(A + C)'s  hour's work =1+1=8=2.12206015Part filled in 2 hrs =3+2=17.201560Part filled in 6 hrs =3 x17=17.6020Remaining part =1 -17=3.2020Now, it is the turn of A and B and3part is filled by A and B in 1 hour.20Total time taken to fill the tank = (6 + 1) hrs = 7 hrs."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:",
+        "options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16"
+        },
+        "correct_answer": "C",
+        "answer_description": "Part filled in 2 hours =2=163Remaining part =1 -1=2.33(A + B)'s 7 hour's work =23(A + B)'s 1 hour's work =221C's 1 hour's work = { (A + B + C)'s 1 hour's work } - { (A + B)'s 1 hour's work }=1-2=162114C alone can fill the tank in 14 hours."
+    }
+]

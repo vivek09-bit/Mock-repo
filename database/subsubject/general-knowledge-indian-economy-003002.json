@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Devaluation of a currency means",
+        "options": {
+            "A": "reduction in the value of a currency vis-a-vis major internationally traded currencies",
+            "B": "permitting the currency to seek its worth in the international market",
+            "C": "fixing the value of the currency in conjunction with the movement in the value of a basket of pre-determined currencies",
+            "D": "fixing the value of currency in multilateral consultation with the IMF, the World Bank and major trading partners"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the second nationalization of commercial banks, ___ banks were nationalized.",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Since independence, both development and non-development expenditures have increased; the increase in the former being a little more than in the other. Non-development expenditure involvesinterest paymentssubsidiesdefenceirrigation",
+        "options": {
+            "A": "I, II",
+            "B": "I",
+            "C": "I, II, III",
+            "D": "II, III, IV"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Depreciation means",
+        "options": {
+            "A": "closure of a plant due to lock out",
+            "B": "closure of a plant due to labour trouble",
+            "C": "loss of equipment over time due to wear and tear",
+            "D": "destruction of a plant in a fire accident"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Deficit financing leads to inflation in general, but it can be checked if",
+        "options": {
+            "A": "government expenditure leads to increase in the aggregate supply in ratio of aggregate demand",
+            "B": "only aggregate demand is increased",
+            "C": "all the expenditure is denoted national debt payment only",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

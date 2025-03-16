@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of SQL Server cursor concurrency places an update lock on a row when the row is read?",
+        "options": {
+            "A": "READ_ONLY",
+            "B": "SCROLL_LOCK",
+            "C": "OPTIMISTIC",
+            "D": "READCOMMITTED"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the three possible types of triggers does SQL Server support?",
+        "options": {
+            "A": "INSTEAD OF only",
+            "B": "AFTER only",
+            "C": "BEFORE only",
+            "D": "INSTEAD OF and AFTER only"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a way to create and modify tables using SQL Server?",
+        "options": {
+            "A": "Write SQL code using either CREATE or ALTER SQL statements only.",
+            "B": "Use the graphical facilities of SQL Server Enterprise Manager only.",
+            "C": "Both of the two methods above will work.",
+            "D": "Neither of the two methods above will work."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With which type of SQL Server recovery model, is no logging done?",
+        "options": {
+            "A": "Differential recovery",
+            "B": "Full recovery",
+            "C": "Bulk-logged recovery",
+            "D": "Simple recovery"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL Server 2000 stored procedures can:",
+        "options": {
+            "A": "never be kept within the database.",
+            "B": "be kept within the database and invoked by application programs.",
+            "C": "be stored on the users' computer.",
+            "D": "support BEFORE, INSTEAD OF and AFTER types."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

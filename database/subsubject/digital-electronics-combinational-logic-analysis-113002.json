@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Before an SOP implementation, the expressionwould require a total of how many gates?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following waveform pattern is for a(n) ________.",
+        "options": {
+            "A": "2-input AND gate",
+            "B": "2-input OR gate",
+            "C": "Exclusive-OR gate",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Implementing the expressionwith NOR logic, we get:",
+        "options": {
+            "A": "(A)",
+            "B": "(B)",
+            "C": "(C)",
+            "D": "(D)"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 4-variable AND-OR-Invert circuit produces a 0 at its Y output. Which combination of inputs is correct?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following waveform pattern is for a(n) ________.",
+        "options": {
+            "A": "2-input AND gate",
+            "B": "2-input OR gate",
+            "C": "Exclusive-OR gate",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

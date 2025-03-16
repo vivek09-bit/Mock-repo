@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Permeability is the inverse equivalent of which electrical term?",
+        "options": {
+            "A": "Voltage",
+            "B": "Current",
+            "C": "Resistance",
+            "D": "Conductance"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which electromagnetic device usesbrushesand acommutator?",
+        "options": {
+            "A": "A speaker",
+            "B": "A dc generator",
+            "C": "A relay",
+            "D": "A solenoid"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the flux density of a magnetic field whose flux is 3000 µWb and cross-sectional area is 0.25 m2?",
+        "options": {
+            "A": "12,000T",
+            "B": "83,330 T",
+            "C": "0 T",
+            "D": "More information is needed in order to find flux density."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How much flux is there in a magnetic field when its flux density is 5000T and its cross-sectional area is 300 mm2?",
+        "options": {
+            "A": "16.67 mWb",
+            "B": "5.0Wb",
+            "C": "3.0 mWb",
+            "D": "1.5Wb"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the effects of moving a closed wire loop through a magnetic field?",
+        "options": {
+            "A": "A voltage is induced in the wire.",
+            "B": "A current is induced in the wire.",
+            "C": "The polarity across the wire depends on the direction of motion.",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

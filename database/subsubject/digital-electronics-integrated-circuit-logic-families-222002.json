@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following summarizes the important features of ECL?",
+        "options": {
+            "A": "Low noise margin, low output voltage swing, negative voltage operation, fast, and high power consumption",
+            "B": "Good noise immunity, negative logic, high frequency capability, low power dissipation, and short propagation time",
+            "C": "Slow propagation time, high frequency response, low power consumption, and high output voltage swings",
+            "D": "Poor noise immunity, positive supply voltage operation, good low frequency operation, and low power"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What must be done to interface TTL to CMOS?",
+        "options": {
+            "A": "A dropping resistor must be used on the CMOS 12 V supply to reduce it to 5 V for the TTL.",
+            "B": "As long as the CMOS supply voltage is 5 V, they can be interfaced; however, the fan-out of the TTL is limited to five CMOS gates.",
+            "C": "A 5 V Zener diode must be placed across the inputs of the TTL gates in order to protect them from the higher output voltages of the CMOS gates.",
+            "D": "A pull-up resistor must be used between the TTL output-CMOS input node andVcc; the value of RP will depend on the number of CMOS gates connected to the node."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What causes low-power Schottky TTL to use less power than the 74XX series TTL?",
+        "options": {
+            "A": "The Schottky-clamped transistor",
+            "B": "Nothing. The 74XX series uses less power.",
+            "C": "A larger value resistor",
+            "D": "Using NAND gates"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What are the major differences between the 5400 and 7400 series of ICs?",
+        "options": {
+            "A": "The 5400 series are military grade and require tighter supply voltages and temperatures.",
+            "B": "The 5400 series are military grade and allow for a wider range of supply voltages and temperatures.",
+            "C": "The 7400 series are an improvement over the original 5400s.",
+            "D": "The 7400 series was originally developed by Texas Instruments. The 5400 series was brought out by National Semiconductors after TI's patents expired, as a second supply source."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements apply to CMOS devices?",
+        "options": {
+            "A": "The devices should not be inserted into circuits with the power on.",
+            "B": "All tools, test equipment, and metal workbenches should be tied to earth ground.",
+            "C": "The devices should be stored and shipped in antistatic tubes or conductive foam.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

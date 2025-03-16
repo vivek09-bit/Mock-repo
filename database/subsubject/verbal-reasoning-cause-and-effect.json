@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:Standard of living among the middle class society is constantly going up since part of few years.Indian Economy is observing remarkable growth.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "A",
+        "answer_description": "Since the standard of living among the middle class society is constantly going up so Indian Economy is observing remarkable growth."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The meteorological Department has issued a statement mentioning deficient rainfall during monsoon in many parts of the country.The Government has lowered the revised estimated GDP growth from the level of earlier estimates.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "D",
+        "answer_description": "Both the statements I and II are effects of independent causes."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The staff of Airport Authorities called off the strike they were observing in protest against privatization.The staff of Airport Authorities went on strike anticipating a threat to their jobs.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "D",
+        "answer_description": "Both the statements I and II are effects of independent causes."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:A huge truck overturned on the middle of the road last night.The police had cordoned of entire area in the locality this morning for half of the day.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "A",
+        "answer_description": "Since a huge truck overturned on the middle of the road last night, so, the police had cordoned off the entire area in the locality last morning for half of the day."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:Importance of Yoga and exercise is being realized by all sections of the society.There is an increasing awareness about health in the society particularly among middle ages group of people.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "B",
+        "answer_description": "As the awareness about health in the society is increasing particularly among middle-aged group of people, the importance of Yoga and exercise is being realized by all sections of the society."
+    }
+]

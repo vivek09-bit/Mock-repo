@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which circuit is known as a current-to-voltage converter?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When using an OTA in a Schmitt-trigger configuration, the trigger points are controlled by",
+        "options": {
+            "A": "theIout",
+            "B": "theIBIAS",
+            "C": "theVout",
+            "D": "bothIoutandIBIAS"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Refer the given circuits. Which circuit is known as an OTA?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "This circuit is a setup for",
+        "options": {
+            "A": "an antilog amplifier",
+            "B": "a constant-current source",
+            "C": "an instrumentation amplifier",
+            "D": "an isolation amplifier"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which circuit is known as a voltage-to-current converter?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

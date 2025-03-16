@@ -1,0 +1,267 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Evaluate the following expression: 3 >6&&7>4",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A normal C++ operator that acts in special ways on newly defined data types is said to be",
+          "options": {
+               "A": "glorified",
+               "B": "encapsulated",
+               "C": "classified",
+               "D": "overloaded"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Functions that returns information about an object's state can be classified as ________",
+          "options": {
+               "A": "inspector functions",
+               "B": "mutator functions",
+               "C": "auxiliary functions",
+               "D": "manager functions"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you want only one memory location to be reserved for a class variable, no matter how many objects are instantiated, you should declare the variable as",
+          "options": {
+               "A": "static",
+               "B": "unary",
+               "C": "dynamic",
+               "D": "volatile"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Using   new   may   result   in   less _____ memory than using an array",
+          "options": {
+               "A": "wasted",
+               "B": "used",
+               "C": "RAM",
+               "D": "ROM"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is a C++ class?",
+          "options": {
+               "A": ">>",
+               "B": "read()",
+               "C": "cin",
+               "D": "iostream"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following, if any, are invalid names for a variable?",
+          "options": {
+               "A": "bankAccountNumber",
+               "B": "first_Name",
+               "C": "doubleNumber",
+               "D": "operator",
+               "E": "All of the above are valid names for variables"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To create a template class, you begin with _________",
+          "options": {
+               "A": "the template definition",
+               "B": "the keyword class",
+               "C": "the function definitions",
+               "D": "the keyword definition"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An exception specification begins with the keyword  _____",
+          "options": {
+               "A": "exception",
+               "B": "try",
+               "C": "throw",
+               "D": "catch"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In C++, the address operator is the following symbol  _____",
+          "options": {
+               "A": ">>",
+               "B": "&",
+               "C": "*",
+               "D": "!"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true?",
+          "options": {
+               "A": "iostream is derived from istream",
+               "B": "iostream is derived from ostream",
+               "C": "ostream is derived from iostream",
+               "D": "ostream is derived from istream"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In the C language, the character type of constant is delimited by using",
+          "options": {
+               "A": "single quotes",
+               "B": "double quotes",
+               "C": "parenthesis",
+               "D": "#",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "One of the logical operators in the C language is represented by the symbol",
+          "options": {
+               "A": "AND",
+               "B": "&&",
+               "C": ">=",
+               "D": "<=",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is true?",
+          "options": {
+               "A": "Coincidental cohesion is stronger than procedural cohesion",
+               "B": "Logical cohesion is stronger than coincidental cohesion",
+               "C": "Sequential cohesion is weaker than temporal cohesion",
+               "D": "The weakest cohesion is functional"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A pointer is",
+          "options": {
+               "A": "the address of a variable",
+               "B": "an indication of the variable to be accessed next",
+               "C": "a variable for storing addresses",
+               "D": "the data type of an address variable"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Programmers prefer to declare almost all variables _____",
+          "options": {
+               "A": "at the beginning of each function",
+               "B": "globally",
+               "C": "on one line",
+               "D": "with cryptic names"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A function's single most important role is to",
+          "options": {
+               "A": "give a name to a block of code",
+               "B": "reduce program size",
+               "C": "accept arguments and provide a return value",
+               "D": "help organize a program into conceptual units",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The main difference in operation between an 'if statement and a 'while' statement is",
+          "options": {
+               "A": "the 'while' loop body is executed",
+               "B": "the body of the 'while' statement may be executed many times, the body of the 'if statements only once",
+               "C": "the     conditional      expression following    the    keyboard    is evaluated differently",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The 'break' statement is used to exist from",
+          "options": {
+               "A": "a do loop",
+               "B": "a for loop",
+               "C": "a switch statement",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following creates a String named constant called partNo, whose value is AB45?",
+          "options": {
+               "A": "const char[4] partNo = \"AB45\";",
+               "B": "const char[5] partNo = 'AB45';",
+               "C": "const char[5] partNo = \"AB45\";",
+               "D": "const char partNo[5] = \"AB45\";",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

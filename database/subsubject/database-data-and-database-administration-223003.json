@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the preferred way to recover a database after a transaction in progress terminates abnormally?",
+        "options": {
+            "A": "Rollback",
+            "B": "Rollforward",
+            "C": "Switch to duplicate database",
+            "D": "Reprocess transactions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning open-source DBMS?",
+        "options": {
+            "A": "Is free or nearly free database software whose source code is publicly available",
+            "B": "Is free or nearly free database software whose source code is not publicly available",
+            "C": "Is not competitive against PC-oriented packages and is fully SQL compliant",
+            "D": "Is competitive against PC-oriented packages and is not fully SQL compliant"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Concurrency control is important for which of the following reasons?",
+        "options": {
+            "A": "To ensure data integrity when updates occur to the database in a multiuser environment",
+            "B": "To ensure data integrity when updates occur to the database in a single-user environment",
+            "C": "To ensure data integrity while reading data occurs to the database in a multiuser environment",
+            "D": "To ensure data integrity while reading data occurs to the database in a single-user environment"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the preferred way to recover a database after a system failure?",
+        "options": {
+            "A": "Rollback",
+            "B": "Rollforward",
+            "C": "Switch to duplicate database",
+            "D": "Reprocess transactions"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A data warehouse administrator is concerned with which of the following?",
+        "options": {
+            "A": "The time to make a decision but not the typical roles of a database administrator",
+            "B": "The time to make a decision and the typical roles of a database administrator",
+            "C": "The typical roles of a data administrator and redesigning existing applications",
+            "D": "The typical roles of a database administrator and redesigning existing applications"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

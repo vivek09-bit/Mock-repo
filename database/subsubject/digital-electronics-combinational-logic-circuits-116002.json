@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert BCD 0001 0010 0110 to binary.",
+        "options": {
+            "A": "1111110",
+            "B": "1111101",
+            "C": "1111000",
+            "D": "1111111"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 74HC147 priority encoder has ten active-LOW inputs and four active-LOW outputs. What would be the state of the four outputs if inputs 4 and 5 are LOW and all other inputs are HIGH?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Convert BCD 0001 0111 to binary.",
+        "options": {
+            "A": "10101",
+            "B": "10010",
+            "C": "10001",
+            "D": "11000"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the figures in figure (a to d) is equivalent to figure (e)?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many data select lines are required for selecting eight inputs?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

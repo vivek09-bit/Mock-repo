@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An intrusion detection system does not perform which of the following?",
+        "options": {
+            "A": "Tries to identify attempts to hack into a computer system.",
+            "B": "May monitor packets passing over the network.",
+            "C": "May transmit message packets to the correct destination.",
+            "D": "Set up deception systems that attempt to trap hackers."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Features of XML include which of the following?",
+        "options": {
+            "A": "The tags are used to describe the appearance of the content.",
+            "B": "Addresses the structuring and manipulation of the data involved.",
+            "C": "Governs the display of information in a Web browser.",
+            "D": "All of the above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is Hypertext Transfer Protocol (HTTP)?",
+        "options": {
+            "A": "The protocol to copy files between computers",
+            "B": "The transfer protocol to transfer Web pages to a browser",
+            "C": "The database access protocol for SQL statements",
+            "D": "The hardware/software protocol that limits access to company data"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning Web services standards?",
+        "options": {
+            "A": "Led by only one group.",
+            "B": "Helped by cooperation between companies.",
+            "C": "Not necessary at this time.",
+            "D": "Important so that the web can flourish."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Common Gateway Interface (CGI) is which of the following?",
+        "options": {
+            "A": "An interface that accepts and returns data that may be written in SQL.",
+            "B": "An interface that accepts and returns data that may be written in any language that produces an executable file.",
+            "C": "A small program that executes within another application and is stored on the server.",
+            "D": "A small program that executes within another application and is stored on the client."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

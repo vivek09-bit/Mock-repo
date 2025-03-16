@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:All roads are waters. Some waters are boats.Conclusions:Some boats are roads.All waters are boats.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "The first premise is A type and distributes the subject. So, the middle term 'waters' which forms its predicate, is not distributed. The second premise is I type and does not distribute either subject or predicate. So, the middle term 'waters' forming its subject is not distributed. Since the middle term is not distributed even once in the premises, no definite conclusion follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:No bat is ball. No ball is wicket.Conclusions:No bat is wicket.All wickets are bats.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since both the premises are negative, no definite conclusion follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:All flowers are trees. No fruit is tree.Conclusions:No fruit is flower.Some trees are flowers.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "As discussed above, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No flower is fruit'. I is the converse of this conclusion and thus it follows. II is the converse of the first premise and so it also holds."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Every minister is a student. Every student is inexperienced.Conclusions:Every minister is inexperienced.Some inexperienced are students.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "'Every' is equivalent to 'All'. Thus, since both the premises are universal and affirmative, the conclusion must be universal affirmative and should not contain the middle term. So, I follows. II is the converse of the second premise and thus it also holds."
+    },
+    {
+        "direction": "Directions to SolveIn each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:All roads are poles. No pole is a house.Conclusions:Some roads are houses.Some houses are poles.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since both the premises are universal and one premise is negative, the conclusion must be universal negative. So, neither I nor II follows."
+    }
+]

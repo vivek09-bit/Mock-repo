@@ -1,0 +1,281 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A problem's _____ will answer the question, \"What information will the computer need to know in order to either print or  display the output times?\"",
+          "options": {
+               "A": "Input",
+               "B": "Output",
+               "C": "Processing",
+               "D": "Purpose",
+               "E": "None of the  above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The primary tool used in structured design is a:",
+          "options": {
+               "A": "data-flow diagram",
+               "B": "module",
+               "C": "structure chart",
+               "D": "program flowchart",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "System Study involves",
+          "options": {
+               "A": "study of an existing system",
+               "B": "documenting the existing system.",
+               "C": "identifying current deficiencies and establishing new goals",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The     mistake,     committed     by interchanging two digits in a numeric held, during data entry, is called",
+          "options": {
+               "A": "transposition error",
+               "B": "transcription error",
+               "C": "Beta testing error",
+               "D": "Alpha testing error",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Most algorithms follow the format of",
+          "options": {
+               "A": "Entering the input items, then displaying the input items, and then processing the output items",
+               "B": "Entering the input items, then processing the output items, and then displaying the output items",
+               "C": "Entering the input items, then processing the input items, and then displaying the output items",
+               "D": "Entering the output items, then displaying the output items, and then processing the output items",
+               "E": "Entering the output items, then processing the output items, and then displaying the output items"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which   of   the   following   is   not considered a tool at the system Design phase?",
+          "options": {
+               "A": "Data-Flow Diagram",
+               "B": "Decision Table",
+               "C": "Pie chart",
+               "D": "System Flowchart",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A system design aid should primarily",
+          "options": {
+               "A": "help   analyse   both   data   and activities",
+               "B": "help in documentation",
+               "C": "generate code",
+               "D": "using a graphical user interface",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A checksum digit is used for detecting Errors in",
+          "options": {
+               "A": "Data transmission",
+               "B": "Arithmetic operations",
+               "C": "Logical operations",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Structured Programming involves",
+          "options": {
+               "A": "decentralisation of program activity",
+               "B": "functional modularisation",
+               "C": "localisation of errors",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The conditions immediately outside a system is called",
+          "options": {
+               "A": "The boundary",
+               "B": "The interface",
+               "C": "The environment",
+               "D": "The protocols",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To avoid errors in transcription and transposition, during data entry, the System Analyst should",
+          "options": {
+               "A": "provide for a check digit",
+               "B": "provide for a hash totals",
+               "C": "provide batch totals",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following' is NOT a characteristic of good test data?",
+          "options": {
+               "A": "should be comprehensive",
+               "B": "users do not participate at this preliminary stage",
+               "C": "every statement should be executed",
+               "D": "expected output from the module's execution should be determined manually",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "System Specifications are used to",
+          "options": {
+               "A": "describe system flows",
+               "B": "get an accurate picture of the system",
+               "C": "avoids ambiguity",
+               "D": "Ail of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A turnkey package includes",
+          "options": {
+               "A": "software",
+               "B": "hardware",
+               "C": "training",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Data dictionary contains detail of",
+          "options": {
+               "A": "data structures",
+               "B": "data flows",
+               "C": "data stores",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The current trend, of computer usage is mainly interactive; the trend, earlier, was",
+          "options": {
+               "A": "batch processing",
+               "B": "parallel processing",
+               "C": "random processing",
+               "D": "multi-task processing",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not true of the conversion phase of the development life cycle?",
+          "options": {
+               "A": "the user and systems personnel must work closely together",
+               "B": "steps must be taken to phase out the old system",
+               "C": "documentation should be emphasized",
+               "D": "the non machine components of the system should be considered",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Graphic representation of the control logic of processing functions or modules representing a system, is known as:",
+          "options": {
+               "A": "Structured analysis",
+               "B": "Structured chart",
+               "C": "Structured English",
+               "D": "System Flow chart",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "At the time of system study, flowcharts are drawn using",
+          "options": {
+               "A": "non-standard symbols",
+               "B": "general symbols",
+               "C": "abbreviated symbols",
+               "D": "specific symbols",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The structure chart is",
+          "options": {
+               "A": "a document of what has to be accomplished",
+               "B": "a statement of information processing requirement",
+               "C": "a hierarchical partitioning of the program",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

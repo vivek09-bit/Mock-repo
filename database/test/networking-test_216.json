@@ -1,0 +1,171 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the purpose of flow control?",
+          "options": {
+               "A": "To ensure that data is retransmitted if an acknowledgment is not received.",
+               "B": "To reassemble segments in the correct order at the destination device.",
+               "C": "To provide a means for the receiver to govern the amount of data sent by the sender.",
+               "D": "To regulate the size of each segment."
+          },
+          "correct_answer": "C",
+          "answer_description": "Flow control allows the receiving device to control the transmitter so the receiving device's buffer does not overflow."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements describe the IP address 10.16.3.65/23?The subnet address is 10.16.3.0 255.255.254.0.The lowest host address in the subnet is 10.16.2.1 255.255.254.0.The last valid host address in the subnet is 10.16.2.254 255.255.254.0.The broadcast address of the subnet is 10.16.3.255 255.255.254.0.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1, 2 and 4",
+               "D": "2, 3 and 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "The mask 255.255.254.0 (/23) used with a Class A address means that there are 15 subnet bits and 9 host bits. The block size in the third octet is 2 (256 - 254). So this makes the subnets in the interesting octet 0, 2, 4, 6, etc., all the way to 254. The host 10.16.3.65 is in the 2.0 subnet. The next subnet is 4.0, so the broadcast address for the 2.0 subnet is 3.255. The valid host addresses are 2.1 through 3.254."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You type the following command into the router and receive the following output:Router#show serial 0/0\n        ^\n% Invalid input detected at '^' marker.Why was this error message displayed?",
+          "options": {
+               "A": "You need to be in privileged mode.",
+               "B": "You cannot have a space between serial and 0/0.",
+               "C": "The router does not have a serial0/0 interface.",
+               "D": "Part of the command is missing."
+          },
+          "correct_answer": "D",
+          "answer_description": "You can view the interface statistics from user mode, but the command isshow interface serial 0/0."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You copy a configuration from a network host to a router's RAM. The configuration looks correct, yet it is not working at all. What could the problem be?",
+          "options": {
+               "A": "You copied the wrong configuration into RAM.",
+               "B": "You copied the configuration into flash memory instead.",
+               "C": "The copy did not override the shutdown command in running-config.",
+               "D": "The IOS became corrupted after the copy command was initiated."
+          },
+          "correct_answer": "C",
+          "answer_description": "Since the configuration looks correct, you probably didn't screw up the copy job. However, when you perform a copy from a network host to a router, the interfaces are automatically shut down and need to be manually enabled with theno shutdowncommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have the following routing table. Which of the following networks will not be placed in the neighbor routing table?R    192.168.30.0/24 [120/1] via 192.168.40.1, 00:00:12, Serial0\nC    192.168.40.0/24 is directly connected, Serial0\n     172.16.0.0/24 is subnetted, 1 subnets\nC    172.16.30.0 is directly connected, Loopback0\nR    192.168.20.0/24 [120/1] via 192.168.40.1, 00:00:12, Serial0\nR    10.0.0.0/8 [120/15] via 192.168.40.1, 00:00:07, Serial0\nC    192.168.50.0/24 is directly connected, Ethernet0",
+          "options": {
+               "A": "172.16.30.0",
+               "B": "192.168.30.0",
+               "C": "10.0.0.0",
+               "D": "All of them will be placed in the neighbor routing table."
+          },
+          "correct_answer": "C",
+          "answer_description": "The network 10.0.0.0 cannot be placed in the next router's routing table because it already is at 15 hops. One more hop would make the route 16 hops, and that is not valid in RIP networking."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need the IP address of the devices with which the router has established an adjacency. Also, the retransmit interval and the queue counts for the adjacent routers need to be checked. What command will display the required information?",
+          "options": {
+               "A": "show ip eigrp adjacency",
+               "B": "show ip eigrp topology",
+               "C": "show ip eigrp interfaces",
+               "D": "show ip eigrp neighbors"
+          },
+          "correct_answer": "D",
+          "answer_description": "Theshow ip eigrp neighborscommand allows you to check the IP addresses as well as the retransmit interval and queue counts for the neighbors that have established an adjacency."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What are reasons for creating OSPF in a hierarchical design?To decrease routing overheadTo speed up convergenceTo confine network instability to single areas of the networkTo make configuring OSPF easier",
+          "options": {
+               "A": "1, 2 and 3",
+               "B": "3 only",
+               "C": "3 and 4",
+               "D": "2, 3 nd 4"
+          },
+          "correct_answer": "A",
+          "answer_description": "OSPF is created in a hierarchical design, not a flat design like RIP. This decreases routing overhead, speeds up convergence, and confines network instability to a single area of the network."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command will display the forward/filter table?",
+          "options": {
+               "A": "show mac filter",
+               "B": "show run",
+               "C": "show mac address-table",
+               "D": "show mac filter-table"
+          },
+          "correct_answer": "C",
+          "answer_description": "The commandshow mac address-tabledisplays the forward/filter table on the switch."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a switch receives a frame and the source MAC address is not in the MAC address table but the destination address is, what will the switch do with the frame?",
+          "options": {
+               "A": "Discard it and send an error message back to the originating host",
+               "B": "Flood the network with the frame",
+               "C": "Add the source address and port to the MAC address table and forward the frame out the destination port",
+               "D": "Add the destination to the MAC address table and then forward the frame"
+          },
+          "correct_answer": "C",
+          "answer_description": "Since the source MAC address is not in the MAC address table, the switch will add the source address and the port it is connected to into the MAC address table and then forward the frame to the outgoing port."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will show you all the translations active on your router?",
+          "options": {
+               "A": "show ip nat translations",
+               "B": "show ip nat statistics",
+               "C": "debug ip nat",
+               "D": "clear ip nat translations *"
+          },
+          "correct_answer": "A",
+          "answer_description": "The commandshow ip nat translationswill show you the translation table containing all the active NAT entries."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will show you the summary of the NAT configuration?",
+          "options": {
+               "A": "show ip nat translations",
+               "B": "show ip nat statistics",
+               "C": "debug ip nat",
+               "D": "clear ip nat translations *"
+          },
+          "correct_answer": "B",
+          "answer_description": "Theshow ip nat statisticscommand displays a summary of the NAT configuration as well as counts of active translation types, hits to an existing mapping, misses (causing an attempt to create a mapping), and expired translations."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command would you place on interface on a private network?",
+          "options": {
+               "A": "ip nat inside",
+               "B": "ip nat outside",
+               "C": "ip outside global",
+               "D": "ip inside local"
+          },
+          "correct_answer": "A",
+          "answer_description": "As in access-lists, you must configure your interfaces before NAT will provide any translations. On the inside networks you would use the commandip nat inside. On the outside interface, you will use the commandip nat outside."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have a Cisco mesh network. What protocol allows multiple APs to connect with many redundant connections between nodes?",
+          "options": {
+               "A": "LWAPP",
+               "B": "AWPP",
+               "C": "STP",
+               "D": "IEEE"
+          },
+          "correct_answer": "B",
+          "answer_description": "Each AP in a mesh network runs the Adaptive Wireless Path Protocol (AWPP). This protocol allows RAPs to communicate with each other to determine the best path back to the wired network via the RAP."
+     }
+]

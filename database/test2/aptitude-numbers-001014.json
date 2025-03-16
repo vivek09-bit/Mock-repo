@@ -1,0 +1,71 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following numbers is divisible by each one of 3, 7, 9 and 11 ?",
+        "options": {
+            "A": "639",
+            "B": "2079",
+            "C": "3791",
+            "D": "37911",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "639 is not divisible by 72079 is divisible by each of 3, 7, 9, 11."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which natural number is nearest to 9217, which is completely divisible by 88 ?",
+        "options": {
+            "A": "9152",
+            "B": "9240",
+            "C": "9064",
+            "D": "9184",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "On dividing we get, \n\n 88) 9217 (104\n     88\n     ----\n      417\n      352\n      ----\n       65\n      ----\n  \n Therefore, Required number = 9217 + (88 - 65) // Because (88 - 65) < 65.\n                            = 9217 + 23\n                            = 9240."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(4300731) - ? = 2535618",
+        "options": {
+            "A": "1865113",
+            "B": "1775123",
+            "C": "1765113",
+            "D": "1675123",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let 4300731 -x= 2535618Thenx, = 4300731 - 2535618  =  1765113"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "nis a whole number which when divided by 4 gives 3 as remainder. What will be the remainder when 2nis divided by 4 ?",
+        "options": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "0"
+        },
+        "correct_answer": "B",
+        "answer_description": "Letn= 4q+ 3. Then 2n= 8q+ 6   = 4(2q+ 1 ) + 2.Thus, when 2nis divided by 4, the remainder is 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(489 + 375)2- (489 - 375)2= ?(489 x 375)",
+        "options": {
+            "A": "144",
+            "B": "864",
+            "C": "2",
+            "D": "4",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given Exp. =(a+b)2- (a-b)2=4ab= 4abab"
+    }
+]

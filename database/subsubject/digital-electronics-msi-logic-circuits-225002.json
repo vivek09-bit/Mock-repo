@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 16-input multiplexer is to be used to perform parallel-to-serial data conversion. Which of the following counters would be required to provide the data select inputs?",
+        "options": {
+            "A": "MOD 8",
+            "B": "MOD 16",
+            "C": "MOD 4",
+            "D": "MOD 2"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A breadboard-circuit design using a BCD-to-decimal decoder has a problem wherein the operation of the system is erratic. The technician uses his scope to examine the waveforms throughout the system and doesn't really see any problems. While he's scratching his head, what helpful advice can you offer him as to what might be wrong and what to do to correct the problem?",
+        "options": {
+            "A": "The decoder is thermally intermittent; replace it.",
+            "B": "There is probably a bad connection on the wire wrap protoboard; recheck the wiring.",
+            "C": "Glitches are probably the culprit; strobe the decoder.",
+            "D": "The decoder is thermally intermittent and must be replaced; or there is probably a bad connection on the wire wrap protoboard, and the wiring must be rechecked."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Output 5 of a 74138 octal decoder is selected when it is enabled by a data input of:",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is the number one (1) indicated on the outputs of a 7447 BCD-to-seven-segment code converter?",
+        "options": {
+            "A": "Segment a is active.",
+            "B": "Segment b is active.",
+            "C": "Segments a and b are active.",
+            "D": "Segments b and c are active."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For the input values (A0–A3,B0–B3, Data Select = 1) given for the circuit  given below, what will be indicated on the displays?",
+        "options": {
+            "A": "A= 0,B= 5",
+            "B": "A= 5,B= 0",
+            "C": "A= 6,B= 0",
+            "D": "A= 0,B= 6"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the average voltage when a rectangular wave's base line voltage is 20 V, its peak-to-peak voltage is 50 V, and its duty cycle is 20%?",
+        "options": {
+            "A": "26 V",
+            "B": "30 V",
+            "C": "40 V",
+            "D": "45 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

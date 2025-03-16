@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which constraint requires that the binary relationship indicate all combinations that must appear in the ternary relationship?",
+        "options": {
+            "A": "MUST COVER",
+            "B": "MUST NOT",
+            "C": "Both of the above.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Each entity is represented as a(n):",
+        "options": {
+            "A": "tuple.",
+            "B": "table.",
+            "C": "attribute.",
+            "D": "file."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For every relationship, how many possible sets of minimum cardinalities are there?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Six"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a relationship has a cascade updates constraint, then if ________ in the parent table is changed, then the same change will automatically be made to any corresponding foreign key value.",
+        "options": {
+            "A": "the primary key",
+            "B": "any alternate key",
+            "C": "a surrogate key",
+            "D": "a foreign key"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following column properties would be used to specify that cells in a column must contain a monetary value that is less than another monetary value in the same row?",
+        "options": {
+            "A": "Null status",
+            "B": "Data type",
+            "C": "Default value",
+            "D": "Data constraints"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

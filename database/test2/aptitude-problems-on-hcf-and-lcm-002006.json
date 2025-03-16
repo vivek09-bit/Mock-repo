@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:",
+        "options": {
+            "A": "123",
+            "B": "127",
+            "C": "235",
+            "D": "305"
+        },
+        "correct_answer": "B",
+        "answer_description": "Required number = H.C.F. of (1657 - 6) and (2037 - 5)= H.C.F. of 1651 and 2032 = 127."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following has the most number of divisors?",
+        "options": {
+            "A": "99",
+            "B": "101",
+            "C": "176",
+            "D": "182"
+        },
+        "correct_answer": "C",
+        "answer_description": "99 = 1 x 3 x 3 x 11101 = 1 x 101176 = 1 x 2 x 2 x 2 x 2 x 11182 = 1 x 2 x 7 x 13So, divisors of 99 are 1, 3, 9, 11, 33, .99Divisors of 101 are 1 and 101Divisors of 176 are 1, 2, 4, 8, 11, 16, 22, 44, 88 and 176Divisors of 182 are 1, 2, 7, 13, 14, 26, 91 and 182.Hence, 176 has the most number of divisors."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is:",
+        "options": {
+            "A": "28",
+            "B": "32",
+            "C": "40",
+            "D": "64"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the numbers be 2xand 3x.Then, their L.C.M. = 6x.So, 6x= 48 orx= 8.The numbers are 16 and 24.Hence, required sum = (16 + 24) = 40."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The H.C.F. of9,12,18and21is:10253540",
+        "options": {
+            "A": "35",
+            "B": "2525",
+            "C": "31400",
+            "D": "63700"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required H.C.F. =H.C.F. of 9, 12, 18, 21=3L.C.M. of 10, 25, 35, 401400"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the sum of two numbers is 55 and the H.C.F. and L.C.M. of these numbers are 5 and 120 respectively, then the sum of the reciprocals of the numbers is equal to:",
+        "options": {
+            "A": "55601",
+            "B": "60155",
+            "C": "11120",
+            "D": "12011"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the numbers beaandb.Then,a+b= 55 andab= 5 x 120 = 600.The required sum =1+1=a+b=55=11abab600120"
+    }
+]

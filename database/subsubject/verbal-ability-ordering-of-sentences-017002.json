@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+        "image_path": null,
+        "question": "S1:Smoke oozed up between the planks.P :Passengers were told to be ready to quit the ship.Q :The rising gale fanned the smouldering fire.R :Everyone now knew there was fire on board.S :Flames broke out here and there.S6:Most people bore the shock bravely.The Proper sequence should be:",
+        "options": {
+            "A": "SRQP",
+            "B": "QPSR",
+            "C": "RSPQ",
+            "D": "QSRP"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+        "image_path": null,
+        "question": "S1:You know my wife, Madhavi, always urged me to give up smoking.P :I really gave it up.Q :And so When I went to jail I said to myself I really must give it up, if for no other reason than of being self-reliant.R :When I emerged from jail, I wanted to tell her of my great triumph.S :But when I met her, there she was with a packet of cigarettes.S6:poor girl!.The Proper sequence should be:",
+        "options": {
+            "A": "PSRQ",
+            "B": "SPQR",
+            "C": "QPRS",
+            "D": "RSPQ"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+        "image_path": null,
+        "question": "S1:When a satellite is launched, the rocket begins by going slowly upwards through the air.P :However, the higher it goes, the less air it meets.Q :As the rocket goes higher, it travels faster.R :For the atmosphere becomes thinner.S :As a result there is less friction.S6:Consequently, the rocket still does not become too hot.The Proper sequence should be:",
+        "options": {
+            "A": "QPRS",
+            "B": "QSPR",
+            "C": "PQRS",
+            "D": "PQSR"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+        "image_path": null,
+        "question": "S1:A father having offered to take the baby out in a perambulator, was tempted by the sunny morning to slip into a pub for a glass of beer.P :Indignant at her husband's behaviour, she decided to teach him a lesson.Q :She wheeled away the pram.R :A little later, his wife came by, where to her horror, she discovered her sleeping baby.S :Leaving the pram outside, he disappeared inside the bar.S6:She waited for him, anticipating the white face and quivering lips which would soon appear with the news that the baby had been stolen.The Proper sequence should be:",
+        "options": {
+            "A": "SRPQ",
+            "B": "RQPS",
+            "C": "SPQR",
+            "D": "PQSR"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+        "image_path": null,
+        "question": "S1:The city is almost a slum and stinks most of time.P :The slush on the road did not deter them.Q :The occasional slips and falls were considered a small price to pay for the trip.R :They were excited, fascinated by the sight of fresh snow on the roads.S :Even so, it looked beautiful to tourists of various categories.S6:But some visitors came away with the unforgettable sight of young labours scantily clad.The Proper sequence should be:",
+        "options": {
+            "A": "RQPS",
+            "B": "QPRS",
+            "C": "RSQP",
+            "D": "SPQR"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

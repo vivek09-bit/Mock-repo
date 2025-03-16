@@ -1,0 +1,266 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Do you know",
+               "B": "to play",
+               "C": "the guitar?",
+               "D": "No error."
+          },
+          "correct_answer": "B",
+          "answer_description": "how to play"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "After leaving his office",
+               "B": "he went directly",
+               "C": "to a restaurant.",
+               "D": "No error."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 4)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "Ramesh did not like",
+               "B": "leaving his old parents alone in the house",
+               "C": "but he had no alternative",
+               "D": "as he has to go out to work.",
+               "E": "No error."
+          },
+          "correct_answer": "D",
+          "answer_description": "as he had to go out to work"
+     },
+     {
+          "direction": "Direction (Q.Nos. 3 - 4)Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'E'. (Ignore the errors of punctuation, if any).",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "The observers felt that",
+               "B": "the stronger team had to face",
+               "C": "defeat because the players",
+               "D": "didn't  play whole hearted.",
+               "E": "No error."
+          },
+          "correct_answer": "D",
+          "answer_description": "didn't play whole heartedly"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 8)In the following the questions choose the word which best expresses the meaning of the given word.",
+          "image_path": null,
+          "question": "RESCUE",
+          "options": {
+               "A": "Command",
+               "B": "Help",
+               "C": "Defence",
+               "D": "Safety"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 8)In the following the questions choose the word which best expresses the meaning of the given word.",
+          "image_path": null,
+          "question": "AWAKENED",
+          "options": {
+               "A": "Enlightened",
+               "B": "Realised",
+               "C": "Shook",
+               "D": "Waken"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 8)In the following the questions choose the word which best expresses the meaning of the given word.",
+          "image_path": null,
+          "question": "INSOLVENT",
+          "options": {
+               "A": "Poor",
+               "B": "Bankrupt",
+               "C": "Penniless",
+               "D": "Broke"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 8)In the following the questions choose the word which best expresses the meaning of the given word.",
+          "image_path": null,
+          "question": "RECKLESS",
+          "options": {
+               "A": "Courageous",
+               "B": "Rash",
+               "C": "Bold",
+               "D": "Daring"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 9)In each of the sentences given below a word is printed in bold. Below it four choices are given. Pick up the one which is most nearly the same in meaning as the word printer in bold and can replaces it without altering the meaning of the sentence.",
+          "image_path": null,
+          "question": "Swift is known in the world of letters for hismisogynism.",
+          "options": {
+               "A": "hate for mankind",
+               "B": "hate for womankind",
+               "C": "love for the reasonable",
+               "D": "love for the womankind"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 12)In the following questions choose the word which is the exact OPPOSITE of the given words.",
+          "image_path": null,
+          "question": "LEND",
+          "options": {
+               "A": "Borrow",
+               "B": "Cheat",
+               "C": "Pawn",
+               "D": "Hire"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 12)In the following questions choose the word which is the exact OPPOSITE of the given words.",
+          "image_path": null,
+          "question": "FRUGAL",
+          "options": {
+               "A": "Copious",
+               "B": "Extravagant",
+               "C": "Generous",
+               "D": "Ostentatious"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 12)In the following questions choose the word which is the exact OPPOSITE of the given words.",
+          "image_path": null,
+          "question": "EXTRAVAGANCE",
+          "options": {
+               "A": "Luxury",
+               "B": "Poverty",
+               "C": "Economical",
+               "D": "Cheapness"
+          },
+          "correct_answer": "C",
+          "answer_description": "Main Entry: extravagantPart of Speech: adjectiveDefinition: indulgent, wastefulSynonyms: absurd, bizarre, costly, crazy, exaggerated, excessive, exorbitant, expensive, extortionate, extreme, fanciful, fancy, fantastic, flamboyant, flashy, foolish, garish, gaudy, grandiose, immoderate, implausible, improvident, imprudent, inordinate, lavish, ludicrous, nonsensical, ornate, ostentatious, outrageous, overpriced, preposterous, pretentious, prodigal, profligate, reckless, ridiculous, showy, silly, spendthrift, steep, unbalanced, unconscionable, unreasonable, unrestrainedAntonyms: close,economical, moderate, provident, reasonable, saving, stingy, thrifty, unpretentious"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 14)Each sentences below consist of a word or a phrase which isbold. It is followed by four words or phrases. Select the word or pharse which is closes to the OPPOSITE in meaning of theboldword or phrase.",
+          "image_path": null,
+          "question": "Adversityteaches man to be humble and self-reliant.",
+          "options": {
+               "A": "sincerity",
+               "B": "animosity",
+               "C": "curiosity",
+               "D": "prosperity"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 13 - 14)Each sentences below consist of a word or a phrase which isbold. It is followed by four words or phrases. Select the word or pharse which is closes to the OPPOSITE in meaning of theboldword or phrase.",
+          "image_path": null,
+          "question": "Unsettled conditions in the land led toexodusof hundreds of its citizens.",
+          "options": {
+               "A": "invasion",
+               "B": "entry",
+               "C": "immigration",
+               "D": "expulsion"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 15)Pick out the most effective word(s) from the given words to fill in the blank to make the sentence meaningfully complete.",
+          "image_path": null,
+          "question": "The river overflowed its ...... and flooded the area.",
+          "options": {
+               "A": "edges",
+               "B": "fronts",
+               "C": "limits",
+               "D": "banks"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 16)In each sentence below, four words which are lettered (A), (B), (C) and (D) have been printed inbold type, one whichmay be either inappropriatein the context of the sentence orwrongly spelt.The letter of that word is answer.If all the four words are appropriate and also correctly spelt, mark 'E', i.e., 'All Correct' as the answer.",
+          "image_path": null,
+          "question": "(solve as per thedirectiongiven above)",
+          "options": {
+               "A": "People in our country aredistressed",
+               "B": "by thespateof strikes, an almost",
+               "C": "perpetualgo slow and",
+               "D": "increadibilylow productivity",
+               "E": "All correct"
+          },
+          "correct_answer": "D",
+          "answer_description": "incredibly"
+     },
+     {
+          "direction": "Direction (Q.No. 17)Which of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+          "image_path": null,
+          "question": "They failedin their attempt to repairthe demolished portion of that building.",
+          "options": {
+               "A": "for their attempt to repair",
+               "B": "in their attempting to repair",
+               "C": "with their attempt to repair",
+               "D": "in their attempt for repairs",
+               "E": "No correction required"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 18)In questions below, each passage consist of six sentences. The first and sixth sentence are given in the begining. The middle four sentences in each have been removed and jumbled up. These are labelled as P, Q, R and S. Find out the proper order for the four sentences.",
+          "image_path": null,
+          "question": "S1:Most of the universities in the country are now facing financial crisis.P :Cost benefit yardstick thus should not be applied in the case of universities.Q :The current state of affairs cannot be allowed to continue for long.R :Universities cannot be equated with commercial enterprises.S :Proper development of universities and colleges must be ensured.S6:The Government should realise this before it is too late.The Proper sequence should be:",
+          "options": {
+               "A": "QRPS",
+               "B": "QSPR",
+               "C": "QRSP",
+               "D": "QPRS"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)Each question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+          "image_path": null,
+          "question": "TEN:DECIMAL",
+          "options": {
+               "A": "seven:septet",
+               "B": "four:quartet",
+               "C": "two:binary",
+               "D": "five:quince"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)Each question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+          "image_path": null,
+          "question": "DIVA:OPERA",
+          "options": {
+               "A": "producer:theatre",
+               "B": "director:drama",
+               "C": "conductor:bus",
+               "D": "thespian:play"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     }
+]

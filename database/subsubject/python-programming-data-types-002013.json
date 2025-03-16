@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code snippet?my_list = [4, 2, 7, 1, 9]\nresult = sorted(my_list)\nprint(result)",
+        "options": {
+            "A": "[1, 2, 4, 7, 9]",
+            "B": "[9, 7, 4, 2, 1]",
+            "C": "True",
+            "D": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesorted()function in Python returns a new sorted list from the elements of the given iterable, in this case, the listmy_list. So, the elements ofmy_listwill be sorted in ascending order, and the sorted list[1, 2, 4, 7, 9]will be printed."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code snippet?my_string = \"Hello, World!\"\nresult = my_string.split()\nprint(result)",
+        "options": {
+            "A": "['Hello,', 'World!']",
+            "B": "'Hello, World!'",
+            "C": "('Hello', 'World!')",
+            "D": "Error"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesplit()method in Python splits a string into a list of substrings based on a specified separator. If no separator is provided, it defaults to splitting the string by \"whitespace\".In this case, since no separator is provided, the stringmy_stringwill be split into substrings based on whitespace, resulting in['Hello,', 'World!'], which will be printed."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theany()function?",
+        "options": {
+            "A": "Checks if any element in an iterable isFalse",
+            "B": "Checks if any element in an iterable isTrue",
+            "C": "Checks if any element in an iterable isNone",
+            "D": "Checks if a variable is of a certain type"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theany()function returnsTrueif at least one element in the iterable isTrue, otherwiseFalse."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the result of the following code snippet?my_dict = {'a': 1, 'b': 2, 'c': 3}\nresult = my_dict.keys()\nprint(result)",
+        "options": {
+            "A": "{'a', 'b', 'c'}",
+            "B": "['a', 'b', 'c']",
+            "C": "dict_keys(['a', 'b', 'c'])",
+            "D": "Error"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thekeys()method in Python returns a view object that displays a list of all the keys in the dictionary.In this case, it will return a view object containing the keys'a','b', and'c'. When printed, it shows asdict_keys(['a', 'b', 'c']). This is a view object, not a list, but it behaves similarly in many situations."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code snippet?my_string = \"Hello, World!\"\r\nresult = my_string.count(\"l\")\r\nprint(result)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thecount()method returns the number of occurrences of the specified substring in the string."
+    }
+]

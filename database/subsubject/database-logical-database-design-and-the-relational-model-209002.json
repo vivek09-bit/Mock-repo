@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When mapping a multivalued attribute into a relation which of the following is true?",
+        "options": {
+            "A": "One relation is created.",
+            "B": "Two relations are created.",
+            "C": "Three relations are created.",
+            "D": "Four relations are created."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If no multivalued attributes exist in a relation, then the relation is in what normal form?",
+        "options": {
+            "A": "First normal form",
+            "B": "Second normal form",
+            "C": "Third normal form",
+            "D": "Fourth normal form"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A primary key is which of the following?",
+        "options": {
+            "A": "Any attribute",
+            "B": "An attribute that uniquely identifies each row",
+            "C": "An attribute that uniquely identifies each column",
+            "D": "A derived attribute"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The relational model consists of:",
+        "options": {
+            "A": "data in the form of tables.",
+            "B": "data redundancy.",
+            "C": "operations using non-SQL languages.",
+            "D": "unorganized data."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When mapping a binary many-to-many relationship into a relation which of the following is true?",
+        "options": {
+            "A": "One relation is created.",
+            "B": "Two relations are created.",
+            "C": "Three relations are created.",
+            "D": "Four relations are created."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

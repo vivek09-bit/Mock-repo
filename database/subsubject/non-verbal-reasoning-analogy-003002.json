@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveEach of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+        "image_path": null,
+        "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "B",
+        "answer_description": "The combination of two symbols placed at the lower-right corner, rotates 90oCW and moves to the Upper-right corner. Also, the combination of two symbols placed at the upper-left corner, moves to the lower-right corner."
+    },
+    {
+        "direction": "Directions to SolveEach of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+        "image_path": null,
+        "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "A",
+        "answer_description": "The figure gets divided into eight equal parts."
+    },
+    {
+        "direction": "Directions to SolveEach of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+        "image_path": null,
+        "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "E",
+        "answer_description": "The inner element enlarges to become the outer element while the outer element reduces in size, turns black and becomes the inner element."
+    },
+    {
+        "direction": "Directions to SolveEach of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+        "image_path": null,
+        "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "E",
+        "answer_description": "The figure rotates through 90oACW and the arrowhead shifts closer to the black circle."
+    },
+    {
+        "direction": "Directions to SolveEach of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+        "image_path": null,
+        "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "B",
+        "answer_description": "The figure gets rotated through 180o."
+    }
+]

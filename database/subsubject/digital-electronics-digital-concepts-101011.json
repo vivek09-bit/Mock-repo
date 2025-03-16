@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A classification of ICs with complexities of 12 to 100 equivalent gates on a chip is known as ________.",
+        "options": {
+            "A": "SSI",
+            "B": "MSI",
+            "C": "LSI",
+            "D": "VLSI"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a semiconductor memory?",
+        "options": {
+            "A": "RAM",
+            "B": "MAR",
+            "C": "CD-ROM",
+            "D": "CD"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The holes through a PC board are ________.",
+        "options": {
+            "A": "smaller with SMT than with through-hole mounting",
+            "B": "larger with SMT than with through-hole mounting",
+            "C": "the same size as with through-hole mounting",
+            "D": "usually unnecessary"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A classification of ICs with complexities of 100 to 10,000 equivalent gates per chip is known as ________.",
+        "options": {
+            "A": "SSI",
+            "B": "MSI",
+            "C": "LSI",
+            "D": "VLSI"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

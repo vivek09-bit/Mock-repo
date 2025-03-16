@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many collision domains are created when you segment a network with a 12-port switch?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "5",
+               "D": "12"
+          },
+          "correct_answer": "D",
+          "answer_description": "Layer 2 switching creates individual collision domains."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which protocol is used to send a destination network unknown message back to originating hosts?",
+          "options": {
+               "A": "TCP",
+               "B": "ARP",
+               "C": "ICMP",
+               "D": "BootP"
+          },
+          "correct_answer": "C",
+          "answer_description": "ICMP is the protocol at the Network layer that is used to send messages back to an originating router."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following services use TCP?DHCPSMTPHTTPTFTPFTP",
+          "options": {
+               "A": "1 and 2",
+               "B": "2, 3 and 5",
+               "C": "1, 2 and 4",
+               "D": "1, 3 and 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "SMTP, HTTP and FTP use TCP."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the address range of a Class B network address in binary?",
+          "options": {
+               "A": "01xxxxxx",
+               "B": "0xxxxxxx",
+               "C": "10xxxxxx",
+               "D": "110xxxxx"
+          },
+          "correct_answer": "C",
+          "answer_description": "The range of a Class B network address is128-191. This makes our binary range10xxxxxx."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need to configure a server that is on the subnet 192.168.19.24/29. The router has the first available host address. Which of the following should you assign to the server?",
+          "options": {
+               "A": "192.168.19.0 255.255.255.0",
+               "B": "192.168.19.33 255.255.255.240",
+               "C": "192.168.19.26 255.255.255.248",
+               "D": "192.168.19.31 255.255.255.248"
+          },
+          "correct_answer": "C",
+          "answer_description": "A /29 is 255.255.255.248, which is a block size of 8 in the fourth octet. The subnets are 0, 8, 16, 24, 32, 40, etc. 192.168.19.24 is the 24 subnet, and since 32 is the next subnet, the broadcast address for the 24 subnet is 31. 192.168.19.26 is the only correct answer."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You copy a configuration from a network host to a router's RAM. The configuration looks correct, yet it is not working at all. What could the problem be?",
+          "options": {
+               "A": "You copied the wrong configuration into RAM.",
+               "B": "You copied the configuration into flash memory instead.",
+               "C": "The copy did not override the shutdown command in running-config.",
+               "D": "The IOS became corrupted after the copy command was initiated."
+          },
+          "correct_answer": "C",
+          "answer_description": "Since the configuration looks correct, you probably didn't screw up the copy job. However, when you perform a copy from a network host to a router, the interfaces are automatically shut down and need to be manually enabled with theno shutdowncommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command is used to stop RIP routing updates from exiting out an interface but still allow the interface to receive RIP route updates?",
+          "options": {
+               "A": "Router(config-if)# no routing",
+               "B": "Router(config-if)# passive-interface",
+               "C": "Router(config-router)# passive-interface s0",
+               "D": "Router(config-router)# no routing updates"
+          },
+          "correct_answer": "C",
+          "answer_description": "The(config-router)#passive-interfacecommand stops updates from being sent out an interface, but route updates are still received."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is true regarding EIGRP successor routes?A successor route is used by EIGRP to forward traffic to a destination.Successor routes are saved in the topology table to be used if the primary route fails.Successor routes are flagged as \"active\" in the routing table.A successor route may be backed up by a feasible successor route.Successor routes are stored in the neighbor table following the discovery process.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 3",
+               "C": "1 and 4",
+               "D": "3, 4 and 5"
+          },
+          "correct_answer": "C",
+          "answer_description": "Successor routes are the routes picked from the topology table as the best route to a remote network, so these are the routes that IP uses in the routing table to forward traffic to a remote destination. The topology table contains any route that is not as good as the successor route and is considered a feasible successor, or backup route. Remember that all routes are in the topology table, even successor routes."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which type of OSPF network will elect a backup designated router?Broadcast multi-accessNon-broadcast multi-accessPoint-to-pointBroadcast multipoint",
+          "options": {
+               "A": "1 and 2",
+               "B": "3 and 4",
+               "C": "3 only",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "DR and BDR are elected on broadcast and non-broadcast multi-access networks. Frame Relay is a non-broadcast multi-access (NBMA) network by default. No DR is assigned on any type of point-to-point link. No DR/BDR is assigned on the NBMA point-to-multipoint due to the hub/spoke topology."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the purpose of Spanning Tree Protocol in a switched LAN?",
+          "options": {
+               "A": "To provide a mechanism for network monitoring in switched environments",
+               "B": "To prevent routing loops in networks with redundant paths",
+               "C": "To prevent switching loops in networks with redundant switched paths",
+               "D": "To manage the VLAN database across multiple switches",
+               "E": "To create collision domains"
+          },
+          "correct_answer": "C",
+          "answer_description": "The Spanning Tree Protocol (STP) was designed to stop layer 2 loops. All Cisco switches have the STP on by default."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does a switch do when a frame is received on an interface and the destination hardware address is unknown or not in the filter table?",
+          "options": {
+               "A": "Forwards the switch to the first available link",
+               "B": "Drops the frame",
+               "C": "Floods the network with the frame looking for the device",
+               "D": "Sends back a message to the originating station asking for a name resolution"
+          },
+          "correct_answer": "C",
+          "answer_description": "Switches flood all frames that have an unknown destination address. If a device answers the frame, the switch will update the MAC address table to reflect the location of the device."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true regarding VTP?",
+          "options": {
+               "A": "All switches are VTP servers by default.",
+               "B": "All switches are VTP transparent by default.",
+               "C": "VTP is on by default with a domain name of Cisco on all Cisco switches.",
+               "D": "All switches are VTP clients by default."
+          },
+          "correct_answer": "A",
+          "answer_description": "All Cisco switches are VTP servers by default. No other VTP information is configured on a Cisco switch by default. You must set the VTP domain name on all switches to be the same domain name or they will not share the VTP database."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which protocol reduces administrative overhead in a switched network by allowing the configuration of a new VLAN to be distributed to all the switches in a domain?",
+          "options": {
+               "A": "STP",
+               "B": "VTP",
+               "C": "DHCP",
+               "D": "ISL"
+          },
+          "correct_answer": "B",
+          "answer_description": "Virtual Trunk Protocol (VTP) is used to pass a VLAN database to any or all switches in the switched network. The three VTP modes are server, client, and transparent."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following modes are valid when a switch port is used as a VLAN trunk?BlockingDynamic autoDynamic desirableNonegotiateAccessLearning",
+          "options": {
+               "A": "1, 2 and 6",
+               "B": "2, 3 and 4",
+               "C": "4, 5 and 6",
+               "D": "2, 4, and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "The valid modes of a VLAN trunk on a switch are dynamic auto, dynamic desirable, trunk (on), and nonegotiate."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you wanted to deny all Telnet connections to only network 192.168.10.0, which command could you use?",
+          "options": {
+               "A": "access-list 100 deny tcp 192.168.10.0 255.255.255.0 eq telnet",
+               "B": "access-list 100 deny tcp 192.168.10.0 0.255.255.255 eq telnet",
+               "C": "access-list 100 deny tcp any 192.168.10.0 0.0.0.255 eq 23",
+               "D": "access-list 100 deny 192.168.10.0 0.0.0.255 any eq 23"
+          },
+          "correct_answer": "C",
+          "answer_description": "The extended access list ranges are 100-199 and 2000-2699, so the access-list number of 100 is valid. Telnet uses TCP, so the protocol TCP is valid. Now you just need to look for the source and destination address. Only the third option has the correct sequence of parameters. Answer B may work, but the question specifically states \"only\" to network 192.168.10.0, and the wildcard in answer B is too broad."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are disadvantages of using NAT?Translation introduces switching path delays.Conserves legally registered addresses.Causes loss of end-to-end IP traceability.Increases flexibility when connecting to the Internet.Certain applications will not function with NAT enabled.Reduces address overlap occurrence.",
+          "options": {
+               "A": "1, 3 and 5",
+               "B": "3 and 4",
+               "C": "2, 4 and 5",
+               "D": "1 and 3"
+          },
+          "correct_answer": "A",
+          "answer_description": "NAT is not perfect and can cause some issues in some networks, but most networks work just fine. NAT can cause delays and troubleshooting problems, and some applications just won't work."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is considered to be the address after translation?",
+          "options": {
+               "A": "Inside local",
+               "B": "Outside local",
+               "C": "Inside global",
+               "D": "Outside global"
+          },
+          "correct_answer": "C",
+          "answer_description": "The host on the private network after translation is considered to be an inside global host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the maximum data rate for the 802.11b standard?",
+          "options": {
+               "A": "6Mbps",
+               "B": "11Mbps",
+               "C": "22Mbps",
+               "D": "54Mbps"
+          },
+          "correct_answer": "B",
+          "answer_description": "The IEEE 802.11b standard provides a maximum data rate of up to 11Mbps."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You are connecting your access point and it is set to root. What does Extended Service Set ID mean?",
+          "options": {
+               "A": "That you have more than one access point and they are in the same SSID connected by a distribution system.",
+               "B": "That you have more than one access point and they are in separate SSIDs connected by a distribution system.",
+               "C": "That you have multiple access points, but they are placed physically in different buildings.",
+               "D": "That you have multiple access points, but one is a repeater access point."
+          },
+          "correct_answer": "A",
+          "answer_description": "Extended Service Set ID means that you have more than one access point and they all are set to the same SSID and all are connected together in the same VLAN or distribution system so users can roam."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement(s) about IPv4 and IPv6 addresses are true?An IPv6 address is 32 bits long, represented in hexidecimal.An IPv6 address is 128 bits long, represented in decimal.An IPv4 address is 32 bits long, represented in decimal.An IPv6 address is 128 bits long, represented in hexidecimal.",
+          "options": {
+               "A": "1 and 3 only",
+               "B": "2 only",
+               "C": "3 and 4",
+               "D": "2 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "IPv4 addresses are 32 bits long and are represented in decimal format. IPv6 addresses are 128 bits long and represented in hexadecimal format."
+     }
+]

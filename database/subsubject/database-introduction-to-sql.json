@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You can add a row using SQL in a database with which of the following?",
+        "options": {
+            "A": "ADD",
+            "B": "CREATE",
+            "C": "INSERT",
+            "D": "MAKE"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The command to remove rows from a table 'CUSTOMER' is:",
+        "options": {
+            "A": "REMOVE FROM CUSTOMER ...",
+            "B": "DROP FROM CUSTOMER ...",
+            "C": "DELETE FROM CUSTOMER WHERE ...",
+            "D": "UPDATE FROM CUSTOMER ..."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The SQL WHERE clause:",
+        "options": {
+            "A": "limits the column data that are returned.",
+            "B": "limits the row data are returned.",
+            "C": "Both A and B are correct.",
+            "D": "Neither A nor B are correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the original purpose of SQL?",
+        "options": {
+            "A": "To specify the syntax and semantics of SQL data definition language",
+            "B": "To specify the syntax and semantics of SQL manipulation language",
+            "C": "To define the data structures",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The wildcard in a WHERE clause is useful when?",
+        "options": {
+            "A": "An exact match is necessary in a SELECT statement.",
+            "B": "An exact match is not possible in a SELECT statement.",
+            "C": "An exact match is necessary in a CREATE statement.",
+            "D": "An exact match is not possible in a CREATE statement."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

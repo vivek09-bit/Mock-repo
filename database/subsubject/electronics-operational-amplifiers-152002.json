@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is this circuit?",
+        "options": {
+            "A": "a low-pass filter",
+            "B": "a high-pass filter",
+            "C": "a bandpass filter",
+            "D": "a band-stop filter"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A noninverting closed-loop op-amp circuit generally has a gain factor:",
+        "options": {
+            "A": "less than one",
+            "B": "greater than one",
+            "C": "of zero",
+            "D": "equal to one"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In order for an output to swing above and below a zero reference, the op-amp circuit requires:",
+        "options": {
+            "A": "a resistive feedback network",
+            "B": "zero offset",
+            "C": "a wide bandwidth",
+            "D": "a negative and positive supply"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Op-amps used as high- and low-pass filter circuits employ which configuration?",
+        "options": {
+            "A": "noninverting",
+            "B": "comparator",
+            "C": "open-loop",
+            "D": "inverting"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Decreasing the gain in the given circuit could be achieved by",
+        "options": {
+            "A": "reducing the amplitude of the input voltage",
+            "B": "increasing the value of the feedback resistor",
+            "C": "increasing the value of the input resistor",
+            "D": "removing the feedback resistor"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,271 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you design a class that needs special initialization tasks, you will want to design a(n) _____",
+          "options": {
+               "A": "housekeeping routine",
+               "B": "initializer",
+               "C": "constructor",
+               "D": "compiler"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Redirection redirects",
+          "options": {
+               "A": "a stream from a file to the screen",
+               "B": "a file from a device to a stream",
+               "C": "a device from the screen to a file",
+               "D": "the screen from a device to a stream"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you declare two objects as Customer firstCust, secondCust; which of the following must be true?",
+          "options": {
+               "A": "Each object's nonstatic data members will be stored in the same memory location",
+               "B": "Each object will be stored in the same memory location",
+               "C": "Each object will have a unique memory address",
+               "D": "You cannot declare two objects of the same class"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A compound statement does not consist of",
+          "options": {
+               "A": "a single statement",
+               "B": "other compound statements",
+               "C": "expression statements",
+               "D": "control statements",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following while clause will stop the loop when the value in the age variable is less than the number 0?",
+          "options": {
+               "A": "while age < 0",
+               "B": "while (age < 0)",
+               "C": "while age >= 0;",
+               "D": "while (age >= 0);",
+               "E": "while (age >= 0)"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements will display the word \"Hello\" on the computer screen?",
+          "options": {
+               "A": "cin << \"Hello\";",
+               "B": "cin >> \"Hello\";",
+               "C": "cout << \"Hello\";",
+               "D": "cout >> \"Hello\";",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The continue statement should be written only",
+          "options": {
+               "A": "in the body of a loop.",
+               "B": "in the nested loops",
+               "C": "outside the body of a loop",
+               "D": "any where",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The most common operation used in constructors is _____",
+          "options": {
+               "A": "addition",
+               "B": "overloading",
+               "C": "assignment",
+               "D": "polymorphism"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If an integer object is thrown with a throw statement, then a subsequent catch block has a usable match if the type of the catch argument is _____",
+          "options": {
+               "A": "const int &",
+               "B": "int &",
+               "C": "either (a) or (b)",
+               "D": "neither (a) nor (b)"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The statement int num[2][3]={ {3,8,6}, {9,4,7}};",
+          "options": {
+               "A": "assigns a value 4 to num[1][2]",
+               "B": "assigns a value 7 to num[1][2]",
+               "C": "assigns a value 8 to num[1][2]",
+               "D": "assigns a value 9 to num[1][2]"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The end of string is recognized by",
+          "options": {
+               "A": "the null character",
+               "B": "the newline character",
+               "C": "the $ sign",
+               "D": "the   / sign",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following C++ expressions will find the square root of the number 16?",
+          "options": {
+               "A": "pow (16, 2) (b) root (16, 2)",
+               "B": "sqroot (16)",
+               "C": "sqrt (16, 2)",
+               "D": "sqrt (16)"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The arguments that determine the state of the cout object are called _____",
+          "options": {
+               "A": "classes",
+               "B": "manipulators",
+               "C": "format flags",
+               "D": "state controllers"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Making class members inaccessible to nonmember functions is an example of",
+          "options": {
+               "A": "polymorphism",
+               "B": "data hiding",
+               "C": "redundancy",
+               "D": "recursion"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Assume that your version of C++ can recognize only the first 8 characters of an identifier name, through identifier names may be arbitrarily long. Which of the following identifier names is not distinct:",
+          "options": {
+               "A": "list, list2",
+               "B": "address, Address",
+               "C": "identifier_l, identifier_2",
+               "D": "answer, ANSWER",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The string HELLO WORLD needs",
+          "options": {
+               "A": "11 bytes",
+               "B": "12 bytes",
+               "C": "10 Bytes",
+               "D": "8 bytes",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The null character is represented by",
+          "options": {
+               "A": "\\n",
+               "B": "\\0",
+               "C": "\\o",
+               "D": "\\r",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The C++ keyword for declaring a variable that contains a decimal point is _____",
+          "options": {
+               "A": "dec",
+               "B": "decimal",
+               "C": "float",
+               "D": "floater",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which   is   a   good   guideline   for creating function names?",
+          "options": {
+               "A": "Use all lowercase letters to identify the functions as C++ functions",
+               "B": "Use long names to reduce the likelihood of creating a duplicate function name",
+               "C": "Use abbreviations  as much as possible to save both keystrokes and memory",
+               "D": "Avoid the use of digits because they are easily confused with letters"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To write data that contains variables of type float, to an object of type ofstream, you should use",
+          "options": {
+               "A": "the insertion operator",
+               "B": "seekg()",
+               "C": "writeQ",
+               "D": "put()"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

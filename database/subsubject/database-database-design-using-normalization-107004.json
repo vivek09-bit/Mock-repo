@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Read-only databases are ________ updated.",
+        "options": {
+            "A": "always",
+            "B": "commonly",
+            "C": "seldom",
+            "D": "never"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Needing to assess the validity of assumed referential integrity constraints on foreign keys is a(n) ________ of normalization.",
+        "options": {
+            "A": "advantage",
+            "B": "disadvantage",
+            "C": "either an advantage or disadvantage",
+            "D": "neither an advantage nor disadvantage"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When assessing the table structure of an acquired set of tables with data, determining primary keys is (part of) the:",
+        "options": {
+            "A": "first step.",
+            "B": "second step.",
+            "C": "third step.",
+            "D": "fourth step."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Normalization ________ data duplication.",
+        "options": {
+            "A": "eliminates",
+            "B": "reduces",
+            "C": "increases",
+            "D": "maximizes"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Each answer below shows example data from a table. Which answer is an example of the inconsistent values problem?",
+        "options": {
+            "A": "Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row.",
+            "B": "Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column.",
+            "C": "Three rows have the values Brown, NULL, and Blue in the same column.",
+            "D": "One row has the value \"He is interested in a Silver Porsche from the years 1978-1988\" in a column."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

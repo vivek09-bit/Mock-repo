@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who among the following was an eminent painter?",
+        "options": {
+            "A": "Sarada Ukil",
+            "B": "Uday Shanker",
+            "C": "V. Shantaram",
+            "D": "Meherally"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Professor Amartya Sen is famous in which of the fields?",
+        "options": {
+            "A": "Biochemistry",
+            "B": "Electronics",
+            "C": "Economics",
+            "D": "Geology"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following was Satyajit Ray associated with?",
+        "options": {
+            "A": "Classical music",
+            "B": "Commercial art",
+            "C": "Film Direction",
+            "D": "Classical dance"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Dr. Joon Lew of korea, the recipient of international Gandhi Award is known for his service in the?",
+        "options": {
+            "A": "Eradication of leprosy",
+            "B": "Campaigning against AIDS",
+            "C": "Against Drugs",
+            "D": "Against child labour"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Amjad Ali Khan is associated with which of the following musical instruments?",
+        "options": {
+            "A": "Sarod",
+            "B": "Veena",
+            "C": "Violin",
+            "D": "Sitar"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

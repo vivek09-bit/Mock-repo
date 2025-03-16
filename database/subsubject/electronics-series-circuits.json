@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the current flow through R1, R2, and R3?",
+        "options": {
+            "A": "1A, 1A, 1A",
+            "B": "1A, 2A, 3A",
+            "C": "3A, 3A, 3A",
+            "D": "3A, 2A, 1A"
+        },
+        "correct_answer": "A",
+        "answer_description": "V = IRV = I(R1 + R2 + R3)I = V/(R1 + R2 + R3)= 9/(3 + 3 + 3)= 9/9= 1 Amp."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One of the most common applications of a potentiometer is as an adjustable voltage divider, also known as",
+        "options": {
+            "A": "voltage control",
+            "B": "current control",
+            "C": "volume control",
+            "D": "divider control"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the resistance total in a series circuit doubles, current will:",
+        "options": {
+            "A": "be the same",
+            "B": "be doubled",
+            "C": "reduce source voltage",
+            "D": "be halved"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Power is defined as:",
+        "options": {
+            "A": "the rate at which work is done",
+            "B": "work",
+            "C": "the conversion of energy",
+            "D": "joules"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the dc source voltage?",
+        "options": {
+            "A": "78 V",
+            "B": "39 V",
+            "C": "13 V",
+            "D": "0 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

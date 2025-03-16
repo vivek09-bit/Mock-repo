@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:There has been a high increase in the incidents of atrocities against women in the city during the past few months.The police authority has been unable to nab the culprits who are committing crime against women.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "C",
+        "answer_description": "An increase in the cases of atrocities on women and the police being unable to nab the culprits involved in the same are independent happenings in themselves."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:Rural and semi-urban areas in the country have been suffering due to load shedding for quite some time.If the Government is not able to overcome the power crisis, load shedding will be extended even to the urban areas.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "E",
+        "answer_description": "The facts given in both the statements are clearly the result of acute power shortage."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The university authority has instructed all the colleges under its jurisdiction to ban use of all phones inside the college premises.Majority of the teachers of the colleges signed a joint petition to the university complaining the disturbances caused by cell phone ring-tones inside the classrooms.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, the university's decision came as a sequel to the complaint received by it from the college teachers against use of mobile phones in the college premises."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:Most of the steel producing companies in the country have made considerable profit during the last financial year.Many Asian countries have been importing huge quantities of steel from India.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "B",
+        "answer_description": "The increase in demand of steel from other countries is bound to enhance business and hence profitability of steel companies in India."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:There is increase in water level of all the water tanks supplying drinking water to the city during the last fortnight.Most of the trains were cancelled last week due to water-logging on the tracks.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "E",
+        "answer_description": "The problems discussed in both the statements are clearly the result of heavy downpour in the area."
+    }
+]

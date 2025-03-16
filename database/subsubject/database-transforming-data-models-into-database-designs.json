@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following data constraints would be used to specify that the value of cells in a column must be one of a specific set of possible values?",
+        "options": {
+            "A": "A domain constraint",
+            "B": "A range constraint",
+            "C": "An intrarelation constraint",
+            "D": "An interrelation constraint"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 1:N relationship, the foreign key is placed in:",
+        "options": {
+            "A": "either table without specifying parent and child tables.",
+            "B": "the parent table.",
+            "C": "the child table.",
+            "D": "either the parent table or the child table."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following column properties specifies whether or not cells in a column must contain a data value?",
+        "options": {
+            "A": "Null status",
+            "B": "Data type",
+            "C": "Default value",
+            "D": "Data constraints"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A primary key should be defined as:",
+        "options": {
+            "A": "NULL.",
+            "B": "NOT NULL.",
+            "C": "Either of the above can be used.",
+            "D": "None of the above are correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following column properties would be used to specify that cells in a column must contain a monetary value?",
+        "options": {
+            "A": "Null status",
+            "B": "Data type",
+            "C": "Default value",
+            "D": "Data constraints"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

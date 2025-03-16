@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How long will it take the capacitor in the given circuit to discharge?",
+        "options": {
+            "A": "16.4s",
+            "B": "32.8s",
+            "C": "65.6s",
+            "D": "82s"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the voltage across the inductor in the given circuit on the falling edge of the first input pulse?",
+        "options": {
+            "A": "–0.2 V",
+            "B": "0.2 V",
+            "C": "–9.8 V",
+            "D": "9.8 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

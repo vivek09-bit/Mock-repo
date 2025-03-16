@@ -1,0 +1,145 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three statements are true about the operation of a full-duplex Ethernet network?There are no collisions in full-duplex mode.A dedicated switch port is required for each full-duplex node.Ethernet hub ports are preconfigured for full-duplex mode.In a full-duplex environment, the host network card must check for the availability of the network media before transmitting.The host network card and the switch port must be capable of operating in full-duplex mode.",
+          "options": {
+               "A": "1, 2, and 5",
+               "B": "2 and 4",
+               "C": "2, 3 and 4",
+               "D": "5 only"
+          },
+          "correct_answer": "A",
+          "answer_description": "Full-duplex means you are using both wire pairs simultaneously to send and receive data. You must have a dedicated switch port for each node, which means you will not have collisions. Both the host network card and the switch port must be capable and set to work in full-duplex mode."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a host on a network has the address 172.16.45.14/30, what is the subnetwork this host belongs to?",
+          "options": {
+               "A": "172.16.45.0",
+               "B": "172.16.45.4",
+               "C": "172.16.45.8",
+               "D": "172.16.45.12"
+          },
+          "correct_answer": "D",
+          "answer_description": "A /30, regardless of the class of address, has a 252 in the fourth octet. This means we have a block size of 4 and our subnets are 0, 4, 8, 12, 16, etc. Address 14 is obviously in the 12 subnet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What should the configuration register value be after you successfully complete the password recovery procedure and return the router to normal operation?",
+          "options": {
+               "A": "0x2100",
+               "B": "0x2101",
+               "C": "0x2102",
+               "D": "0x2142"
+          },
+          "correct_answer": "C",
+          "answer_description": "All Cisco routers have a default configuration register setting of0x2102, which tells the router to load the IOS from flash memory and the configuration from NVRAM."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three commands can be used to check LAN connectivity problems on a router?show interfacesshow ip routetracertpingdns lookups",
+          "options": {
+               "A": "1 ,2 and 4",
+               "B": "2 and 5",
+               "C": "3 and 5",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Thetracertcommand is a Windows command and will not work on a router! A router uses thetraceroutecommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "With which network type will OSPF establish router adjacencies but not perform the DR/BDR election process?",
+          "options": {
+               "A": "Point-to-point",
+               "B": "Backbone area 0",
+               "C": "Broadcast multi-access",
+               "D": "Non-broadcast multi-access"
+          },
+          "correct_answer": "A",
+          "answer_description": "No DR is assigned on any type of point-to-point link. No DR/BDR is assigned on the NBMA point-to-multipoint due to the hub/spoke topology. DR and BDR are elected on broadcast and non-broadcast multi-access networks. Frame Relay is a non-broadcast multi-access (NBMA) network by default."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is an IEEE standard for frame tagging?",
+          "options": {
+               "A": "ISL",
+               "B": "802.3Z",
+               "C": "802.1Q",
+               "D": "802.3U"
+          },
+          "correct_answer": "C",
+          "answer_description": "802.1Q was created to allow trunked links between disparate switches."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have created a named access list called Blocksales. Which of the following is a valid command for applying this to packets trying to enter interface s0 of your router?",
+          "options": {
+               "A": "(config)#ip access-group 110 in",
+               "B": "(config-if)#ip access-group 110 in",
+               "C": "(config-if)#ip access-group Blocksales in",
+               "D": "(config-if)#blocksales ip access-list in"
+          },
+          "correct_answer": "C",
+          "answer_description": "Using a named access list just replaces the number used when applying the list to the router's interface.ip access-group Blocksales inis correct."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is considered to be the address before translation?",
+          "options": {
+               "A": "Inside local",
+               "B": "Outside local",
+               "C": "Inside global",
+               "D": "Outside global"
+          },
+          "correct_answer": "A",
+          "answer_description": "The host on the private network before translation is considered to be an inside local host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true when describing a global unicast address?",
+          "options": {
+               "A": "Packets addressed to a unicast address are delivered to a single interface.",
+               "B": "These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",
+               "C": "These are like private addresses in IPv4 in that they are not meant to be routed.",
+               "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+          },
+          "correct_answer": "B",
+          "answer_description": "Unlike unicast addresses, global unicast addresses are meant to be routed."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true when describing a multicast address?",
+          "options": {
+               "A": "Packets addressed to a unicast address are delivered to a single interface.",
+               "B": "Packets are delivered to all interfaces identified by the address. This is also called a one-to-many address.",
+               "C": "Identifies multiple interfaces and is only delivered to one address. This address can also be called one-to-one-of-many.",
+               "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+          },
+          "correct_answer": "B",
+          "answer_description": "Packets addressed to a multicast address are delivered to all interfaces identified by the multicast address, the same as in IPv4. It is also called a one-to-many address. You can always tell a multicast address in IPv6 because multicast addresses always start withFF."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which of the following technologies is the term HFC used?",
+          "options": {
+               "A": "DSL",
+               "B": "PPPoE",
+               "C": "Frame Relay",
+               "D": "Dedicated T1"
+          },
+          "correct_answer": "D",
+          "answer_description": "In a modern network, hybrid fibre-coaxial (HFC) is a telecommunications industry term for a network that incorporates both optical fiber and coaxial cable to create a broadband network."
+     }
+]

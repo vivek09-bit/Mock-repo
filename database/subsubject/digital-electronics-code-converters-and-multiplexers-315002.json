@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the function of an enable input on a multiplexer chip?",
+        "options": {
+            "A": "to applyVcc",
+            "B": "to connect ground",
+            "C": "to active the entire chip",
+            "D": "to active one half of the chip"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The expansion inputs to a comparator are used for expansion to a(n):",
+        "options": {
+            "A": "4-bit system",
+            "B": "8-bit system",
+            "C": "BCD system",
+            "D": "counter system"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What do the mathematical symbolsA < bandA > Bmean?",
+        "options": {
+            "A": "A<BmeansAis greater thanB.A>BmeansAis less thanB.",
+            "B": "A>BmeansAis less thanB.A<BmeansAis greater thanB.",
+            "C": "A<BmeansAis less thanB.A>BmeansAis greater thanB."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A basic multiplexer principle can be demonstrated through the use of a:",
+        "options": {
+            "A": "single-pole relay",
+            "B": "DPDT switch",
+            "C": "rotary switch",
+            "D": "linear stepper"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many inputs will a decimal-to-BCD encoder have?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "10",
+            "D": "16"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

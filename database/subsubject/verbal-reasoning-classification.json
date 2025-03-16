@@ -1,0 +1,71 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Chicken",
+            "B": "Snake",
+            "C": "Swan",
+            "D": "Crocodile",
+            "E": "Frog"
+        },
+        "correct_answer": "A",
+        "answer_description": "All except Chicken can live in water."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Cap",
+            "B": "Turban",
+            "C": "Helmet",
+            "D": "Veil",
+            "E": "Hat"
+        },
+        "correct_answer": "D",
+        "answer_description": "All except Veil cover the head, while veil covers the face."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Kiwi",
+            "B": "Eagle",
+            "C": "Emu",
+            "D": "Ostrich"
+        },
+        "correct_answer": "B",
+        "answer_description": "All except Eagle are flightless birds."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Rigveda",
+            "B": "Yajurveda",
+            "C": "Atharvaveda",
+            "D": "Ayurveda",
+            "E": "Samveda"
+        },
+        "correct_answer": "D",
+        "answer_description": "All except Ayurveda are names of holy scriptures, the four Vedas. Ayurveda is a branch of medicine."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, five words have been given out of which four are alike in some manner, while the fifth one is different. Choose the word which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the word which is different from the rest.",
+        "options": {
+            "A": "Curd",
+            "B": "Butter",
+            "C": "Oil",
+            "D": "Cheese",
+            "E": "Cream"
+        },
+        "correct_answer": "C",
+        "answer_description": "All except Oil are products obtained from milk."
+    }
+]

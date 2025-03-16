@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class Foo \n{  \n    public static void main(String[] args) \n    {\n        try \n        { \n            return; \n        } \n        finally \n        {\n            System.out.println( \"Finally\" ); \n        } \n    } \n}",
+        "options": {
+            "A": "Finally",
+            "B": "Compilation fails.",
+            "C": "The code runs with no output.",
+            "D": "An exception is thrown at runtime."
+        },
+        "correct_answer": "A",
+        "answer_description": "If you put a finally block after a try and its associated catch blocks, then once execution enters the try block, the code in that finally block will definitely be executed except in the following circumstances:An exception arising in the finally block itself.The death of the thread.The use ofSystem.exit()Turning off the power to the CPU.I suppose the last three could be classified as VM shutdown."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?try \n{ \n    int x = 0; \n    int y = 5 / x; \n} \ncatch (Exception e) \n{\n    System.out.println(\"Exception\"); \n} \ncatch (ArithmeticException ae) \n{\n    System.out.println(\" Arithmetic Exception\"); \n} \nSystem.out.println(\"finished\");",
+        "options": {
+            "A": "finished",
+            "B": "Exception",
+            "C": "Compilation fails.",
+            "D": "Arithmetic Exception"
+        },
+        "correct_answer": "C",
+        "answer_description": "Compilation fails becauseArithmeticExceptionhas already been caught.ArithmeticExceptionis a subclass ofjava.lang.Exception, by time theArithmeticExceptionhas been specified it has already been caught by theExceptionclass.IfArithmeticExceptionappears beforeException, then the file will compile. When catching exceptions the more specific exceptions must be listed before the more general (the subclasses must be caught before the superclasses)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class X \n{  \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod();  \n            System.out.print(\"A\"); \n        }  \n        catch (Exception ex) \n        {\n            System.out.print(\"B\");  \n        } \n        finally \n        {\n            System.out.print(\"C\"); \n        } \n        System.out.print(\"D\"); \n    }  \n    public static void badMethod() \n    {\n        throw new Error(); /* Line 22 */\n    } \n}",
+        "options": {
+            "A": "ABCD",
+            "B": "Compilation fails.",
+            "C": "C is printed before exiting with an error message.",
+            "D": "BC is printed before exiting with an error message."
+        },
+        "correct_answer": "C",
+        "answer_description": "Erroris thrown but not recognised line(22) because the only catch attempts to catch anExceptionandExceptionis not a superclass ofError. Therefore only the code in thefinallystatement can be run before exiting with a runtime error (Exception in thread \"main\"java.lang.Error)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class X \n{  \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod();  \n            System.out.print(\"A\");  \n        } \n        catch (RuntimeException ex) /* Line 10 */\n        { \n            System.out.print(\"B\"); \n        } \n        catch (Exception ex1) \n        { \n            System.out.print(\"C\"); \n        } \n        finally \n        {\n            System.out.print(\"D\"); \n        } \n        System.out.print(\"E\"); \n    } \n    public static void badMethod() \n    { \n        throw new RuntimeException(); \n    } \n}",
+        "options": {
+            "A": "BD",
+            "B": "BCD",
+            "C": "BDE",
+            "D": "BCDE"
+        },
+        "correct_answer": "C",
+        "answer_description": "A Run time exception is thrown and caught in the catch statement on line 10. All the code after the finally statement is run because the exception has been caught."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class RTExcept \n{\n    public static void throwit () \n    {\n        System.out.print(\"throwit \");\n        throw new RuntimeException();\n    }\n    public static void main(String [] args) \n    {\n        try \n        {\n            System.out.print(\"hello \");\n            throwit();\n        }\n        catch (Exception re ) \n        {\n            System.out.print(\"caught \");\n        }\n        finally \n        {\n            System.out.print(\"finally \");\n        }\n        System.out.println(\"after \");\n    }\n}",
+        "options": {
+            "A": "hello throwit caught",
+            "B": "Compilation fails",
+            "C": "hello throwitRuntimeExceptioncaught after",
+            "D": "hello throwit caught finally after"
+        },
+        "correct_answer": "D",
+        "answer_description": "Themain()method properly catches and handles theRuntimeExceptionin the catch block, finally runs (as it always does), and then the code returns to normal.A, B and C are incorrect based on the program logic described above. Remember that properly handled exceptions do not cause the program to stop executing."
+    }
+]

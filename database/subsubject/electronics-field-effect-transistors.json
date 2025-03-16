@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Junction Field Effect Transistors (JFET) contain how many diodes?",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When an input delta of 2 V produces a transconductance of 1.5 mS, what is the drain current delta?",
+        "options": {
+            "A": "666 mA",
+            "B": "3 mA",
+            "C": "0.75 mA",
+            "D": "0.5 mA"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When not in use, MOSFET pins are kept at the same potential through the use of:",
+        "options": {
+            "A": "shipping foil",
+            "B": "nonconductive foam",
+            "C": "conductive foam",
+            "D": "a wrist strap"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "D-MOSFETs are sometimes used in series to construct a cascode high-frequency amplifier to overcome the loss of:",
+        "options": {
+            "A": "low output impedance",
+            "B": "capacitive reactance",
+            "C": "high input impedance",
+            "D": "inductive reactance"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A \"U\" shaped, opposite-polarity material built near a JFET-channel center is called the:",
+        "options": {
+            "A": "gate",
+            "B": "block",
+            "C": "drain",
+            "D": "heat sink"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

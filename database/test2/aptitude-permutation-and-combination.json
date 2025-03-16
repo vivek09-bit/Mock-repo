@@ -1,0 +1,72 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+        "options": {
+            "A": "564",
+            "B": "645",
+            "C": "735",
+            "D": "756",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "We may have (3 men and 2 women) or (4 men and 1 woman) or (5 men only).Required number of ways= (7C3x6C2) + (7C4x6C1) + (7C5)=7 x 6 x 5x6 x 5+ (7C3x6C1) + (7C2)3 x 2 x 12 x 1= 525 +7 x 6 x 5x 6+7 x 63 x 2 x 12 x 1= (525 + 210 + 21)= 756."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+        "options": {
+            "A": "360",
+            "B": "480",
+            "C": "720",
+            "D": "5040",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "The word 'LEADING' has 7 different letters.When the vowels EAI are always together, they can be supposed to form one letter.Then, we have to arrange the letters LNDG (EAI).Now, 5 (4 + 1 = 5) letters can be arranged in 5! = 120 ways.The vowels (EAI) can be arranged among themselves in 3! = 6 ways.Required number of ways = (120 x 6) = 720.Video Explanation:https://youtu.be/WCEF3iW3H2c"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?",
+        "options": {
+            "A": "810",
+            "B": "1440",
+            "C": "2880",
+            "D": "50400",
+            "E": "5760"
+        },
+        "correct_answer": "D",
+        "answer_description": "In the word 'CORPORATION', we treat the vowels OOAIO as one letter.Thus, we have CRPRTN (OOAIO).This has 7 (6 + 1) letters of which R occurs 2 times and the rest are different.Number of ways arranging these letters =7!= 2520.2!Now, 5 vowels in which O occurs 3 times and the rest are different, can be arrangedin5!= 20 ways.3!Required number of ways = (2520 x 20) = 50400.Video Explanation:https://youtu.be/o3fwMoB0duw"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+        "options": {
+            "A": "210",
+            "B": "1050",
+            "C": "25200",
+            "D": "21400",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Number of ways of selecting (3 consonants out of 7) and (2 vowels out of 4)= (7C3x4C2)=7 x 6 x 5x4 x 33 x 2 x 12 x 1= 210.Number of groups, each having 3 consonants and 2 vowels = 210.Each group contains 5 letters.Number of ways of arranging5 letters among themselves= 5!= 5 x 4 x 3 x 2 x 1= 120.Required number of ways = (210 x 120) = 25200.Video Explanation:https://youtu.be/dm-8T8Si5lg"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many ways can the letters of the word 'LEADER' be arranged?",
+        "options": {
+            "A": "72",
+            "B": "144",
+            "C": "360",
+            "D": "720",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "The word 'LEADER' contains 6 letters, namely 1L, 2E, 1A, 1D and 1R.Required number of ways =6!= 360.(1!)(2!)(1!)(1!)(1!)Video Explanation:https://youtu.be/2_2QukHfkYA"
+    }
+]

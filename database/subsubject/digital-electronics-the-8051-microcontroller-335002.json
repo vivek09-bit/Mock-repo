@@ -1,0 +1,61 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The 8051 can handle ________ interrupt sources.",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "There are five interrupt sources for the 8051, which means that they can recognize 5 different events that can interrupt regular program execution. Each interrupt can be enabled or disabled by setting bits of the IE register. Likewise, the whole interrupt system can be disabled by clearing the EA bit of the same register."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The special function registers are maintained in the next 128 locations after the general-purpose data storage and stack.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "This statement will set the address of the bit to 1 (8051 Micro-controller):SETB 01H",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "MOV A, @ R1 will:",
+        "options": {
+            "A": "copy R1 to the accumulator",
+            "B": "copy the accumulator to R1",
+            "C": "copy the contents of memory whose address is in R1 to the accumulator",
+            "D": "copy the accumulator to the contents of memory whose address is in R1"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A label is used to name a single line of code.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

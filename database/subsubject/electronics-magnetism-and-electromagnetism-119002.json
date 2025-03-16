@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Hall effect",
+        "options": {
+            "A": "is a phenomenon with no practical applications",
+            "B": "is used in various sensor applications",
+            "C": "can develop potentials of thousands of volts",
+            "D": "is the basis for solar cell operation"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "\"Series\" and \"parallel\" as applied to dc motors refer to",
+        "options": {
+            "A": "the connection of the motor and controller",
+            "B": "the connection of the field coil and armature windings",
+            "C": "the connection of the brush and commutator",
+            "D": "the connection of the motor batteries"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The component that produces power in an electromagnetic generator is called the",
+        "options": {
+            "A": "armature",
+            "B": "field winding",
+            "C": "commutator",
+            "D": "brush"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the magnetomotive force in a 150-turn coil of wire with 2 A flowing through it?",
+        "options": {
+            "A": "13.33 mAt",
+            "B": "300 At",
+            "C": "75 At",
+            "D": "152 At"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A Hall effect sensor",
+        "options": {
+            "A": "exists only in theory",
+            "B": "is a noncontacting magnetic sensor",
+            "C": "can operate only a few times before failure",
+            "D": "produces very large voltages"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

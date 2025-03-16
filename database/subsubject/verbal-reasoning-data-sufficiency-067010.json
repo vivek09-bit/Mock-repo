@@ -1,0 +1,58 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:On which day in April is Gautam's birthday?Statements:Gautam was born exactly 28 years after his mother was born.His mother will be 55 years 4 months and 5 days on August 18 this year.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "E",
+        "answer_description": "Clearly, the birthday of Gautam's mother can be found out from II and then Gautam's birthday can be determined using the fact given in I."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:What is the code for 'is' in the code language ?Statements:In the code language, 'shi tu ke' means 'pen is blue'.In the same code language, 'ke si re' means 'this is wonderful'.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "E",
+        "answer_description": "In I and II, the common word is 'is' and the common code word is 'ke'. So, 'ke' is the code for 'is'."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:Among A, B, C, D and E, who is in the middle while standing in a row ?Statements:C, who is third to the left of D, is to the immediate right of A and second to the left of E.C is second to the left of E, who is not at any of the ends and who is third to the right of A. D is at one of the ends.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "C",
+        "answer_description": "From each one of I and II, we get the order : A, C, B, E, D. Clearly, B is in the middle."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:Among A, B, C, D, E and F, who is the heaviest ?Statements:A and D are heavier than B, E and F but none of them is the heaviest.A is heavier than D but lighter than C.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "A",
+        "answer_description": "From I, we conclude that since none of A and D is the heaviest and each one of B, E and F is lighter than both A and D, so C is the heaviest."
+    }
+]

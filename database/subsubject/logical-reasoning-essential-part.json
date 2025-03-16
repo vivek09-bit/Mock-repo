@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "harvest",
+        "options": {
+            "A": "autumn",
+            "B": "stockpile",
+            "C": "tractor",
+            "D": "crop"
+        },
+        "correct_answer": "D",
+        "answer_description": "To harvest something, one must have a crop, which is the essential element for this item. Autumn (choice a) is not the only time crops are harvested. There may not be enough of a crop to stockpile (choice b), and you can harvest crops without a tractor (choice c)."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "desert",
+        "options": {
+            "A": "cactus",
+            "B": "arid",
+            "C": "oasis",
+            "D": "flat"
+        },
+        "correct_answer": "B",
+        "answer_description": "A desert is an arid tract of land. Not all deserts are flat (choice d). Not all deserts have cacti or oases (choices a and c)."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "book",
+        "options": {
+            "A": "fiction",
+            "B": "pages",
+            "C": "pictures",
+            "D": "learning"
+        },
+        "correct_answer": "B",
+        "answer_description": "The necessary part of a book is its pages; there is no book without pages. Not all books are fiction (choice a), and not all books have pictures (choice c). Learning (choice d) may or may not take place with a book"
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "language",
+        "options": {
+            "A": "tongue",
+            "B": "slang",
+            "C": "writing",
+            "D": "words"
+        },
+        "correct_answer": "D",
+        "answer_description": "Words are a necessary part of language. Slang is not necessary to language (choice b). Not all languages are written (choice c). Not all languages are spoken (choice a)."
+    },
+    {
+        "direction": "Directions to SolveEach question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "image_path": null,
+        "question": "school",
+        "options": {
+            "A": "student",
+            "B": "report card",
+            "C": "test",
+            "D": "learning"
+        },
+        "correct_answer": "A",
+        "answer_description": "Without students, a school cannot exist; therefore, students are the essential part of schools. The other choices may be related, but they are not essential."
+    }
+]

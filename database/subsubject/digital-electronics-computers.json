@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a basic element within the microprocessor?",
+        "options": {
+            "A": "Microcontroller",
+            "B": "Arithmetic logic unit (ALU)",
+            "C": "Register array",
+            "D": "Control unit"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method bypasses the CPU for certain types of data transfer?",
+        "options": {
+            "A": "Software interrupts",
+            "B": "Interrupt-driven I/O",
+            "C": "Polled I/O",
+            "D": "Direct memory access (DMA)"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not an enhancement to the Pentium that was unavailable in the 8086/8088?",
+        "options": {
+            "A": "\"Pipelined\" architecture",
+            "B": "Expansion of cache memory",
+            "C": "Inclusion of an internal math coprocessor",
+            "D": "Data/address line multiplexing"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which bus is bidirectional?",
+        "options": {
+            "A": "Address bus",
+            "B": "Control bus",
+            "C": "Data bus",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "DMA is particularly suited for data transfer between the ________.",
+        "options": {
+            "A": "disk drive and CPU",
+            "B": "disk drive and RAM",
+            "C": "disk drive and ROM",
+            "D": "disk drive and I/O"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

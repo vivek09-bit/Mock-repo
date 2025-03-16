@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you calculate the element-wise square root of a NumPy arrayarr?",
+        "options": {
+            "A": "np.sqrt(arr)",
+            "B": "arr ** 0.5",
+            "C": "np.square_root(arr)",
+            "D": "np.power(arr, 0.5)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thenp.sqrt()function calculates the element-wise square root of the array."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the NumPy functionnumpy.flipud(arr)?",
+        "options": {
+            "A": "Flip array vertically.",
+            "B": "Flip array horizontally.",
+            "C": "Rotate array 90 degrees clockwise.",
+            "D": "Transpose the array."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thenumpy.flipud()function flips the array vertically."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary purpose of usinglambdafunctions?",
+        "options": {
+            "A": "To create anonymous functions",
+            "B": "To define functions with multiple parameters",
+            "C": "To execute code asynchronously",
+            "D": "To create class methods"
+        },
+        "correct_answer": "A",
+        "answer_description": "lambdafunctions are used to create small, anonymous functions without the need to formally define them using thedefkeyword. They are often used for short-term, specific tasks where a full function definition is not necessary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is the syntax of a lambda function different from a regular function?",
+        "options": {
+            "A": "Lambda functions use the keywordlambda, regular functions usedef",
+            "B": "Lambda functions must have a return statement, regular functions may not",
+            "C": "Lambda functions can have multiple expressions, regular functions cannot",
+            "D": "Lambda functions require parentheses around parameters, regular functions do not"
+        },
+        "correct_answer": "A",
+        "answer_description": "Lambda functions are defined using thelambdakeyword, while regular functions are defined using thedefkeyword."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens if a lambda function is assigned to a variable but not called immediately?",
+        "options": {
+            "A": "It raises a syntax error",
+            "B": "It is stored as a reference to the function and can be called later",
+            "C": "It automatically executes the function",
+            "D": "It requires parentheses to be called later"
+        },
+        "correct_answer": "B",
+        "answer_description": "Assigning a lambda function to a variable allows you to store it as a reference for later use. It doesn't automatically execute when assigned."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about lambda functions is correct?",
+        "options": {
+            "A": "Lambda functions can have named parameters",
+            "B": "Lambda functions cannot be used in conjunction with higher-order functions",
+            "C": "Lambda functions support multiple lines of code",
+            "D": "Lambda functions are always more efficient than regular functions"
+        },
+        "correct_answer": "A",
+        "answer_description": "Lambda functions can have named parameters, just like regular functions, allowing for greater flexibility in their usage."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of thefilter()function when used with lambda functions?",
+        "options": {
+            "A": "To apply the lambda function to each element of an iterable",
+            "B": "To create a filter object based on the lambda function's condition",
+            "C": "To sort the elements of an iterable using the lambda function",
+            "D": "To map the lambda function to each element of an iterable"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thefilter()function is used to create a filter object that includes only the elements from an iterable for which the lambda function returnsTrue."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With which type of SQL Server recovery model are all database changes logged except those that cause large log entries?",
+        "options": {
+            "A": "Differential recovery",
+            "B": "Full recovery",
+            "C": "Simple recovery",
+            "D": "Bulk-logged recovery"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Using SQL Server 2000, which of the following symbols is used to indicate parameters in stored procedures?",
+        "options": {
+            "A": "#",
+            "B": "%",
+            "C": "&",
+            "D": "@"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What mode of authentication does SQL Server NOT provide?",
+        "options": {
+            "A": "Windows-only security",
+            "B": "Both SQL Server and Windows-only security",
+            "C": "Mixed security",
+            "D": "SQL Server only security"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The strictest transaction isolation level provided by SQL Server is called:",
+        "options": {
+            "A": "REPEATABLE READ.",
+            "B": "SERIALIZABLE.",
+            "C": "READ COMMITTED.",
+            "D": "READ UNCOMMITTED."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL Server program code that is executed instead of an SQL command that needs to be processed is called a(n):",
+        "options": {
+            "A": "INSTEAD OF trigger.",
+            "B": "BEFORE trigger.",
+            "C": "AFTER trigger.",
+            "D": "BEGIN trigger."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,281 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An operational amplifier:",
+          "options": {
+               "A": "can be used to subtract two or more signals",
+               "B": "can be used to sum two or more signals",
+               "C": "uses the principle of feedback",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The SKETCHPAD system",
+          "options": {
+               "A": "consisted of an cathode-ray oscilloscope driven by a Lincoln Tx2 computer where by graphical information was displayed on the screen.",
+               "B": "is used for interactive Graphics",
+               "C": "is expensive because it is sophisticated and make demands on the power and resources of the computer.",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In raster-scan colour monitors, colour can be intensified by:",
+          "options": {
+               "A": "grouping the phosphor dots in a circular pattern",
+               "B": "having each electron gun controlled by a composite signal",
+               "C": "using an in-line gun arrangement with a solid metal mesh",
+               "D": "having each electron gun controlled by separate signal",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What should be first considered in choosing a plotter?",
+          "options": {
+               "A": "The hardware you currently own",
+               "B": "The application for which it will be used",
+               "C": "The type of data you will input",
+               "D": "The cost",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The   coordinate   system   used   to describe a workpiece:",
+          "options": {
+               "A": "is always two-dimensional",
+               "B": "changes from part to part",
+               "C": "is defined with respect to a point on the machine",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In pen plotters, \"resolution\" refers to the shortest possible line, but in electrostatic plotters it refers to:",
+          "options": {
+               "A": "the number of dots per inch",
+               "B": "the speed per inch",
+               "C": "dual-axis tracking",
+               "D": "how accurately the plotter returns to a specific point",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which industry is the leading user of robots?",
+          "options": {
+               "A": "Chemical industry",
+               "B": "Automobile industry",
+               "C": "Electronic industry",
+               "D": "Shipping industry",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The electronic component that has been the key to recent developments in automation is the:",
+          "options": {
+               "A": "improved vacuum tube",
+               "B": "integrated circuit",
+               "C": "diode",
+               "D": "transistor",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Four basic elements are required for an automated machine tool or production process. They are: input interface, memory, output interface and:",
+          "options": {
+               "A": "logic",
+               "B": "software",
+               "C": "NC tape programming",
+               "D": "computer graphics workstation",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The ideal solution is to have a system coordinator who will interface with the engineering and manufacturing managers, as well as the:",
+          "options": {
+               "A": "finance manager",
+               "B": "president",
+               "C": "marketing manager",
+               "D": "MIS manager",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The \"snap\" command feature in both AutoCAD and VersaCAD ensure that:",
+          "options": {
+               "A": "template lines can be removed",
+               "B": "objects   are   entered  at   specific intervals.",
+               "C": "identified data are automatically segmented",
+               "D": "definable    center    markers    are entered.",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the present value in a timer in the TI510 is 8, how many milliseconds is required from the time the timer is started until the output is enabled?",
+          "options": {
+               "A": "18.0",
+               "B": "133.36",
+               "C": "149.88",
+               "D": "1275.41",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the plotters listed below eliminates media size limitations?",
+          "options": {
+               "A": "Drum",
+               "B": "Flatbed",
+               "C": "Electrostatic",
+               "D": "Pinch roller",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which part of the system allows the user to interact with the compiler? (a) Memory",
+          "options": {
+               "A": "Translator",
+               "B": "Communications processor",
+               "C": "Interpreter",
+               "D": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Direct Numerical Control means:",
+          "options": {
+               "A": "using several computers to control one large machine",
+               "B": "using one computer to control several machines",
+               "C": "complete elimination of a need for a human operator.",
+               "D": "eliminating computers from the manufacturing process",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is often used as an alternative to the light pen or in association with storage tube displays?",
+          "options": {
+               "A": "Digitiser",
+               "B": "Track ball",
+               "C": "Mouse",
+               "D": "Tablet",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Skipping every other line and picking up the skipped lines on the second pass is called:",
+          "options": {
+               "A": "interlacing",
+               "B": "refresh-vector",
+               "C": "raster-scan",
+               "D": "stroke writing",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When one must sell a project to management, the most important document he or she can produce is a:",
+          "options": {
+               "A": "method for financing the project",
+               "B": "summary of the problem",
+               "C": "project evaluation",
+               "D": "procedure for purchase",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The   \"walk-through\"   method    of programming a robot involves:",
+          "options": {
+               "A": "walking through your suggested procedure with your supervisor prior to programming",
+               "B": "physically moving the robot through all the motions it is to repeat",
+               "C": "moving the robot from one location to another",
+               "D": "All of the above.",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An encoder:",
+          "options": {
+               "A": "is used to send telegraph signals",
+               "B": "converts an input to a binary number",
+               "C": "converts a binary number to a decimal number.",
+               "D": "can have only four keys",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

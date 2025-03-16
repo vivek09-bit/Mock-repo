@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the number of triangles in the given figure.",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "14"
+        },
+        "correct_answer": "D",
+        "answer_description": "The figure may be labelled as shown.The simplest triangles are AHG, AIG, AIB, JFE, CJE and CED i.e. 6 in number.The triangles composed of two components each are ABG, CFE, ACJ and EGI i.e. 4 in number.The triangles composed of three components each are ACE, AGE and CFD i.e. 3 in number.There is only one triangle i.e. AHE composed of four components.Therefore, There are 6 + 4 + 3 + 1 = 14 triangles in the given figure."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the minimum number of straight lines required to make the given figure.",
+        "options": {
+            "A": "16",
+            "B": "17",
+            "C": "18",
+            "D": "19"
+        },
+        "correct_answer": "B",
+        "answer_description": "The figure may be labelled as shown.The horizontal lines are IK, AB, HG and DC i.e. 4 in number.The vertical lines are AD, EH, JM, FG and BC i.e. 5 in number.The slanting lines are IE, JE, JF, KF, DE, DH, FC and GC i.e. 8 is number.Thus, there are 4 + 5 + 8 = 17 straight lines in the figure."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the number of triangles in the given figure.",
+        "options": {
+            "A": "22",
+            "B": "24",
+            "C": "26",
+            "D": "28"
+        },
+        "correct_answer": "D",
+        "answer_description": "The figure may be labelled as shown.The simplest triangles are AGH, GFO, LFO, DJK, EKP, PEL and IMN i.e. 7 in number.The triangles having two components each are GFL, KEL, AMO, NDP, BHN, CMJ, NEJ and HFM i.e. 8 in number.The triangles having three components each are IOE, IFP, BIF and CEI i.e. 4 in number.The triangles having four components each are ANE and DMF i.e. 2 in number.The triangles having five components each are FCK, BGE and ADL i.e. 3 in number.The triangles having six components each are BPF, COE, DHF and AJE i.e. 4 in number.Total number of triangles in the figure = 7 + 8 + 4 + 2 + 3 + 4 = 28."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the number of triangles in the given figure.",
+        "options": {
+            "A": "12",
+            "B": "18",
+            "C": "22",
+            "D": "26"
+        },
+        "correct_answer": "B",
+        "answer_description": "The figure may be labelled as shown.The simplest triangles are AHB, GHI, BJC, GFE, GIE, IJE, CEJ and CDE i.e. 8 in number.The triangles composed of two components each are HEG, BEC, HBE, JGE and ICE i.e. 5 in number.The triangles composed of three components each are FHE, GCE and BED i.e. 3 in number.There is only one triangle i.e. AGC composed of four components.There is only one triangle i.e. AFD composed of nine components.Thus, there are 8 + 5 + 3 + 1 + 1 = 18 triangles in the given figure."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the number of triangles in the given figure.",
+        "options": {
+            "A": "18",
+            "B": "20",
+            "C": "24",
+            "D": "27"
+        },
+        "correct_answer": "C",
+        "answer_description": "The figure may be labelled as shown.The simplest triangles are IJO, BCJ, CDK, KQL, MLQ, GFM, GHN and NIO i.e. 8 in number.The triangles composed of two components each are ABO, AHO, NIJ, IGP, ICP, DEQ, FEQ, KLM, LCP and LGP i.e.10 in number.The triangles composed of four components each are HAB, DEF, LGI, GIC, ICL and GLC i.e. 6 in number.Total number of triangles in the figure = 8 + 10 + 6 = 24."
+    }
+]

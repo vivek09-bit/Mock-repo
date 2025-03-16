@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With a total resistance of 3300 ohms and a 45 V source, if R3is 1200 ohms, what will be its voltage drop?",
+        "options": {
+            "A": "16.36 V",
+            "B": "32.72 V",
+            "C": "10.90 V",
+            "D": "15.00 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the voltage at point B in the given circuit.",
+        "options": {
+            "A": "+10.48 V",
+            "B": "+0.94 V",
+            "C": "+2.6 V",
+            "D": "+3 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the given circuit, what type of failure will cause the voltage at point B to equal the voltage at point C?",
+        "options": {
+            "A": "R1shorts",
+            "B": "R2shorts",
+            "C": "R3shorts",
+            "D": "R2opens"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the voltage at points B to D in the given circuit?",
+        "options": {
+            "A": "+19.2 V",
+            "B": "+8.8 V",
+            "C": "+28 V",
+            "D": "–19.2 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the voltage at point C in the given circuit.",
+        "options": {
+            "A": "+1.48 V",
+            "B": "+0.94 V",
+            "C": "+11.6 V",
+            "D": "+3 V"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

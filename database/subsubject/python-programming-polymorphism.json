@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is polymorphism?",
+        "options": {
+            "A": "The ability of a class to inherit from multiple classes",
+            "B": "The ability of a function to take different types of arguments",
+            "C": "The ability of an object to take on multiple forms or types",
+            "D": "The ability to create instances of a class"
+        },
+        "correct_answer": "C",
+        "answer_description": "Polymorphism in Python refers to the ability of an object to take on multiple forms or types."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about method overloading in Python is correct?",
+        "options": {
+            "A": "Python supports method overloading with different return types",
+            "B": "Python supports method overloading with the same method name but different parameters",
+            "C": "Method overloading is not allowed in Python",
+            "D": "Python supports method overloading by explicitly specifying the data type of parameters"
+        },
+        "correct_answer": "C",
+        "answer_description": "Python does not support method overloading in the traditional sense as it is done in languages like Java. Methods with the same name in a class will override each other."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following code:class Shape:\r\n    def area(self):\r\n        pass\r\n\r\nclass Circle(Shape):\r\n    def area(self, radius):\r\n        return 3.14 * radius * radius\r\n\r\nclass Rectangle(Shape):\r\n    def area(self, length, width):\r\n        return length * widthWhat is this example illustrating?",
+        "options": {
+            "A": "Operator overloading",
+            "B": "Method overloading",
+            "C": "Method overriding",
+            "D": "Polymorphism"
+        },
+        "correct_answer": "C",
+        "answer_description": "This example illustrates method overriding, where a subclass provides a specific implementation for a method that is already defined in its superclass."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is polymorphism achieved?",
+        "options": {
+            "A": "Through method overloading",
+            "B": "Through method overriding",
+            "C": "Through both method overloading and overriding",
+            "D": "Through the use of classes and inheritance"
+        },
+        "correct_answer": "C",
+        "answer_description": "Polymorphism in Python is achieved through both method overloading (not in the traditional sense) and method overriding."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__len__()method in Python classes in the context of polymorphism?",
+        "options": {
+            "A": "To define class attributes",
+            "B": "To customize the behavior when thelen()function is called on an instance",
+            "C": "To access superclass attributes directly",
+            "D": "To create a new instance of the class"
+        },
+        "correct_answer": "B",
+        "answer_description": "The__len__()method is used to customize the behavior when thelen()function is called on an instance of the class, allowing for polymorphic behavior."
+    }
+]

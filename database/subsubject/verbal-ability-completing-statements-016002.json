@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "It is not easy to remain tranquil when those around you ......",
+        "options": {
+            "A": "behave in a socially acceptable manner",
+            "B": "exhibit pleasant mannerism",
+            "C": "are losing their heads",
+            "D": "agree to whatever you say",
+            "E": "exhibit generous and magnanimous gestures"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "\"The food in this hotel is no match to what were forced at late hours in Hotel Kohinoor \" means ......",
+        "options": {
+            "A": "The food in this hotel is quite good compared to what we ate at kohinoor",
+            "B": "Hotel kohinoor served us good quality food than what we get here",
+            "C": "Both hotels have maintained good quality of food",
+            "D": "Both hotels serve poor quality of food",
+            "E": "it is better to eat food than remain hungry"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "Although initial investigations pointed towards him ......",
+        "options": {
+            "A": "the preceding events corroborated his involvement in the crime",
+            "B": "the additional information confirmed his guilt",
+            "C": "the subsequent events established that he was guilt",
+            "D": "the subsequent events proved that he was innocent",
+            "E": "he gave an open confession of his crime"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "The weather outside was extremely pleasant and hence we decided to ......",
+        "options": {
+            "A": "utilise our time in watching the television",
+            "B": "refrain from going out for a morning walk",
+            "C": "enjoy a morning ride in the open",
+            "D": "employ this rare opportunity for writing letters",
+            "E": "remain seated in our rooms in the bungalow"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question, an incomplete statement (Stem) followed by fillers is given. Pick out the best one which can complete incomplete stem correctly and meaningfully.",
+        "image_path": null,
+        "question": "\"It is an uphill task but you will have to do it\" means ......",
+        "options": {
+            "A": "The work is above the hill and you will have to do it",
+            "B": "It is a very easy task but you must do it",
+            "C": "It is very difficult task but you have to do it",
+            "D": "This work is not reserved for you but you will have to do it",
+            "E": "It is almost impossible for others but you can do it"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

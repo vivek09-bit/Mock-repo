@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, you are given a figure (X) followed by four alternative figures (1), (2), (3) and (4) such that figure (X) is embedded in one of them. Trace out the alternative figure which contains fig. (X) as its part.",
+        "image_path": null,
+        "question": "Find out the alternative figure which contains figure (X) as its part.(X)                (1)         (2)         (3)        (4)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, you are given a figure (X) followed by four alternative figures (1), (2), (3) and (4) such that figure (X) is embedded in one of them. Trace out the alternative figure which contains fig. (X) as its part.",
+        "image_path": null,
+        "question": "Find out the alternative figure which contains figure (X) as its part.(X)                (1)         (2)         (3)        (4)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, you are given a figure (X) followed by four alternative figures (1), (2), (3) and (4) such that figure (X) is embedded in one of them. Trace out the alternative figure which contains fig. (X) as its part.",
+        "image_path": null,
+        "question": "Find out the alternative figure which contains figure (X) as its part.(X)                (1)         (2)         (3)        (4)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, you are given a figure (X) followed by four alternative figures (1), (2), (3) and (4) such that figure (X) is embedded in one of them. Trace out the alternative figure which contains fig. (X) as its part.",
+        "image_path": null,
+        "question": "Find out the alternative figure which contains figure (X) as its part.(X)                (1)         (2)         (3)        (4)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": ""
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, you are given a figure (X) followed by four alternative figures (1), (2), (3) and (4) such that figure (X) is embedded in one of them. Trace out the alternative figure which contains fig. (X) as its part.",
+        "image_path": null,
+        "question": "Find out the alternative figure which contains figure (X) as its part.(X)                (1)         (2)         (3)        (4)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": ""
+    }
+]

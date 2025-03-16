@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The signal voltage gain of an amplifier,Av, is defined as:",
+        "options": {
+            "A": "",
+            "B": "Av=IC×RC",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a class B push-pull amplifier, the transistors are biased slightly above cutoff to avoid",
+        "options": {
+            "A": "crossover distortion",
+            "B": "unusually high efficiency",
+            "C": "negative feedback",
+            "D": "a low input impedance"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The depletion-mode MOSFET",
+        "options": {
+            "A": "can operate with only positive gate voltages",
+            "B": "can operate with only negative gate voltages",
+            "C": "cannot operate in the ohmic region",
+            "D": "can operate with positive as well as negative gate voltages"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three different points are shown on a dc load line. The upper point represents the",
+        "options": {
+            "A": "minimum current gain",
+            "B": "quiescent point",
+            "C": "saturation point",
+            "D": "cutoff point"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following conditions are needed to properly bias annpntransistor amplifier?",
+        "options": {
+            "A": "Forward bias the base/emitter junction and reverse bias the base/collector junction.",
+            "B": "Forward bias the collector/base junction and reverse bias the emitter/base junction.",
+            "C": "Apply a positive voltage on then-type material and a negative voltage on thep-type material.",
+            "D": "Apply a large voltage on the base."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

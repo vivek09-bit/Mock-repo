@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A distributed database has which of the following advantages over a centralized database?",
+        "options": {
+            "A": "Software cost",
+            "B": "Software complexity",
+            "C": "Slow Response",
+            "D": "Modular growth"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An autonomous homogenous environment is which of the following?",
+        "options": {
+            "A": "The same DBMS is at each node and each DBMS works independently.",
+            "B": "The same DBMS is at each node and a central DBMS coordinates database access.",
+            "C": "A different DBMS is at each node and each DBMS works independently.",
+            "D": "A different DBMS is at each node and a central DBMS coordinates database access."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transaction manager is which of the following?",
+        "options": {
+            "A": "Maintains a log of transactions",
+            "B": "Maintains before and after database images",
+            "C": "Maintains appropriate concurrency control",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Location transparency allows for which of the following?",
+        "options": {
+            "A": "Users to treat the data as if it is at one location",
+            "B": "Programmers to treat the data as if it is at one location",
+            "C": "Managers to treat the data as if it is at one location",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A heterogeneous distributed database is which of the following?",
+        "options": {
+            "A": "The same DBMS is used at each location and data are not distributed across all nodes.",
+            "B": "The same DBMS is used at each location and data are distributed across all nodes.",
+            "C": "A different DBMS is used at each location and data are not distributed across all nodes.",
+            "D": "A different DBMS is used at each location and data are distributed across all nodes."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

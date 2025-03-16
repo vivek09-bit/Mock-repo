@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code snippet?numbers = [1, 2, 3, 4, 5]\r\nnumbers[1] = 9\r\nprint(numbers)",
+        "options": {
+            "A": "[1, 9, 3, 4, 5]",
+            "B": "[1, 2, 3, 4, 5]",
+            "C": "[9, 2, 3, 4, 5]",
+            "D": "Error"
+        },
+        "correct_answer": "A",
+        "answer_description": "Lists in Python are mutable, so you can change the value of an element using indexing."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code snippet?numbers = [1, 2, 3, 4, 5]\r\nsliced_numbers = numbers[1:4]\r\nprint(sliced_numbers)",
+        "options": {
+            "A": "[1, 2, 3, 4, 5]",
+            "B": "[2, 3, 4]",
+            "C": "[1, 2, 3]",
+            "D": "[3, 4, 5]"
+        },
+        "correct_answer": "B",
+        "answer_description": "Slicing is used to extract a portion of a list. In this case, it extracts elements from index 1 to 3.numbers = [1, 2, 3, 4, 5]\r\nsliced_numbers = numbers[1:4]\r\nprint(sliced_numbers)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code snippet?fruits = ['apple', 'banana', 'cherry']\r\nfruits.remove('banana')\r\nprint(fruits)",
+        "options": {
+            "A": "['apple', 'banana', 'cherry']",
+            "B": "['apple', 'cherry']",
+            "C": "['banana', 'cherry']",
+            "D": "Error"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theremove()method is used to remove a specific element from the list.fruits = ['apple', 'banana', 'cherry']\r\nfruits.remove('banana')\r\nprint(fruits)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, which module is commonly used for array operations?",
+        "options": {
+            "A": "list",
+            "B": "array",
+            "C": "numpy",
+            "D": "math"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thenumpymodule is commonly used for efficient array operations in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you create an array in Python using thearraymodule?",
+        "options": {
+            "A": "arr = array.create([1, 2, 3])",
+            "B": "arr = array([1, 2, 3])",
+            "C": "arr = array.array([1, 2, 3])",
+            "D": "arr = create.array([1, 2, 3])"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thearraymodule provides thearray()function to create arrays in Python."
+    }
+]

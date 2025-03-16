@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Movement of cell against concentration gradient is called",
+        "options": {
+            "A": "osmosis",
+            "B": "active transport",
+            "C": "diffusion",
+            "D": "passive transport"
+        },
+        "correct_answer": "B",
+        "answer_description": "Active transport, this is the only transport method that can move species against their concentration gradient (from low to high concentration). Facilitated diffusion only moves species down their concentration gradient from high to low concentration."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Photosynthesis generally takes place in which parts of the plant?",
+        "options": {
+            "A": "Leaf and other chloroplast bearing parts",
+            "B": "stem and leaf",
+            "C": "Roots and chloroplast bearing parts",
+            "D": "Bark and leaf"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Most fish do not sink in water because of the presence ofswim bladderair bladderair sacsair in spongy bones",
+        "options": {
+            "A": "I and II are correct",
+            "B": "II and III are correct",
+            "C": "III and IV are correct",
+            "D": "I, II, III and IV are correct"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Plants synthesis protein from",
+        "options": {
+            "A": "starch",
+            "B": "sugar",
+            "C": "amino acids",
+            "D": "fatty acids"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Plants absorb dissolved nitrates from soil and convert them into",
+        "options": {
+            "A": "free nitrogen",
+            "B": "urea",
+            "C": "ammonia",
+            "D": "proteins"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

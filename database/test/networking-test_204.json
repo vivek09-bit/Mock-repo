@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What PPP protocol provides dynamic addressing, authentication, and multilink?",
+          "options": {
+               "A": "NCP",
+               "B": "HDLC",
+               "C": "LCP",
+               "D": "X.25"
+          },
+          "correct_answer": "C",
+          "answer_description": "Link Control Protocol in the PPP stack provides dynamic addressing, authentication, and multilink."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?",
+          "options": {
+               "A": "192.168.168.129-190",
+               "B": "192.168.168.129-191",
+               "C": "192.168.168.128-190",
+               "D": "192.168.168.128-192"
+          },
+          "correct_answer": "A",
+          "answer_description": "256 - 192 = 64. 64 + 64 = 128. 128 + 64 = 192. The subnet is 128, the broadcast address \nis 191, and the valid host range is the numbers in between, or 129-190."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What protocols are used to configure trunking on a switch?VLAN Trunking ProtocolVLAN802.1QISL",
+          "options": {
+               "A": "1 and 2",
+               "B": "3 and 4",
+               "C": "1 only",
+               "D": "2 only"
+          },
+          "correct_answer": "B",
+          "answer_description": "VTP is not right because it has nothing to do with trunking except that it sends VLAN information across a trunk link. 802.1Q and ISL are used to configure trunking on a port."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the subnetwork address for a host with the IP address 200.10.5.68/28?",
+          "options": {
+               "A": "200.10.5.56",
+               "B": "200.10.5.32",
+               "C": "200.10.5.64",
+               "D": "200.10.5.0"
+          },
+          "correct_answer": "C",
+          "answer_description": "This is a pretty simple question. A /28 is 255.255.255.240, which means that our block size is 16 in the fourth octet. 0, 16, 32, 48, 64, 80, etc. The host is in the 64 subnet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Using the illustration from the previous question, what would be the IP address of S0 if you were using the first subnet? The network ID is 192.168.10.0/28 and you need to use the last available IP address in the range. Again, the zero subnet should not be considered valid for this question.",
+          "options": {
+               "A": "192.168.10.24",
+               "B": "192.168.10.62",
+               "C": "192.168.10.30",
+               "D": "192.168.10.127"
+          },
+          "correct_answer": "C",
+          "answer_description": "A /28 is a 255.255.255.240 mask. The first subnet is 16 (remember that the question stated not to use subnet zero) and the next subnet is 32, so our broadcast address is 31. This makes our host range 17-30. 30 is the last valid host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you wanted administrators to see a message when logging into the router, which command would you use?",
+          "options": {
+               "A": "message banner motd",
+               "B": "banner message motd",
+               "C": "banner motd",
+               "D": "message motd"
+          },
+          "correct_answer": "C",
+          "answer_description": "The typical banner is a message of the day (MOTD) and is set by using the global configuration mode commandbanner motd."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You type the following command into the router and receive the following output:Router#show serial 0/0\n        ^\n% Invalid input detected at '^' marker.Why was this error message displayed?",
+          "options": {
+               "A": "You need to be in privileged mode.",
+               "B": "You cannot have a space between serial and 0/0.",
+               "C": "The router does not have a serial0/0 interface.",
+               "D": "Part of the command is missing."
+          },
+          "correct_answer": "D",
+          "answer_description": "You can view the interface statistics from user mode, but the command isshow interface serial 0/0."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What layer of the OSI model would you assume the problem is in if you typeshow interface serial 1and receive the following message?\"Serial1 is down, line protocol is down.\"",
+          "options": {
+               "A": "Physical layer",
+               "B": "Data Link layer",
+               "C": "Network layer",
+               "D": "None. It is a router problem."
+          },
+          "correct_answer": "A",
+          "answer_description": "If you see that a serial interface and the protocol are both down, then you have a Physical layer problem. If you seeserial1 is up,line protocol is down, then you are not receiving (Data Link) keepalives from the remote end."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is split horizon?",
+          "options": {
+               "A": "Information about a route should not be sent back in the direction from which the original update came.",
+               "B": "It splits the traffic when you have a large bus (horizon) physical network.",
+               "C": "It holds the regular updates from broadcasting to a downed link.",
+               "D": "It prevents regular update messages from reinstating a route that has gone down."
+          },
+          "correct_answer": "A",
+          "answer_description": "A split horizon will not advertise a route back to the same router it learned the route from."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is route poisoning?",
+          "options": {
+               "A": "It sends back the protocol received from a router as a poison pill, which stops the regular updates.",
+               "B": "It is information received from a router that can't be sent back to the originating router.",
+               "C": "It prevents regular update messages from reinstating a route that has just come up.",
+               "D": "It describes when a router sets the metric for a downed link to infinity."
+          },
+          "correct_answer": "D",
+          "answer_description": "Another way to avoid problems caused by inconsistent updates and to stop network loops is route poisoning. When a network goes down, the distance-vector routing protocol initiates route poisoning by advertising the network with a metric of 16, or unreachable (sometimes referred to as infinite)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If routers in a single area are configured with the same priority value, what value does a router use for the OSPF Router ID in the absence of a loopback interface?",
+          "options": {
+               "A": "The lowest IP address of any physical interface",
+               "B": "The highest IP address of any physical interface",
+               "C": "The lowest IP address of any logical interface",
+               "D": "The highest IP address of any logical interface"
+          },
+          "correct_answer": "B",
+          "answer_description": "At the moment of OSPF process startup, the highest IP address on any active interface will be the Router ID (RID) of the router. If you have a loopback interface configured (logical interface), then that will override the interface IP address and become the RID of the router automatically."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are benefits of VLANs?They increase the size of collision domains.They allow logical grouping of users by function.They can enhance network security.They increase the size of broadcast domains while decreasing the number of collision domains.They simplify switch administration.They increase the number of broadcast domains while decreasing the size of the broadcast domains.",
+          "options": {
+               "A": "1 and 5",
+               "B": "2 and 4",
+               "C": "1, 3 and 5",
+               "D": "2, 3 and 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "VLANs break up broadcast domains in a switched layer 2 network, which means smaller broadcast domains. They allow configuration by logical function instead of physical location and can create some security if configured correctly."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following would be good reasons to run NAT?You need to connect to the Internet and your hosts don't have globally unique IP addresses.You change to a new ISP that requires you to renumber your network.You don't want any hosts connecting to the Internet.You require two intranets with duplicate addresses to merge.",
+          "options": {
+               "A": "1, 2 and 4",
+               "B": "2 and 4",
+               "C": "3 only",
+               "D": "All of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "The most popular use of NAT is if you want to connect to the Internet and you don't want hosts to have global (real) IP addresses, but option B and D are correct as well."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command would you place on interface on a private network?",
+          "options": {
+               "A": "ip nat inside",
+               "B": "ip nat outside",
+               "C": "ip outside global",
+               "D": "ip inside local"
+          },
+          "correct_answer": "A",
+          "answer_description": "As in access-lists, you must configure your interfaces before NAT will provide any translations. On the inside networks you would use the commandip nat inside. On the outside interface, you will use the commandip nat outside."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command would you place on interface connected to the Internet?",
+          "options": {
+               "A": "ip nat inside",
+               "B": "ip nat outside",
+               "C": "ip outside global",
+               "D": "ip inside local"
+          },
+          "correct_answer": "B",
+          "answer_description": "As in access-lists, you must configure your interfaces before NAT will provide any translations. On the inside networks you would use the commandip nat inside. On the outside interface, you will use the commandip nat outside."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many non-overlapping channels are available with 802.11b?",
+          "options": {
+               "A": "3",
+               "B": "12",
+               "C": "23",
+               "D": "40"
+          },
+          "correct_answer": "A",
+          "answer_description": "The IEEE 802.11b standard provides 3 non-overlapping channels."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the maximum data rate for the 802.11a standard?",
+          "options": {
+               "A": "6Mbps",
+               "B": "11Mbps",
+               "C": "22Mbps",
+               "D": "54Mbps"
+          },
+          "correct_answer": "D",
+          "answer_description": "The IEEE 802.11a standard provides a maximum data rate of up to 54Mbps."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true when describing a multicast address?",
+          "options": {
+               "A": "Packets addressed to a unicast address are delivered to a single interface.",
+               "B": "Packets are delivered to all interfaces identified by the address. This is also called a one-to-many address.",
+               "C": "Identifies multiple interfaces and is only delivered to one address. This address can also be called one-to-one-of-many.",
+               "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+          },
+          "correct_answer": "B",
+          "answer_description": "Packets addressed to a multicast address are delivered to all interfaces identified by the multicast address, the same as in IPv4. It is also called a one-to-many address. You can always tell a multicast address in IPv6 because multicast addresses always start withFF."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When setting up Frame Relay for point-to-point subinterfaces, which of the following must not be configured?",
+          "options": {
+               "A": "The Frame Relay encapsulation on the physical interface",
+               "B": "The local DLCI on each subinterface",
+               "C": "An IP address on the physical interface",
+               "D": "The subinterface type as point-to-point"
+          },
+          "correct_answer": "C",
+          "answer_description": "It is very important to remember when studying the CCNA exam objectives, and when configuring Frame Relay with point-to-point subinterfaces, that you do not put an IP address on the physical interface."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Acme Corporation is implementing dial-up services to enable remote-office employees to connect to the local network. The company uses multiple routed protocols, needs authentication of users connecting to the network, and since some calls will be long distance, needs callback support. Which of the following protocols is the best choice for these remote services?",
+          "options": {
+               "A": "802.1",
+               "B": "Frame Relay",
+               "C": "HDLC",
+               "D": "PPP",
+               "E": "PAP"
+          },
+          "correct_answer": "D",
+          "answer_description": "PPP is your only option, as HDLC and Frame Relay do not support these types of business requirements. PPP provides dynamic addressing, authentication using PAP or CHAP, and callback services."
+     }
+]

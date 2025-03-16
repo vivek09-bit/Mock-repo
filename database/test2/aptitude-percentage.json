@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wickets?",
+        "options": {
+            "A": "45%",
+            "B": "455%11",
+            "C": "546%11",
+            "D": "55%"
+        },
+        "correct_answer": "B",
+        "answer_description": "Number of runs made by running = 110 - (3 x 4 + 8 x 6)= 110 - (60)= 50.Required percentage =50x 100% = 455%11011Video Explanation:https://youtu.be/X2zTnABqEHU"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+        "options": {
+            "A": "39, 30",
+            "B": "41, 32",
+            "C": "42, 33",
+            "D": "43, 34"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let their marks be (x+ 9) andx.Then,x+ 9 =56(x+ 9 +x)10025(x+ 9) = 14(2x+ 9)3x= 99x= 33So, their marks are 42 and 33."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+        "options": {
+            "A": "588 apples",
+            "B": "600 apples",
+            "C": "672 apples",
+            "D": "700 apples"
+        },
+        "correct_answer": "D",
+        "answer_description": "Suppose originally he hadxapples.Then, (100 - 40)% ofx= 420.60xx= 420100x=420 x 100= 700.60Video Explanation:https://youtu.be/-Pv25Do3WwY"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+        "options": {
+            "A": "1",
+            "B": "14",
+            "C": "20",
+            "D": "21"
+        },
+        "correct_answer": "C",
+        "answer_description": "Clearly, the numbers which have 1 or 9 in the unit's digit, have squares that end in the digit 1. Such numbers from 1 to 70 are 1, 9, 11, 19, 21, 29, 31, 39, 41, 49, 51, 59, 61, 69.Number of such number =14Required percentage =14x 100% = 20%.70Video Explanation:https://youtu.be/cBamI6iRNIA"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If A =x% ofyand B =y% ofx, then which of the following is true?",
+        "options": {
+            "A": "A is smaller than B.",
+            "B": "A is greater than B",
+            "C": "Relationship between A and B cannot be determined.",
+            "D": "Ifxis smaller thany, then A is greater than B.",
+            "E": "None of these"
+        },
+        "correct_answer": "E",
+        "answer_description": "x% ofy=xxy=yxx=y% ofx100100A = B."
+    }
+]

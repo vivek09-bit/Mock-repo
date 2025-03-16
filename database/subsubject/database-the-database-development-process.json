@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following database activities allow for the actual retrieval and use of a database?",
+        "options": {
+            "A": "Enterprise modeling",
+            "B": "Logical database design",
+            "C": "Physical database design and definition",
+            "D": "Database implementation"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The three-schema components include all, but:",
+        "options": {
+            "A": "internal schema.",
+            "B": "conceptual schema.",
+            "C": "programming schema.",
+            "D": "external schema."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not a type of data management technology?",
+        "options": {
+            "A": "Relational",
+            "B": "Rational",
+            "C": "Object-oriented",
+            "D": "Dimensional"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not a relevant feature of CASE tools?",
+        "options": {
+            "A": "The ability to help draw data models using entity-relationship notations",
+            "B": "The ability to generate code",
+            "C": "An information repository",
+            "D": "Access to a DB via the Internet"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The first step in database development is which of the following?",
+        "options": {
+            "A": "Enterprise data modeling",
+            "B": "Logical database design",
+            "C": "Physical database design and definition",
+            "D": "Database Implementation"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

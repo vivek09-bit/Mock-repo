@@ -1,0 +1,70 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+        "options": {
+            "A": "Rs. 650",
+            "B": "Rs. 690",
+            "C": "Rs. 698",
+            "D": "Rs. 700"
+        },
+        "correct_answer": "C",
+        "answer_description": "S.I. for 1 year = Rs. (854 - 815) = Rs. 39.S.I. for 3 years = Rs.(39 x 3) = Rs. 117.Principal = Rs. (815 - 117) = Rs. 698."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+        "options": {
+            "A": "Rs. 6400",
+            "B": "Rs. 6500",
+            "C": "Rs. 7200",
+            "D": "Rs. 7500",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the sum invested in Scheme A be Rs.xand that in Scheme B be Rs. (13900 -x).Then,xx 14 x 2+(13900 -x) x 11 x 2= 350810010028x- 22x= 350800 - (13900 x 22)6x= 45000x= 7500.So, sum invested in Scheme B = Rs. (13900 - 7500) = Rs. 6400.Video Explanation:https://youtu.be/Xi4kU9y6ppk"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+        "options": {
+            "A": "Rs. 4462.50",
+            "B": "Rs. 8032.50",
+            "C": "Rs. 8900",
+            "D": "Rs. 8925",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Principal= Rs.100 x 4016.259 x 5= Rs.40162545= Rs. 8925."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+        "options": {
+            "A": "3.5 years",
+            "B": "4 years",
+            "C": "4.5 years",
+            "D": "5 years"
+        },
+        "correct_answer": "B",
+        "answer_description": "Time =100 x 81years= 4 years.450 x 4.5Video Explanation:https://youtu.be/WdBzN0Sj8jc"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+        "options": {
+            "A": "3.6",
+            "B": "6",
+            "C": "18",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let rate = R% and time = R years.Then,1200 x R x R= 43210012R2= 432R2= 36R = 6.Video Explanation:https://youtu.be/TjjI4iRkzT0"
+    }
+]

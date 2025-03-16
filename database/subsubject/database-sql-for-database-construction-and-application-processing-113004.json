@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What SQL structure is used to limit column values of a table?",
+        "options": {
+            "A": "The LIMIT constraint",
+            "B": "The CHECK constraint",
+            "C": "The VALUE constraint",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is NOT one of the most common types of SQL CHECK constraints?",
+        "options": {
+            "A": "System date",
+            "B": "Range checks",
+            "C": "Lists of values",
+            "D": "Comparing one column value to another within the same table"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is an advantage of placing computations in SQL views?",
+        "options": {
+            "A": "To save users from having to write an expression.",
+            "B": "To ensure that the results are consistent.",
+            "C": "To accomplish both of the above.",
+            "D": "None of the above is correct - computations cannot be placed in a view."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Views constructed from SQL SELECT statements that conform to the SQL-92 standard may not contain:",
+        "options": {
+            "A": "GROUP BY.",
+            "B": "WHERE.",
+            "C": "ORDER BY.",
+            "D": "FROM."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements accurately describes the behavior of theelseblock in a Pythontry-exceptstatement?",
+        "options": {
+            "A": "It is executed when an exception occurs in thetryblock.",
+            "B": "It is executed when thetryblock completes without any exceptions.",
+            "C": "It is executed only if an exception occurs in theexceptblock.",
+            "D": "It is executed when the program terminates."
+        },
+        "correct_answer": "B",
+        "answer_description": "Theelseblock in atry-exceptstatement is executed when the try block completes without any exceptions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thesortedfunction in Python when used with loops?",
+        "options": {
+            "A": "Reverses the order of elements in a list.",
+            "B": "Sorts the elements in ascending order.",
+            "C": "Returns the index and value of each element in a sequence.",
+            "D": "Checks for equality of elements in multiple sequences."
+        },
+        "correct_answer": "B",
+        "answer_description": "Thesortedfunction in Python is used to sort the elements in ascending order."
+    }
+]

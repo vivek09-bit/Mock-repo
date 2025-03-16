@@ -1,0 +1,61 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The internal RAM memory of the 8051 is:",
+        "options": {
+            "A": "32 bytes",
+            "B": "64 bytes",
+            "C": "128 bytes",
+            "D": "256 bytes"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "This program code will be executed continuously:STAT:MOV A, #01HJNZ STAT",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The 8051 has ________ 16-bit counter/timers.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The address space of the 8051 is divided into four distinct areas: internal data, external data, internal code, and external code.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Data transfer from I/O to external data memory can only be done with the MOVX command.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

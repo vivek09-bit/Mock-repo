@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When transistors are used in digital circuits they usually operate in the:",
+        "options": {
+            "A": "active region",
+            "B": "breakdown region",
+            "C": "saturation and cutoff regions",
+            "D": "linear region"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three different Q points are shown on a dc load line. The upper Q point represents the:",
+        "options": {
+            "A": "minimum current gain",
+            "B": "intermediate current gain",
+            "C": "maximum current gain",
+            "D": "cutoff point"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transistor has aof 250 and a base current, IB, of 20A. The collector current, IC, equals:",
+        "options": {
+            "A": "500A",
+            "B": "5 mA",
+            "C": "50 mA",
+            "D": "5 A"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A current ratio of IC/IEis usually less than one and is called:",
+        "options": {
+            "A": "beta",
+            "B": "theta",
+            "C": "alpha",
+            "D": "omega"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With the positive probe on an NPN base, an ohmmeter reading between the other transistor terminals should be:",
+        "options": {
+            "A": "open",
+            "B": "infinite",
+            "C": "low resistance",
+            "D": "high resistance"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

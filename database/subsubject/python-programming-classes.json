@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__init__method in a Python class?",
+        "options": {
+            "A": "It is used to initialize the class variables.",
+            "B": "It is a reserved method for object initialization.",
+            "C": "It defines the constructor of the class.",
+            "D": "It is required for defining instance methods."
+        },
+        "correct_answer": "B",
+        "answer_description": "The__init__method is a special method in Python classes that is automatically called when an object is created. It is used to initialize the object's attributes or perform any other setup needed for the object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what does the termselfrefer to in a class method?",
+        "options": {
+            "A": "It represents the instance of the class.",
+            "B": "It refers to the superclass object.",
+            "C": "It is a keyword for defining class variables.",
+            "D": "It is used for static method declaration."
+        },
+        "correct_answer": "A",
+        "answer_description": "In Python, the termselfis a convention used to represent the instance of the class. It is the first parameter in the method definition and refers to the instance on which the method is called."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you create a class variable?",
+        "options": {
+            "A": "Define it inside a method with the keywordvar.",
+            "B": "Declare it outside any method in the class with the keywordstatic.",
+            "C": "Use theselfkeyword inside a method.",
+            "D": "Define it inside the constructor using__init__."
+        },
+        "correct_answer": "B",
+        "answer_description": "Class variables in Python are declared outside any method in the class and are shared by all instances of the class. They are typically defined with thestatickeyword."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__str__method?",
+        "options": {
+            "A": "It converts an object to a string representation.",
+            "B": "It is used to define a string variable in a class.",
+            "C": "It represents the string type in Python.",
+            "D": "It is required for string concatenation."
+        },
+        "correct_answer": "A",
+        "answer_description": "The__str__method is called when thestr()function is used on an object. It is used to provide a human-readable string representation of the object."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you inherit a class?",
+        "options": {
+            "A": "Using theinheritkeyword.",
+            "B": "By using theextendskeyword.",
+            "C": "Using theinheritskeyword.",
+            "D": "By placing the parent class name in parentheses after the child class name."
+        },
+        "correct_answer": "D",
+        "answer_description": "In Python, class inheritance is achieved by placing the name of the parent class in parentheses after the name of the child class. This creates a relationship where the child class inherits attributes and methods from the parent class."
+    }
+]

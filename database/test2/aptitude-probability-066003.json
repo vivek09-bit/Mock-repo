@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:",
+        "options": {
+            "A": "113",
+            "B": "213",
+            "C": "126",
+            "D": "152"
+        },
+        "correct_answer": "C",
+        "answer_description": "Here,n(S) = 52.Let E = event of getting a queen of club or a king of heart.Then,n(E) = 2.P(E) =n(E)=2=1.n(S)5226"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is:",
+        "options": {
+            "A": "122",
+            "B": "322",
+            "C": "291",
+            "D": "277"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let S be the sample space.Then,n(S)= number of ways of drawing 3 balls out of 15=15C3=(15 x 14 x 13)(3 x 2 x 1)= 455.Let E = event of getting all the 3 red balls.n(E) =5C3=5C2=(5 x 4)= 10.(2 x 1)P(E) =n(E)=10=2.n(S)45591"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart, is:",
+        "options": {
+            "A": "320",
+            "B": "2934",
+            "C": "47100",
+            "D": "13102"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let S be the sample space.Then,n(S) =52C2=(52 x 51)= 1326.(2 x 1)Let E = event of getting 1 spade and 1 heart.n(E)= number of ways of choosing 1 spade out of 13 and 1 heart out of 13= (13C1x13C1)= (13 x 13)= 169.P(E) =n(E)=169=13.n(S)1326102"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?",
+        "options": {
+            "A": "113",
+            "B": "313",
+            "C": "14",
+            "D": "952"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, there are 52 cards, out of which there are 12 face cards.P (getting a face card) =12=3.5213"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?",
+        "options": {
+            "A": "34",
+            "B": "47",
+            "C": "18",
+            "D": "37"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let number of balls = (6 + 8) = 14.Number of white balls = 8.P (drawing a white ball) =8=4.147"
+    }
+]

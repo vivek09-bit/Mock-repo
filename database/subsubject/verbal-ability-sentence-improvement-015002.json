@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "Will you kindlyopenthe knot?",
+        "options": {
+            "A": "untie",
+            "B": "break",
+            "C": "loose",
+            "D": "No improvement"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "Hesent a wordto me that he would be coming late.",
+        "options": {
+            "A": "sent word",
+            "B": "had sent a word",
+            "C": "sent words",
+            "D": "No improvement"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "Johnhad toldme that he hasn't done it yet.",
+        "options": {
+            "A": "told",
+            "B": "tells",
+            "C": "was telling",
+            "D": "No improvement"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "If hehadtime he will call you.",
+        "options": {
+            "A": "would have",
+            "B": "would have had",
+            "C": "has",
+            "D": "No improvement"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "Will youlend me few rupeesin this hour of need?",
+        "options": {
+            "A": "lend me any rupees",
+            "B": "borrow me a few rupees",
+            "C": "lend me a few rupees",
+            "D": "No improvement"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

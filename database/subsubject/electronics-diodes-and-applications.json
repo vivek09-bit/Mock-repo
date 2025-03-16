@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a varistor?",
+        "options": {
+            "A": "a voltage-dependent resistor",
+            "B": "a voltage-dependent diode",
+            "C": "a current-dependent resistor",
+            "D": "a current-dependent diode"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of transformer is required to create a 180 degree input to a rectifier?",
+        "options": {
+            "A": "center-tapped secondary",
+            "B": "step-down secondary",
+            "C": "stepped-up secondary",
+            "D": "split winding primary"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What circuit activity may shift a characteristic curve so that diode operating points are different?",
+        "options": {
+            "A": "higher power (heat)",
+            "B": "higher resistance",
+            "C": "lower voltage",
+            "D": "lower current"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is wrong with this diode?",
+        "options": {
+            "A": "open",
+            "B": "short",
+            "C": "nothing",
+            "D": "not enough data"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The dc current through each diode in a bridge rectifier equals:",
+        "options": {
+            "A": "the load current",
+            "B": "half the dc load current",
+            "C": "twice the dc load current",
+            "D": "one-fourth the dc load current"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

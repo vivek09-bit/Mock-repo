@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true concerning subqueries?",
+        "options": {
+            "A": "Involves the use of an inner and outer query.",
+            "B": "Cannot return the same result as a query that is not a subquery.",
+            "C": "Does not start with the word SELECT.",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a correlated subquery?",
+        "options": {
+            "A": "Uses the result of an inner query to determine the processing of an outer query.",
+            "B": "Uses the result of an outer query to determine the processing of an inner query.",
+            "C": "Uses the result of an inner query to determine the processing of an inner query.",
+            "D": "Uses the result of an outer query to determine the processing of an outer query."
+        },
+        "correct_answer": "B",
+        "answer_description": "Correlated subquery references a column in the outer query and executes the subquery once for every row in the outer query while Uncorrelated subquery executes the subquery first and passes the value to the outer query."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many tables may be included with a join?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following SQL is which type of join: SELECT CUSTOMER_T. CUSTOMER_ID, ORDER_T. CUSTOMER_ID, NAME, ORDER_ID FROM CUSTOMER_T,ORDER_T ;",
+        "options": {
+            "A": "Equi-join",
+            "B": "Natural join",
+            "C": "Outer join",
+            "D": "Cartesian join"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning triggers?",
+        "options": {
+            "A": "You do not create them with SQL.",
+            "B": "They execute against only some applications that access a database.",
+            "C": "They have an event, condition, and action.",
+            "D": "They cannot cascade (cause another trigger to fire)."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

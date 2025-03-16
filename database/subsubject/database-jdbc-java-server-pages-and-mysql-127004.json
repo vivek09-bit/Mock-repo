@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which JDBC driver Type(s) is(are) the JDBC-ODBC bridge?",
+        "options": {
+            "A": "Type 1",
+            "B": "Type 2",
+            "C": "Type 3",
+            "D": "Type 4"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many copies of a JSP page can be in memory at a time?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Unlimited"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which JDBC driver Types are for use over communications networks?",
+        "options": {
+            "A": "Type 3 only",
+            "B": "Type 4 only",
+            "C": "Both Type 3 and Type 4",
+            "D": "Neither Type 3 nor Type 4"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "JDBC stands for:",
+        "options": {
+            "A": "Java Database Connectivity",
+            "B": "Java Database Components",
+            "C": "Java Database Control",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does Tomcat execute a JSP?",
+        "options": {
+            "A": "As a CGI script",
+            "B": "As an independent process",
+            "C": "By one of Tomcat's threads",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

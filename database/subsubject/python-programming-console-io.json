@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you take user input from the console?",
+        "options": {
+            "A": "console.input()",
+            "B": "input()",
+            "C": "read.console()",
+            "D": "console.read_input()"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theinput()function is used to take user input from the console in Python. It reads a line from the console and returns it as a string."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which function is used to print output to the console?",
+        "options": {
+            "A": "display()",
+            "B": "show()",
+            "C": "print()",
+            "D": "console.log()"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theprint()function is used to display output on the console in Python. It can be used to print variables, strings, and expressions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you read an integer input from the console?",
+        "options": {
+            "A": "int_input()",
+            "B": "read_integer()",
+            "C": "int(input())",
+            "D": "read.console(integer)"
+        },
+        "correct_answer": "C",
+        "answer_description": "To read an integer input from the console, you can useint(input())to convert the input string to an integer."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will happen if you try to useinput()without assigning it to a variable?",
+        "options": {
+            "A": "Error:input()cannot be used without assignment",
+            "B": "The input will be ignored",
+            "C": "The program will terminate",
+            "D": "The input will be printed to the console"
+        },
+        "correct_answer": "D",
+        "answer_description": "If you useinput()without assigning it to a variable, the entered input will be displayed on the console."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you prompt the user with a message while taking input?",
+        "options": {
+            "A": "prompt(input_msg)",
+            "B": "input_msg(prompt)",
+            "C": "input(prompt=input_msg)",
+            "D": "console.prompt(input_msg)"
+        },
+        "correct_answer": "C",
+        "answer_description": "You can use theinput()function with the optional parameterpromptto display a message to the user before taking input."
+    }
+]

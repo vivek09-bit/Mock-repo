@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which circuit fault do the meter readings in the given figure indicate?",
+        "options": {
+            "A": "The 1 kresistor is shorted.",
+            "B": "The 4.7 kresistor is shorted.",
+            "C": "The 2.2 kresistor is shorted.",
+            "D": "The 3.3 kresistor is shorted."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a series–parallel circuit consisting of R1and R2in series and connected in parallel with R3, if R1opens, then R2's voltage will:",
+        "options": {
+            "A": "increase",
+            "B": "decrease",
+            "C": "remain the same",
+            "D": "cannot tell"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the given circuit, what isRUNKequal to ifRVmust be adjusted to 1,232in order to balance the bridge?",
+        "options": {
+            "A": "220",
+            "B": "6,899",
+            "C": "1,232",
+            "D": "More information is needed in order to findRUNK."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With 6 V applied, what is the voltage across R2of a parallel combination of R2(1 k), R3(2 k), and R4(1 k) in series with R1, whose value is 2 k?",
+        "options": {
+            "A": "1 V",
+            "B": "3 V",
+            "C": "5 V",
+            "D": "6 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the power dissipated by R1, R2, and R3?",
+        "options": {
+            "A": "P1 = 0.13 W, P2 = 0.26 W, P3 = 0.12 W",
+            "B": "P1 = 0.26 W, P2 = 0.52 W, P3 = 0.23 W",
+            "C": "P1 = 0.52 W, P2 = 0.92 W, P3 = 0.46 W",
+            "D": "P1 = 1.04 W, P2 = 1.84 W, P3 = 0.92 W"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

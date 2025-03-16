@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thelist.pop(3)method do in Python?",
+        "options": {
+            "A": "Removes the element at index 3.",
+            "B": "Removes the element with the value 3.",
+            "C": "Raises an error because index 3 does not exist.",
+            "D": "Removes all occurrences of the value 3."
+        },
+        "correct_answer": "A",
+        "answer_description": "Thepop()method removes and returns the element at the specified index."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you concatenate two lists in Python?",
+        "options": {
+            "A": "list1.append(list2)",
+            "B": "list1.extend(list2)",
+            "C": "list1.concat(list2)",
+            "D": "list1 + list2"
+        },
+        "correct_answer": "D",
+        "answer_description": "Using the '+' operator concatenates two lists in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will thelist.clear()method do?",
+        "options": {
+            "A": "Removes the last element from the list.",
+            "B": "Removes all occurrences of a specific element.",
+            "C": "Removes all elements from the list.",
+            "D": "Clears the list, making it empty."
+        },
+        "correct_answer": "D",
+        "answer_description": "Theclear()method in Python lists is used to clear the list, making it empty."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you find the index of the last occurrence of a specific element in a list?",
+        "options": {
+            "A": "list.last_index(element)",
+            "B": "list.index_last(element)",
+            "C": "list.index(element, -1)",
+            "D": "list.find_last(element)"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theindex()method can be used with a negative start parameter to find the last occurrence of an element."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thelist.reverse_copy()method do in Python?",
+        "options": {
+            "A": "Creates a reversed copy of the list.",
+            "B": "Reverses the order of elements in the original list.",
+            "C": "Raises an error as there is no such method.",
+            "D": "Copies the list in reverse without modifying the original list."
+        },
+        "correct_answer": "A",
+        "answer_description": "While there is no direct method namedreverse_copy(), creating a reversed copy can be achieved using slicing or[::-1]."
+    }
+]

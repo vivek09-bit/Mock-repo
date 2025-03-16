@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the waveform period of a square wave signal that horizontally covers 3 major divisions per cycle? (time/cm = 50 ms)",
+        "options": {
+            "A": "50 ms",
+            "B": "100 ms",
+            "C": "150 ms",
+            "D": "200 ms"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A sine wave has:",
+        "options": {
+            "A": "four quadrants",
+            "B": "two alternations",
+            "C": "one period",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the peak-to peak voltage of a 56 Vrmsac voltage?",
+        "options": {
+            "A": "158 V",
+            "B": "164 V",
+            "C": "82 V",
+            "D": "79 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One oscilloscope selector knob that allows the major and minor divisions of the graticule to be used to determine a waveform period is called a:",
+        "options": {
+            "A": "focus control",
+            "B": "time/cm control",
+            "C": "intensity control",
+            "D": "volts/cm control"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the period of a 16 MHz sine wave?",
+        "options": {
+            "A": "196 ns",
+            "B": "62.5 ns",
+            "C": "31.25 ns",
+            "D": "19.9 ns"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

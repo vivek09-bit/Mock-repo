@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How to implement a network medium that is not susceptible to EMI. Which type of cabling should you use?",
+        "options": {
+            "A": "Thicknet coax",
+            "B": "Thinnet coax",
+            "C": "Category 5 UTP cable",
+            "D": "Fiber-optic cable"
+        },
+        "correct_answer": "D",
+        "answer_description": "Fiber-optic cable provides a more secure, long-distance cable that is not susceptible to EMI interference at high speeds."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Segmentation of a data stream happens at which layer of the OSI model?",
+        "options": {
+            "A": "Physical",
+            "B": "Data Link",
+            "C": "Network",
+            "D": "Transport"
+        },
+        "correct_answer": "D",
+        "answer_description": "The Transport layer receives large data streams from the upper layers and breaks these up into smaller pieces called segments."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When data is encapsulated, which is the correct order?",
+        "options": {
+            "A": "Data, frame, packet, segment, bit",
+            "B": "Segment, data, packet, frame, bit",
+            "C": "Data, segment, packet, frame, bit",
+            "D": "Data, segment, frame, packet, bit"
+        },
+        "correct_answer": "C",
+        "answer_description": "The encapsulation method is data, segment, packet, frame, bit."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are unique characteristics of half-duplex Ethernet when compared to full-duplex Ethernet?Half-duplex Ethernet operates in a shared collision domain.Half-duplex Ethernet operates in a private collision domain.Half-duplex Ethernet has higher effective throughput.Half-duplex Ethernet has lower effective throughput.",
+        "options": {
+            "A": "2 only",
+            "B": "1,2 and 3",
+            "C": "1 and 4",
+            "D": "4 only"
+        },
+        "correct_answer": "C",
+        "answer_description": "Unlike full duplex, half-duplex Ethernet operates in a shared collision domain, and it has a lower effective throughput than full duplex."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of RJ45 UTP cable is used between switches?",
+        "options": {
+            "A": "Straight-through",
+            "B": "Crossover cable",
+            "C": "Crossover with a CSU/DSU",
+            "D": "Crossover with a router in between the two switches"
+        },
+        "correct_answer": "B",
+        "answer_description": "To connect two switches together, you would use a RJ45 UTP crossover cable."
+    }
+]

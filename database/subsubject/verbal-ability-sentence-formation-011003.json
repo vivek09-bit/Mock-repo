@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. was2. and3. Suresh4. kind5. loving",
+        "options": {
+            "A": "31425",
+            "B": "54213",
+            "C": "34251",
+            "D": "15243",
+            "E": "12345"
+        },
+        "correct_answer": "A",
+        "answer_description": "\"Suresh was kind and loving.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. tea2. have3. that4. some5. before",
+        "options": {
+            "A": "43251",
+            "B": "24315",
+            "C": "24153",
+            "D": "52431",
+            "E": "41325"
+        },
+        "correct_answer": "C",
+        "answer_description": "\"Have some tea before that.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. not2. hotel3. comfortable4. was5. the",
+        "options": {
+            "A": "34521",
+            "B": "53412",
+            "C": "34152",
+            "D": "41352",
+            "E": "52413"
+        },
+        "correct_answer": "E",
+        "answer_description": "\"The hotel was not comfortable.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. I2. help3. not4. you5. did",
+        "options": {
+            "A": "24351",
+            "B": "15324",
+            "C": "45231",
+            "D": "43152",
+            "E": "52431"
+        },
+        "correct_answer": "B",
+        "answer_description": "\"I did not help you.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. not2. Hari3. away4. run5. did",
+        "options": {
+            "A": "13542",
+            "B": "35412",
+            "C": "52431",
+            "D": "25143",
+            "E": "21345"
+        },
+        "correct_answer": "D",
+        "answer_description": "\"Hari did not run away.\""
+    }
+]

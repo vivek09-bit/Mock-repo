@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The time needed for a pulse to increase from 10% to 90% of its amplitude defines:",
+        "options": {
+            "A": "pulse width",
+            "B": "propagation delay",
+            "C": "rise time",
+            "D": "duty cycle"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which device would best aid in shorted track detection?",
+        "options": {
+            "A": "multimeter",
+            "B": "current tracer",
+            "C": "logic pulser",
+            "D": "oscilloscope"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How should a router that is being used in a Frame Relay network be configured to keep split horizon issues from preventing routing updates?",
+        "options": {
+            "A": "Configure a separate subinterface for each PVC with a unique DLCI and subnet assigned to the subinterface.",
+            "B": "Configure each Frame Relay circuit as a point-to-point line to support multicast and broadcast traffic.",
+            "C": "Configure many subinterfaces in the same subnet.",
+            "D": "Configure a single subinterface to establish multiple PVC connections to multiple remote router interfaces."
+        },
+        "correct_answer": "A",
+        "answer_description": "If you have a serial port configured with multiple DLCIs connected to multiple remote sites, split horizon rules, stop route updates received on an interface from being sent out the same interface. By creating subinterfaces for each PVC, you can avoid the split horizon issues when using Frame Relay."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following encapsulates PPP frames in Ethernet frames and uses common PPP features like authentication, encryption, and compression?",
+        "options": {
+            "A": "PPP",
+            "B": "PPPoA",
+            "C": "PPPoE",
+            "D": "Token Ring"
+        },
+        "correct_answer": "C",
+        "answer_description": "PPPoE encapsulates PPP frames in Ethernet frames and uses common PPP features like authentication, encryption, and compression. PPPoA is used for ATM."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which two cause a compiler error?float[ ] f = new float(3);float f2[ ] = new float[ ];float[ ]f1 = new float[3];float f3[ ] = new float[3];float f5[ ] = {1.0f, 2.0f, 2.0f};",
+        "options": {
+            "A": "2, 4",
+            "B": "3, 5",
+            "C": "4, 5",
+            "D": "1, 2"
+        },
+        "correct_answer": "D",
+        "answer_description": "(1) causes two compiler errors ( '[' expected and illegal start of expression) because the wrong type of bracket is used,( )instead of[ ]. The following is  the correct syntax:float[ ] f = new float[3];(2) causes a compiler error ( '{' expected ) because the array constructor does not specify the number of elements in the array. The following is the correct syntax:float f2[ ] = new float[3];(3), (4), and (5) compile without error."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Given a method in a protected class, what access modifier do you use to restrict access to that method to only the other members of the same class?",
+        "options": {
+            "A": "final",
+            "B": "static",
+            "C": "private",
+            "D": "protected",
+            "E": "volatile"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theprivateaccess modifier limits access to members of the same class.Option A, B, D, and E are wrong becauseprotectedare the wrong access modifiers, andfinal,static, andvolatileare modifiers but not access modifiers."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is a valid declaration within an interface?",
+        "options": {
+            "A": "public static short stop = 23;",
+            "B": "protected short stop = 23;",
+            "C": "transient short stop = 23;",
+            "D": "final void madness(short stop);"
+        },
+        "correct_answer": "A",
+        "answer_description": "(A) is valid interface declarations.(B) and (C) are incorrect because interface variables cannot be eitherprotectedortransient. (D) is incorrect because interface methods cannot befinalorstatic."
+    }
+]

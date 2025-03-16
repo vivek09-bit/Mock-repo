@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between a mnemonic code and machine code?",
+        "options": {
+            "A": "There is no difference.",
+            "B": "Machine codes are in binary, mnemonic codes are in shorthand English.",
+            "C": "Machine codes are in shorthand English, mnemonic codes are in binary."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which bus is a bidirectional bus?",
+        "options": {
+            "A": "address bus",
+            "B": "data bus",
+            "C": "address bus and data bus",
+            "D": "none of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following buses is primarily used to carry signals that direct other ICs to find out what type of operation is being performed?",
+        "options": {
+            "A": "data bus",
+            "B": "control bus",
+            "C": "address bus",
+            "D": "address decoder bus"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What kind of computer program is used to convert mnemonic code to machine code?",
+        "options": {
+            "A": "debug",
+            "B": "assembler",
+            "C": "C++",
+            "D": "Fortran"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are the three basic sections of a microprocessor unit?",
+        "options": {
+            "A": "operand, register, and arithmetic/logic unit (ALU)",
+            "B": "control and timing, register, and arithmetic/logic unit (ALU)",
+            "C": "control and timing, register, and memory",
+            "D": "arithmetic/logic unit (ALU), memory, and input/output"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

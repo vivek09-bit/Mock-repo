@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Given a method in a protected class, what access modifier do you use to restrict access to that method to only the other members of the same class?",
+          "options": {
+               "A": "final",
+               "B": "static",
+               "C": "private",
+               "D": "protected",
+               "E": "volatile"
+          },
+          "correct_answer": "C",
+          "answer_description": "Theprivateaccess modifier limits access to members of the same class.Option A, B, D, and E are wrong becauseprotectedare the wrong access modifiers, andfinal,static, andvolatileare modifiers but not access modifiers."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three statements are true?The default constructor initialises method variables.The default constructor has the same access as its class.The default constructor invokes the no-arg constructor of the superclass.If a class lacks a no-arg constructor, the compiler always creates a default constructor.The compiler creates a default constructor only when there are no other constructors for the class.",
+          "options": {
+               "A": "1, 2 and 4",
+               "B": "2, 3 and 5",
+               "C": "3, 4 and 5",
+               "D": "1, 2 and 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) sounds correct as in the example belowclass CoffeeCup { \n    private int innerCoffee; \n    public CoffeeCup() { \n   } \n  \n    public void add(int amount) { \n    innerCoffee += amount; \n   } \n   //... \n }The compiler gives default constructors the same access level as their class. In the example above, classCoffeeCupispublic, so the default constructor ispublic. IfCoffeeCuphad been given package access, the default constructor would be given package access as well.(3) is correct. The Java compiler generates at least one instance initialisation method for every class it compiles. In the Java class file, the instance initialisation method is named \"<init>.\" For each constructor in the source code of a class, the Java compiler generates one<init>()method. If the class declares no constructors explicitly, the compiler generates a default no-arg constructor that just invokes the superclass's no-arg constructor. As with any other constructor, the compiler creates an <init>() method in the class file that corresponds to this default constructor.(5) is correct. The compiler creates a default constructor if you do not declare any constructors in your class."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "interface DoMath \n{\n    double getArea(int rad); \n}\ninterface MathPlus \n{\n    double getVol(int b, int h); \n}\n/* Missing Statements ? */which two code fragments inserted at end of the program, will allow to compile?class AllMath extends DoMath {\ndouble getArea(int r); }interface AllMath implements MathPlus {\ndouble getVol(int x, int y); }interface AllMath extends DoMath {\nfloat getAvg(int h, int l); }class AllMath implements MathPlus {\ndouble getArea(int rad); }abstract class AllMath implements DoMath, MathPlus {\npublic double getArea(int rad) { return rad * rad * 3.14; } }",
+          "options": {
+               "A": "1 only",
+               "B": "2 only",
+               "C": "3 and 5",
+               "D": "1 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "(3) are (5) are correct because interfaces and abstract classes do not need to fully implement the interfaces theyextendorimplement(respectively).(1) is incorrect because aclasscannot extend aninterface. (2) is incorrect because aninterfacecannot implement anything. (4) is incorrect because the method being implemented is from the wronginterface."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        int x=20;\n        String sup = (x < 15) ? \"small\" : (x < 22)? \"tiny\" : \"huge\";\n        System.out.println(sup);\n    }\n}",
+          "options": {
+               "A": "small",
+               "B": "tiny",
+               "C": "huge",
+               "D": "Compilation fails"
+          },
+          "correct_answer": "B",
+          "answer_description": "This is an example of a nested ternary operator. The second evaluation(x < 22)istrue, so the \"tiny\" value is assigned tosup."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are legal lines of code?int w = (int)888.8;byte x = (byte)1000L;long y = (byte)100;byte z = (byte)100L;",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "All statements are correct."
+          },
+          "correct_answer": "D",
+          "answer_description": "Statements (1), (2), (3), and (4) are correct. (1) is correct because when a floating-point number (a double in this case) is cast to anint, it simply loses the digits after the decimal.(2) and (4) are correct because a long can be cast into abyte. If the long is over 127, it loses its most significant (leftmost) bits.(3) actually works, even though a cast is not necessary, because alongcan store abyte."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two statements are equivalent?16*416>>216/2^216>>>2",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 4",
+               "C": "3 and 4",
+               "D": "1 and 3"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) is correct.16 >> 2  = 4(4) is correct.16 >>> 2 = 4(1) is wrong.16 * 4   = 64(3) is wrong.16/2 ^ 2 = 10"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{\n    public static void main(String [] args) \n    {\n        int I = 1;\n        do while ( I < 1 )\n        System.out.print(\"I is \" + I);\n        while ( I > 1 ) ;\n    }\n}",
+          "options": {
+               "A": "I is 1",
+               "B": "I is 1 I is 1",
+               "C": "No output is produced.",
+               "D": "Compilation error"
+          },
+          "correct_answer": "C",
+          "answer_description": "There are two different looping constructs in this problem. The first is a do-while loop and the second is a while loop, nested inside the do-while. The body of the do-while is only a single statement-brackets are not needed. You are assured that the while expression will be evaluated at least once, followed by an evaluation of the do-while expression. Both expressions are false and no output is produced."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class RTExcept \n{\n    public static void throwit () \n    {\n        System.out.print(\"throwit \");\n        throw new RuntimeException();\n    }\n    public static void main(String [] args) \n    {\n        try \n        {\n            System.out.print(\"hello \");\n            throwit();\n        }\n        catch (Exception re ) \n        {\n            System.out.print(\"caught \");\n        }\n        finally \n        {\n            System.out.print(\"finally \");\n        }\n        System.out.println(\"after \");\n    }\n}",
+          "options": {
+               "A": "hello throwit caught",
+               "B": "Compilation fails",
+               "C": "hello throwitRuntimeExceptioncaught after",
+               "D": "hello throwit caught finally after"
+          },
+          "correct_answer": "D",
+          "answer_description": "Themain()method properly catches and handles theRuntimeExceptionin the catch block, finally runs (as it always does), and then the code returns to normal.A, B and C are incorrect based on the program logic described above. Remember that properly handled exceptions do not cause the program to stop executing."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class X \n{ \n    public static void main(String [] args) \n    {\n        try \n        {\n            badMethod();  \n            System.out.print(\"A\"); \n        }  \n        catch (Exception ex) \n        {\n            System.out.print(\"B\"); \n        }  \n        finally \n        {\n            System.out.print(\"C\"); \n        }  \n        System.out.print(\"D\"); \n    }  \n    public static void badMethod() {} \n}",
+          "options": {
+               "A": "AC",
+               "B": "BC",
+               "C": "ACD",
+               "D": "ABCD"
+          },
+          "correct_answer": "C",
+          "answer_description": "There is no exception thrown, so all the code with the exception of the catch statement block is run."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are Java reserved words?runimportdefaultimplement",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "2 and 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) - This is a Java keyword(3) - This is a Java keyword(1) - Is incorrect because although it is a method ofThread/Runnableit is not a keyword(4) - This is not a Java keyword the keyword is implements"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test \n{ \n    public static void main (String[] args) \n    {\n        String foo = args[1]; \n        String bar = args[2]; \n        String baz = args[3]; \n        System.out.println(\"baz = \" + baz); /* Line 8 */\n    } \n}And the command line invocation:>java Test red green blue",
+          "options": {
+               "A": "baz =",
+               "B": "baz = null",
+               "C": "baz = blue",
+               "D": "Runtime Exception"
+          },
+          "correct_answer": "D",
+          "answer_description": "When running the program you entered 3 arguments \"red\", \"green\" and \"blue\". When dealing with arrays in java you must remember ALL ARRAYS IN JAVA ARE ZERO BASED thereforeargs[0]becomes \"red\",args[1]becomes \"green\" andargs[2]becomes \"blue\".When the program entcounters line 8 above at runtime it looks forargs[3]which has never been created therefore you get anArrayIndexOutOfBoundsExceptionat runtime."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class MyThread extends Thread \n{\n    public static void main(String [] args) \n    {\n        MyThread t = new MyThread();\n        Thread x = new Thread(t);\n        x.start(); /* Line 7 */\n    }\n    public void run() \n    {\n        for(int i = 0; i < 3; ++i) \n        {\n            System.out.print(i + \"..\");\n        }\n    }\n}",
+          "options": {
+               "A": "Compilation fails.",
+               "B": "1..2..3..",
+               "C": "0..1..2..3..",
+               "D": "0..1..2.."
+          },
+          "correct_answer": "D",
+          "answer_description": "The threadMyThreadwill start and loop three times (from 0 to 2).Option A is incorrect because theThreadclass implements theRunnableinterface; therefore, in line 7,Threadcan take an object of typeThreadas an argument in the constructor.Option B and C are incorrect because the variable i in the for loop starts with a value of 0 and ends with a value of 2."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Happy extends Thread \n{ \n    final StringBuffer sb1 = new StringBuffer(); \n    final StringBuffer sb2 = new StringBuffer(); \n\n    public static void main(String args[]) \n    { \n        final Happy h = new Happy(); \n\n        new Thread() \n        { \n            public void run() \n            { \n                synchronized(this) \n                { \n                    h.sb1.append(\"A\"); \n                    h.sb2.append(\"B\"); \n                    System.out.println(h.sb1); \n                    System.out.println(h.sb2); \n                } \n            } \n        }.start(); \n\n        new Thread() \n        { \n            public void run() \n            { \n                synchronized(this) \n                { \n                    h.sb1.append(\"D\"); \n                    h.sb2.append(\"C\"); \n                    System.out.println(h.sb2); \n                    System.out.println(h.sb1); \n                } \n            } \n        }.start(); \n    } \n}",
+          "options": {
+               "A": "ABBCAD",
+               "B": "ABCBCAD",
+               "C": "CDADACB",
+               "D": "Output determined by the underlying platform."
+          },
+          "correct_answer": "D",
+          "answer_description": "Can you guarantee the order in which threads are going to run? No you can't. So how do you know what the output will be? The output cannot be determined."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "A static method cannot be synchronized.",
+               "B": "If a class has synchronized code, multiple threads can still access the nonsynchronized code.",
+               "C": "Variables can be protected from concurrent access problems by marking them with thesynchronizedkeyword.",
+               "D": "When a thread sleeps, it releases its locks."
+          },
+          "correct_answer": "B",
+          "answer_description": "B is correct because multiple threads are allowed to enter nonsynchronized code, even within a class that has some synchronized methods.A is incorrect because static methods can be synchronized; they synchronize on the lock on the instance of classjava.lang.Classthat represents the class type.C is incorrect because only methodsâ€”not variablesâ€”can be marked synchronized.D is incorrect because a sleeping thread still maintains its locks."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true?",
+          "options": {
+               "A": "CallingRuntime.gc()will cause eligible objects to be garbage collected.",
+               "B": "The garbage collector uses a mark and sweep algorithm.",
+               "C": "If an object can be accessed from a live thread, it can't be garbage collected.",
+               "D": "If object 1 refers to object 2, then object 2 can't be garbage collected."
+          },
+          "correct_answer": "C",
+          "answer_description": "This is a great way to think about when objects can be garbage collected.Option A and B assume guarantees that the garbage collector never makes.Option D is wrong because of the now famous islands of isolation scenario."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true about assertions in the Java programming language?",
+          "options": {
+               "A": "Assertion expressions should not contain side effects.",
+               "B": "Assertion expression values can be any primitive type.",
+               "C": "Assertions should be used for enforcing preconditions on public methods.",
+               "D": "An AssertionError thrown as a result of a failed assertion should always be handled by the enclosing method."
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct. Because assertions may be disabled, programs must not assume that the boolean expressions contained in assertions will be evaluated. Thus these expressions should be free of side effects. That is, evaluating such an expression should not affect any state that is visible after the evaluation is complete. Although it is not illegal for a boolean expression contained in an assertion to have a side effect, it is generally inappropriate, as it could cause program behaviour to vary depending on whether assertions are enabled or disabled.Assertion checking may be disabled for increased performance. Typically, assertion checking is enabled during program development and testing and disabled for deployment.Option B is wrong. Because you assert that something is \"true\". True is Boolean. So, an expression must evaluate to Boolean, not int or byte or anything else. Use the same rules for an assertion expression that you would use for a while condition.Option C is wrong. Usually, enforcing a precondition on a public method is done by condition-checking code that you write yourself, to give you specific exceptions.Option D is wrong. \"You're never supposed to handle an assertion failure\"Not all legal uses of assertions are considered appropriate. As with so much of Java, you can abuse the intended use for assertions, despite the best efforts of Sun's Java engineers to discourage you. For example, you're never supposed to handle an assertion failure. That means don't catch it with a catch clause and attempt to recover. Legally, however, AssertionError is a subclass of Throwable, so it can be caught. But just don't do it! If you're going to try to recover from something, it should be an exception. To discourage you from trying to substitute an assertion for an exception, theAssertionErrordoesn't provide access to the object that generated it. All you get is theStringmessage."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class ObjComp \n{\n    public static void main(String [] args ) \n    {\n        int result = 0;\n        ObjComp oc = new ObjComp();\n        Object o = oc;\n\n        if (o == oc)  \n            result = 1;\n        if (o != oc)  \n            result = result + 10;\n        if (o.equals(oc) )  \n            result = result + 100;\n        if (oc.equals(o) )  \n            result = result + 1000;\n\n        System.out.println(\"result = \" + result);\n    }\n}",
+          "options": {
+               "A": "1",
+               "B": "10",
+               "C": "101",
+               "D": "1101"
+          },
+          "correct_answer": "D",
+          "answer_description": "Even thoughoandocare reference variables of different types, they are both referring to the same object. This means that==will resolve to true and that the defaultequals()method will also resolve to true."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int i = 1, j = 10; \ndo \n{\n    if(i++ > --j) /* Line 4 */\n    {\n        continue; \n    } \n} while (i < 5); \nSystem.out.println(\"i = \" + i + \"and j = \" + j); /* Line 9 */",
+          "options": {
+               "A": "i = 6 and j = 5",
+               "B": "i = 5 and j = 5",
+               "C": "i = 6 and j = 6",
+               "D": "i = 5 and j = 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "This question is not testing your knowledge of the continue statement. It is testing your knowledge of the order of evaluation of operands. Basically the prefix and postfix unary operators have a higher order of evaluation than the relational operators. So on line 4 the variableiis incremented and the variablejis decremented before the greater than comparison is made. As the loop executes the comparison on line 4 will be:if(i > j)if(2 > 9)if(3 > 8)if(4 > 7)if(5 > 6)  at this point i is not less than 5, therefore the loop terminates and line 9 outputs the values ofiandjas 5 and 6 respectively.Thecontinuestatement never gets to execute becauseinever reaches a value that is greater thanj."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class Test178 \n{ \n    public static void main(String[] args) \n    {\n        String s = \"foo\"; \n        Object o = (Object)s; \n        if (s.equals(o)) \n        { \n            System.out.print(\"AAA\"); \n        } \n        else \n        {\n            System.out.print(\"BBB\"); \n        } \n        if (o.equals(s)) \n        {\n            System.out.print(\"CCC\"); \n        } \n        else \n        {\n            System.out.print(\"DDD\"); \n        } \n    } \n}",
+          "options": {
+               "A": "AAACCC",
+               "B": "AAADDD",
+               "C": "BBBCCC",
+               "D": "BBBDDD"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class ExamQuestion7 \n{  \n    static int j; \n    static void methodA(int i)\n    {\n        boolean b; \n        do\n        { \n            b = i<10 | methodB(4); /* Line 9 */\n            b = i<10 || methodB(8);  /* Line 10 */\n        }while (!b); \n    } \n    static boolean methodB(int i)\n    {\n        j += i; \n        return true; \n    } \n    public static void main(String[] args)\n    {\n        methodA(0); \n        System.out.println( \"j = \" + j ); \n    } \n}",
+          "options": {
+               "A": "j = 0",
+               "B": "j = 4",
+               "C": "j = 8",
+               "D": "The code will run with no output"
+          },
+          "correct_answer": "B",
+          "answer_description": "The lines to watch here are lines 9 & 10. Line 9 features the non-shortcut version of theORoperator so both of its operands will be evaluated and thereforemethodB(4)is executed.However line 10 has the shortcut version of theORoperator and if the 1st of its operands evaluates to true (which in this case is true), then the 2nd operand isn't evaluated, somethodB(8)never gets called.The loop is only executed once,bis initialized to false and is assigned true on line 9. Thusj = 4."
+     }
+]

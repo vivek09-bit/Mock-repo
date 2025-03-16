@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To make clean breast of",
+        "options": {
+            "A": "To gain prominence",
+            "B": "To praise oneself",
+            "C": "To confess without of reserve",
+            "D": "To destroy before it blooms",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To keeps one's temper",
+        "options": {
+            "A": "To become hungry",
+            "B": "To be in good mood",
+            "C": "To preserve ones energy",
+            "D": "To be aloof from",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To catch a tartar",
+        "options": {
+            "A": "To trap wanted criminal with great difficulty",
+            "B": "To catch a dangerous person",
+            "C": "To meet with disaster",
+            "D": "To deal with a person who is more than one's match",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To drive home",
+        "options": {
+            "A": "To find one's roots",
+            "B": "To return to place of rest",
+            "C": "Back to original position",
+            "D": "To emphasise",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To have an axe to grind",
+        "options": {
+            "A": "A private end to serve",
+            "B": "To fail to arouse interest",
+            "C": "To have no result",
+            "D": "To work for both sides",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

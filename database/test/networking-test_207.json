@@ -1,0 +1,264 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following is true regarding VLANs?",
+          "options": {
+               "A": "Two VLANs are configured by default on all Cisco switches.",
+               "B": "VLANs only work if you have a complete Cisco switched internetwork. No off-brand switches are allowed.",
+               "C": "You should not have more than 10 switches in the same VTP domain.",
+               "D": "VTP is used to send VLAN information to switches in a configured VTP domain."
+          },
+          "correct_answer": "D",
+          "answer_description": "Switches do not propagate VLAN information by default; you must configure the VTP domain. VLAN Trunking Protocol (VTP) is used to propagate VLAN information across a trunk link."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Routers operate at layer _____. LAN switches operate at layer _____. Ethernet hubs operate at layer _____. Word processing operates at layer _____.",
+          "options": {
+               "A": "3, 3, 1, 7",
+               "B": "3, 2, 1, none",
+               "C": "3, 2, 1, 7",
+               "D": "3, 3, 2, none"
+          },
+          "correct_answer": "B",
+          "answer_description": "Routers operate at layer 3. LAN switches operate at layer 2. Ethernet hubs operate at layer 1. Word processing applications communicate to the Application layer interface, but do not operate at layer 7, so the answer would be none."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are unique characteristics of half-duplex Ethernet when compared to full-duplex Ethernet?Half-duplex Ethernet operates in a shared collision domain.Half-duplex Ethernet operates in a private collision domain.Half-duplex Ethernet has higher effective throughput.Half-duplex Ethernet has lower effective throughput.",
+          "options": {
+               "A": "2 only",
+               "B": "1,2 and 3",
+               "C": "1 and 4",
+               "D": "4 only"
+          },
+          "correct_answer": "C",
+          "answer_description": "Unlike full duplex, half-duplex Ethernet operates in a shared collision domain, and it has a lower effective throughput than full duplex."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which layer 4 protocol is used for a Telnet connection?",
+          "options": {
+               "A": "IP",
+               "B": "TCP",
+               "C": "TCP/IP",
+               "D": "UDP"
+          },
+          "correct_answer": "B",
+          "answer_description": "Although Telnet does use TCP and IP (TCP/IP), the question specifically asks about layer 4, and IP works at layer 3. Telnet uses TCP at layer 4."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the subnetwork number of a host with an IP address of 172.16.66.0/21?",
+          "options": {
+               "A": "172.16.36.0",
+               "B": "172.16.48.0",
+               "C": "172.16.64.0",
+               "D": "172.16.0.0"
+          },
+          "correct_answer": "C",
+          "answer_description": "A /21 is 255.255.248.0, which means we have a block size of 8 in the third octet, so we just count by 8 until we reach 66. The subnet in this question is 64.0. The next subnet is 72.0, so the broadcast address of the 64 subnet is 71.255."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have an interface on a router with the IP address of 192.168.192.10/29. What is the broadcast address the hosts will use on this LAN?",
+          "options": {
+               "A": "192.168.192.15",
+               "B": "192.168.192.31",
+               "C": "192.168.192.63",
+               "D": "192.168.192.127"
+          },
+          "correct_answer": "A",
+          "answer_description": "A /29 (255.255.255.248) has a block size of 8 in the fourth octet. This means the subnets are 0, 8, 16, 24, etc. 10 is in the 8 subnet. The next subnet is 16, so 15 is the broadcast address."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Using the following illustration, what would be the IP address of E0 if you were using the eighth subnet? The network ID is 192.168.10.0/28 and you need to use the last available IP \naddress in the range. The zero subnet should not be considered valid for this question.",
+          "options": {
+               "A": "192.168.10.142",
+               "B": "192.168.10.66",
+               "C": "192.168.100.254",
+               "D": "192.168.10.143",
+               "E": "192.168.10.126"
+          },
+          "correct_answer": "A",
+          "answer_description": "A /28 is a 255.255.255.240 mask. Let's count to the ninth subnet (we need to find the \nbroadcast address of the eighth subnet, so we need to count to the ninth subnet). Starting at 16 \n(remember, the question stated that we will not use subnet zero, so we start at 16, not 0), 16, \n32, 48, 64, 80, 96, 112, 128, 144. The eighth subnet is 128 and the next subnet is 144, so our \nbroadcast address of the 128 subnet is 143. This makes the host range 129-142. 142 is the last \nvalid host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The corporate office sends you a new router to connect, but upon connecting the console cable, you see that there is already a configuration on the router. What should be done before a new configuration is entered in the router?",
+          "options": {
+               "A": "RAM should be erased and the router restarted.",
+               "B": "Flash should be erased and the router restarted.",
+               "C": "NVRAM should be erased and the router restarted.",
+               "D": "The new configuration should be entered and saved."
+          },
+          "correct_answer": "C",
+          "answer_description": "Before you start to configure the router, you should erase the NVRAM with theerase startup-configcommand and then reload the router using thereloadcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command loads a new version of the Cisco IOS into a router?",
+          "options": {
+               "A": "copy flash ftp",
+               "B": "copy ftp flash",
+               "C": "copy flash tftp",
+               "D": "copy tftp flash"
+          },
+          "correct_answer": "D",
+          "answer_description": "The commandcopy tftp flashwill allow you to copy a new IOS into flash memory on your router."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which EIGRP information is held in RAM and maintained through the use of Hello and update packets?Neighbor tableSTP tableTopology tableDUAL table",
+          "options": {
+               "A": "2 only",
+               "B": "4 only",
+               "C": "1 and 3",
+               "D": "All of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "EIGRP holds three tables in RAM: neighbor, topology, and routing. The neighbor and topology tables are built and maintained with the use of Hello packets."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is true?",
+          "options": {
+               "A": "A switch creates a single collision domain and a single broadcast domain. A router creates a single collision domain.",
+               "B": "A switch creates separate collision domains but one broadcast domain. A router provides a separate broadcast domain.",
+               "C": "A switch creates a single collision domain and separate broadcast domains. A router provides a separate broadcast domain as well.",
+               "D": "A switch creates separate collision domains and separate broadcast domains. A router provides separate collision domains."
+          },
+          "correct_answer": "B",
+          "answer_description": "Switches break up collision domains, and routers break up broadcast domains."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands sets a trunk port on a 2960 switch?",
+          "options": {
+               "A": "trunk on",
+               "B": "trunk all",
+               "C": "switchport trunk on",
+               "D": "switchport mode trunk"
+          },
+          "correct_answer": "D",
+          "answer_description": "To set a switch port to trunk mode, which allows all VLAN information to pass down the link, use theswitchport mode trunkcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands connect access list 110 inbound to interface ethernet0?",
+          "options": {
+               "A": "Router(config)#ip access-group 110 in",
+               "B": "Router(config)#ip access-list 110 in",
+               "C": "Router(config-if)#ip access-group 110 in",
+               "D": "Router(config-if)#ip access-list 110 in"
+          },
+          "correct_answer": "C",
+          "answer_description": "To place an access list on an interface, use theip access-groupcommand in interface configuration mode."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is considered to be the destination host after translation?",
+          "options": {
+               "A": "Inside local",
+               "B": "Outside local",
+               "C": "Inside global",
+               "D": "Outside global"
+          },
+          "correct_answer": "D",
+          "answer_description": "The host on the global network after translation is considered to be an outside global host."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What two multicast addresses does OSPFv3 use?FF02::AFF02::9FF02::5FF02::6",
+          "options": {
+               "A": "2 only",
+               "B": "3 only",
+               "C": "1 and 3",
+               "D": "3 and 4"
+          },
+          "correct_answer": "D",
+          "answer_description": "Adjacencies and next-hop attributes now use link-local addresses, and OSPFv3 still uses multicast traffic to send its updates and acknowledgments with the addressesFF02::5for OSPF routers andFF02::6for OSPF designated routers. These are the replacements for224.0.0.5and224.0.0.6, respectively."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What multicast addresses does RIPng use?",
+          "options": {
+               "A": "FF02::A",
+               "B": "FF02::9",
+               "C": "FF02::5",
+               "D": "FF02::6"
+          },
+          "correct_answer": "B",
+          "answer_description": "RIPng uses the multicast IPv6 address ofFF02::9. If you remember the multicast addresses for IPv4, the numbers at the end of each IPv6 address are the same."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Suppose that you have a customer who has a central HQ and six branch offices. They anticipate adding six more branches in the near future. They wish to implement a WAN technology that will allow the branches to economically connect to HQ and you have no free ports on the HQ router. Which of the following would you recommend?",
+          "options": {
+               "A": "PPP",
+               "B": "HDLC",
+               "C": "Frame Relay",
+               "D": "ISDN"
+          },
+          "correct_answer": "C",
+          "answer_description": "The key is \"there are no free ports\" on your router. Only Frame Relay can provide a connection to multiple locations with one interface, and in an economical manner no less."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following command options are displayed when you use theRouter# show frame-relay ?command?dlcineighborslmipvcmap",
+          "options": {
+               "A": "1 only",
+               "B": "2 and 4",
+               "C": "3, 4 and 5",
+               "D": "All of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Theshow frame-relay ?command provides many options, but the options available in this question arelmi,pvc, andmap."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When a router is connected to a Frame Relay WAN link using a serial DTE interface, how is the clock rate determined?",
+          "options": {
+               "A": "Supplied by the CSU/DSU",
+               "B": "By the far end router",
+               "C": "By theclock ratecommand",
+               "D": "By the Physical layer bit stream timing"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clocking on a serial interface is always provided by the CSU/DSU (DCE device). However, if you do not have a CSU/DSU in your nonproduction test environment, then you need to supply clocking with theclock ratecommand on the serial interface of the router with the DCE cable attached."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following uses ATM as the Data Link layer protocol that's terminated at what's known as the DSLAM?",
+          "options": {
+               "A": "DSL",
+               "B": "PPPoE",
+               "C": "Frame Relay",
+               "D": "Dedicated T1",
+               "E": "Wireless"
+          },
+          "correct_answer": "A",
+          "answer_description": "ATM is the Data-Link layer protocol that's typically used over the DSL layer 1 connection from the CPE and terminated at what's known as the DSLAM-an ATM switch that contains DSL interface cards, or ATU-Cs."
+     }
+]

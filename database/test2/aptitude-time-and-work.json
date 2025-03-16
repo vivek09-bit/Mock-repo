@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is :",
+        "options": {
+            "A": "14",
+            "B": "110",
+            "C": "715",
+            "D": "815"
+        },
+        "correct_answer": "D",
+        "answer_description": "A's 1 day's work =1;15B's 1 day's work =1;20(A + B)'s 1 day's work =1+1=7.152060(A + B)'s 4 day's work =7x 4=7.6015Therefore, Remaining work =1 -7=8.1515"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+        "options": {
+            "A": "91days5",
+            "B": "92days5",
+            "C": "93days5",
+            "D": "10"
+        },
+        "correct_answer": "C",
+        "answer_description": "(A + B + C)'s 1 day's work =1,4A's 1 day's work =1,16B's 1 day's work =1.12C's 1 day's work =1-1+1=1-7=5.4161244848So, C alone can do the work in48= 93days.55"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+        "options": {
+            "A": "12 days",
+            "B": "15 days",
+            "C": "16 days",
+            "D": "18 days"
+        },
+        "correct_answer": "B",
+        "answer_description": "A's 2 day's work =1x 2=1.2010(A + B + C)'s 1 day's work =1+1+1=6=1.2030606010Work done in 3 days =1+1=1.10105Now,1work is done in 3 days.5Whole work will be done in (3 x 5) = 15 days."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:",
+        "options": {
+            "A": "20 days",
+            "B": "221days2",
+            "C": "25 days",
+            "D": "30 days"
+        },
+        "correct_answer": "B",
+        "answer_description": "Ratio of times taken by A and B = 1 : 3.The time difference is (3 - 1) 2 days while B take 3 days and A takes 1 day.If difference of time is 2 days, B takes 3 days.If difference of time is 60 days, B takes3x 60= 90 days.2So, A takes 30 days to do the work.A's 1 day's work =130B's 1 day's work =190(A + B)'s 1 day's work =1+1=4=230909045A and B together can do the work in45= 221days.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+        "options": {
+            "A": "Rs. 375",
+            "B": "Rs. 400",
+            "C": "Rs. 600",
+            "D": "Rs. 800"
+        },
+        "correct_answer": "B",
+        "answer_description": "C's 1 day's work =1-1+1=1-7=1.36832424A's wages : B's wages : C's wages =1:1:1= 4 : 3 : 1.6824C's share (for 3 days) = Rs.3 x1x 3200= Rs. 400.24"
+    }
+]

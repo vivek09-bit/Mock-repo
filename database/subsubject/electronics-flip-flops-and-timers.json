@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is correct for a gated D-type flip-flop?",
+        "options": {
+            "A": "The Q output is either SET or RESET as soon as the D input goes HIGH or LOW.",
+            "B": "The output complement follows the input when enabled.",
+            "C": "Only one of the inputs can be HIGH at a time.",
+            "D": "The output toggles if one of the inputs is held HIGH."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When both inputs of a J-K flip-flop cycle, the output will:",
+        "options": {
+            "A": "be invalid",
+            "B": "not change",
+            "C": "change",
+            "D": "toggle"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Latches constructed with NOR and NAND gates tend to remain in the latched condition due to which configuration feature?",
+        "options": {
+            "A": "asynchronous operation",
+            "B": "low input voltages",
+            "C": "gate impedance",
+            "D": "cross coupling"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The 555 timer can be used in which of the following configurations?",
+        "options": {
+            "A": "astable, monostable",
+            "B": "monostable, bistable",
+            "C": "astable, toggled",
+            "D": "bistable, tristable"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A basic S-R flip-flop can be constructed by cross-coupling which basic logic gates?",
+        "options": {
+            "A": "AND or OR gates",
+            "B": "XOR or XNOR gates",
+            "C": "NOR or NAND gates",
+            "D": "AND or NOR gates"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

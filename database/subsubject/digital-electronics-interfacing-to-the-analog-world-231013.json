@@ -1,0 +1,53 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is a binary-weighted DAC usually limited to 4-bit binary conversion?",
+        "options": {
+            "A": "too many pins on the IC",
+            "B": "too many op amps needed",
+            "C": "too many different values of capacitors",
+            "D": "too many different values of resistors"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the resolution of a D/A converter?",
+        "options": {
+            "A": "It is the reciprocal of the number of discrete steps in the D/A output.",
+            "B": "It is the comparison between the actual output of the converter and its expected output.",
+            "C": "It is the deviation between the ideal straight-line output and the actual output of the converter.",
+            "D": "It is the converter's ability to resolve between forward and reverse steps when sequenced over its entire range of inputs."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is gain error in a DAC?",
+        "options": {
+            "A": "missing codes",
+            "B": "error in the slope of the output staircase waveform",
+            "C": "more or less input voltage is required for the first step than what is specified"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An actuator is usually a device that:",
+        "options": {
+            "A": "converts analog data to meaningful digital data.",
+            "B": "controls a physical variable.",
+            "C": "stores digital data and then processes that data according to a set of specified instructions.",
+            "D": "converts a physical variable to an electrical variable."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you merge two dictionaries?",
+        "options": {
+            "A": "dict.merge(another_dict)",
+            "B": "dict.join(another_dict)",
+            "C": "dict + another_dict",
+            "D": "dict.update(another_dict)"
+        },
+        "correct_answer": "D",
+        "answer_description": "Theupdate()method is used to merge two dictionaries in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thedictionary.items()method?",
+        "options": {
+            "A": "Returns a list of all keys.",
+            "B": "Returns a list of all values.",
+            "C": "Returns a list of key-value pairs.",
+            "D": "Returns a list of default values."
+        },
+        "correct_answer": "C",
+        "answer_description": "Theitems()method returns a list of key-value pairs in the dictionary."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you create a dictionary with a default value for all new keys?",
+        "options": {
+            "A": "dictionary.set_default(default_value)",
+            "B": "dictionary.default_value = default_value",
+            "C": "dictionary.default(default_value)",
+            "D": "collections.defaultdict(default_value)"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thedefaultdictfrom thecollectionsmodule is used to create a dictionary with a default value for all new keys."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the result of the expressiondictionary.get('key', 'default')?",
+        "options": {
+            "A": "Raises aKeyErrorif 'key' is not present.",
+            "B": "Returns the value of 'key' if present, otherwise returns 'default'.",
+            "C": "Returns 'default' if 'key' is not present.",
+            "D": "Returns a tuple containing 'key' and its value."
+        },
+        "correct_answer": "B",
+        "answer_description": "Theget()method returns the value for 'key' if present, otherwise returns the specified default value."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you remove all items from a dictionary?",
+        "options": {
+            "A": "dictionary.delete_all()",
+            "B": "dictionary.clear()",
+            "C": "dictionary.remove_all()",
+            "D": "dictionary.erase()"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theclear()method removes all items from a dictionary."
+    }
+]

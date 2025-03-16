@@ -1,0 +1,70 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a number is divided by 13, the remainder is 11. When the same number is divided by 17, then remainder is 9. What is the number ?",
+        "options": {
+            "A": "339",
+            "B": "349",
+            "C": "369",
+            "D": "Data inadequate"
+        },
+        "correct_answer": "B",
+        "answer_description": "x= 13p+ 11 andx= 17q+ 913p+ 11 = 17q+ 917q- 13p= 2q =2 + 13p17The least value ofpfor whichq =2 + 13pis a whole number isp= 2617x= (13 x 26 + 11)= (338 + 11)= 349"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(51 + 52 + 53 + ... + 100) = ?",
+        "options": {
+            "A": "2525",
+            "B": "2975",
+            "C": "3225",
+            "D": "3775"
+        },
+        "correct_answer": "D",
+        "answer_description": "Sn= (1 + 2 + 3 + ... + 50 + 51 + 52 + ... + 100) - (1 + 2 + 3 + ... + 50)=100x (1 + 100) -50x (1 + 50)22= (50 x 101) - (25 x 51)= (5050 - 1275)= 3775."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(800 ÷ 64) x (1296 ÷ 36) = ?",
+        "options": {
+            "A": "420",
+            "B": "460",
+            "C": "500",
+            "D": "540",
+            "E": "None of these"
+        },
+        "correct_answer": "E",
+        "answer_description": "Given Exp. =800x1296= 4506436"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which natural number is nearest to 8485, which is completely divisible by 75 ?",
+        "options": {
+            "A": "8475",
+            "B": "8500",
+            "C": "8550",
+            "D": "8525",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "On dividing, we get\n\n 75) 8485 (113\n     75\n     ---\n      98\n      75\n      ----\n       235\n       225\n       ---\n        10\n       ---\n \n Required number = (8485 - 10) // Because 10 < (75 - 10)\n                 = 8475."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 42573 * is exactly divisible by 72, then the minimum value of * is:",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "8"
+        },
+        "correct_answer": "C",
+        "answer_description": "72 = 9 x8, where 9 and 8 are co-prime.The minimum value of x for which 73xfor which 73xis divisible by 8 is,x= 6.Sum of digits in 425736 = (4 + 2 + 5 + 7 + 3 + 6) = 27, which is divisible by 9.Required value of * is 6."
+    }
+]

@@ -1,0 +1,67 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+          "options": {
+               "A": "120 metres",
+               "B": "180 metres",
+               "C": "324 metres",
+               "D": "150 metres"
+          },
+          "correct_answer": "D",
+          "answer_description": "Speed =60 x5m/sec=50m/sec.183Length of the train = (Speed x Time).Length of the train =50x 9m = 150 m.3"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+          "options": {
+               "A": "45 km/hr",
+               "B": "50 km/hr",
+               "C": "54 km/hr",
+               "D": "55 km/hr"
+          },
+          "correct_answer": "B",
+          "answer_description": "Speed of the train relative to man =125m/sec10=25m/sec.2=25x18km/hr25= 45 km/hr.Let the speed of the train bexkm/hr. Then, relative speed = (x- 5) km/hr.x- 5 = 45x= 50 km/hr."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+          "options": {
+               "A": "200 m",
+               "B": "225 m",
+               "C": "245 m",
+               "D": "250 m"
+          },
+          "correct_answer": "C",
+          "answer_description": "Speed =45 x5m/sec=25m/sec.182Time = 30 sec.Let the length of bridge bexmetres.Then,130 +x=253022(130 +x) = 750x= 245 m.Video Explanation:https://youtu.be/M_d8WufJWKc"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+          "options": {
+               "A": "1 : 3",
+               "B": "3 : 2",
+               "C": "3 : 4",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Let the speeds of the two trains bexm/sec andym/sec respectively.Then, length of the first train = 27xmetres,and length of the second train = 17ymetres.27x+ 17y= 23x+y27x+ 17y= 23x+ 23y4x= 6yx=3.y2"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+          "options": {
+               "A": "120 m",
+               "B": "240 m",
+               "C": "300 m",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Speed =54 x5m/sec = 15 m/sec.18Length of the train = (15 x 20)m = 300 m.Let the length of the platform bexmetres.Then,x+ 300= 1536x+ 300 = 540x= 240 m."
+     }
+]

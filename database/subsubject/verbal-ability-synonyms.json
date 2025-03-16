@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "CORPULENT",
+        "options": {
+            "A": "Lean",
+            "B": "Gaunt",
+            "C": "Emaciated",
+            "D": "Obese"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "BRIEF",
+        "options": {
+            "A": "Limited",
+            "B": "Small",
+            "C": "Little",
+            "D": "Short"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "EMBEZZLE",
+        "options": {
+            "A": "Misappropriate",
+            "B": "Balance",
+            "C": "Remunerate",
+            "D": "Clear"
+        },
+        "correct_answer": "A",
+        "answer_description": "Main Entry: embezzlePart of Speech: verbDefinition: steal money, often from employerSynonyms: abstract, defalcate, filch, forge, loot, misapply,misappropriate, misuse, peculate, pilfer, purloin, put hand in cookie jar, put hand in till, skim, thieveAntonyms:\t compensate, give, pay, reimburse, return"
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "VENT",
+        "options": {
+            "A": "Opening",
+            "B": "Stodge",
+            "C": "End",
+            "D": "Past tense of go"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following the questions choose the word which best expresses the meaning of the given word.",
+        "image_path": null,
+        "question": "AUGUST",
+        "options": {
+            "A": "Common",
+            "B": "Ridiculous",
+            "C": "Dignified",
+            "D": "Petty"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

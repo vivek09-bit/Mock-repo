@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "The workers arehell bent at gettingwhat is due to them.",
+        "options": {
+            "A": "hell bent on getting",
+            "B": "hell bent for getting",
+            "C": "hell bent upon getting",
+            "D": "No improvement"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "When it was feared that the serfs might go too far and gain their freedom from serfdom, the protestant leaders joined the princesat crushingthem.",
+        "options": {
+            "A": "into crushing",
+            "B": "in crushing",
+            "C": "without crushing",
+            "D": "No improvement"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "If the room had been brighter, I would have been able to read for a while before bed time.",
+        "options": {
+            "A": "If the room was brighter",
+            "B": "If the room are brighter",
+            "C": "Had the room been brighter",
+            "D": "No improvement"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "The record for the biggest tiger hunt has not beenmetsince 1911 when Lord Hardinge. then Viceroy of India, shot a tiger than measured 11 feet and 6 inches.",
+        "options": {
+            "A": "improved",
+            "B": "broken",
+            "C": "bettered",
+            "D": "No improvement"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below, a part of the sentence isitalicised and underlined. Below are given alternatives to the italicised part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, option 'D' is the answer.",
+        "image_path": null,
+        "question": "his powerful desirebrought about his downfall.",
+        "options": {
+            "A": "His intense desire",
+            "B": "His desire for power",
+            "C": "His fatal desire",
+            "D": "No improvement"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

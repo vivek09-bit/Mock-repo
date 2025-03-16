@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the maximum data rate for the 802.11g standard?",
+        "options": {
+            "A": "6Mbps",
+            "B": "11Mbps",
+            "C": "22Mbps",
+            "D": "54Mbps"
+        },
+        "correct_answer": "D",
+        "answer_description": "The IEEE 802.11g standard provides a maximum data rate of up to 54Mbps."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the maximum data rate for the 802.11a standard?",
+        "options": {
+            "A": "6Mbps",
+            "B": "11Mbps",
+            "C": "22Mbps",
+            "D": "54Mbps"
+        },
+        "correct_answer": "D",
+        "answer_description": "The IEEE 802.11a standard provides a maximum data rate of up to 54Mbps."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many non-overlapping channels are available with 802.11b?",
+        "options": {
+            "A": "3",
+            "B": "12",
+            "C": "23",
+            "D": "40"
+        },
+        "correct_answer": "A",
+        "answer_description": "The IEEE 802.11b standard provides 3 non-overlapping channels."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many non-overlapping channels are available with 802.11a?",
+        "options": {
+            "A": "3",
+            "B": "12",
+            "C": "23",
+            "D": "40"
+        },
+        "correct_answer": "B",
+        "answer_description": "The IEEE 802.11a standard provides up to 12 non-overlapping channels."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Cisco's Unified Wireless Solution, what is the split-MAC architecture?",
+        "options": {
+            "A": "The split-MAC architecture uses MAC addresses to create a forward/filter table and break up collision domains.",
+            "B": "The split-MAC architecture allows the splitting of 802.11 protocol packets between the AP and the controller to allow processing by both devices.",
+            "C": "The split-MAC architecture uses MAC addresses on the wireless network and IP addresses on the wired network.",
+            "D": "The split-MAC architecture uses MAC addresses to create a forward/filter table and break up broadcast domains."
+        },
+        "correct_answer": "B",
+        "answer_description": "The split-MAC architecture allows the splitting of 802.11 protocol packets between the Cisco LWAPP-based AP, which handles real-time portions of the protocol, and the WLAN controller, which handles those items that are not time sensitive."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A GAL is essentially a ________.",
+        "options": {
+            "A": "non-reprogrammable PAL",
+            "B": "PAL that is programmed only by the manufacturer",
+            "C": "very large PAL",
+            "D": "reprogrammable PAL"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is an OTP device?",
+        "options": {
+            "A": "Optical transporting port",
+            "B": "Octal transmitting pixel",
+            "C": "Operational topical portable",
+            "D": "One-time programmable"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many product terms can a MAX+Plus II compiler borrow from adjacent macrocells in the same LAB?",
+        "options": {
+            "A": "0",
+            "B": "5",
+            "C": "10",
+            "D": "20"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Each programmable array logic (PAL) gate product is applied to an OR gate and, if combinational logic is desired, the product is ORed and then:",
+        "options": {
+            "A": "the polarity fuse is restored",
+            "B": "sent to an inverter for output",
+            "C": "sent immediately to an output pin",
+            "D": "passed to the AND function for output"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ are used at the inputs of PAL/GAL devices in order to prevent input loading from a large number of AND gates.",
+        "options": {
+            "A": "Simplified AND gates",
+            "B": "Fuses",
+            "C": "Buffers",
+            "D": "Latches"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

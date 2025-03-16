@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Excessive secretion from the pituitary gland in the children results in",
+        "options": {
+            "A": "increased height",
+            "B": "retarded growth",
+            "C": "weakening of bones",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Fa-Hien was",
+        "options": {
+            "A": "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
+            "B": "the discoverer of Puerto Rico and Jamaica",
+            "C": "the first Buddhist pilgrim of India to visit China",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a numeric data type?",
+        "options": {
+            "A": "int",
+            "B": "float",
+            "C": "complex",
+            "D": "bool"
+        },
+        "correct_answer": "D",
+        "answer_description": "While boolean values (TrueandFalse) are a fundamental data type in Python, they are not considered a numeric data type. Integers, floats, and complex numbers are numeric data types in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following data types is used to represent a collection of elements with no duplicates?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Set",
+            "D": "Dictionary"
+        },
+        "correct_answer": "C",
+        "answer_description": "Sets are used to represent a collection of elements with no duplicates. Lists and tuples can contain duplicate elements, while dictionaries are used to store key-value pairs."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following data types is used to represent a collection of key-value pairs?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Set",
+            "D": "Dictionary"
+        },
+        "correct_answer": "D",
+        "answer_description": "Dictionaries are used to represent a collection of key-value pairs, where each key maps to a corresponding value. Lists, tuples, and sets do not have this structure."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following data types is used to represent a sequence of characters?",
+        "options": {
+            "A": "bytearray",
+            "B": "bytes",
+            "C": "complex",
+            "D": "str"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thebytearraydata type is used to represent a mutable sequence of bytes, rather than characters. While abytearraycan hold character data, it is not specifically designed to represent a sequence of characters like the str data type.Thebytesdata type in Python is used to represent a sequence of bytes. It is similar to thebytearraydata type, but it is immutable, meaning it cannot be changed after it is created. While thebytestype can hold character data, it is not specifically designed to represent a sequence of characters like thestrdata type.Thecomplexdata type in Python is used to represent complex numbers, which are numbers with a real and imaginary part (e.g., 3 + 4j). This data type is not used to represent a sequence of characters, but rather to work with complex mathematical operations involving real and imaginary numbers.Thestrtype is the standard way to represent sequences of characters in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following data types is used to represent a sequence of ordered elements that can be modified?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Set",
+            "D": "Dictionary"
+        },
+        "correct_answer": "A",
+        "answer_description": "Lists are used to represent a sequence of ordered elements that can be modified, such as adding or removing elements. Tuples are also a sequence data type, but they are immutable and cannot be modified after creation. Sets and dictionaries are not sequence data types."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The prices of food grains and other essential commodities in the open market have risen sharply during the past three months.The political party in opposition has given a call for general strike to protest against the government's economic policy.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "A",
+        "answer_description": "Since the prices of food grains and other essential commodities in the open market have been raised sharply during the past three months, so the political party in opposition has given a call for general strike to protest against the government's economic policy."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The Government has decided to hold a single entrance test for admission to all the medical colleges in India.The State Government has debarred students from other States to apply for the seats in the medical colleges in the State.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "E",
+        "answer_description": "Both the statements are effects of some common cause."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:Large number of Primary Schools in the rural areas is run by only one teacher.There has been a huge dropout from the primary schools in rural areas.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "A",
+        "answer_description": "Since large numbers of primary schools in the rural areas are run by only one teacher so there has been a huge dropout from the Primary Schools in rural areas."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The employees of the biggest bank in the country have given an indefinite strike call starting from the third of the next month.The employees of the Central Government have withdrawn their week long demonstrations.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "D",
+        "answer_description": "Both the statements are effects of the different causes."
+    },
+    {
+        "direction": "Directions to SolveBelow in each of the questions are given two statements I and II. These statements may be either independent causes or may be effects of independent causes or a common cause. One of these statements may be the effect of the other statements. Read both the statements and decide which of the following answer choice correctly depicts the relationship between these two statements.Mark answer(A) If statement I is the cause and statement II is its effect.(B) If statement II is the cause and statement I is its effect.(C) If both the statements I and II are independent causes.(D) If both the statements I and II are effects of independent causes.(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The farmers have decided against selling their Kharif crops to the Government agencies.The Government has reduced the procurement price of Kharif crops starting from the last month to the next six months.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect.",
+            "B": "Statement II is the cause and statement I is its effect.",
+            "C": "Both the statements I and II are independent causes.",
+            "D": "Both the statements I and II are effects of independent causes.",
+            "E": "Both the statements I and II are effects of some common cause."
+        },
+        "correct_answer": "B",
+        "answer_description": "Since the government has reduced the procurement price of Kharif crops starting from the last months to the next six months, therefore, the farmers have decided against selling their Kharif crops to the Government agencies."
+    }
+]

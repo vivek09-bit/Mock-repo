@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What logic function is obtained by adding an inverter to the inputs of an AND gate?",
+          "options": {
+               "A": "OR",
+               "B": "NAND",
+               "C": "XOR",
+               "D": "NOR",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An inverter is also called a _____ gate.",
+          "options": {
+               "A": "NOT",
+               "B": "OR",
+               "C": "AND",
+               "D": "NAND",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many inputs signals can a gate have?",
+          "options": {
+               "A": "one",
+               "B": "more than one",
+               "C": "two only",
+               "D": "both (a) and (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An OR gate has 6 inputs. What is the only input word that produces a 0 output?",
+          "options": {
+               "A": "000000",
+               "B": "000111",
+               "C": "111000",
+               "D": "111111",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The simplified form of the Boolean expression (X + Y + XY)(X + Z) is",
+          "options": {
+               "A": "X + Y + Z",
+               "B": "XY + YZ",
+               "C": "X + YZ",
+               "D": "XZ + Y",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of decimal number 6110to it's binary number equivalent is",
+          "options": {
+               "A": "1100112",
+               "B": "110011102",
+               "C": "1111012",
+               "D": "111112",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of decimal number 1310to it's octal number equivalent is",
+          "options": {
+               "A": "158",
+               "B": "178",
+               "C": "138",
+               "D": "118",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of binary number 1011012to hexadecimal is",
+          "options": {
+               "A": "3716",
+               "B": "2D16",
+               "C": "2E16",
+               "D": "2716",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In boolean algebra, the times sign stands for the _____ operation",
+          "options": {
+               "A": "AND",
+               "B": "OR",
+               "C": "NAND",
+               "D": "NOR",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The memory cell of a dynamic RAM is simpler and smaller than the memory cell of a _____ RAM.",
+          "options": {
+               "A": "volatile",
+               "B": "static",
+               "C": "semiconductor",
+               "D": "bipolar",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A byte is consist of _____ bits",
+          "options": {
+               "A": "two",
+               "B": "four",
+               "C": "eight",
+               "D": "ten",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The OR gate has two or more input signals. If any input is _____ the output is high.",
+          "options": {
+               "A": "low",
+               "B": "high",
+               "C": "0",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many outputs signals can a gate have?",
+          "options": {
+               "A": "one",
+               "B": "more than one",
+               "C": "two only",
+               "D": "both (a) and (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The two basic technologies for digital ICs are bipolar and MOS. Bipolar technology is preferred for_____ and _____ whereas MOS technology is better suited to LSI.",
+          "options": {
+               "A": "SSI, MSI",
+               "B": "MSI, LSI",
+               "C": "SSI, LSI",
+               "D": "ECL, DTL",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The _____ is ultraviolet-light-erasable and electrically programmable. This allows the user to erase and store until programs and data are perfected.",
+          "options": {
+               "A": "EPROM",
+               "B": "ROM",
+               "C": "PROM",
+               "D": "RAM",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not functionally a complete set?",
+          "options": {
+               "A": "AND, OR",
+               "B": "NAND",
+               "C": "NOR",
+               "D": "AND, OR, NOT",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The octal equivalent of decimal 324.987 is",
+          "options": {
+               "A": "504.771",
+               "B": "640.781",
+               "C": "815.234",
+               "D": "90.987",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the ASCII code for T?",
+          "options": {
+               "A": "1010100",
+               "B": "1011010",
+               "C": "1011100",
+               "D": "1011111",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "_____is an abbreviation for binary digit.",
+          "options": {
+               "A": "0 and 1",
+               "B": "bingit",
+               "C": "base",
+               "D": "bit",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of hexadecimal number 1D7F16to a decimal number is",
+          "options": {
+               "A": "755110",
+               "B": "877110",
+               "C": "555710",
+               "D": "778110",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

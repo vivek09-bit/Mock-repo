@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To cry wolf",
+        "options": {
+            "A": "To listen eagerly",
+            "B": "To give false alarm",
+            "C": "To turn pale",
+            "D": "To keep off starvation",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To end in smoke",
+        "options": {
+            "A": "To make completely understand",
+            "B": "To ruin oneself",
+            "C": "To excite great applause",
+            "D": "To overcome someone",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To be above board",
+        "options": {
+            "A": "To have a good height",
+            "B": "To be honest in any business deal",
+            "C": "They have no debts",
+            "D": "To try to be beautiful",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To put one's hand to plough",
+        "options": {
+            "A": "To take up agricultural farming",
+            "B": "To take a difficult task",
+            "C": "To get entangled into unnecessary things",
+            "D": "Take interest in technical work",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To pick holes",
+        "options": {
+            "A": "To find some reason to quarrel",
+            "B": "To destroy something",
+            "C": "To criticise someone",
+            "D": "To cut some part of an item",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

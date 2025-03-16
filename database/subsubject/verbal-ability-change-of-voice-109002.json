@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "They have built a perfect dam across the river.",
+        "options": {
+            "A": "Across the river a perfect dam was built.",
+            "B": "A perfect dam has been built by them across the river.",
+            "C": "A perfect dam should have been built by them.",
+            "D": "Across the river was a perfect dam."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "Do you imitate others?",
+        "options": {
+            "A": "Are others being imitated by you?",
+            "B": "Are others imitated by you?",
+            "C": "Have others being imitated by you?",
+            "D": "Were others being imitated by you?"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "You need to clean your shoes properly.",
+        "options": {
+            "A": "Your shoes are needed to clean properly.",
+            "B": "You are needed to clean your shoes properly.",
+            "C": "Your shoes need to be cleaned properly.",
+            "D": "Your shoes are needed by you to clean properly."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "He is said to be very rich.",
+        "options": {
+            "A": "He said he is very rich.",
+            "B": "People say he is very rich.",
+            "C": "He said it is very rich.",
+            "D": "People say it is very rich."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.",
+        "image_path": null,
+        "question": "The invigilator was reading out the instructions.",
+        "options": {
+            "A": "The instructions were read by the invigilator.",
+            "B": "The instructions were being read out by the invigilator.",
+            "C": "The instructions had been read out by the invigilator.",
+            "D": "The instructions had been read by the invigilator."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

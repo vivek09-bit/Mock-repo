@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Dividing 24 × 1011by 3 × 104equals",
+        "options": {
+            "A": "8 × 104",
+            "B": "8 × 107",
+            "C": "8 × 1011",
+            "D": "8 × 1015"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Pico is what relation to micro?",
+        "options": {
+            "A": "one-tenth",
+            "B": "one-hundredth",
+            "C": "one-thousandth",
+            "D": "one-millionth"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

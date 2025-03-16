@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You connect a host to a switch port, but the new host cannot log into the server that is plugged into the same switch. What could the problem be?",
+        "options": {
+            "A": "The router is not configured for the new host.",
+            "B": "The VTP configuration on the switch is not updated for the new host.",
+            "C": "The host has an invalid MAC address.",
+            "D": "The switch port the host is connected to is not configured to the correct VLAN membership."
+        },
+        "correct_answer": "D",
+        "answer_description": "This question is a little vague, but the best answer is that the VLAN membership for the port is not configured."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an IEEE standard for frame tagging?",
+        "options": {
+            "A": "ISL",
+            "B": "802.3Z",
+            "C": "802.1Q",
+            "D": "802.3U"
+        },
+        "correct_answer": "C",
+        "answer_description": "802.1Q was created to allow trunked links between disparate switches."
+    }
+]

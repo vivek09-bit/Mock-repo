@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "guitar",
+            "B": "flute",
+            "C": "violin",
+            "D": "cello"
+        },
+        "correct_answer": "B",
+        "answer_description": "The guitar, violin, and cello are stringed instruments; the flute is a wind instrument."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "dodge",
+            "B": "flee",
+            "C": "duck",
+            "D": "avoid"
+        },
+        "correct_answer": "B",
+        "answer_description": "Dodge, duck, and avoid are all synonyms meaning evade. Flee means to run away from."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "branch",
+            "B": "dirt",
+            "C": "leaf",
+            "D": "root"
+        },
+        "correct_answer": "B",
+        "answer_description": "A branch, leaf, and root are all parts of a tree. The dirt underneath is not a part of the tree."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "street",
+            "B": "freeway",
+            "C": "interstate",
+            "D": "expressway"
+        },
+        "correct_answer": "A",
+        "answer_description": "Freeway, interstate, and expressway are all high- speed highways; a street is for low-speed traffic."
+    },
+    {
+        "direction": "Directions to SolveThree of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+        "image_path": null,
+        "question": "Which word does NOT belong with the others?",
+        "options": {
+            "A": "heading",
+            "B": "body",
+            "C": "letter",
+            "D": "closing"
+        },
+        "correct_answer": "C",
+        "answer_description": "Heading, body, and closing are all parts of a letter;  the letter is the whole, not a part."
+    }
+]

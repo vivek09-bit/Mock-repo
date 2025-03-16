@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following logic families has the highest maximum clock frequency?",
+        "options": {
+            "A": "S-TTL",
+            "B": "AS-TTL",
+            "C": "HS-TTL",
+            "D": "HCMOS"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why is the fan-out of CMOS gates frequency dependent?",
+        "options": {
+            "A": "Each CMOS input gate has a specific propagation time and this limits the number of different gates that can be connected to the output of a CMOS gate.",
+            "B": "When the frequency reaches the critical value, the gate will only be capable of delivering 70% of the normal output voltage and consequently the output power will be one-half of normal; this defines the upper operating frequency.",
+            "C": "The higher the number of gates attached to the output, the more frequently they will have to be serviced, thus reducing the frequency at which each will be serviced with an input signal.",
+            "D": "The input gates of the FETs are predominantly capacitive, and as the signal frequency increases the capacitive loading also increases, thereby limiting the number of loads that may be attached to the output of the driving gate."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Logic circuits that are designated as buffers, drivers, or buffer/drivers are designed to have:",
+        "options": {
+            "A": "a greater current/voltage capability than an ordinary logic circuit.",
+            "B": "greater input current/voltage capability than an ordinary logic circuit.",
+            "C": "a smaller output current/voltage capability than an ordinary logic.",
+            "D": "greater input and output current/voltage capability than an ordinary logic circuit."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following will not normally be found on a data sheet?",
+        "options": {
+            "A": "Minimum HIGH level output voltage",
+            "B": "Maximum LOW level output voltage",
+            "C": "Minimum LOW level output voltage",
+            "D": "Maximum HIGH level input current"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following logic families has the shortest propagation delay?",
+        "options": {
+            "A": "S-TTL",
+            "B": "AS-TTL",
+            "C": "HS-TTL",
+            "D": "HCMOS"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

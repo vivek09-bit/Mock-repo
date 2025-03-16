@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "As frequency increases",
+        "options": {
+            "A": "both series and parallelRLimpedance decrease",
+            "B": "seriesRLimpedance decreases and parallelRLimpedance increases",
+            "C": "seriesRLimpedance increases and parallelRLimpedance decreases",
+            "D": "both series and parallelRLimpedance increase"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the voltage dropped across R1in the given circuit.",
+        "options": {
+            "A": "14 V",
+            "B": "26.8 V",
+            "C": "28 V",
+            "D": "0 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the true power of a 24 Vac parallelRLcircuit whenR= 45andXL= 1100?",
+        "options": {
+            "A": "313.45 W",
+            "B": "12.8 W",
+            "C": "44.96 W",
+            "D": "22.3 W"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "IfXL= 100andR= 100, then impedance will be",
+        "options": {
+            "A": "141.4",
+            "B": "14.14",
+            "C": "100",
+            "D": "200"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true if the inductor shorts out in the circuit in the given circuit?",
+        "options": {
+            "A": "Each component drops 5 V.",
+            "B": "The impedance equals 0.",
+            "C": "The power factor equals 1.",
+            "D": "The phase angle equals 90°."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

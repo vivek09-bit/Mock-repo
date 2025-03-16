@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What isnottrue about XSLT?",
+        "options": {
+            "A": "XSLT is a declarative transformation language.",
+            "B": "XSLT uses a set of rules that govern how a document is to be materialized is created.",
+            "C": "XSLT uses a set of procedures that specify how a document is to be programmed.",
+            "D": "XSLT is used to transform the input document into another document."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the XML data instance conforms to the DTD, the document is said to be:",
+        "options": {
+            "A": "type-invalid.",
+            "B": "type-valid.",
+            "C": "not-type-valid.",
+            "D": "an HTML document."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "XML is:",
+        "options": {
+            "A": "a subset of SGML only.",
+            "B": "a hybrid of document processing and database processing only.",
+            "C": "a standardized yet customizable way to describe the content of documents only.",
+            "D": "XML is all of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The document that is used by XSLT to indicate how to transform the elements of the XML document to another format is a(n):",
+        "options": {
+            "A": "HTML page.",
+            "B": "DOCTYPE procedure.",
+            "C": "stylesheet.",
+            "D": "stored procedure."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If an XML document does not have a DTD, then by definition it is:",
+        "options": {
+            "A": "not-type-valid.",
+            "B": "type-valid.",
+            "C": "an HTML document.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

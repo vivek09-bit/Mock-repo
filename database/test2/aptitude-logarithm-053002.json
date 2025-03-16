@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log107 =a, then log101is equal to:70",
+        "options": {
+            "A": "- (1 +a)",
+            "B": "(1 +a)-1",
+            "C": "a10",
+            "D": "110a"
+        },
+        "correct_answer": "A",
+        "answer_description": "log10170= log101 - log1070= - log10(7 x 10)= - (log107 + log1010)= - (a+ 1)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log102 = 0.3010, then log210 is equal to:",
+        "options": {
+            "A": "699301",
+            "B": "1000301",
+            "C": "0.3010",
+            "D": "0.6990"
+        },
+        "correct_answer": "B",
+        "answer_description": "log210 =1=1=10000=1000.log1020.30103010301"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log102 = 0.3010, the value of log1080 is:",
+        "options": {
+            "A": "1.6020",
+            "B": "1.9030",
+            "C": "3.9030",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "log1080= log10(8 x 10)= log108 + log1010= log10(23) + 1= 3 log102 + 1= (3 x 0.3010) + 1= 1.9030."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log105 + log10(5x+ 1) = log10(x+ 5) + 1, thenxis equal to:",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "10"
+        },
+        "correct_answer": "B",
+        "answer_description": "log105 + log10(5x+ 1) = log10(x+ 5) + 1log105 + log10(5x+ 1) = log10(x+ 5) + log1010log10[5 (5x+ 1)] = log10[10(x+ 5)]5(5x+ 1) = 10(x+ 5)5x+ 1 = 2x+ 103x= 9x= 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The value of1+1+1is:log360log460log560",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "5",
+            "D": "60"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given expression= log603 + log604 + log605= log60(3 x 4 x 5)= log6060= 1."
+    }
+]

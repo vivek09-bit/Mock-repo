@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "A French womanP :committed suicideQ :where she had put upR :who had come to CalcuttaS :by jumping from the first floor balcony of the hotelThe Proper sequence should be:",
+        "options": {
+            "A": "PRQS",
+            "B": "QSRP",
+            "C": "RPSQ",
+            "D": "SRQP"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "The national unity of a free peopleP :to make it impracticableQ :for there to be an arbitrary administrationR :depends upon a sufficiently even balance of political powerS :against a revolutionary opposition that is irreconcilably opposed to itThe Proper sequence should be:",
+        "options": {
+            "A": "QRPS",
+            "B": "QRSP",
+            "C": "RPQS",
+            "D": "RSPQ"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "The grocerP :did not listen to the protests of customerQ :who was in the habit of weighing lessR :whom he had cheatedS :with great audacityThe Proper sequence should be:",
+        "options": {
+            "A": "PRSQ",
+            "B": "QSPR",
+            "C": "QPRS",
+            "D": "PQSR"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "They felt saferP :to watch the mountainQ :of more than five milesR :as they settled downS :from a distanceThe Proper sequence should be:",
+        "options": {
+            "A": "RPSQ",
+            "B": "RSQP",
+            "C": "PQSR",
+            "D": "PRSQ"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each question below, there is a sentence of which some parts have been jumbled up. Rearrange these parts which are labelled P, Q, R and S to produce the correct sentence. Choose the proper sequence.",
+        "image_path": null,
+        "question": "PeopleP :at his dispensaryQ :went to himR :of all professionsS :for medicine and treatmentThe Proper sequence should be:",
+        "options": {
+            "A": "QPRS",
+            "B": "RPQS",
+            "C": "RQSP",
+            "D": "QRPS"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

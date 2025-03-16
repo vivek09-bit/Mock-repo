@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "RFM analysis uses customers' purchasing patterns to ________ .",
+        "options": {
+            "A": "record transactions",
+            "B": "analyze and rank customers",
+            "C": "predict future sales using regression techniques",
+            "D": "perform OLAP"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The \"F\" in RFM analysis stands for ________ .",
+        "options": {
+            "A": "frequently",
+            "B": "freshness",
+            "C": "fast food",
+            "D": "fantasy"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "We have Market Basket data for 1,000 rental transactions at a Video Store. There are for videos for rent -- Video A, Video B, Video C and Video D. The probability that both Video C and Video D are rented at the same time is known as ________ .",
+        "options": {
+            "A": "the basic probability",
+            "B": "support",
+            "C": "lift",
+            "D": "confidence"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Business Intelligence (BI) reporting systemscannotdo which of the following operations?",
+        "options": {
+            "A": "Filter data",
+            "B": "Group data",
+            "C": "Modify data",
+            "D": "Both filter and group data"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following isnota component of a data warehouse?",
+        "options": {
+            "A": "Data extraction/cleaning/preparation programs",
+            "B": "Data warehouse data",
+            "C": "Data metadata",
+            "D": "None of the above are data warehouse components."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

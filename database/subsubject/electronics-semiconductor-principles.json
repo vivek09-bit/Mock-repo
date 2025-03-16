@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Intrinsic semiconductor material is characterized by a valence shell of how many electrons?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ionization within a P-N junction causes a layer on each side of the barrier called the:",
+        "options": {
+            "A": "junction",
+            "B": "depletion region",
+            "C": "barrier voltage",
+            "D": "forward voltage"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the most significant development in electronics since World War II?",
+        "options": {
+            "A": "the development of color TV",
+            "B": "the development of the diode",
+            "C": "the development of the transistor",
+            "D": "the development of the TRIAC"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What causes the depletion region?",
+        "options": {
+            "A": "doping",
+            "B": "diffusion",
+            "C": "barrier potential",
+            "D": "ions"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is an energy gap?",
+        "options": {
+            "A": "the space between two orbital shells",
+            "B": "the energy equal to the energy acquired by an electron passing a 1 V electric field",
+            "C": "the energy band in which electrons can move freely",
+            "D": "an energy level at which an electron can exist"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,280 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Satellite-Switched Time-Division Multiple Access (SS/TDMA) is",
+          "options": {
+               "A": "the method of determining which device has access to the transmission medium at any time.",
+               "B": "a medium access control technique for multiple access transmission media",
+               "C": "a form of TDMA in which circuit switching is used to dynamically change the channel assignments",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many hosts are attached to each of the local area networks at your site?",
+          "options": {
+               "A": "128",
+               "B": "254",
+               "C": "256",
+               "D": "64",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A remote batch-processing operation in which data is solely input to a central computer would require a:",
+          "options": {
+               "A": "telegraph line",
+               "B": "simplex lines",
+               "C": "mixedband channel",
+               "D": "All the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "With an IP address set starting with 150, you currently have six offices that you are treating as subnets. Plans are in place to open 10 more offices before the end of the year. What subnet mask should you use to satisfy the needed number of subnets and maximize the number of hosts available at each site?",
+          "options": {
+               "A": "192",
+               "B": "224",
+               "C": "240",
+               "D": "248",
+               "E": "252"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An error-detecting code inserted as a field  in  a  block  of data  to  be transmitted is known as",
+          "options": {
+               "A": "Frame check sequence",
+               "B": "Error detecting code",
+               "C": "Checksum",
+               "D": "flow control",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An encyclopedic database",
+          "options": {
+               "A": "is an information utility that specializes in storing and searching information",
+               "B": "is generally free",
+               "C": "is easy for beginners to use",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which application allows a user to access   and   change remote  files without actual transfer?",
+          "options": {
+               "A": "TELNET",
+               "B": "NFS",
+               "C": "FTP",
+               "D": "DNS",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The 32-bit internet address 10000000 00001010 00000010 00011110 will be written in dotted decimal notation as",
+          "options": {
+               "A": "148.20.2.30",
+               "B": "164.100.9.61",
+               "C": "210.20.2.64",
+               "D": "128.10.2.30",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the minimum number of wires needed to send data over a serial communication link layer?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "4",
+               "D": "6",
+               "E": "none of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A communications device that combines transmissions from several 1/ O devices into one line is a:",
+          "options": {
+               "A": "concentrator",
+               "B": "modifier",
+               "C": "multiplexer",
+               "D": "full-duplex line",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following program is used to copy files to or from another UNIX timesharing system over a single link?",
+          "options": {
+               "A": "VMTP",
+               "B": "TFTP",
+               "C": "UUCP",
+               "D": "UART",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the default subnet mask for a class B network?",
+          "options": {
+               "A": "127.0.01",
+               "B": "255.0.0.0",
+               "C": "255.255.0.0",
+               "D": "255.255.255.0",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following signals is not standard RS - 232-C signal?",
+          "options": {
+               "A": "VDR",
+               "B": "RTS",
+               "C": "CTS",
+               "D": "DSR",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many pairs of stations can simultaneously communicate on Ethernet LAN?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "multiple",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A computer that handles resource sharing and network management in a local area network. Select the best fit for answer:",
+          "options": {
+               "A": "Network Server",
+               "B": "Virtual Private Network",
+               "C": "Network operating system",
+               "D": "OSI"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "With an IP address starting at 200, you currently have 10 subnets. What subnet mask should you use to maximize the number of available hosts?",
+          "options": {
+               "A": "192",
+               "B": "224",
+               "C": "240",
+               "D": "248",
+               "E": "252"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is an example of bounded medium?",
+          "options": {
+               "A": "Coaxial cable",
+               "B": "Wave guide",
+               "C": "Fiber optic cable {d) All of the above",
+               "D": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct?",
+          "options": {
+               "A": "characteristic of the hub architecture of ARC-net is alternative routing.",
+               "B": "characteristic of LAN is unlimited expansion",
+               "C": "characteristic of LAN is low cost access for low bandwidth channels",
+               "D": "characteristic of the hub architecture of ARC-net is directionalized transmission",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following digits are known as the terminal number of the Network User Address (NUA)?",
+          "options": {
+               "A": "5-7",
+               "B": "1-4",
+               "C": "8-12",
+               "D": "13-14",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The data-link layer, in reference to the OSI model, specifies",
+          "options": {
+               "A": "data link procedures that provide for the exchange of data via frames that can be sent and received",
+               "B": "the interface between the X.25 network and packet mode device",
+               "C": "the virtual circuit interface to packet-switched service",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

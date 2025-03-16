@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following locks the item from access of any type?",
+        "options": {
+            "A": "Implicit lock",
+            "B": "Explicit lock",
+            "C": "Exclusive lock",
+            "D": "Shared lock"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The size of a lock is called:",
+        "options": {
+            "A": "implicit lock.",
+            "B": "lock granularity.",
+            "C": "exclusive lock.",
+            "D": "shared lock."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A cursor type in which the application sees the data as they were at the time the cursor was opened is called:",
+        "options": {
+            "A": "forward only.",
+            "B": "static.",
+            "C": "keyset.",
+            "D": "dynamic."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the overall responsibility of the DBA?",
+        "options": {
+            "A": "Facilitate the development and use of the database",
+            "B": "Create and populate tables",
+            "C": "Development, operation, and maintenance of the database and its applications",
+            "D": "Both the first and third answers above are correct."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Locks placed by the DBMS are called ________ .",
+        "options": {
+            "A": "implicit locks",
+            "B": "explicit locks",
+            "C": "exclusive locks",
+            "D": "shared locks"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

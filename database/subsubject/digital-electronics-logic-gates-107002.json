@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The output of an OR gate with three inputs, A, B, and C, is LOW when ________.",
+        "options": {
+            "A": "A = 0, B = 0, C = 0",
+            "B": "A = 0, B = 0, C = 1",
+            "C": "A = 0, B = 1, C = 1",
+            "D": "all of the above"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following logical operations is represented by the + sign in Boolean algebra?",
+        "options": {
+            "A": "inversion",
+            "B": "AND",
+            "C": "OR",
+            "D": "complementation"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Output will be a LOW for any case when one or more inputs are zero for a(n):",
+        "options": {
+            "A": "OR gate",
+            "B": "NOT gate",
+            "C": "AND gate",
+            "D": "NOR gate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many pins does the 4049 IC have?",
+        "options": {
+            "A": "14",
+            "B": "16",
+            "C": "18",
+            "D": "20"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following choices meets the minimum requirement needed to create specialized waveforms that are used in digital control and sequencing circuits?",
+        "options": {
+            "A": "basic gates, a clock oscillator, and a repetitive waveform generator",
+            "B": "basic gates, a clock oscillator, and a Johnson shift counter",
+            "C": "basic gates, a clock oscillator, and a DeMorgan pulse generator",
+            "D": "basic gates, a clock oscillator, a repetitive waveform generator, and a Johnson shift counter"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

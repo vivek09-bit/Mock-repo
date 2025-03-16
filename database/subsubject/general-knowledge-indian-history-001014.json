@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Venetian traveler who travelled with his wife and reached Vijayanagar around 1420 was",
+        "options": {
+            "A": "Athanasius Nikitin",
+            "B": "Nicolo de Conti",
+            "C": "Ibn Batuta",
+            "D": "Ferishta"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The year 788 AD was a good one for Hinduism. Why?",
+        "options": {
+            "A": "Shankracharya was born that year.",
+            "B": "Harsha Vardhana, the last Buddhist king, died.",
+            "C": "Samudragupta converted to Hinduism.",
+            "D": "All Muslim invaders were defeated."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Uprising of 1857 was described as the first Indian war of Independence by",
+        "options": {
+            "A": "S.N. Sen",
+            "B": "R.C. Mazumdar",
+            "C": "B.G. Tilak",
+            "D": "V.D. Savakar"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The twenty-third Jaina teacher, Parsva, the immediate predecessor of Mahavira enjoined on his disciples four great vows. To these Mahavira addes which of the followings as the fifth vow?",
+        "options": {
+            "A": "Abstention from stealing",
+            "B": "Non-injury",
+            "C": "Brahmacharya or continence",
+            "D": "Non-attachment"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Turko-Afghan rule in India lasted for about",
+        "options": {
+            "A": "two centuries",
+            "B": "three centuries",
+            "C": "four centuries",
+            "D": "a little over one century"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The benefits of object-oriented modeling are which of the following?",
+        "options": {
+            "A": "The ability to tackle more challenging problems",
+            "B": "Reusability of analysis, design, and programming results",
+            "C": "Improved communication between users, analysts, etc.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The term Incomplete for a UML has the same meaning as which of the following for an EER diagram?",
+        "options": {
+            "A": "Overlapping rule",
+            "B": "Disjoint rule",
+            "C": "Total specialization rule",
+            "D": "Partial specialization rule"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A constructor operation does which of the following?",
+        "options": {
+            "A": "Creates a new instance of a class",
+            "B": "Updates an existing instance of a class",
+            "C": "Deletes and existing instance of a class",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a technique for hiding the internal implementation details of an object?",
+        "options": {
+            "A": "Encapsulation",
+            "B": "Polymorphism",
+            "C": "Inheritance",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Aggregation is which of the following?",
+        "options": {
+            "A": "Expresses a part-of relationship and is a stronger form of an association relationship.",
+            "B": "Expresses a part-of relationship and is a weaker form of an association relationship.",
+            "C": "Expresses an is-a relationship and is a stronger form of an association relationship.",
+            "D": "Expresses an is-a relationship and is a weaker form of an association relationship."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

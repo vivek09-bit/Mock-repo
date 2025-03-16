@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A number when divide by 6 leaves a remainder 3. When the square of the number is divided by 6, the remainder is:",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "correct_answer": "D",
+        "answer_description": "Letx= 6q+ 3.Then,x2= (6q+ 3)2= 36q2+ 36q+ 9= 6(6q2+ 6q+ 1) + 3Thus, whenx2is divided by 6, then remainder = 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of the two numbers is 12 and their product is 35. What is the sum of the reciprocals of these numbers ?",
+        "options": {
+            "A": "1235",
+            "B": "135",
+            "C": "358",
+            "D": "732"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the numbers beaandb. Then,a+b= 12 andab= 35.a+b=121+1=12ab35ba35Sum of reciprocals of given numbers =1235"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be remainder when 17200is divided by 18 ?",
+        "options": {
+            "A": "17",
+            "B": "16",
+            "C": "1",
+            "D": "2"
+        },
+        "correct_answer": "C",
+        "answer_description": "Whennis even. (xn-an) is completely divisibly by (x+a)(17200- 1200) is completely divisible by (17 + 1),i.e.,18.(17200- 1) is completely divisible by 18.On dividing 17200by 18, we get 1 as remainder."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 1400 xx= 1050. Then,x= ?",
+        "options": {
+            "A": "14",
+            "B": "35",
+            "C": "23",
+            "D": "34",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "1400 xx= 1050x=1050=314004"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(12+ 22+ 32+ ... + 102) = ?",
+        "options": {
+            "A": "330",
+            "B": "345",
+            "C": "365",
+            "D": "385"
+        },
+        "correct_answer": "D",
+        "answer_description": "We know that (12+ 22+ 32+ ... +n2) =1n(n+ 1)(2n+ 1)6Puttingn= 10, required sum =1x 10 x 11 x 21= 3856"
+    }
+]

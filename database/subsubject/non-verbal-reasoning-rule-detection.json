@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, choose the set of figures which follows the given rule.",
+        "image_path": null,
+        "question": "Choose the set of figures which follows the given rule.Rule:Closed figures losing their sides and open figures gaining their sides.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, choose the set of figures which follows the given rule.",
+        "image_path": null,
+        "question": "Choose the set of figures which follows the given rule.Rule:Any figure can be traced by a single unbroken line without retracting.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, choose the set of figures which follows the given rule.",
+        "image_path": null,
+        "question": "Choose the set of figures which follows the given rule.Rule:Closed figures gradually become open and open figures gradually become closed.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, choose the set of figures which follows the given rule.",
+        "image_path": null,
+        "question": "Choose the set of figures which follows the given rule.Rule:Closed figures become more and more open and open figures become more and more closed.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, choose the set of figures which follows the given rule.",
+        "image_path": null,
+        "question": "Choose the set of figures which follows the given rule.Rule:The series becomes complex as it proceeds.",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

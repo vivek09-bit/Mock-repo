@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Nuclear sizes are expressed in a unit named",
+        "options": {
+            "A": "Fermi",
+            "B": "angstrom",
+            "C": "newton",
+            "D": "tesla"
+        },
+        "correct_answer": "A",
+        "answer_description": "Fermi - A unit of length equal to 10-15meter (one femtometer), used in nuclear physics. It is similar to the diameter of a proton."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Light year is a unit of",
+        "options": {
+            "A": "time",
+            "B": "distance",
+            "C": "light",
+            "D": "intensity of light"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Mirage is due to",
+        "options": {
+            "A": "unequal heating of different parts of the atmosphere",
+            "B": "magnetic disturbances in the atmosphere",
+            "C": "depletion of ozone layer in the atmosphere",
+            "D": "equal heating of different parts of the atmosphere"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Light from the Sun reaches us in nearly",
+        "options": {
+            "A": "2 minutes",
+            "B": "4 minutes",
+            "C": "8 minutes",
+            "D": "16 minutes"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Stars appears to move from east to west because",
+        "options": {
+            "A": "all stars move from east to west",
+            "B": "the earth rotates from west to east",
+            "C": "the earth rotates from east to west",
+            "D": "the background of the stars moves from west to east"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

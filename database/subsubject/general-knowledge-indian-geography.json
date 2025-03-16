@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Paithan (Jayakwadi) Hydro-electric project, completed with the help of Japan, is on the river",
+        "options": {
+            "A": "Ganga",
+            "B": "Cauvery",
+            "C": "Narmada",
+            "D": "Godavari"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The percentage of irrigated land in India is about",
+        "options": {
+            "A": "45",
+            "B": "65",
+            "C": "35",
+            "D": "25"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The southernmost point of peninsular India, that is, Kanyakumari, is",
+        "options": {
+            "A": "north of Tropic of Cancer",
+            "B": "south of the Equator",
+            "C": "south of the Capricorn",
+            "D": "north of the Equator"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The pass located at the southern end of the Nilgiri Hills in south India is called",
+        "options": {
+            "A": "the Palghat gap",
+            "B": "the Bhorghat pass",
+            "C": "the Thalgat pass",
+            "D": "the Bolan pass"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following factors are responsible for the rapid growth of sugar production in south India as compared to north India?Higher per acre field of sugarcaneHigher sucrose content of sugarcaneLower labour costLonger crushing period",
+        "options": {
+            "A": "I and II",
+            "B": "I, II and III",
+            "C": "I, III and IV",
+            "D": "I, II and IV"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

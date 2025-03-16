@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When doesmaximum power transferhappen from the source to the load?",
+        "options": {
+            "A": "When the source resistance is greater than the load resistance",
+            "B": "When the source resistance is less than the load resistance",
+            "C": "When there is negligible source resistance",
+            "D": "When the source resistance equals the load resistance"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transformer is plugged into a 120 V rms source and has a primary current of 300 mA rms. The secondary is providing 18 V across a 10load. What is the efficiency of the transformer?",
+        "options": {
+            "A": "88%",
+            "B": "90%",
+            "C": "92%",
+            "D": "95%"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The coefficient of coupling between two coils is 0.45. The first coil has an inductance of 75 mH and the second coil has an inductance of 105 mH. What is the mutual inductance between the coils?",
+        "options": {
+            "A": "3.54 mH",
+            "B": "7.88 mH",
+            "C": "39.9 mH",
+            "D": "189.3 mH"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Increasing the number of turns of wire on the secondary of a transformer will",
+        "options": {
+            "A": "increase the secondary current",
+            "B": "decrease the secondary current",
+            "C": "have no effect on the secondary current",
+            "D": "increase the primary current"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the turns ratio of the transformer needed to match a 1 ksource resistance to a 160load?",
+        "options": {
+            "A": "2.5:1",
+            "B": "0.4:1",
+            "C": "6.25:1",
+            "D": "16:1"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The voltage gain of an OTA can be calculated using the formula",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the classic three-op-amp instrumentation amplifier, the differential voltage gain is usually produced by the",
+        "options": {
+            "A": "first stage",
+            "B": "second stage",
+            "C": "mismatched resistors",
+            "D": "output op-amp"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,265 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following functions are performed by a constructor?",
+          "options": {
+               "A": "Construct a new class",
+               "B": "Construct a new object",
+               "C": "Construct a new function",
+               "D": "Initialize objects"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is an abstract data type?",
+          "options": {
+               "A": "int",
+               "B": "double",
+               "C": "string",
+               "D": "Class"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not a type of constructor?",
+          "options": {
+               "A": "Copy constructor",
+               "B": "Friend constructor",
+               "C": "Default constructor",
+               "D": "Parameterized constructor"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct in C++?",
+          "options": {
+               "A": "Classes cannot have data as protected members.",
+               "B": "Structures can have functions as members.",
+               "C": "Class members are public by default.",
+               "D": "Structure members are private by default."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following approach is adapted by C++?",
+          "options": {
+               "A": "Top-down",
+               "B": "Bottom-up",
+               "C": "Right-left",
+               "D": "Left-right"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which of the following a virtual call is resolved at the time of compilation?",
+          "options": {
+               "A": "From inside the destructor.",
+               "B": "From inside the constructor.",
+               "C": "From inside themain().",
+               "D": "Both A and B."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nclass Bix\n{\n    int x, y; \n    public:\n    void show(void);\n    void main(void);\n};\nvoid Bix::show(void)\n{ \n    Bix b;\n    b.x = 2;\n    b.y = 4;\n    cout<< x << \" \" << y;\n}\nvoid Bix::main(void)\n{\n    Bix b;\n    b.x = 6; \n    b.y = 8;\n    b.show();\n}\nint main(int argc, char *argv[])\n{\n    Bix run;\n    run.main();\n    return 0; \n}",
+          "options": {
+               "A": "2 4",
+               "B": "6 8",
+               "C": "The program will report error on Compilation.",
+               "D": "The program will report error on Linking.",
+               "E": "The program will report error on Run-time."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the references?",
+          "options": {
+               "A": "A reference must always be initialized within functions.",
+               "B": "A reference must always be initialized outside all functions.",
+               "C": "A reference must always be initialized.",
+               "D": "Both A and C."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "Once a reference variable has been defined to refer to a particular variable it can refer\nto any other variable.",
+               "B": "A reference is indicated by using && operator.",
+               "C": "Once a reference variable has been defined to refer to a particular variable it cannot refer to any other variable.",
+               "D": "A reference can be declared beforehand and initialized later."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nint main()\n{\n    int x = 80; \n    int y& = x;\n    x++;\n    cout << x << \" \" << --y;\n    return 0;\n}",
+          "options": {
+               "A": "The program will print the output 80 80.",
+               "B": "The program will print the output 81 80.",
+               "C": "The program will print the output 81 81.",
+               "D": "It will result in a compile time error."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nint main()\n{\n    int x = 80; \n    int &y = x;\n    x++;\n    cout << x << \" \" << --y;\n    return 0;\n}",
+          "options": {
+               "A": "The program will print the output 80 80.",
+               "B": "The program will print the output 81 80.",
+               "C": "The program will print the output 81 81.",
+               "D": "It will result in a compile time error."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include <iostream.h> \nenum xyz \n{\n    a, b, c\n}; \nint main()\n{\n    int x = a, y = b, z = c; \n    int &p = x, &q = y, &r = z; \n    p = z; \n    p = ++q;\n    q = ++p;\n    z = ++q + p++; \n    cout<< p << \" \" << q << \" \" << z;\n    return 0; \n}",
+          "options": {
+               "A": "2 3 6",
+               "B": "4 4 7",
+               "C": "4 5 8",
+               "D": "3 4 6"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct regarding destructor of base class?",
+          "options": {
+               "A": "Destructor of base class should always be static.",
+               "B": "Destructor of base class should always be virtual.",
+               "C": "Destructor of base class should not be virtual.",
+               "D": "Destructor of base class should always be private."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h>\n#include<string.h> \nclass IndiaBix\n{\n    int val; \n    public:\n    void SetValue(char *str1, char *str2)\n    {\n        val = strcspn(str1, str2);\n    }\n    void ShowValue()\n    {\n        cout<< val;\n    } \n};\nint main() \n{\n    IndiaBix objBix;\n    objBix.SetValue((char*)\"India\", (char*)\"Bix\"); \n    objBix.ShowValue(); \n    return 0; \n}",
+          "options": {
+               "A": "2",
+               "B": "3",
+               "C": "5",
+               "D": "8"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A function with the same name as the class, but preceded with a tilde character (~) is called __________ of that class.",
+          "options": {
+               "A": "constructor",
+               "B": "destructor",
+               "C": "function",
+               "D": "object"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct?",
+          "options": {
+               "A": "Constructor is always called explicitly.",
+               "B": "Constructor is called either implicitly or explicitly, whereas destructor is always called implicitly.",
+               "C": "Destructor is always called explicitly.",
+               "D": "Constructor and destructor functions are not called at all as they are always inline."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many times a constructor is called in the life-time of an object?",
+          "options": {
+               "A": "Only once",
+               "B": "Twice",
+               "C": "Thrice",
+               "D": "Depends on the way of creation of object"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following constructor is used in the program given below?#include<iostream.h> \nclass IndiaBix\n{\n    int x, y; \n    public:\n    IndiaBix(int xx = 10, int yy = 20 )\n    {\n        x = xx; \n        y = yy;\n    }\n    void Display()\n    {\n        cout<< x << \" \" << y << endl;\n    } \n    ~IndiaBix()\n    { } \n};\nint main()\n{\n    IndiaBix objBix; \n    objBix.Display(); \n    return 0;\n}",
+          "options": {
+               "A": "Copy constructor",
+               "B": "Simple constructor",
+               "C": "Non-parameterized constructor",
+               "D": "Default constructor"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nclass IndiaBix\n{\n    int x; \n    public:\n    IndiaBix(short ss)\n    {\n        cout<< \"Short\" << endl;\n    }\n    IndiaBix(int xx)\n    {\n        cout<< \"Int\" << endl;\n    }\n    IndiaBix(float ff)\n    {\n        cout<< \"Float\" << endl;\n    }\n    ~IndiaBix() \n    {\n        cout<< \"Final\";\n    }\n};\nint main()\n{\n    IndiaBix *ptr = new IndiaBix('B');\n    return 0; \n}",
+          "options": {
+               "A": "The program will print the outputShort.",
+               "B": "The program will print the outputInt.",
+               "C": "The program will print the outputFloat.",
+               "D": "The program will print the outputFinal.",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h>\nclass BixBase\n{   \n    public:\n    BixBase()\n    {\n        cout<< \"Base OK. \"; \n    }\n    ~BixBase()\n    {\n        cout<< \"Base DEL. \"; \n    }\n};\nclass BixDerived: public BixBase\n{\n    public:\n    BixDerived()\n    { \n        cout<< \"Derived OK. \"; \n    }\n    ~BixDerived()\n    { \n        cout<< \"Derived DEL. \"; \n    }\n};\nint main()\n{\n    BixBase *basePtr = new BixDerived();\n    delete basePtr;\n    return 0;\n}",
+          "options": {
+               "A": "Base OK. Derived OK.",
+               "B": "Base OK. Derived OK. Base DEL.",
+               "C": "Base OK. Derived OK. Derived DEL.",
+               "D": "Base OK. Derived OK. Derived DEL. Base DEL.",
+               "E": "Base OK. Derived OK. Base DEL. Derived DEL."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

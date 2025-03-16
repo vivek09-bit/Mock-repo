@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Vehicle:\r\n    def __init__(self, brand, model):\r\n        self.brand = brand\r\n        self.model = model\r\n\r\n    def display_info(self):\r\n        return f\"{self.brand} {self.model}\"If you create an instance of the `Vehicle` class calledcarwith brand \"Toyota\" and model \"Camry\", what will be the result of callingcar.display_info()?",
+        "options": {
+            "A": "\"Toyota Camry\"",
+            "B": "\"Camry Toyota\"",
+            "C": "\"Toyota\"",
+            "D": "\"Camry\""
+        },
+        "correct_answer": "A",
+        "answer_description": "Thedisplay_infomethod returns a string combining the brand and model attributes."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__contains__method in Python classes?",
+        "options": {
+            "A": "To check if an element is present",
+            "B": "To calculate the length of an object",
+            "C": "To define class attributes",
+            "D": "To delete the class object"
+        },
+        "correct_answer": "A",
+        "answer_description": "The__contains__method is used to check if a specified element is present in the object. It is called by functions likein."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Book:\r\n    def __init__(self, title, author):\r\n        self.title = title\r\n        self.author = author\r\n\r\n    def __str__(self):\r\n        return f\"{self.title} by {self.author}\"If you create an instance of the `Book` class calledmy_bookwith title \"The Great Gatsby\" and author \"F. Scott Fitzgerald\", what will be the result of callingstr(my_book)?",
+        "options": {
+            "A": "\"The Great Gatsby F. Scott Fitzgerald\"",
+            "B": "\"F. Scott Fitzgerald The Great Gatsby\"",
+            "C": "\"The Great Gatsby by F. Scott Fitzgerald\"",
+            "D": "\"F. Scott Fitzgerald by The Great Gatsby\""
+        },
+        "correct_answer": "C",
+        "answer_description": "The__str__method provides a human-readable string representation of the object, and callingstr(my_book)returns the specified format."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of the__iter__method in a class?",
+        "options": {
+            "A": "To define iteration behavior",
+            "B": "To calculate the length of an object",
+            "C": "To delete the class object",
+            "D": "To serialize the object"
+        },
+        "correct_answer": "A",
+        "answer_description": "The__iter__method is used to define how an object should behave when used in an iteration context, such as with aforloop."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Point:\r\n    def __init__(self, x, y):\r\n        self.x = x\r\n        self.y = y\r\n\r\n    def distance_from_origin(self):\r\n        return (self.x ** 2 + self.y ** 2) ** 0.5If you create an instance of the `Point` class calledpwith coordinates (3, 4), what will be the result of callingp.distance_from_origin()?",
+        "options": {
+            "A": "7",
+            "B": "25",
+            "C": "5",
+            "D": "10"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thedistance_from_originmethod calculates the distance of the point from the origin using the distance formula."
+    }
+]

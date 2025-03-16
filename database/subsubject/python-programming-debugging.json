@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the Pythonpdbmodule?",
+        "options": {
+            "A": "To perform database operations",
+            "B": "To debug and interactively explore code",
+            "C": "To parse and manipulate XML data",
+            "D": "To handle exceptions"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thepdbmodule in Python is used for debugging and interactively exploring code, providing a powerful debugger with features like breakpoints and code stepping."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which Python module provides a graphical user interface (GUI) for interactive debugging?",
+        "options": {
+            "A": "pdb",
+            "B": "debugger",
+            "C": "debugtools",
+            "D": "pydebug"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thepdbmodule in Python provides a command-line interface for debugging. There is no built-in graphical debugger, but external tools likepdb++can provide a graphical user interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what does thesys.settrace()function do?",
+        "options": {
+            "A": "Sets the system timezone for debugging purposes",
+            "B": "Enables trace functions for the entire system",
+            "C": "Sets a custom exception handler",
+            "D": "Sets a trace function for all thread events"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thesys.settrace()function in Python sets a trace function for all thread events, allowing you to monitor and debug the execution flow."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the Pythonstepcommand do in a debugger likepdb?",
+        "options": {
+            "A": "Skips the current line of code",
+            "B": "Steps into a function or method call",
+            "C": "Exits the debugger",
+            "D": "Continues execution until the next breakpoint"
+        },
+        "correct_answer": "B",
+        "answer_description": "In a debugger likepdb, thestepcommand is used to step into a function or method call, allowing you to debug the code inside that function."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which Python module allows you to set breakpoints and inspect variables interactively during program execution?",
+        "options": {
+            "A": "sys",
+            "B": "trace",
+            "C": "debugger",
+            "D": "pdb"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thepdbmodule in Python provides a built-in debugger that allows setting breakpoints and interactively inspecting variables during program execution."
+    }
+]

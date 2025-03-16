@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "34.95 + 240.016 + 23.98 = ?",
+        "options": {
+            "A": "298.0946",
+            "B": "298.111",
+            "C": "298.946",
+            "D": "299.09"
+        },
+        "correct_answer": "C",
+        "answer_description": "34.95\n  240.016\n + 23.98\n --------\n  298.946\n --------"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is equal to 3.14 x 106?",
+        "options": {
+            "A": "314",
+            "B": "3140",
+            "C": "3140000",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "3.14 x 106= 3.14 x 1000000 = 3140000."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The least among the following is:",
+        "options": {
+            "A": "0.2",
+            "B": "1 ÷ 0.2",
+            "C": "0.2",
+            "D": "(0.2)2"
+        },
+        "correct_answer": "D",
+        "answer_description": "1 ÷ 0.2 =1=10= 5;0.220.2= 0.222...;(0.2)2= 0.04.0.04 < 0.2 < 0.22....<5.Since 0.04 is the least, so (0.2)2is the least."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "5 x 1.6 - 2 x 1.4= ?1.3",
+        "options": {
+            "A": "0.4",
+            "B": "1.2",
+            "C": "1.4",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given Expression =8 - 2.8=5.2=52= 4.1.31.313"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many digits will be there to the right of the decimal point in the product of 95.75 and .02554 ?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Sum of decimal places = 7.Since the last digit to the extreme right will be zero (since 5 x 4 = 20), so there will be 6 significant digits to the right of the decimal point."
+    }
+]

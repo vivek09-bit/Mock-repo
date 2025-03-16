@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With which type of SQL Server recovery model are all database changes logged?",
+        "options": {
+            "A": "Differential recovery",
+            "B": "Full recovery",
+            "C": "Simple recovery",
+            "D": "Bulk-logged recovery"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL Server automatically creates an index on:",
+        "options": {
+            "A": "primary keys only.",
+            "B": "foreign key only.",
+            "C": "both primary and foreign keys.",
+            "D": "SQL Server never automatically creates an index."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following isnota factor in determining the concurrency control behavior of SQL Server?",
+        "options": {
+            "A": "Lock level",
+            "B": "Transaction isolation level",
+            "C": "Cursor concurrency setting",
+            "D": "Locking hints"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL Server program code that is executed after an SQL command has been processed is called a(n):",
+        "options": {
+            "A": "INSTEAD OF trigger.",
+            "B": "BEFORE trigger.",
+            "C": "AFTER trigger.",
+            "D": "BEGIN trigger."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following refers to the SQL Server transaction isolation level which places and holds locks on all rows that are read?",
+        "options": {
+            "A": "REPEATABLE READ",
+            "B": "SERIALIZABLE",
+            "C": "READ COMMITTED",
+            "D": "READ UNCOMMITTED"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

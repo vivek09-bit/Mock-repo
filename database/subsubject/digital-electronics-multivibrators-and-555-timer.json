@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the function of the comparators in the 555 timer circuit?",
+        "options": {
+            "A": "to compare the output voltages to the internal voltage divider",
+            "B": "to compare the input voltages to the internal voltage divider",
+            "C": "to compare the output voltages to the external voltage divider",
+            "D": "to compare the input voltages to the external voltage divider"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a capacitor charges:",
+        "options": {
+            "A": "the voltage across the plates rises exponentially",
+            "B": "the circuit current falls exponentially",
+            "C": "the capacitor charges to the source voltage in 5×RCseconds",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ________ is defined as the time the output is active divided by the total period of the output signal.",
+        "options": {
+            "A": "on time",
+            "B": "off time",
+            "C": "duty cycle",
+            "D": "active ratio"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 22-kresistor and a 0.02-F capacitor are connected in series to a 5-V source. How long will it take the capacitor to charge to 3.4 V?",
+        "options": {
+            "A": "0.44 ms",
+            "B": "0.501 ms",
+            "C": "0.66 ms",
+            "D": "0.70 ms"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the discharge transistor do in the 555 timer circuit?",
+        "options": {
+            "A": "charge the external capacitor to stop the timing",
+            "B": "charge the external capacitor to start the timing over again",
+            "C": "discharge the external capacitor to stop the timing",
+            "D": "discharge the external capacitor to start the timing over again"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

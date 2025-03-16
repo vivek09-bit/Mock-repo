@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between a PLA and a PAL is:",
+        "options": {
+            "A": "The PLA has a programmable OR plane and a programmable AND plane, while the PAL only has a programmable AND plane.",
+            "B": "The PAL has a programmable OR plane and a programmable AND plane, while the PLA only has a programmable AND plane.",
+            "C": "The PAL has more possible product terms than the PLA.",
+            "D": "PALs and PLAs are the same thing."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ALM is the acronym for ________.",
+        "options": {
+            "A": "Array Logic Matrix",
+            "B": "Arithmetic Logic Module",
+            "C": "Asynchronous Local Modulator",
+            "D": "Adaptive Logic Module"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The GAL16V8 has:",
+        "options": {
+            "A": "16 dedicated inputs.",
+            "B": "8 special function pins.",
+            "C": "8 pins that are used as inputs or outputs.",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "PALs tend to execute ________ logic.",
+        "options": {
+            "A": "SAP",
+            "B": "SOP",
+            "C": "PLA",
+            "D": "SPD"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many pins are in an EDF10K70 package?",
+        "options": {
+            "A": "70",
+            "B": "140",
+            "C": "240",
+            "D": "532"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

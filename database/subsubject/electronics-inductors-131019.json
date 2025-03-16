@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the phase angle between the source voltage and current, when a 100 mH inductor with a reactance of 6 k, and a 1 kresistor are in series with a source?",
+        "options": {
+            "A": "0.1 degrees",
+            "B": "9.0 degrees",
+            "C": "61.0 degrees",
+            "D": "81.0 degrees"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a load is not connected to the secondary of a transformer:",
+        "options": {
+            "A": "primary current is zero",
+            "B": "primary current is inversely proportional to primary impedance",
+            "C": "secondary voltage is zero",
+            "D": "secondary voltage is proportional to primary impedance"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

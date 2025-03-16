@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many flip-flops are required to make a MOD-32 binary counter?",
+        "options": {
+            "A": "3",
+            "B": "45",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Using four cascaded counters with a total of 16 bits, how many states must be deleted to achieve a modulus of 50,000?",
+        "options": {
+            "A": "50,000",
+            "B": "65,536",
+            "C": "25,536",
+            "D": "15,536"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A MOD-16 ripple counter is holding the count 10012. What will the count be after 31 clock pulses?",
+        "options": {
+            "A": "10002",
+            "B": "10102",
+            "C": "10112",
+            "D": "11012"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The terminal count of a modulus-11 binary counter is ________.",
+        "options": {
+            "A": "1010",
+            "B": "1000",
+            "C": "1001",
+            "D": "1100"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "List which pins need to be connected together on a 7493 to make a MOD-12 counter.",
+        "options": {
+            "A": "12 to 1, 11 to 3, 9 to 2",
+            "B": "12 to 1, 11 to 3, 12 to 2",
+            "C": "12 to 1, 11 to 3, 8 to 2",
+            "D": "12 to 1, 11 to 3, 1 to 2"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

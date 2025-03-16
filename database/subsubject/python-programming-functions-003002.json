@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theglobalkeyword inside a function?",
+        "options": {
+            "A": "Declares a global variable",
+            "B": "Specifies the scope of a function",
+            "C": "Converts a local variable to a global variable",
+            "D": "Prints a variable to the console"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theglobalkeyword is used to indicate that a local variable should be treated as a global variable."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the result of the following code snippet?x = 10\r\n\r\ndef multiply_by_two():\r\n    global x\r\n    x *= 2\r\n\r\nmultiply_by_two()\r\nprint(x)",
+        "options": {
+            "A": "5",
+            "B": "20",
+            "C": "10",
+            "D": "Error"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theglobalkeyword inside the function indicates that the variablexshould be treated as a global variable, and its value is multiplied by 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you pass a variable number of arguments to a function?",
+        "options": {
+            "A": "Using the*argssyntax",
+            "B": "Using the**kwargssyntax",
+            "C": "Using thevarargs()function",
+            "D": "Using thearg_countparameter"
+        },
+        "correct_answer": "A",
+        "answer_description": "The*argssyntax allows a function to accept a variable number of positional arguments."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thelambdakeyword?",
+        "options": {
+            "A": "Declares a variable",
+            "B": "Defines a class",
+            "C": "Creates an anonymous function",
+            "D": "Specifies the return type of a function"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thelambdakeyword is used to create anonymous functions, also known as lambda functions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the term \"recursion\" refer to in the context of programming?",
+        "options": {
+            "A": "Declaring a variable again",
+            "B": "A function calling itself",
+            "C": "Reassigning the value of a variable",
+            "D": "Using a loop construct"
+        },
+        "correct_answer": "B",
+        "answer_description": "Recursion is a programming concept where a function calls itself in its own definition."
+    }
+]

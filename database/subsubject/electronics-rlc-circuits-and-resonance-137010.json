@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the voltage across R1, C1, and L1?",
+        "options": {
+            "A": "VR= 156 V, VC= 165 V, VL= 441 V",
+            "B": "VR= 178 V, VC= 187 V, VL= 503 V",
+            "C": "VR= 219 V, VC= 232 V, VL= 619 V",
+            "D": "VR= 260 V, VC= 276 V, VL= 735 V"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "\"Please don't go away\", she said.",
+        "options": {
+            "A": "She said to please her and not go away.",
+            "B": "She told me to go away.",
+            "C": "She begged me not to go away.",
+            "D": "She begged that I not go away."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "She said to her friend, \"I know where is everyone\"",
+        "options": {
+            "A": "She told that she knew where was everyone.",
+            "B": "She told her friend that she knew where was everyone.",
+            "C": "She told her friend that she knew where is everyone.",
+            "D": "She told her friend that she knows where was everyone."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

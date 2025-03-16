@@ -1,0 +1,52 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Determine the voltage on the collectorVcof the given transistor circuit.",
+        "options": {
+            "A": "0 V",
+            "B": "+10 V",
+            "C": "+4.7 V",
+            "D": "+0.5 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The period of a waveform is the percentage of time the signal is HIGH.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a disadvantage of CMOS in place of TTL?",
+        "options": {
+            "A": "It switches slower.",
+            "B": "It uses less power.",
+            "C": "It is smaller.",
+            "D": "cost"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The units for the HIGH time for a periodic wave are ________.",
+        "options": {
+            "A": "seconds",
+            "B": "hertz",
+            "C": "cycles",
+            "D": "%"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

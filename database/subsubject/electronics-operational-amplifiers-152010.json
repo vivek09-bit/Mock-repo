@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A differential amplifier has a common-mode gain of 0.2 and a common-mode rejection ratio of 3250. What would the output voltage be if the single-ended input voltage was 7 mV rms?",
+        "options": {
+            "A": "1.4 mV rms",
+            "B": "650 mV rms",
+            "C": "4.55 V rms",
+            "D": "0.455 V rms"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The magnitude of closed-loop voltage gain (Acl) of an inverting amplifier equals:",
+        "options": {
+            "A": "the ratio of the input resistance to the feedback resistance",
+            "B": "the open-loop voltage gainAol",
+            "C": "the feedback resistance divided by the input resistance",
+            "D": "the input resistance"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between common-mode and differential-mode input signals?",
+        "options": {
+            "A": "phase relationship",
+            "B": "voltage",
+            "C": "current",
+            "D": "apparent power"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A circuit that uses an amplifier with passive filter elements is called a(n):",
+        "options": {
+            "A": "relaxation oscillator",
+            "B": "signal generator",
+            "C": "differential amplifier",
+            "D": "active filter"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The input offset current equals the",
+        "options": {
+            "A": "average of two base currents",
+            "B": "collector current divided by the current gain",
+            "C": "difference between two base-emitter voltages",
+            "D": "difference between two base currents"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the zero-voltage switch used for?",
+        "options": {
+            "A": "To reduce radiation of high frequencies during turn-on of a high current to a load",
+            "B": "To control low-voltage circuits",
+            "C": "To provide power to a circuit when power is lost",
+            "D": "For extremely low-voltage applications"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Temperature sensing can be achieved by the use of",
+        "options": {
+            "A": "thermocouples",
+            "B": "RTDs",
+            "C": "thermistors",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The purpose of compensation for a thermocouple is",
+        "options": {
+            "A": "to decrease temperature sensitivity",
+            "B": "to increase voltage output",
+            "C": "to cancel unwanted voltage output of a thermocouple",
+            "D": "used for high-temperature circuits"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The change in value of an analog signal during the conversion process produces what is called the",
+        "options": {
+            "A": "quantization error",
+            "B": "resolution error",
+            "C": "Nyquist error",
+            "D": "sampling error"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following performance specifications applies to a sample-and-hold circuit?",
+        "options": {
+            "A": "Aperture time",
+            "B": "Aperture droop",
+            "C": "Feedback",
+            "D": "Acquisition jitter"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

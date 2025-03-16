@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "I need not offer any explanation regarding this incident - my behaviouris speaking itself.",
+        "options": {
+            "A": "will speak to itself",
+            "B": "speaks for itself",
+            "C": "has been speaking",
+            "D": "speaks about itself",
+            "E": "No correction required"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "He is too importantfor toleratingany delay.",
+        "options": {
+            "A": "to tolerate",
+            "B": "to tolerating",
+            "C": "at tolerating",
+            "D": "with tolerating",
+            "E": "No correction required"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "The population of Tokyo isgreater than that of any othertown in the world.",
+        "options": {
+            "A": "greatest among any other",
+            "B": "greater than all other",
+            "C": "greater than those of any other",
+            "D": "greater than any other",
+            "E": "No correction required"
+        },
+        "correct_answer": "E",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "The performance of our players was ratherworst than I had expected.",
+        "options": {
+            "A": "bad as I had expected",
+            "B": "worse than I had expected",
+            "C": "worse than expectation",
+            "D": "worst than was expected",
+            "E": "No correction required"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "Whydid you not threwthe bag away?",
+        "options": {
+            "A": "did you not throw",
+            "B": "had you not threw",
+            "C": "did you not thrown",
+            "D": "you did not thrown",
+            "E": "No correction required"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

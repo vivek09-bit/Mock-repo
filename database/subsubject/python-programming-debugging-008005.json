@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the Pythonpdb.pm()function?",
+        "options": {
+            "A": "Python Debugger Post-Mortem",
+            "B": "Print Message",
+            "C": "Program Monitor",
+            "D": "Post-Mortem Debugger"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thepdb.pm()function stands for Python Debugger Post-Mortem, and it is used for creating a post-mortem debugger session after an unhandled exception."
+    }
+]

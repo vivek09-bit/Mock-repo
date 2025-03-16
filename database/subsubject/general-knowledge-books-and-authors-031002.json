@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following books has been written by Vikram Seth?",
+        "options": {
+            "A": "My God Died Young",
+            "B": "Islamic Bomb",
+            "C": "Look Back in Anger",
+            "D": "A Suitable Boy"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who wrote the line: ' A thing of beauty is a joy forever'?",
+        "options": {
+            "A": "John Keats",
+            "B": "Robert Browing",
+            "C": "P.B.Shelley",
+            "D": "William Wordsworth"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who has written the book 'My Frozen Turbulence in Kashmir'?",
+        "options": {
+            "A": "Anees Jung",
+            "B": "Jagmohan",
+            "C": "M.J.Akbar",
+            "D": "Nissim Ezekiel"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The book 'To Live or Not Live' was written by",
+        "options": {
+            "A": "V.S. Naipaul",
+            "B": "Alexandra Dumas",
+            "C": "George Elliot",
+            "D": "Nirad C. Chaudhuri"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In India the first television programme was broadcasted in",
+        "options": {
+            "A": "1959",
+            "B": "1965",
+            "C": "1976",
+            "D": "1957"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

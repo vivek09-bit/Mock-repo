@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Where are EIGRP successor routes stored?",
+        "options": {
+            "A": "In the routing table only",
+            "B": "In the neighbor table only",
+            "C": "In the topology table only",
+            "D": "In the routing table and the topology table",
+            "E": "In the routing table and the neighbor table"
+        },
+        "correct_answer": "D",
+        "answer_description": "Successor routes are going to be in the routing table since they are the best path to a remote network. However, the topology table has a link to each and every network, so the best answer is topology table and routing table. Any secondary route to a remote network is considered a feasible successor, and those routes are only found in the topology table and used as backup routes in case of primary route failure."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will display all the EIGRP feasible successor routes known to a router?",
+        "options": {
+            "A": "show ip routes *",
+            "B": "show ip eigrp summary",
+            "C": "show ip eigrp topology",
+            "D": "show ip eigrp adjacencies"
+        },
+        "correct_answer": "C",
+        "answer_description": "Any secondary route to a remote network is considered a feasible successor, and those routes are only found in the topology table and used as backup routes in case of primary route failure. You can see the topology table with theshow ip eigrp topologycommand."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is true regarding EIGRP successor routes?A successor route is used by EIGRP to forward traffic to a destination.Successor routes are saved in the topology table to be used if the primary route fails.Successor routes are flagged as \"active\" in the routing table.A successor route may be backed up by a feasible successor route.Successor routes are stored in the neighbor table following the discovery process.",
+        "options": {
+            "A": "1 and 3",
+            "B": "2 and 3",
+            "C": "1 and 4",
+            "D": "3, 4 and 5"
+        },
+        "correct_answer": "C",
+        "answer_description": "Successor routes are the routes picked from the topology table as the best route to a remote network, so these are the routes that IP uses in the routing table to forward traffic to a remote destination. The topology table contains any route that is not as good as the successor route and is considered a feasible successor, or backup route. Remember that all routes are in the topology table, even successor routes."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which EIGRP information is held in RAM and maintained through the use of Hello and update packets?Neighbor tableSTP tableTopology tableDUAL table",
+        "options": {
+            "A": "2 only",
+            "B": "4 only",
+            "C": "1 and 3",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "EIGRP holds three tables in RAM: neighbor, topology, and routing. The neighbor and topology tables are built and maintained with the use of Hello packets."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are true regarding OSPF areas?You must have separate loopback interfaces configured in each area.The numbers you can assign an area go up to 65,535.The backbone area is also called area 0.If your design is hierarchical, then you don't need multiple areas.All areas must connect to area 0.",
+        "options": {
+            "A": "1 only",
+            "B": "1 and 2 only",
+            "C": "3 and 4 only",
+            "D": "3, 4 and 5"
+        },
+        "correct_answer": "D",
+        "answer_description": "Loopback interfaces are created on a router, and the highest IP address on a loopback (logical) interface becomes the RID of the router but has nothing to do with areas and is optional, so (1) is wrong. The numbers you can create an area with are from 0 to 4,294,967,295 option (2) is wrong. The backbone area is called area 0, so option (3) is correct. All areas must connect to area 0, so option (5) is correct. If you have only one area, it must be called area 0. This leaves option (4), which must be correct; it doesn't make much sense, but it is the best answer."
+    }
+]

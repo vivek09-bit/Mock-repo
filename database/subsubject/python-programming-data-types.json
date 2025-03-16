@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the data type of the following value:\"Hello, World!\"",
+        "options": {
+            "A": "String",
+            "B": "List",
+            "C": "Tuple",
+            "D": "Dictionary"
+        },
+        "correct_answer": "A",
+        "answer_description": "\"Hello, World!\"is a string in Python. Strings are used to represent text data in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a mutable data type?",
+        "options": {
+            "A": "String",
+            "B": "Tuple",
+            "C": "List",
+            "D": "Float"
+        },
+        "correct_answer": "C",
+        "answer_description": "Lists are mutable in Python, meaning that their contents can be changed after they are created. Strings, tuples, and floats are all immutable, meaning that their contents cannot be changed after they are created."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a sequence data type?",
+        "options": {
+            "A": "Dictionary",
+            "B": "Set",
+            "C": "Tuple",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "Tuples are a sequence data type in Python, meaning that their elements are ordered and indexed, and they can be accessed by their position in the sequence. Dictionaries and sets are not sequence data types, because they are unordered."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the data type of the following value:(1, 2, 3)",
+        "options": {
+            "A": "String",
+            "B": "List",
+            "C": "Tuple",
+            "D": "Dictionary"
+        },
+        "correct_answer": "C",
+        "answer_description": "(1, 2, 3)is a tuple in Python. Tuples are used to group together multiple values into a single immutable container."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the data type of the following value:{\"a\": 1, \"b\": 2, \"c\": 3}",
+        "options": {
+            "A": "String",
+            "B": "List",
+            "C": "Tuple",
+            "D": "Dictionary"
+        },
+        "correct_answer": "D",
+        "answer_description": "{\"a\": 1, \"b\": 2, \"c\": 3}is a dictionary in Python. Dictionaries are used to store key-value pairs, where each key maps to a corresponding value."
+    }
+]

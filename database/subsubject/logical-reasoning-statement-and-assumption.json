@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:\"You are hereby appointed as a programmer with a probation period of one year and your performance will be reviewed at the end of the period for confirmation.\" - A line in an appointment letter.Assumptions:The performance of an individual generally is not known at the time of appointment offer.Generally an individual tries to prove his worth in the probation period.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "E",
+        "answer_description": "The performance of the individual has to be tested over a span of time as the statement mentions. So, I is implicit. The statement mentions that the individual's worth shall be reviewed (during probation period) before confirmation. So, II is also implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:It is desirable to put the child in school at the age of 5 or so.Assumptions:At that age the child reaches appropriate level of development and is ready to learn.The schools do not admit children after six years of age.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "Since the statement talks of putting the child in school at the age of 5, it means that the child is mentally prepared for the same at this age. So, I is implicit. But nothing about admission after 6 years of age is mentioned in the statement. So, II is not implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:\"In order to bring punctuality in our office, we must provide conveyance allowance to our employees.\" - In charge of a company tells Personnel Manager.Assumptions:Conveyance allowance will not help in bringing punctuality.Discipline and reward should always go hand in hand.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "B",
+        "answer_description": "Assumption I goes against the statement. So, it is not implicit. The allowance will serve as a reward to the employees and shall provoke them to come on time. So, II is implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:Unemployment allowance should be given to all unemployed Indian youth above 18 years of age.Assumptions:There are unemployed youth in India who needs monetary support.The government has sufficient funds to provide allowance to all unemployed youth.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "I directly follows from the statement and so is implicit. Also, the statement is a suggestion and does not tell about a government policy or its position of funds. So, II is not implicit."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+        "image_path": null,
+        "question": "Statement:\"If you trouble me, I will slap you.\" - A mother warns her child.Assumptions:With the warning, the child may stop troubling her.All children are basically naughty.",
+        "options": {
+            "A": "Only assumption I is implicit",
+            "B": "Only assumption II is implicit",
+            "C": "Either I or II is implicit",
+            "D": "Neither I nor II is implicit",
+            "E": "Both I and II are implicit"
+        },
+        "correct_answer": "A",
+        "answer_description": "The mother warns her child with the expectation that he would stop troubling her. So, I is implicit. The general nature of children cannot be derived from the statement. So, II is not implicit."
+    }
+]

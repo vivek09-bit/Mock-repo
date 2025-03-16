@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does Python support encapsulation in the context of inheritance?",
+        "options": {
+            "A": "By making all attributes public",
+            "B": "By using private attributes and methods",
+            "C": "By restricting inheritance",
+            "D": "By removing the need for constructors"
+        },
+        "correct_answer": "B",
+        "answer_description": "Python supports encapsulation by allowing the use of private attributes and methods, denoted by a double underscore (e.g.,__private_attribute), which are only accessible within the class."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theissubclass()function?",
+        "options": {
+            "A": "To check if an object is an instance of a specific class",
+            "B": "To create a new instance of a class",
+            "C": "To check if a class is a subclass of another class",
+            "D": "To access class attributes directly"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theissubclass()function is used to check if a given class is a subclass of another class."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the__init__method in Python classes?",
+        "options": {
+            "A": "To define class attributes",
+            "B": "To create a new instance of the class",
+            "C": "To initialize class attributes and perform setup operations",
+            "D": "To access superclass attributes"
+        },
+        "correct_answer": "C",
+        "answer_description": "The__init__method is a special method in Python classes used for initializing the attributes of an object and performing setup operations during object creation."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the diamond problem in the context of multiple inheritance?",
+        "options": {
+            "A": "A naming conflict in class attributes",
+            "B": "Difficulty in determining method resolution order",
+            "C": "Ambiguity caused by a class inheriting from two classes with a common ancestor",
+            "D": "Inability to use private attributes"
+        },
+        "correct_answer": "C",
+        "answer_description": "The diamond problem occurs in multiple inheritance when a class inherits from two classes that have a common ancestor, leading to ambiguity in method resolution order."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the purpose of thesuper(type, obj)function?",
+        "options": {
+            "A": "To call the superclass constructor",
+            "B": "To create a new instance of the subclass",
+            "C": "To access class attributes directly",
+            "D": "To explicitly specify the superclass"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thesuper(type, obj)function is used to call the constructor of the superclass, providing a way to initialize the superclass when working with multiple inheritance."
+    }
+]

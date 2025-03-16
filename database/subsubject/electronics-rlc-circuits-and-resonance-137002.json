@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the range betweenf1andf2of anRLCcircuit that resonates at 150 kHz and has aQof 30?",
+        "options": {
+            "A": "100.0 kHz to 155.0 kHz",
+            "B": "147.5 kHz to 152.5 kHz",
+            "C": "4500 kHz to 295.5 kHz",
+            "D": "149,970 Hz to 150,030 Hz"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the quality factor?",
+        "options": {
+            "A": "999",
+            "B": "223",
+            "C": "2.2",
+            "D": "0.99"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What effect will a parallel tank have upon final filter current?",
+        "options": {
+            "A": "very little",
+            "B": "The bandpass frequencies will change.",
+            "C": "The frequency cutoff will change.",
+            "D": "The impedance will block output."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total current?",
+        "options": {
+            "A": "56.6 mA",
+            "B": "141 mA",
+            "C": "191 mA",
+            "D": "244 mA"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a parallel circuit resonates it is said to:",
+        "options": {
+            "A": "flywheel",
+            "B": "oscillate",
+            "C": "both of the above",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

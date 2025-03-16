@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "3, 5, 11, 14, 17, 21",
+        "options": {
+            "A": "21",
+            "B": "17",
+            "C": "14",
+            "D": "3"
+        },
+        "correct_answer": "C",
+        "answer_description": "Each of the numbers except 14 is an odd number.The number '14' is the only EVEN number."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "8, 27, 64, 100, 125, 216, 343",
+        "options": {
+            "A": "27",
+            "B": "100",
+            "C": "125",
+            "D": "343"
+        },
+        "correct_answer": "B",
+        "answer_description": "The pattern is 23, 33, 43, 53, 63, 73. But, 100 is not a perfect cube."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "10, 25, 45, 54, 60, 75, 80",
+        "options": {
+            "A": "10",
+            "B": "45",
+            "C": "54",
+            "D": "75"
+        },
+        "correct_answer": "C",
+        "answer_description": "Each of the numbers except 54 is multiple of 5."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "396, 462, 572, 427, 671, 264",
+        "options": {
+            "A": "396",
+            "B": "427",
+            "C": "671",
+            "D": "264"
+        },
+        "correct_answer": "B",
+        "answer_description": "In each number except 427, the middle digit is the sum of other two."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "6, 9, 15, 21, 24, 28, 30",
+        "options": {
+            "A": "28",
+            "B": "21",
+            "C": "24",
+            "D": "30"
+        },
+        "correct_answer": "A",
+        "answer_description": "Each of the numbers except 28, is a multiple of 3."
+    }
+]

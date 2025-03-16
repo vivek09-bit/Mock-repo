@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Minimum number of unequal vectors which can give zero resultant are",
+        "options": {
+            "A": "two",
+            "B": "three",
+            "C": "four",
+            "D": "more than four"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Intensity of sound has",
+        "options": {
+            "A": "an object existence",
+            "B": "a subject existence",
+            "C": "no existence",
+            "D": "both subjective and objective existence"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rain is falling vertically downwards. To a man running east-wards, the rain will appear to be coming from",
+        "options": {
+            "A": "east",
+            "B": "west",
+            "C": "northeast",
+            "D": "southeast"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An aeroplane is flying horizontally with a velocity of 600 km/h and at a height of 1960 m. When it is vertically at a point A on the ground a bomb is released from it. The bomb strikes the ground at point B. The distance AB is",
+        "options": {
+            "A": "1200 m",
+            "B": "0.33 km",
+            "C": "3.33 km",
+            "D": "33 km"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

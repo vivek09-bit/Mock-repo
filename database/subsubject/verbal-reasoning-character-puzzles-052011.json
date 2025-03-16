@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "18",
+            "B": "20",
+            "C": "21",
+            "D": "19"
+        },
+        "correct_answer": "B",
+        "answer_description": "1 + 2 + 3 + 4 =10and 1 + 3 + 5 + 8 =17Similarly, 1 + 4 + 6 + 9 =20."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "80",
+            "B": "114",
+            "C": "108",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "(4 + 8) x 9 =108(5 + 4) x 12 =108."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "8",
+            "B": "14",
+            "C": "10",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "For first triangle,10 - 4 =618 - 10 =818 - 4 =14For second triangle,14 - 8 =622 - 14 =822 - 8 =14For third triangle,11 - 5 =615 - 11 =415 - 5 =10."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "11",
+            "B": "19",
+            "C": "15",
+            "D": "22"
+        },
+        "correct_answer": "D",
+        "answer_description": "(2 x 2 - 1) =3and (5 x 4 - 5) =15(5 x 5 - 3) =22."
+    }
+]

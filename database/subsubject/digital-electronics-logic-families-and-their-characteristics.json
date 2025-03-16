@@ -1,0 +1,66 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is unique about TTL devices such as the 74SXX?",
+        "options": {
+            "A": "These devices use Schottky transistors and diodes to prevent them from going into saturation; this results in faster turn-on and turn-off times, which translates into higher frequency operation.",
+            "B": "The gate transistors are silicon (S), and the gates therefore have lower values of leakage current.",
+            "C": "The S denotes the fact that a single gate is present in the IC rather than the usual package of 2–6 gates.",
+            "D": "The S denotes a slow version of the device, which is a consequence of its higher power rating."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following logic families has the shortest propagation delay?",
+        "options": {
+            "A": "CMOS",
+            "B": "BiCMOS",
+            "C": "ECL",
+            "D": "74SXX"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why must CMOS devices be handled with care?",
+        "options": {
+            "A": "so they don’t get dirty",
+            "B": "because they break easily",
+            "C": "because they can be damaged by static electricity discharge"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Special handling precautions should be taken when working with MOS devices. Which of the following statements is not one of these precautions?",
+        "options": {
+            "A": "All test equipment should be grounded.",
+            "B": "MOS devices should have their leads shorted together for shipment and storage.",
+            "C": "Never remove or insert MOS devices with the power on.",
+            "D": "Workers handling MOS devices should not have grounding straps attached to their wrists."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What should be done to unused inputs on TTL gates?",
+        "options": {
+            "A": "They should be left disconnected so as not to produce a load on any of the other circuits and to minimize power loading on the voltage source.",
+            "B": "All unused gates should be connected together and tied toVthrough a 1 kresistor.",
+            "C": "All unused inputs should be connected to an unused output; this will ensure compatible loading on both the unused inputs and unused outputs.",
+            "D": "Unused AND and NAND inputs should be tied toVCCthrough a 1 kresistor; unused OR and NOR inputs should be grounded."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

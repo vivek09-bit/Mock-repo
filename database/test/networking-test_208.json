@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which router command allows you to view the entire contents of all access lists?",
+          "options": {
+               "A": "show all access-lists",
+               "B": "show access-lists",
+               "C": "show ip interface",
+               "D": "show interface"
+          },
+          "correct_answer": "B",
+          "answer_description": "To see the contents of all access lists, use theshow access-listscommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is a stub network?",
+          "options": {
+               "A": "A network with more than one exit point.",
+               "B": "A network with more than one exit and entry point.",
+               "C": "A network with only one entry and no exit point.",
+               "D": "A network that has only one entry and exit point."
+          },
+          "correct_answer": "D",
+          "answer_description": "Stub networks have only one connection to an internetwork. Only default routes can be set on a stub network or network loops may occur."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following types of connections can use full duplex?Hub to hubSwitch to switchHost to hostSwitch to hubSwitch to host",
+          "options": {
+               "A": "1, 2 and 4",
+               "B": "3 and 4",
+               "C": "3 and 5",
+               "D": "2, 3 and 5"
+          },
+          "correct_answer": "D",
+          "answer_description": "Hubs cannot run full-duplex Ethernet. Full duplex must be used on a point-to-point connection between two devices capable of running full duplex. Switches and hosts can run full duplex between each other, but a hub can never run full duplex."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statements are true regarding ICMP packets?ICMP guarantees datagram delivery.ICMP can provide hosts with information about network problems.ICMP is encapsulated within IP datagrams.ICMP is encapsulated within UDP datagrams.",
+          "options": {
+               "A": "1 only",
+               "B": "2 and 3",
+               "C": "1 and 4",
+               "D": "All of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "ICMP is used for diagnostics and destination unreachable messages. ICMP is encapsulated within IP datagrams, and because it is used for diagnostics, it will provide hosts with information about network problems."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which classful subnet mask would you use?",
+          "options": {
+               "A": "255.255.255.192",
+               "B": "255.255.255.224",
+               "C": "255.255.255.240",
+               "D": "255.255.255.248"
+          },
+          "correct_answer": "B",
+          "answer_description": "You need 5 subnets, each with at least 16 hosts. The mask 255.255.255.240 provides 16 subnets with 14 hosts-this will not work. The mask 255.255.255.224 provides 8 subnets, each with 30 hosts. This is the best answer."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands will configure all the default VTY ports on a router?",
+          "options": {
+               "A": "Router#line vty 0 4",
+               "B": "Router(config)#line vty 0 4",
+               "C": "Router(config-if)#line console 0",
+               "D": "Router(config)#line vty all"
+          },
+          "correct_answer": "B",
+          "answer_description": "From global configuration mode, use theline vty 0 4command to set all five default VTY lines."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A network administrator wants to upgrade the IOS of a router without removing the image currently installed. What command will display the amount of memory consumed by the current IOS image and indicate whether there is enough room available to hold both the current and new images?",
+          "options": {
+               "A": "show version",
+               "B": "show flash",
+               "C": "show memory",
+               "D": "show buffers"
+          },
+          "correct_answer": "B",
+          "answer_description": "Theshow flashcommand will provide you with the current IOS name and size and the size of flash memory."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will show you the IOS version running on your router?",
+          "options": {
+               "A": "sh IOS",
+               "B": "sh flash",
+               "C": "sh version",
+               "D": "sh running-config"
+          },
+          "correct_answer": "C",
+          "answer_description": "The best answer isshow version, which shows you the IOS file running currently on your router. Theshow flashcommand shows you the contents of flash memory, not which file is running."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What should the configuration register value be after you successfully complete the password recovery procedure and return the router to normal operation?",
+          "options": {
+               "A": "0x2100",
+               "B": "0x2101",
+               "C": "0x2102",
+               "D": "0x2142"
+          },
+          "correct_answer": "C",
+          "answer_description": "All Cisco routers have a default configuration register setting of0x2102, which tells the router to load the IOS from flash memory and the configuration from NVRAM."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If you want to have more than one Telnet session open at the same time, what keystroke combination would you use?",
+          "options": {
+               "A": "Tab+Spacebar",
+               "B": "Ctrl+X, then 6",
+               "C": "Ctrl+Shift+X, then 6",
+               "D": "Ctrl+Shift+6, then X"
+          },
+          "correct_answer": "D",
+          "answer_description": "To keep open one or more Telnet sessions, use theCtrl+Shift+6and thenXkeystroke combination."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does RIPv2 use to prevent routing loops?CIDRSplit horizonAuthenticationClassless maskingHolddown timers",
+          "options": {
+               "A": "1 and 3",
+               "B": "2, 3 and 5",
+               "C": "2 and 5",
+               "D": "3 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "RIPv2 uses the same timers and loop-avoidance schemes as RIPv1. Split horizon is used to stop an update from being sent out the same interface it was received on. Holddown timers allow time for a network to become stable in the case of a flapping link."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A network administrator views the output from theshow ip routecommand. A network that is advertised by both RIP and IGRP appears in the routing table flagged as an IGRP route. Why is the RIP route to this network not used in the routing table?",
+          "options": {
+               "A": "IGRP has a faster update timer.",
+               "B": "IGRP has a lower administrative distance.",
+               "C": "RIP has a higher metric value for that route.",
+               "D": "The IGRP route has fewer hops."
+          },
+          "correct_answer": "B",
+          "answer_description": "RIP has an administrative distance (AD) of 120, while IGRP has an administrative distance of 100, so the router will discard any route with a higher AD than 100."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If a switch receives a frame and the source MAC address is not in the MAC address table but the destination address is, what will the switch do with the frame?",
+          "options": {
+               "A": "Discard it and send an error message back to the originating host",
+               "B": "Flood the network with the frame",
+               "C": "Add the source address and port to the MAC address table and forward the frame out the destination port",
+               "D": "Add the destination to the MAC address table and then forward the frame"
+          },
+          "correct_answer": "C",
+          "answer_description": "Since the source MAC address is not in the MAC address table, the switch will add the source address and the port it is connected to into the MAC address table and then forward the frame to the outgoing port."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Layer 2 switching provides which of the following?Hardware-based bridging (ASIC)Wire speedLow latencyLow cost",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1, 2 and 4",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Switches, unlike bridges, are hardware based. Cisco says its switches are wire speed and provide low latency, and I guess they are low cost compared to their prices in the 1990s."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You need to allow one host to be permitted to attach dynamically to each switch interface. Which two commands must you configure on your catalyst switch to meet this policy?Switch(config-if)#ip access-group 10Switch(config-if)#switchport port-security maximum 1Switch(config)#access-list 10 permit ip host 1Switch(config-if)#switchport port-security violation shutdownSwitch(config)#mac-address-table secure",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "2, 3 and 5",
+               "D": "4 and 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Theswitchport port-securityis an important command, and it's super easy with the CNA; however, from the CLI, you can set the maximum number of MAC addresses allowed into the port, and then set the penalty if this maximum has been passed."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You are working on a router that has established privilege levels that restrict access to certain functions. You discover that you are not able to execute the commandshow running-configuration. How can you view and confirm the access lists that have been applied to the Ethernet 0 interface on your router?",
+          "options": {
+               "A": "show access-lists",
+               "B": "show interface Ethernet 0",
+               "C": "show ip access-lists",
+               "D": "show ip interface Ethernet 0"
+          },
+          "correct_answer": "D",
+          "answer_description": "The only command that shows which access lists have been applied to an interface isshow ip interface Ethernet 0. The commandshow access-listsdisplays all configured access lists, andshow ip access-listsdisplays all configured IP access lists, but neither command indicates whether the displayed access lists have been applied to an interface."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the frequency range of the IEEE 802.11a standard?",
+          "options": {
+               "A": "2.4Gbps",
+               "B": "5Gbps",
+               "C": "2.4GHz",
+               "D": "5GHz"
+          },
+          "correct_answer": "D",
+          "answer_description": "The IEEE 802.11a standard runs in the 5GHz RF range."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many non-overlapping channels are available with 802.11h?",
+          "options": {
+               "A": "3",
+               "B": "12",
+               "C": "23",
+               "D": "40"
+          },
+          "correct_answer": "C",
+          "answer_description": "The IEEE 802.11h standard provides an addition 11 channels to the 802.11a standard's 12 non-overlapping channel for a total of 23 non-overlapping channels."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true when describing a unicast address?",
+          "options": {
+               "A": "Packets addressed to a unicast address are delivered to a single interface.",
+               "B": "These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",
+               "C": "These are like private addresses in IPv4 in that they are not meant to be routed.",
+               "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+          },
+          "correct_answer": "A",
+          "answer_description": "Packets addressed to a unicast address are delivered to a single interface. For load balancing, multiple interfaces can use the same address."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following encapsulates PPP frames in Ethernet frames and uses common PPP features like authentication, encryption, and compression?",
+          "options": {
+               "A": "PPP",
+               "B": "PPPoA",
+               "C": "PPPoE",
+               "D": "Token Ring"
+          },
+          "correct_answer": "C",
+          "answer_description": "PPPoE encapsulates PPP frames in Ethernet frames and uses common PPP features like authentication, encryption, and compression. PPPoA is used for ATM."
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true when describing a link-local address?",
+        "options": {
+            "A": "Packets addressed to a unicast address are delivered to a single interface.",
+            "B": "These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",
+            "C": "These are like private addresses in IPv4 in that they are not meant to be routed.",
+            "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+        },
+        "correct_answer": "C",
+        "answer_description": "Link-local addresses are meant for throwing together a temporary LAN for meetings or a small LAN that is not going to be routed but needs to share and access files and services locally."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true when describing a unique local address?",
+        "options": {
+            "A": "Packets addressed to a unicast address are delivered to a single interface.",
+            "B": "These are your typical publicly routable addresses, just like a regular publicly routable address in IPv4.",
+            "C": "These are like private addresses in IPv4 in that they are not meant to be routed.",
+            "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+        },
+        "correct_answer": "D",
+        "answer_description": "These addresses are meant for nonrouting purposes like link-local, but they are almost globally unique so it is unlikely they will have an address overlap. Unique local addresses were designed as a replacement for site-local addresses."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true when describing an anycast address?",
+        "options": {
+            "A": "Packets addressed to a unicast address are delivered to a single interface.",
+            "B": "Packets are delivered to all interfaces identified by the address. This is also called one-to-many addresses.",
+            "C": "This address identifies multiple interfaces and the anycast packet is only delivered to one address. This address can also be called one-to-one-of-many.",
+            "D": "These addresses are meant for nonrouting purposes, but they are almost globally unique so it is unlikely they will have an address overlap."
+        },
+        "correct_answer": "C",
+        "answer_description": "Anycast addresses identify multiple interfaces, which is the same as multicast; however, the big difference is that the anycast packet is only delivered to one address, the first one it finds defined in the terms of routing distance. This address can also be called one-to-one-of-many."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want to ping the loopback address of your local host(with IPv6). What will you type?",
+        "options": {
+            "A": "ping 127.0.0.1",
+            "B": "ping 0.0.0.0",
+            "C": "ping ::1",
+            "D": "trace 0.0.::1"
+        },
+        "correct_answer": "C",
+        "answer_description": "The loopback address with IPv4 is127.0.0.1. With IPv6, that address is::1."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement(s) about IPv4 and IPv6 addresses are true?An IPv6 address is 32 bits long, represented in hexidecimal.An IPv6 address is 128 bits long, represented in decimal.An IPv4 address is 32 bits long, represented in decimal.An IPv6 address is 128 bits long, represented in hexidecimal.",
+        "options": {
+            "A": "1 and 3 only",
+            "B": "2 only",
+            "C": "3 and 4",
+            "D": "2 and 4"
+        },
+        "correct_answer": "C",
+        "answer_description": "IPv4 addresses are 32 bits long and are represented in decimal format. IPv6 addresses are 128 bits long and represented in hexadecimal format."
+    }
+]

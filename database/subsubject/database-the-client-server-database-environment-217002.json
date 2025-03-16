@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Stored procedures have which of the following advantages?",
+        "options": {
+            "A": "It takes a longer time to write them as compared to writing Visual Basic.",
+            "B": "Network traffic increases",
+            "C": "Data integrity improves as multiple applications access the same stored procedure.",
+            "D": "Result in thicker client and thinner database server."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is a true statement concerning the open database connectivity standard (ODBC)?",
+        "options": {
+            "A": "Each vendor desiring to be ODBC-complaint provides an ODBC driver.",
+            "B": "Requires certain criteria to be met in order to establish an ODBC connection.",
+            "C": "Provides a programming interface that provides a common language for application programs to access and process SQL databases independent of the RDBMS accessed.",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning QBE?",
+        "options": {
+            "A": "An official standard has been defined for QBE.",
+            "B": "QBE cannot be used for client/server systems.",
+            "C": "QBE does not give the programmer a visual programming environment.",
+            "D": "Complete applications can be written using QBE."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Client/server security includes which of the following?",
+        "options": {
+            "A": "Physical security",
+            "B": "Change control security",
+            "C": "Measures taken to secure all systems",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An application program interface (API) is which of the following?",
+        "options": {
+            "A": "The same thing as ODBC.",
+            "B": "Middleware that does not provide access to a database.",
+            "C": "Middleware that provides access to a database.",
+            "D": "The same thing as JDBC."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

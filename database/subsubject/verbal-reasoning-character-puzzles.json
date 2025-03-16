@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "L10",
+            "B": "K15",
+            "C": "I15",
+            "D": "K8"
+        },
+        "correct_answer": "D",
+        "answer_description": "How the number is obtained?2 + 4 = 65 + 9 = 14Similarly,3 + 5 = 8Therefore, the answer is K8."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "3",
+            "D": "6"
+        },
+        "correct_answer": "D",
+        "answer_description": "(5 + 4 + 7)/2 =8(6 + 9 + 5)/2 =10(3 + 7 + 2)/2 =6."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "18",
+            "B": "12",
+            "C": "9",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "(12 + 18 + 30)/10 =6(16 + 24 + 40)/10 =8Similarly, (45 + 18 + 27)/10 =9."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "25",
+            "B": "37",
+            "C": "41",
+            "D": "47"
+        },
+        "correct_answer": "C",
+        "answer_description": "(5 x 3) + 4 =19and (6 x 4) + 5 =29Therefore, (7 x 5) + 6 =41"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one will replace the question mark ?",
+        "options": {
+            "A": "45",
+            "B": "41",
+            "C": "32",
+            "D": "40"
+        },
+        "correct_answer": "A",
+        "answer_description": "(15x 2 - 3) = 27,(31x 2 - 6) = 56and (45x 2 - 9) = 81"
+    }
+]

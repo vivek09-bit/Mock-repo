@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Observe the dots on the dice (one to six dots) in the following figures. How many dots are contained on the face opposite to the containing four dots?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": "A",
+        "answer_description": "Here one of the two common faces (5) is in the same position, then according to the rule no (2) the remaining face with the 4 dots will be opposite to face with dots 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two positions of a dice are shown below. When 3 points are at the bottom, how many points will be at the top?",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "According to the rule (2) when 3 points are at the bottom then 4 points will be at the top."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "From the positions of a cube are shown below, Which letter will be on the face opposite to face with 'A'?",
+        "options": {
+            "A": "D",
+            "B": "B",
+            "C": "C",
+            "D": "F"
+        },
+        "correct_answer": "A",
+        "answer_description": "The letters of the adjacent faces to the face with letter A, are B, F, C and E. Hence D is the letter of the face opposite to the face with letters (A)."
+    }
+]

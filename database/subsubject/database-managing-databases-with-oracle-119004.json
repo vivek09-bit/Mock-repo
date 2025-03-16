@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have linked SQL*Plus to an external text editor. To invoke the text editor for use within SQL*Plus, which command do you use?",
+        "options": {
+            "A": "Open [FileName]",
+            "B": "Show [FileName]",
+            "C": "Alter [FileName]",
+            "D": "Edit [FileName]"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The default extension for an Oracle SQL*Plus file is:",
+        "options": {
+            "A": ".txt.",
+            "B": ".pls.",
+            "C": ".ora.",
+            "D": ".sql."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An Oracle System Change Number (SCN):",
+        "options": {
+            "A": "is a value that is incremented whenever a dirty read occurs.",
+            "B": "is incremented whenever a deadlock occurs.",
+            "C": "is a value that keeps track of explicit locks.",
+            "D": "is a value that is incremented whenever database changes are made."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To obtain the structure of an Oracle table, the command to use is:",
+        "options": {
+            "A": "STRUCTURE [TableName].",
+            "B": "DESCRIBE [TableName].",
+            "C": "DESCRIBE STRUCTURE [TableName].",
+            "D": "DESC TABLE [TableName]."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To see the contents of the SQL*Plus buffer, type:",
+        "options": {
+            "A": "CONTENTS.",
+            "B": "BUFFER.",
+            "C": "CURRENT.",
+            "D": "LIST."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

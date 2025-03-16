@@ -1,0 +1,272 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Three of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "book",
+               "B": "index",
+               "C": "glossary",
+               "D": "chapter"
+          },
+          "correct_answer": "A",
+          "answer_description": "An index, glossary, and chapter are all parts of a book. Choice a does not belong because the book is the whole, not a part."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Three of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "rye",
+               "B": "sourdough",
+               "C": "pumpernickel",
+               "D": "loaf"
+          },
+          "correct_answer": "A",
+          "answer_description": "Loaf, sourdough, and pumpernickel are types of bread. A rye is not a bread type.Loaf - Bread that is shaped and baked in one piece and usually sliced before being eaten.Pumpernickel - Dark, dense German bread made from coarsely ground whole-grain rye.Sourdough - Leaven for making bread, consisting of fermenting dough, typically that left over from a previous batch.Rye - A wheatlike cereal plant that tolerates poor soils and low temperatures."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Remember, you are looking for the word that does NOT belong in the same group as the others. Sometimes, all four words seem to fit in the same group. If so, look more closely to further narrow your classification.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "biology",
+               "B": "chemistry",
+               "C": "theology",
+               "D": "zoology"
+          },
+          "correct_answer": "C",
+          "answer_description": "Biology, chemistry, and zoology are all branches of science. Theology is the study of religion."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Find the word that names a necessary part of the underlined word.",
+          "image_path": null,
+          "question": "antique",
+          "options": {
+               "A": "rarity",
+               "B": "artifact",
+               "C": "aged",
+               "D": "prehistoric"
+          },
+          "correct_answer": "C",
+          "answer_description": "An antique is something that belongs to, or was made in, an earlier period. It may or may not be a rarity (choice a), and it does not have to be an artifact, an object produced or shaped by human craft (choice  b). An antique is old but does not have to be prehistoric (choice d)."
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 6)A good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+          "image_path": null,
+          "question": "Careful is to cautious as boastful is to",
+          "options": {
+               "A": "arrogant",
+               "B": "humble",
+               "C": "joyful",
+               "D": "suspicious"
+          },
+          "correct_answer": "A",
+          "answer_description": "Careful and cautious are synonyms (they mean the same  thing). Boastful and arrogant are also synonyms. The answer is not (choice b)  because humble means the opposite of boastful. The answer is not choice  c or d  because neither means the same as boastful."
+     },
+     {
+          "direction": "Direction (Q.Nos. 5 - 6)A good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+          "image_path": null,
+          "question": "Yard is to inch as quart is to",
+          "options": {
+               "A": "gallon",
+               "B": "ounce",
+               "C": "milk",
+               "D": "liquid"
+          },
+          "correct_answer": "B",
+          "answer_description": "A yard is a larger measure than an inch (a yard contains 36 inches). A quart is a larger measure than an ounce (a quart contains 32 ounces). Gallon (choice a) is incorrect because it is larger than a  quart. Choices  c and d are incorrect because they are not units of measurement."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Choose the picture that would go in the empty box so that the two bottom pictures are related in the same way as the top two are related.",
+          "image_path": null,
+          "question": "",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4"
+          },
+          "correct_answer": "D",
+          "answer_description": "A bookshelf is to a book as a refrigerator is to a carton of milk. The book is placed on a bookshelf; the milk is placed in a refrigerator."
+     },
+     {
+          "direction": "Direction (Q.No. 8)The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.",
+          "image_path": null,
+          "question": "Fact 1:Mary said, \"Ann and I both have cats.\"Fact 2:Ann said, \"I don't have a cat.\"Fact 3:Mary always tells the truth, but Ann sometimes lies.If the first three statements are facts, which of the following statements must also be a fact?I:Ann has a cat.II:Mary has a cat.III:Ann is lying.",
+          "options": {
+               "A": "I only",
+               "B": "II only",
+               "C": "I and II only",
+               "D": "All the statements are facts."
+          },
+          "correct_answer": "D",
+          "answer_description": "If Mary always tells the truth, then both Ann and Mary have cats (statements I and II), and Ann is lying (statement III). So all the statements are facts."
+     },
+     {
+          "direction": "Direction (Q.No. 9)Read the question carefully and choose the correct answer.",
+          "image_path": null,
+          "question": "Four people witnessed a mugging. Each gave a different description of the mugger. Which description is probably right?",
+          "options": {
+               "A": "He was average height, thin, and middle-aged.",
+               "B": "He was tall, thin, and middle-aged.",
+               "C": "He was tall, thin, and young.",
+               "D": "He was tall, of average weight, and middle-aged."
+          },
+          "correct_answer": "B",
+          "answer_description": "Tall, thin, and middle-aged are the elements of the description repeated most often and are therefore the most likely to be accurate."
+     },
+     {
+          "direction": "Direction (Q.No. 10)Read the below passage carefully and answer the questions:Five roommates Randy, Sally, Terry, Uma, and Vernon each do one housekeeping task mopping, sweeping, laundry, vacuuming, or dusting one day a week, Monday through Friday.* Vernon does not vacuum and does not do his task on Tuesday.* Sally does the dusting, and does not do it on Monday or Friday.* The mopping is done on Thursday.* Terry does his task, which is not vacuuming, on Wednesday.* The laundry is done on Friday, and not by Uma.* Randy does his task on Monday.",
+          "image_path": null,
+          "question": "What task does Terry do on Wednesday?",
+          "options": {
+               "A": "vacuuming",
+               "B": "dusting",
+               "C": "mopping",
+               "D": "sweeping",
+               "E": "laundry"
+          },
+          "correct_answer": "D",
+          "answer_description": "Terry does not dust, mop, do laundry, or vacuum. Therefore, Terry does the sweeping on Wednesday."
+     },
+     {
+          "direction": "Direction (Q.No. 11)In each of the following questions, a statement/group of statements is given followed by some conclusions. Without resolving anything yourself choose the conclusion which logically follows from the given statements).",
+          "image_path": null,
+          "question": "Television convinces viewers that the likelihood of their becoming the victim of a violent crime is extremely high; at the same time by its very nature, TV persuades viewers to passively accept whatever happens to them.",
+          "options": {
+               "A": "TV viewing promotes criminal behaviour.",
+               "B": "TV viewers are most likely to be victimized than others.",
+               "C": "People should not watch TV.",
+               "D": "TV promotes a feeling of helpless vulnerability in viewers."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": "Direction (Q.No. 12)In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+          "image_path": null,
+          "question": "Statements:Large number of people living in the low-lying areas has been evacuated during the last few days to safer places.The Government has rushed in relief supplies to the people living in the affected areas.",
+          "options": {
+               "A": "Statement I is the cause and statement II is its effect",
+               "B": "Statement II is the cause and statement I is its effect",
+               "C": "Both the statements I and II are independent causes",
+               "D": "Both the statements I and II are effects of independent causes",
+               "E": "Both the statements I and II are effects of some common cause"
+          },
+          "correct_answer": "E",
+          "answer_description": "Evacuating low-lying areas and rushing in relief to the affected areas clearly indicates that floods have occurred in the area."
+     },
+     {
+          "direction": "Direction (Q.No. 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Cases of food poisoning due to consumption of liquor are increasing in rural areas.Assumptions:Percentage of people consuming liquor is more in rural areas.There are many unauthorized spurious liquor shops in the rural areas.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The statement talks of number of cases of food poisoning due to consumption of liquor and not of the number of cases consuming liquor. So, I is not implicit. Besides, the statement indicates that people in rural areas are getting spurious or low-grade liquor and no check is being kept on shops selling liquor there. So, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 14)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:\"Computer education should start at schools itself.\"Assumptions:Learning computers is easy.Computer education fetches jobs easily.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, computer education can be started at the school level only if it is easy. So, I is implicit. In the statement, nothing is mentioned about the link between jobs and computer education. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 15)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:An advertisement: If you want to follow the footprints of an ideal leader, wear 'X' brand of shoes.Assumptions:Most people like to become ideal leaders.One can't become ideal leader unless one wears X brand of shoes.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the advertisement mentioned here is merely a catchy slogan, and attempt has been made to touch the deep desire of the masses to draw their attention towards the product. So, only I is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 16)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Is paying ransom or agreeing to the conditions of kidnappers of political figures, a proper course of action?Arguments:Yes. The victims must be saved at all cost.No. It encourages the kidnappers to continue their sinister activities.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "E",
+          "answer_description": "Both the arguments are strong enough. The conditions have to be agreed to, in order to save the life of the victims, though actually they ought not to be agreed to, as they encourage the sinister activities of the kidnappers."
+     },
+     {
+          "direction": "Direction (Q.No. 17)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:The residents of the locality wrote a letter to the Corporation requesting to restore normalcy in the supply of drinking water immediately as the supply at present is just not adequate.Assumptions:The Corporation may not take any action on the letter.The municipality has enough water to meet the demand.The water supply to the area was adequate in the past.",
+          "options": {
+               "A": "Only I and III are implicit",
+               "B": "Only II is implicit",
+               "C": "Only II and III are implicit",
+               "D": "Only III is implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "D",
+          "answer_description": "The Corporation's response to the letter cannot be deduced from the statement. So, I is not implicit. The municipality's position in regard to water supply is also not mentioned. So, II is also not implicit. Since the residents talk of 'restoring' normalcy, it means that water supply was adequate in the past. So, III is implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:The employees association has appealed to the Managers of Company Z to introduce written examinations for clerical cadre recruitment to prevent selection of incompetent persons.Assumptions:So far the Company Z used to select candidates without conducting a written examination.A written examination can help to identify competent persons.At higher level, written examination may not be of much use.",
+          "options": {
+               "A": "Only I and II are implicit",
+               "B": "Only II and III are implicit",
+               "C": "Only I and III are implicit",
+               "D": "Only III is implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "An appeal has been made to 'introduce' written examination. This means that so far written examination was not conducted. So, I is implicit. II follows directly from the statement and so it is implicit. However, nothing can be deduced about the mode of selection at higher level. So, III is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:In order to reduce the gap between income and expenditure, the company has decided to increase the price of its product from next month.Assumptions:The rate will remain more or less same after the increase.The expenditure will more or less remain the same in near future.The rival companies will also increase the price of the similar product.",
+          "options": {
+               "A": "Only I and II are implicit",
+               "B": "Only II and III are implicit",
+               "C": "Only III is implicit",
+               "D": "All are implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, the company intends to reduce the gap between income and expenditure by increasing the price of its product i.e. by keeping the expenditure unaltered and increasing the income only. So, II is implicit while I is not. However, the rival companies may or may not follow the same pursuit. So, III is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 18 - 20)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:Quality of life of a person is not dependent only on his wealth.Assumptions:The aim of most people is just to acquire more wealth.There are some factors other than wealth which contribute to the quality of life.Wealth does not contribute to the quality of life at all.",
+          "options": {
+               "A": "Only I is implicit",
+               "B": "Only I and II are implicit",
+               "C": "Only II is implicit",
+               "D": "Only II and III are implicit",
+               "E": "Only I and III are implicit"
+          },
+          "correct_answer": "C",
+          "answer_description": "Clearly, I does not follow from the statement. So, it is not implicit. The statement mentions that quality of life does not depend only on wealth. This means that there are some other factors as well, which govern the quality of life. But this does not imply that wealth does not contribute at all. So, II is implicit while III is not."
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "EXPAND",
+        "options": {
+            "A": "Convert",
+            "B": "Condense",
+            "C": "Congest",
+            "D": "Conclude"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "MORTAL",
+        "options": {
+            "A": "Divine",
+            "B": "Immortal",
+            "C": "Spiritual",
+            "D": "Eternal"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "QUIESCENT",
+        "options": {
+            "A": "ACTIVE",
+            "B": "Dormant",
+            "C": "Weak",
+            "D": "Unconcerned"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "OBEYING",
+        "options": {
+            "A": "Ordering",
+            "B": "Following",
+            "C": "Refusing",
+            "D": "Contradicting"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "FRAUDULENT",
+        "options": {
+            "A": "Candid",
+            "B": "Direct",
+            "C": "Forthright",
+            "D": "Genuine"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

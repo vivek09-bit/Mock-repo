@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A UJT has:",
+        "options": {
+            "A": "two base leads",
+            "B": "one emitter lead",
+            "C": "two emitter leads and one base lead",
+            "D": "one emitter lead and two base leads"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The only way to close an SCR is with:",
+        "options": {
+            "A": "a trigger input applied to the gate",
+            "B": "forward breakover voltage",
+            "C": "low-current dropout",
+            "D": "valley voltage"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is an SCR?",
+        "options": {
+            "A": "a PNPN thyristor with 3 terminals",
+            "B": "a PNPN thyristor with 4 terminals",
+            "C": "a PNP thyristor with 3 terminals",
+            "D": "an NPN thyristor with 3 terminals"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of application would use a photovoltaic cell?",
+        "options": {
+            "A": "an automobile horn",
+            "B": "a TI 92 calculator",
+            "C": "a magnetic field detector",
+            "D": "a remote power source"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is the seven-segment display?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

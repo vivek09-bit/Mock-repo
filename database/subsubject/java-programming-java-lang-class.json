@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the value of \"d\" after this line of code has been executed?double d = Math.round ( 2.5 + Math.random() );",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "2.5"
+        },
+        "correct_answer": "B",
+        "answer_description": "TheMath.random()method returns a number greater than or equal to0and less than1. Since we can then be sure that the sum of that number and2.5will be greater than or equal to2.5and less than3.5, we can be sure thatMath.round()will round that number to3. So Option B is the answer."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following would compile without error?",
+        "options": {
+            "A": "int a = Math.abs(-5);",
+            "B": "int b = Math.abs(5.0);",
+            "C": "int c = Math.abs(5.5F);",
+            "D": "int d = Math.abs(5L);"
+        },
+        "correct_answer": "A",
+        "answer_description": "The return value of theMath.abs()method is always the same as the type of the parameter passed into that method.In the case ofA, an integer is passed in and so the result is also an integer which is fine for assignment to \"int a\".The values used in B, C & D respectively are adouble, a float and a long. The compiler will complain about a possible loss of precision if we try to assign the results to an \"int\"."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are valid calls toMath.max?Math.max(1,4)Math.max(2.3, 5)Math.max(1, 3, 5, 7)Math.max(-1.5, -2.8f)",
+        "options": {
+            "A": "1, 2 and 4",
+            "B": "2, 3 and 4",
+            "C": "1, 2 and 3",
+            "D": "3 and 4"
+        },
+        "correct_answer": "A",
+        "answer_description": "(1), (2), and (4) are correct. Themax()method is overloaded to take two arguments of typeint,long,float, ordouble.(3) is incorrect because themax()method only takes two arguments."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "public class Myfile \n{ \n    public static void main (String[] args) \n    {\n        String biz = args[1]; \n        String baz = args[2]; \n        String rip = args[3]; \n        System.out.println(\"Arg is \" + rip); \n    } \n}Select how you would start the program to cause it to print:Arg is 2",
+        "options": {
+            "A": "java Myfile 222",
+            "B": "java Myfile 1 2 2 3 4",
+            "C": "java Myfile 1 3 2 2",
+            "D": "java Myfile 0 1 2 3"
+        },
+        "correct_answer": "C",
+        "answer_description": "Arguments start at array element0so the fourth arguement must be2to produce the correct output."
+    }
+]

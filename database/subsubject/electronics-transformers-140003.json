@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A special transformer used to convert unbalanced signals to balanced signals is the",
+        "options": {
+            "A": "balun",
+            "B": "autotransformer",
+            "C": "center-tapped transformer",
+            "D": "step-across transformer"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the load doubled in value in the given circuit, whatreflected resistancewould the source see?",
+        "options": {
+            "A": "80",
+            "B": "400",
+            "C": "2 k",
+            "D": "10 k"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the primary power of an ideal transformer having a 2:1 voltage ratio is 100 W, the secondary power is",
+        "options": {
+            "A": "100 W",
+            "B": "50 W",
+            "C": "75 W",
+            "D": "200 W"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A transformer has",
+        "options": {
+            "A": "primary and secondary windings, both of which are considered inputs",
+            "B": "primary and secondary windings, both of which are considered outputs",
+            "C": "a primary winding used as an output and a secondary winding used as an input",
+            "D": "a primary winding used as an input and a secondary winding used as an output"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The devices that provide the means for a computer to communicate with the user or other computers are referred to as:",
+        "options": {
+            "A": "CPU",
+            "B": "ALU",
+            "C": "I/O",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The software used to drive microprocessor-based systems is called:",
+        "options": {
+            "A": "assembly language",
+            "B": "firmware",
+            "C": "machine language code",
+            "D": "BASIC interpreter instructions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The circuits in the 8085A that provide the arithmetic and logic functions are called the:",
+        "options": {
+            "A": "CPU",
+            "B": "ALU",
+            "C": "I/O",
+            "D": "none of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many buses are connected as part of the 8085A microprocessor?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "8"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ________ ensures that only one IC is active at a time to avoid a bus conflict caused by two ICs writing different data to the same bus.",
+        "options": {
+            "A": "control bus",
+            "B": "control instructions",
+            "C": "address decoder",
+            "D": "CPU"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

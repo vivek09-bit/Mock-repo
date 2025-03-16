@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theseek()method when working with files?",
+        "options": {
+            "A": "To check if a file exists",
+            "B": "To move the file cursor to a specific position",
+            "C": "To read the contents of a file",
+            "D": "To close a file"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theseek()method is used to move the file cursor to a specified position in the file."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following modes is used to open a file in Python for both reading and writing?",
+        "options": {
+            "A": "\"r\"",
+            "B": "\"w\"",
+            "C": "\"a\"",
+            "D": "\"r+\""
+        },
+        "correct_answer": "D",
+        "answer_description": "The mode\"r+\"allows both reading and writing operations on a file."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does thereadline()method do in Python when working with files?",
+        "options": {
+            "A": "Reads the entire contents of the file",
+            "B": "Reads one line from the file",
+            "C": "Reads the first character of the file",
+            "D": "Reads the last line of the file"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thereadline()method is used to read a single line from the file."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you write a list of strings to a file named \"output.txt\"?",
+        "options": {
+            "A": "write_file(\"output.txt\", [\"line1\", \"line2\", \"line3\"])",
+            "B": "file.write([\"line1\", \"line2\", \"line3\"])",
+            "C": "write_lines(\"output.txt\", [\"line1\", \"line2\", \"line3\"])",
+            "D": "with open(\"output.txt\", \"w\") as file: file.writelines([\"line1\", \"line2\", \"line3\"])"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thewritelines()method is used to write a list of strings to a file in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you check if a file named \"data.txt\" exists in a directory using Python?",
+        "options": {
+            "A": "file_exists(\"data.txt\")",
+            "B": "if not exists(\"data.txt\"):",
+            "C": "os.path.exists(\"data.txt\")",
+            "D": "if \"data.txt\" in os.listdir():"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theos.path.exists()function checks if a file exists in a directory."
+    }
+]

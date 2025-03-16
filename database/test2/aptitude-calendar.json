@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+        "options": {
+            "A": "Sunday",
+            "B": "Saturday",
+            "C": "Friday",
+            "D": "Wednesday"
+        },
+        "correct_answer": "C",
+        "answer_description": "On 31stDecember, 2005 it was Saturday.Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.On 31stDecember 2009, it was Thursday.Thus, on 1stJan, 2010 it is Friday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What was the day of the week on 28thMay, 2006?",
+        "options": {
+            "A": "Thursday",
+            "B": "Friday",
+            "C": "Saturday",
+            "D": "Sunday"
+        },
+        "correct_answer": "D",
+        "answer_description": "28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)Odd days in 1600 years = 0Odd days in 400 years = 05 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2)6 odd daysJan.  Feb.   March    April    May \n(31 +  28  +  31   +   30   +   28 ) = 148 days148 days = (21 weeks + 1 day)1 odd day.Total number of odd days = (0 + 0 + 6 + 1) = 70 odd day.Given day is Sunday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What was the day of the week on 17thJune, 1998?",
+        "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+        },
+        "correct_answer": "C",
+        "answer_description": "17thJune, 1998 = (1997 years + Period from 1.1.1998 to 17.6.1998)Odd days in 1600 years = 0Odd days in 300 years = (5 x 3)197 years has 24 leap years + 73 ordinary years.Number of odd days in 97 years ( 24 x 2 + 73) = 121 = 2 odd days.Jan.  Feb.   March    April    May      June \r\n(31 +  28  +  31   +   30   +   31   +   17) = 168 days168 days = 24 weeks = 0 odd day.Total number of odd days = (0 + 1 + 2 + 0) = 3.Given day is Wednesday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the day of the week 15thAugust, 2010?",
+        "options": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Tuesday",
+            "D": "Friday"
+        },
+        "correct_answer": "A",
+        "answer_description": "15thAugust, 2010 = (2009 years + Period 1.1.2010 to 15.8.2010)Odd days in 1600 years = 0Odd days in 400 years = 09 years = (2 leap years + 7 ordinary years) = (2 x 2 + 7 x 1) = 11 odd days4 odd days.Jan.  Feb.   March    April    May  June  July  Aug. \n(31 +  28  +  31   +   30   +  31  + 30  + 31  + 15) = 227 days227 days = (32 weeks + 3 days)3 odd days.Total number of odd days = (0 + 0 + 4 + 3) = 70 odd days.Given day is Sunday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Today is Monday. After 61 days, it will be:",
+        "options": {
+            "A": "Wednesday",
+            "B": "Saturday",
+            "C": "Tuesday",
+            "D": "Thursday"
+        },
+        "correct_answer": "B",
+        "answer_description": "Each day of the week is repeated after 7 days.So, after 63 days, it will be Monday.After 61 days, it will be Saturday."
+    }
+]

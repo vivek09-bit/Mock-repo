@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code?for i in range(3):\r\n    print(i)",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "0 1 2"
+        },
+        "correct_answer": "D",
+        "answer_description": "Therange(3)generates values 0, 1, and 2, and theforloop iterates over these values, printing them."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which keyword is used to skip the rest of the code in the current iteration of a loop and move to the next iteration?",
+        "options": {
+            "A": "pass",
+            "B": "continue",
+            "C": "skip",
+            "D": "next"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thecontinuestatement is used to skip the rest of the code in the current iteration of a loop and move to the next iteration."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the else block in a Pythonfororwhileloop?",
+        "options": {
+            "A": "It handles exceptions that occur in the loop.",
+            "B": "It is executed only if an exception occurs in the loop.",
+            "C": "It ensures the code inside theelseblock always executes, regardless of whether an exception occurs or not.",
+            "D": "It is executed when the loop condition becomes False."
+        },
+        "correct_answer": "D",
+        "answer_description": "Theelseblock in a loop is executed when the loop condition becomes False, and the loop naturally exits."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which loop in Python is used for iterating over a sequence until a specified condition is False?",
+        "options": {
+            "A": "forloop",
+            "B": "whileloop",
+            "C": "do-whileloop",
+            "D": "ifloop"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thewhileloop continues to execute a block of code as long as the specified condition is True."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does theenumeratefunction do when used in aforloop?",
+        "options": {
+            "A": "Counts the total number of iterations",
+            "B": "Iterates over the values of a sequence",
+            "C": "Adds an index to each element in an iterable",
+            "D": "Reverses the order of iteration"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theenumerate()function adds an index to each element in an iterable, returning pairs of index and element.my_list = ['apple', 'banana', 'orange', 'grape']\n\nfor index, value in enumerate(my_list):\n    print(f\"Index: {index}, Value: {value}\")Output:Index: 0, Value: apple\nIndex: 1, Value: banana\nIndex: 2, Value: orange\nIndex: 3, Value: grape"
+    }
+]

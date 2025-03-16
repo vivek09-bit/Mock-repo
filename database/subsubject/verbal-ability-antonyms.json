@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "ENORMOUS",
+        "options": {
+            "A": "Soft",
+            "B": "Average",
+            "C": "Tiny",
+            "D": "Weak"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "COMMISSIONED",
+        "options": {
+            "A": "Started",
+            "B": "Closed",
+            "C": "Finished",
+            "D": "Terminated"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "ARTIFICIAL",
+        "options": {
+            "A": "Red",
+            "B": "Natural",
+            "C": "Truthful",
+            "D": "Solid"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "EXODUS",
+        "options": {
+            "A": "Influx",
+            "B": "Home-coming",
+            "C": "Return",
+            "D": "Restoration"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "image_path": null,
+        "question": "RELINQUISH",
+        "options": {
+            "A": "Abdicate",
+            "B": "Renounce",
+            "C": "Possess",
+            "D": "Deny"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

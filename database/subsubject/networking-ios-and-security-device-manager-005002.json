@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following commands displays the configurable parameters and statistics of all interfaces on a router?",
+        "options": {
+            "A": "show running-config",
+            "B": "show startup-config",
+            "C": "show interfaces",
+            "D": "show versions"
+        },
+        "correct_answer": "C",
+        "answer_description": "With theshow interfacescommand, you can view the configurable parameters, get statistics for the interfaces on the router, verify if the interfaces are shut down, and see the IP address of each interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following commands will configure all the default VTY ports on a router?",
+        "options": {
+            "A": "Router#line vty 0 4",
+            "B": "Router(config)#line vty 0 4",
+            "C": "Router(config-if)#line console 0",
+            "D": "Router(config)#line vty all"
+        },
+        "correct_answer": "B",
+        "answer_description": "From global configuration mode, use theline vty 0 4command to set all five default VTY lines."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need to find the broadcast address used on a LAN on your router. What command will you type into the router from user mode to find the broadcast address?",
+        "options": {
+            "A": "show running-config",
+            "B": "show startup-config",
+            "C": "show interfaces",
+            "D": "show protocols"
+        },
+        "correct_answer": "C",
+        "answer_description": "The commandshow ip protocolswill actually show you the broadcast address for each interface - too bad it isn't a possible answer. Your best answer isshow interfaces, which will provide the IP address and mask for each interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will delete the contents of NVRAM on a router?",
+        "options": {
+            "A": "delete NVRAM",
+            "B": "delete startup-config",
+            "C": "erase NVRAM",
+            "D": "erase start"
+        },
+        "correct_answer": "D",
+        "answer_description": "Theerase startup-configcommand erases the contents of NVRAM and will put you in setup mode if the router is restarted."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What keystroke will terminate setup mode?",
+        "options": {
+            "A": "Ctrl+Z",
+            "B": "Ctrl+^",
+            "C": "Ctrl+C",
+            "D": "Ctrl+Shift+^"
+        },
+        "correct_answer": "C",
+        "answer_description": "You can exit setup mode at any time by using the keystrokeCtrl+C."
+    }
+]

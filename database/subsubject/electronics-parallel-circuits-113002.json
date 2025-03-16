@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Components that connect in parallel form:",
+        "options": {
+            "A": "branches",
+            "B": "open circuits",
+            "C": "short circuits",
+            "D": "a voltage divider"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A parallel circuit differs from a series circuit in that a parallel circuit has",
+        "options": {
+            "A": "no path for current flow",
+            "B": "fewer paths for current flow",
+            "C": "one path for current flow",
+            "D": "more than one path for current flow"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the given circuit, Channel 1 of the stereo amplifier outputs 12 V to the speakers. How much total current is the amplifier providing to the speakers?",
+        "options": {
+            "A": "0 A",
+            "B": "1.5 A",
+            "C": "3 A",
+            "D": "More information is needed to find the total current provided to the speakers."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If two parallel-connected resistors dissipate 6 watts and 10 watts of power, then what is the total power loss?",
+        "options": {
+            "A": "3.75 watts",
+            "B": "4 watts",
+            "C": "16 watts",
+            "D": "60 watts"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which component is shorted?",
+        "options": {
+            "A": "R1",
+            "B": "R2",
+            "C": "R3",
+            "D": "R4"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a new trunk link is configured on an IOS-based switch, which VLANs are allowed over the link?",
+        "options": {
+            "A": "By default, all VLANs are allowed on the trunk.",
+            "B": "No VLAN's are allowed, you must configure each VLAN by hand.",
+            "C": "Only configured VLAN's are allowed on the link.",
+            "D": "Only extended VLAN's are allowed by default."
+        },
+        "correct_answer": "A",
+        "answer_description": "By default, all VLANs are allowed on the trunk link and you must remove by hand each VLAN that you don't want traversing the trunked link."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following modes are valid when a switch port is used as a VLAN trunk?BlockingDynamic autoDynamic desirableNonegotiateAccessLearning",
+        "options": {
+            "A": "1, 2 and 6",
+            "B": "2, 3 and 4",
+            "C": "4, 5 and 6",
+            "D": "2, 4, and 5"
+        },
+        "correct_answer": "B",
+        "answer_description": "The valid modes of a VLAN trunk on a switch are dynamic auto, dynamic desirable, trunk (on), and nonegotiate."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To configure the VLAN trunking protocol to communicate VLAN information between two switches, what two requirements must be met?Each end of the trunk link must be set to the IEEE 802.1e encapsulation.The VTP management domain name of both switches must be set the same.All ports on both the switches must be set as access ports.One of the two switches must be configured as a VTP server.A rollover cable is required to connect the two switches together.A router must be used to forward VTP traffic between VLANs.",
+        "options": {
+            "A": "1, 2 and 4",
+            "B": "3, 5 and 6",
+            "C": "2 and 4",
+            "D": "1 and 6"
+        },
+        "correct_answer": "C",
+        "answer_description": "You must have the same VTP domain name on all switches in order to share VLAN information between the switches. At least one of the switches must be a VTP server; the other switches should be set to VTP client."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want to improve network performance by increasing the bandwidth available to hosts and limit the size of the broadcast domains. Which of the following options will achieve this goal?",
+        "options": {
+            "A": "Managed hubs",
+            "B": "Bridges",
+            "C": "Switches",
+            "D": "Switches configured with VLANs"
+        },
+        "correct_answer": "D",
+        "answer_description": "By creating and implementing VLANs in your switched network, you can break up broadcast domains at layer 2. For hosts on different VLANs to communicate, you must have a router or layer 3 switch."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which switching technology reduces the size of a broadcast domain?",
+        "options": {
+            "A": "ISL",
+            "B": "802.1Q",
+            "C": "VLANs",
+            "D": "STP"
+        },
+        "correct_answer": "C",
+        "answer_description": "Virtual LANs break up broadcast domains in layer 2 switched internetworks."
+    }
+]

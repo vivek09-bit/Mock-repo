@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by:",
+        "options": {
+            "A": "22.75 m",
+            "B": "25 m",
+            "C": "19.5 m",
+            "D": "74m7"
+        },
+        "correct_answer": "B",
+        "answer_description": "A : B = 200 : 169.A : C = 200 : 182.C=CxA=182x200= 182 : 169.BAB200169When C covers 182 m, B covers 169 m.When C covers 350 m, B covers169x 350m= 325 m.182Therefore, C beats B by (350 - 325) m = 25 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In 100 m race, A covers the distance in 36 seconds and B in 45 seconds. In this race A beats B by:",
+        "options": {
+            "A": "20 m",
+            "B": "25 m",
+            "C": "22.5 m",
+            "D": "9 m"
+        },
+        "correct_answer": "A",
+        "answer_description": "Distance covered by B in 9 sec. =100x 9m= 20 m.45A beats B by 20 metres."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a game of 100 points, A can give B 20 points and C 28 points. Then, B can give C:",
+        "options": {
+            "A": "8 points",
+            "B": "10 points",
+            "C": "14 points",
+            "D": "40 points"
+        },
+        "correct_answer": "B",
+        "answer_description": "A : B = 100 : 80.A : C = 100 : 72.B=BxA=80x100=10=100= 100 : 90.CAC10072990B can give C 10 points."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a 200 metres race A beats B by 35 m or 7 seconds. A's time over the course is:",
+        "options": {
+            "A": "40 sec",
+            "B": "47 sec",
+            "C": "33 sec",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "B runs 35 m in 7 sec.B covers 200 m in7x 200= 40 sec.35B's time over the course = 40 sec.A's time over the course (40 - 7) sec = 33 sec."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can run 22.5 m while B runs 25 m. In a kilometre race B beats A by:",
+        "options": {
+            "A": "100 m",
+            "B": "1111m9",
+            "C": "25 m",
+            "D": "50 m"
+        },
+        "correct_answer": "A",
+        "answer_description": "When B runs 25 m, A runs45m.2When B runs 1000 m, A runs45x1x 1000m= 900 m.225B beats A by 100 m."
+    }
+]

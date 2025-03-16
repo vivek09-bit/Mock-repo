@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is a type of error associated with digital-to-analog converters (DACs)?",
+        "options": {
+            "A": "nonmonotonic error",
+            "B": "incorrect output codes",
+            "C": "offset error",
+            "D": "nonmonotonic and offset error"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 4-bit R/2R digital-to-analog (DAC) converter has a reference of 5 volts. What is the analog output for the input code 0101.",
+        "options": {
+            "A": "0.3125 V",
+            "B": "3.125 V",
+            "C": "0.78125 V",
+            "D": "–3.125 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A binary-weighted digital-to-analog converter has an input resistor of 100 k. If the resistor is connected to a 5 V source, the current through the resistor is:",
+        "options": {
+            "A": "50A",
+            "B": "5 mA",
+            "C": "500A",
+            "D": "50 mA"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the resolution of a digital-to-analog converter (DAC)?",
+        "options": {
+            "A": "It is the comparison between the actual output of the converter and its expected output.",
+            "B": "It is the deviation between the ideal straight-line output and the actual output of the converter.",
+            "C": "It is the smallest analog output change that can occur as a result of an increment in the digital input.",
+            "D": "It is its ability to resolve between forward and reverse steps when sequenced over its entire range."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The practical use of binary-weighted digital-to-analog converters is limited to:",
+        "options": {
+            "A": "R/2R ladder D/A converters",
+            "B": "4-bit D/A converters",
+            "C": "8-bit D/A converters",
+            "D": "op-amp comparators"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

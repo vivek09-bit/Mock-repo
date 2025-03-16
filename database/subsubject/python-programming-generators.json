@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is a generator?",
+        "options": {
+            "A": "A function that generates random numbers",
+            "B": "An iterable object that allows lazy evaluation of values",
+            "C": "A built-in Python module for creating HTML documents",
+            "D": "A keyword used for dynamic memory allocation"
+        },
+        "correct_answer": "B",
+        "answer_description": "In Python, a generator is a type of iterable, similar to a list or tuple, but it allows lazy evaluation of values. It generates values on-the-fly and does not store them in memory all at once, making it memory-efficient."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is a generator function different from a regular function?",
+        "options": {
+            "A": "Generator functions use the keywordyieldto produce a sequence of values",
+            "B": "Regular functions use the keywordyieldfor lazy evaluation",
+            "C": "Generator functions use the keywordreturnto produce a sequence of values",
+            "D": "Regular functions use the keywordyieldfor immediate value generation"
+        },
+        "correct_answer": "A",
+        "answer_description": "Generator functions in Python use theyieldkeyword to produce a sequence of values. When a generator function is called, it returns a generator object that can be iterated over to get values one at a time."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you create a generator object?",
+        "options": {
+            "A": "Using thenew_generator()constructor",
+            "B": "By calling a generator function withgen_func()",
+            "C": "Using theGenerator()class",
+            "D": "By applying theyieldkeyword in any function"
+        },
+        "correct_answer": "B",
+        "answer_description": "A generator object is created by calling a generator function using its name followed by parentheses, such asgen_func()."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens when a generator function encounters theyieldkeyword?",
+        "options": {
+            "A": "The function terminates immediately",
+            "B": "The value is returned, and the function's state is saved",
+            "C": "The function raises an exception",
+            "D": "The function restarts from the beginning"
+        },
+        "correct_answer": "B",
+        "answer_description": "When a generator function encounters theyieldkeyword, it returns the specified value and saves its state. The next time the generator is called, it resumes execution from where it left off."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the primary advantage of using generators?",
+        "options": {
+            "A": "Generators consume less memory compared to lists",
+            "B": "Generators can only produce infinite sequences",
+            "C": "Generators allow for random access of elements",
+            "D": "Generators are faster than regular functions"
+        },
+        "correct_answer": "A",
+        "answer_description": "Generators are memory-efficient as they produce values on-the-fly and do not store the entire sequence in memory. This makes them suitable for handling large datasets or infinite sequences without using excessive memory."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A secondary key is which of the following?",
+        "options": {
+            "A": "Nonunique key",
+            "B": "Primary key",
+            "C": "Useful for denormalization decisions",
+            "D": "Determines the tablespace required"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The fastest read/write time and most efficient data storage of any disk array type is:",
+        "options": {
+            "A": "RAID-0.",
+            "B": "RAID-1.",
+            "C": "RAID-2.",
+            "D": "RAID-3."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A rule of thumb for choosing indexes for a relational database includes which of the following?",
+        "options": {
+            "A": "Indexes are more useful on smaller tables.",
+            "B": "Indexes are more useful for columns that do not appear frequently in the WHERE clause in queries.",
+            "C": "Do not specify a unique index for the primary key of each table.",
+            "D": "Be careful indexing attributes that have null values."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sequential retrieval on a primary key for sequential file storage has which of the following features?",
+        "options": {
+            "A": "Very fast",
+            "B": "Moderately fast",
+            "C": "Slow",
+            "D": "Impractical"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A multidimensional database model is used most often in which of the following models?",
+        "options": {
+            "A": "Data warehouse",
+            "B": "Relational",
+            "C": "Hierarchical",
+            "D": "Network"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

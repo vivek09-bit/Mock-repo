@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "0.04 x 0.0162 is equal to:",
+        "options": {
+            "A": "6.48 x 10-3",
+            "B": "6.48 x 10-4",
+            "C": "6.48 x 10-5",
+            "D": "6.48 x 10-6"
+        },
+        "correct_answer": "B",
+        "answer_description": "4 x 162 = 648. Sum of decimal places = 6.So, 0.04 x 0.0162 = 0.000648 = 6.48 x 10-4"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "4.2 x 4.2 - 1.9 x 1.9is equal to:2.3 x 6.1",
+        "options": {
+            "A": "0.5",
+            "B": "1.0",
+            "C": "20",
+            "D": "22"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given Expression =(a2-b2)=(a2-b2)= 1.(a+b)(a-b)(a2-b2)"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If144=14.4, then the value ofxis:0.144x",
+        "options": {
+            "A": "0.0144",
+            "B": "1.44",
+            "C": "14.4",
+            "D": "144"
+        },
+        "correct_answer": "A",
+        "answer_description": "144=14.40.144x144 x 1000=14.4144xx =14.4= 0.01441000"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The price of commodityXincreases by 40 paise every year, while the price of commodityYincreases by 15 paise every year. If in 2001, the price of commodityXwas Rs. 4.20 and that ofYwas Rs. 6.30, in which year commodityXwill cost 40 paise more than the commodityY?",
+        "options": {
+            "A": "2010",
+            "B": "2011",
+            "C": "2012",
+            "D": "2013"
+        },
+        "correct_answer": "B",
+        "answer_description": "Suppose commodityXwill cost 40 paise more thanYafterzyears.Then, (4.20 + 0.40z) - (6.30 + 0.15z) = 0.400.25z= 0.40 + 2.10z=2.50=250= 10.0.2525Xwill cost 40 paise more thanY10 years after 2001i.e.,2011."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are in descending order of their value ?",
+        "options": {
+            "A": "1,2,3,4,5,6357567",
+            "B": "1,2,3,4,5,6355767",
+            "C": "1,2,3,4,5,6355677",
+            "D": "6,5,4,3,2,1765753"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Chemical formula for water is",
+        "options": {
+            "A": "NaAlO2",
+            "B": "H2O",
+            "C": "Al2O3",
+            "D": "CaSiO3"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The gas usually filled in the electric bulb is",
+        "options": {
+            "A": "nitrogen",
+            "B": "hydrogen",
+            "C": "carbon dioxide",
+            "D": "oxygen"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Washing soda is the common name for",
+        "options": {
+            "A": "Sodium carbonate",
+            "B": "Calcium bicarbonate",
+            "C": "Sodium bicarbonate",
+            "D": "Calcium carbonate"
+        },
+        "correct_answer": "A",
+        "answer_description": "What is the scientific name for washing soda?Sodium carbonate (also known as washing soda or soda ash), Na2CO3 is a sodium salt of carbonic acid.Scientific name for baking soda?Sodium bicarbonate or sodium hydrogen carbonate is the chemical compound with the formula NaHCO3. Sodium bicarbonate is a white solid that is crystalline but often appears as a fine powder. Since it has long been known and is widely used, the salt has many related names such as baking soda, bread soda, cooking soda, and bicarbonate of soda."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Quartz crystals normally used in quartz clocks etc. is chemically",
+        "options": {
+            "A": "silicon dioxide",
+            "B": "germanium oxide",
+            "C": "a mixture of germanium oxide and silicon dioxide",
+            "D": "sodium silicate"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the gas is not known as green house gas?",
+        "options": {
+            "A": "Methane",
+            "B": "Nitrous oxide",
+            "C": "Carbon dioxide",
+            "D": "Hydrogen"
+        },
+        "correct_answer": "D",
+        "answer_description": "In order, the most abundant greenhouse gases in Earth's atmosphere are:* water vapor* carbon dioxide* methane* nitrous oxide* ozone* chlorofluorocarbons"
+    }
+]

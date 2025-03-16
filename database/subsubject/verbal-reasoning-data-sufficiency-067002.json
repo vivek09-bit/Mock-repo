@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:What is the code for 'sky' in the code language ?Statements:In the code language, 'sky is clear' is written as 'de ra fa'.In the same code language, 'make it clear' is written as 'de ga jo'.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "D",
+        "answer_description": "The only word common to I and II is 'clear' and as such, only the code for 'clear' can be ascertained from the given information."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:How many children are there between P and Q in a row of children ?Statements:P is fifteenth from the left in the row.Q is exactly in the middle and there are ten children towards his right.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "E",
+        "answer_description": "From II, Q being in the middle, there are 10 children to his right as well as to his left. So, Q is 11th from the left. From I, P is 15th from the left.Thus, from both I and II, we conclude that there are 3 children between P and Q."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:How is T related to K?Statements:R's sister J has married Ts brother L, who is the only son of his parents.K is the only daughter of L and J.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "E",
+        "answer_description": "From I, we know that L is T's brother and J's husband. Since L is the only son of his parents, T is L's sister.From II, we know that K is L's daughter.Thus, from I and II, we conclude that T is the sister of K's father i.e. T is K's aunt."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:How is J related to P ?Statements:M is brother of P and T is sister of P.P's mother is married to J's husband who has one son and two daughters.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "B",
+        "answer_description": "From II, we know that P's mother is married to J's husband, which means that J is P's mother."
+    },
+    {
+        "direction": "Directions to SolveIn each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question. Read both the statements andGive answer(A) If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question(B) If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question(C) If the data either in statement I alone or in statement II alone are sufficient to answer the question(D) If the data given in both statements I and II together are not sufficient to answer the question and(E) If the data in both statements I and II together are necessary to answer the question.",
+        "image_path": null,
+        "question": "Question:How is X related to Y ?Statements:Y and Z are children of D who is wife of X.R's sister X is married to Ys father.",
+        "options": {
+            "A": "I alone is sufficient while II alone is not sufficient",
+            "B": "II alone is sufficient while I alone is not sufficient",
+            "C": "Either I or II is sufficient",
+            "D": "Neither I nor II is sufficient",
+            "E": "Both I and II are sufficient"
+        },
+        "correct_answer": "C",
+        "answer_description": "From I, we conclude that Y is the child of D who is wife of X i.e. X is Y's father.From II, X is married to Y's father. This implies that X is Y's mother."
+    }
+]

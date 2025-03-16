@@ -1,0 +1,258 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\nint main()\r\n{\r\n    int x=1, y=1;\r\n    for(; y; printf(\"%d %d\\n\", x, y))\r\n    {\r\n        y = x++ <= 5;\r\n    }\r\n    printf(\"\\n\");\r\n    return 0;\r\n}",
+          "options": {
+               "A": "2 13 14 15 16 17 0",
+               "B": "2 13 14 15 16 1",
+               "C": "2 13 14 15 1",
+               "D": "2 23 34 45 5"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct order of evaluation for the below expression?z = x + y * z / 4 % 2 - 1",
+          "options": {
+               "A": "* / % + - =",
+               "B": "= * / % + -",
+               "C": "/ * % - + =",
+               "D": "*  % /  - + ="
+          },
+          "correct_answer": "A",
+          "answer_description": "C uses left associativity for evaluating expressions to break a tie between two operators having same precedence."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following range is a validlong double(Turbo C in 16 bit DOS OS) ?",
+          "options": {
+               "A": "3.4E-4932to 1.1E+4932",
+               "B": "3.4E-4932to 3.4E+4932",
+               "C": "1.1E-4932to 1.1E+4932",
+               "D": "1.7E-4932to 1.7E+4932"
+          },
+          "correct_answer": "A",
+          "answer_description": "The range oflong doubleis 3.4E-4932to 1.1E+4932"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Will theprintf()statement print the same values for any values ofa?#include<stdio.h>\nint main()\n{\n    float a;\n    scanf(\"%f\", &a);\n    printf(\"%f\\n\", a+a+a);\n    printf(\"%f\\n\", 3*a);\n    return 0;\n}",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n#include<stdlib.h>\r\n\r\nint main()\r\n{\r\n    int i=0;\r\n    i++;\r\n    if(i<=5)\r\n    {\r\n        printf(\"IndiaBIX\");\r\n        exit(1);\r\n        main();\r\n    }\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Prints \"IndiaBIX\" 5 times",
+               "B": "Functionmain()doesn't calls itself",
+               "C": "Infinite loop",
+               "D": "Prints \"IndiaBIx\""
+          },
+          "correct_answer": "D",
+          "answer_description": "Step 1:int i=0;The variableiis declared as in integer type and initialized to '0'(zero).Step 2:i++;Here variableiis increemented by 1. Henceibecomes '1'(one).Step 3:if(i<=5)becomesif(1 <=5). Hence theifcondition is satisfied and it enter intoifblock statements.Step 4:printf(\"IndiaBIX\");It prints \"IndiaBIX\".Step 5:exit(1);Thisexitstatement  terminates the program execution.Hence the output is \"IndiaBIx\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    int i, a[] = {2, 4, 6, 8, 10};\n    change(a, 5);\n    for(i=0; i<=4; i++)\n        printf(\"%d, \", a[i]);\n    return 0;\n}\nvoid change(int *b, int n)\n{\n    int i;\n    for(i=0; i<n; i++)\n        *(b+1) = *(b+i)+5;\n}",
+          "options": {
+               "A": "7, 9, 11, 13, 15",
+               "B": "2, 15, 6, 8, 10",
+               "C": "2 4 6 8 10",
+               "D": "3, 1, -1, -3, -5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program if the array begins 1200 in memory?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int arr[]={2, 3, 4, 1, 6};\r\n    printf(\"%u, %u, %u\\n\", arr, &arr[0], &arr);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "1200, 1202, 1204",
+               "B": "1200, 1200, 1200",
+               "C": "1200, 1204, 1208",
+               "D": "1200, 1202, 1200"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:int arr[]={2, 3, 4, 1, 6};The variablearris declared as an integer array and initialized.Step 2:printf(\"%u, %u, %u\\n\", arr, &arr[0], &arr);Here,The base address of the array is 1200.=>arr, &arris pointing to the base address of the arrayarr.=>&arr[0]is pointing to the address of the first element arrayarr. (ie. base address)Hence the output of the program is 1200, 1200, 1200"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is correct way to define the functionfun()in the below program?#include<stdio.h>\n\nint main()\n{\n    int a[3][4];\n    fun(a);\n    return 0;\n}",
+          "options": {
+               "A": "void fun(int p[][4])\n{\n}",
+               "B": "void fun(int *p[4])\n{\n}",
+               "C": "void fun(int *p[][4])\n{\n}",
+               "D": "void fun(int *p[3][4])\n{\n}"
+          },
+          "correct_answer": "A",
+          "answer_description": "void fun(int p[][4]){ }is the correct way to write the functionfun(). while the others are considered only the functionfun()is called by usingcall by reference."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    printf(5+\"IndiaBIX\\n\");\n    return 0;\n}",
+          "options": {
+               "A": "Error",
+               "B": "IndiaBIX",
+               "C": "BIX",
+               "D": "None of above"
+          },
+          "correct_answer": "C",
+          "answer_description": "printf(5+\"IndiaBIX\\n\");In the printf statement, it skips the first 5 characters and it prints \"BIX\""
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    enum status {pass, fail, absent};\r\n    enum status stud1, stud2, stud3;\r\n    stud1 = pass;\r\n    stud2 = absent;\r\n    stud3 = fail;\r\n    printf(\"%d %d %d\\n\", stud1, stud2, stud3);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "0, 1, 2",
+               "B": "1, 2, 3",
+               "C": "0, 2, 1",
+               "D": "1, 3, 2"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the program?struct emp\n{\n    int ecode;\n    struct emp e;\n};",
+          "options": {
+               "A": "Error: in structure declaration",
+               "B": "Linker Error",
+               "C": "No Error",
+               "D": "None of above"
+          },
+          "correct_answer": "A",
+          "answer_description": "The structureempcontains a membereof the same type.(i.e)struct emp. At this stage compiler does not know the size of sttructure."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    FILE *ptr;\n    char i;\n    ptr = fopen(\"myfile.c\", \"r\");\n    while((i=fgetc(ptr))!=NULL)\n        printf(\"%c\", i);\n    return 0;\n}",
+          "options": {
+               "A": "Print the contents of file \"myfile.c\"",
+               "B": "Print the contents of file \"myfile.c\" upto NULL character",
+               "C": "Infinite loop",
+               "D": "Error in program"
+          },
+          "correct_answer": "C",
+          "answer_description": "The program will generate infinite loop. When an EOF is encounteredfgetc()returns EOF. Instead of checking the condition for EOF we have checked it for NULL. so the program will generate infinite loop."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While calling thefprintf()function in the format string conversion specifier%scan be used to write a character string in capital letters.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "The%sformat specifier tells the compiler the given input was string of characters."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The maximum combined length of the command-line arguments including the spaces between adjacent arguments is",
+          "options": {
+               "A": "128 characters",
+               "B": "256 characters",
+               "C": "67 characters",
+               "D": "It may vary from one operating system to another"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the program?#include<stdio.h>\nchar *fun(unsigned int num, int base);\n\nint main()\n{\n    char *s;\n    s=fun(128, 2);\n    s=fun(128, 16);\n    printf(\"%s\\n\",s);\n    return 0;\n}\nchar *fun(unsigned int num, int base)\n{\n    static char buff[33];\n    char *ptr = &buff[sizeof(buff)-1];\n    *ptr = '\\0';\n    do\n    {\n        *--ptr = \"0123456789abcdef\"[num %base];\n        num /=base;\n    }while(num!=0);\n    return ptr;\n}",
+          "options": {
+               "A": "It converts a number to a given base.",
+               "B": "It converts a number to its equivalent binary.",
+               "C": "It converts a number to its equivalent hexadecimal.",
+               "D": "It converts a number to its equivalent octal."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    const c = -11;\r\n    const int d = 34;\r\n    printf(\"%d, %d\\n\", c, d);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Error",
+               "B": "-11, 34",
+               "C": "11, 34",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:const c = -11;The constant variable'c'is declared and initialized to value \"-11\".Step 2:const int d = 34;The constant variable'd'is declared as an integer and initialized to value '34'.Step 3:printf(\"%d, %d\\n\", c, d);The value of the variable'c'and'd'are printed.Hence the output of the program is -11, 34"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the correct statement will let you access the elements of the array using 'p' in the following program?#include<stdio.h>\n#include<stdlib.h>\n\nint main()\n{\n    int i, j;\n    int(*p)[3];\n    p = (int(*)[3])malloc(3*sizeof(*p));\n    return 0;\n}",
+          "options": {
+               "A": "for(i=0; i<3; i++)\n{\n    for(j=0; j<3; j++)\n        printf(\"%d\", p[i+j]);\n}",
+               "B": "for(i=0; i<3; i++)\n    printf(\"%d\", p[i]);",
+               "C": "for(i=0; i<3; i++)\n{\n    for(j=0; j<3; j++)\n        printf(\"%d\", p[i][j]);\n}",
+               "D": "for(j=0; j<3; j++)\n    printf(\"%d\", p[i][j]);"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What do the following declaration signify?char *arr[10];",
+          "options": {
+               "A": "arris a array of 10 character pointers.",
+               "B": "arris a array of function pointer.",
+               "C": "arris a array of characters.",
+               "D": "arris a pointer to array of characters."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the following program.#include<stdio.h>\n\nint main()\n{\n    char str[] = \"IndiaBIX\";\n    printf(\"%.#s %2s\", str, str);\n    return 0;\n}",
+          "options": {
+               "A": "Error: in Array declaration",
+               "B": "Error:printfstatement",
+               "C": "Error: unspecified character inprintf",
+               "D": "No error"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the following program.#include<stdio.h>\r\n#include<string.h>\r\n\r\nint main()\r\n{\r\n    char str1[] = \"Learn through IndiaBIX\\0.com\",  str2[120];\r\n    char *p;\r\n    p = (char*) memccpy(str2, str1, 'i', strlen(str1));\r\n    *p = '\\0';\r\n    printf(\"%s\", str2);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Error: inmemccpystatement",
+               "B": "Error: invalid pointer conversion",
+               "C": "Error: invalid variable declaration",
+               "D": "No error and prints \"Learn through Indi\""
+          },
+          "correct_answer": "D",
+          "answer_description": "Declaration:void *memccpy(void *dest, const void *src, int c, size_t n);: Copies a block of n bytes from src to destWithmemccpy(), the copying stops as soon as either of the following occurs:=> the character 'i' is first copied intostr2=> n bytes have been copied intostr2"
+     }
+]

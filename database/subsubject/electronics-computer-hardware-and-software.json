@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When referring to instruction words, a mnemonic is:",
+        "options": {
+            "A": "a short abbreviation for the operand address",
+            "B": "a short abbreviation for the operation to be performed",
+            "C": "a short abbreviation for the data word stored at the operand address",
+            "D": "shorthand for machine language"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the difference between mnemonic codes and machine codes?",
+        "options": {
+            "A": "There is no difference.",
+            "B": "Machine codes are in binary, mnemonic codes are in shorthand English.",
+            "C": "Machine codes are in shorthand English, mnemonic codes are in binary.",
+            "D": "Machine codes are in shorthand English, mnemonic codes are a high-level language."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which bus is bidirectional?",
+        "options": {
+            "A": "data bus",
+            "B": "control bus",
+            "C": "address bus",
+            "D": "multiplexed bus"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The software used to drive microprocessor-based systems is called:",
+        "options": {
+            "A": "assembly language programs",
+            "B": "firmware",
+            "C": "BASIC interpreter instructions",
+            "D": "flowchart instructions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A microprocessor unit, a memory unit, and an input/output unit form a:",
+        "options": {
+            "A": "CPU",
+            "B": "compiler",
+            "C": "microcomputer",
+            "D": "ALU"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

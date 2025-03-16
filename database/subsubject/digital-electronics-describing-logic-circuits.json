@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The format used to present the logic output for the various combinations of logic inputs to a gate is called a(n):",
+        "options": {
+            "A": "truth table.",
+            "B": "input logic function.",
+            "C": "Boolean constant.",
+            "D": "Boolean variable."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the basic difference between AHDL and VHDL?",
+        "options": {
+            "A": "ADHL is used in all PLD's.",
+            "B": "VHDL is used in all PLD's.",
+            "C": "ADHL is proprietary.",
+            "D": "VHDL is proprietary."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A small circle on the output of a logic gate is used to represent the:",
+        "options": {
+            "A": "Comparator operation.",
+            "B": "OR operation.",
+            "C": "NOT operation.",
+            "D": "AND operation."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For a three-input OR gate, with the input waveforms as shown below, which output waveform is correct?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the figures given below represents a NOR gate?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

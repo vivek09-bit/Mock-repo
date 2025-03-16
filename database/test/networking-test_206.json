@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have 10 users plugged into a hub running 10Mbps half-duplex. There is a server connected to the switch running 10Mbps half-duplex as well. How much bandwidth does each \nhost have to the server?",
+          "options": {
+               "A": "100 kbps",
+               "B": "1 Mbps",
+               "C": "2 Mbps",
+               "D": "10 Mbps"
+          },
+          "correct_answer": "D",
+          "answer_description": "Each device has 10 Mbps\tto the server."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does the commandrouterA(config)#line cons 0allow you to perform next?",
+          "options": {
+               "A": "Set the Telnet password.",
+               "B": "Shut down the router.",
+               "C": "Set your console password.",
+               "D": "Disable console connections."
+          },
+          "correct_answer": "C",
+          "answer_description": "The commandline console 0places you at a prompt where you can then set your console user-mode password."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many broadcast domains are created when you segment a network with a 12-port switch?",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "5",
+               "D": "12"
+          },
+          "correct_answer": "A",
+          "answer_description": "By default, switches break up collision domains but are one large broadcast domain."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following services use UDP?DHCPSMTPSNMPFTPHTTPTFTP",
+          "options": {
+               "A": "1, 3 and 6",
+               "B": "2 and 4",
+               "C": "1, 2 and 4",
+               "D": "All of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "DHCP, SNMP, and TFTP use UDP."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?",
+          "options": {
+               "A": "Application",
+               "B": "Host-to-Host",
+               "C": "Internet",
+               "D": "Network Access"
+          },
+          "correct_answer": "B",
+          "answer_description": "The four layers of the TCP/IP stack (also called the DoD model) are Application/Process, Host-to-Host, Internet, and Network Access. The Host-to-Host layer is equivalent to the Transport layer of the OSI model."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If an Ethernet port on a router were assigned an IP address of 172.16.112.1/25, what would be the valid subnet address of this host?",
+          "options": {
+               "A": "172.16.112.0",
+               "B": "172.16.0.0",
+               "C": "172.16.96.0",
+               "D": "172.16.255.0"
+          },
+          "correct_answer": "A",
+          "answer_description": "A /25 mask is 255.255.255.128. Used with a Class B network, the third and fourth octets are used for subnetting with a total of 9 subnet bits, 8 bits in the third octet and 1 bit in the fourth octet. Since there is only 1 bit in the fourth octet, the bit is either off or on-which is a value of 0 or 128. The host in the question is in the 0 subnet, which has a broadcast address of 127 since 128 is the next subnet."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Your router has the following IP address on Ethernet0: 172.16.2.1/23. Which of the following can be valid host IDs on the LAN interface attached to the router?172.16.1.100172.16.1.198172.16.2.255172.16.3.0",
+          "options": {
+               "A": "1 only",
+               "B": "2 and 3 only",
+               "C": "3 and 4 only",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "The router's IP address on the E0 interface is 172.16.2.1/23, which is 255.255.254.0. This makes the third octet a block size of 2. The router's interface is in the 2.0 subnet, and the broadcast address is 3.255 because the next subnet is 4.0. The valid host range is 2.1 through 3.254. The router is using the first valid host address in the range."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want to totally reinitialize the router and replace the current running-config with the current startup-config. What command will you use?",
+          "options": {
+               "A": "replace run start",
+               "B": "copy run start",
+               "C": "copy start run",
+               "D": "reload"
+          },
+          "correct_answer": "D",
+          "answer_description": "To completely replace the running-config with the startup-config, you must reload the router. Note : You may have picked option C, which isn't a bad answer. Remember, though, it doesn't replace the configuration, it appends it."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Network 206.143.5.0 was assigned to the Acme Company to connect to its ISP. The administrator of Acme would like to configure one router with the commands to access the Internet. Which commands could be configured on the Gateway router to allow Internet access to the entire network?Gateway(config)# ip route 0.0.0.0 0.0.0.0 206.143.5.2Gateway(config)# router ripGateway(config-router)# network 206.143.5.0Gateway(config-router)# network 206.143.5.0 default",
+          "options": {
+               "A": "1 only",
+               "B": "3 only",
+               "C": "1, 2 and 4",
+               "D": "1 and 4"
+          },
+          "correct_answer": "D",
+          "answer_description": "There are actually three different ways to configure the same default route, but only two are shown in the answer. First, you can set a default route with the0.0.0.0 0.0.0.0mask and then specify the next hop, as in option A. Or you can use0.0.0.0 0.0.0.0and use the exit interface instead of the next hop. Finally, you can use option D with theip default-networkcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement is true regarding classless routing protocols?The use of discontiguous networks is not allowed.The use of variable length subnet masks is permitted.RIPv1 is a classless routing protocol.IGRP supports classless routing within the same autonomous system.RIPv2 supports classless routing.",
+          "options": {
+               "A": "1, 3 and 5",
+               "B": "3 and 4",
+               "C": "2 and 5",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Classful routing means that all hosts in the internetwork use the same mask. Classless routing means that you can use Variable Length Subnet Masks (VLSMs) and can also support discontiguous networking."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command displays RIP routing updates?",
+          "options": {
+               "A": "show ip route",
+               "B": "debug ip rip",
+               "C": "show protocols",
+               "D": "debug ip route"
+          },
+          "correct_answer": "B",
+          "answer_description": "Thedebug ip ripcommand is used to show the Internet Protocol (IP) Routing Information Protocol (RIP) updates being sent and received on the router."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A network administrator needs to configure a router with a distance-vector protocol that allows classless routing. Which of the following satisfies those requirements?",
+          "options": {
+               "A": "IGRP",
+               "B": "OSPF",
+               "C": "RIPv1",
+               "D": "EIGRP",
+               "E": "IS-IS"
+          },
+          "correct_answer": "D",
+          "answer_description": "In this question, we're calling EIGRP just plain old distance vector. EIGRP is an \"advanced\" distance-vector routing protocol, sometimes called a hybrid routing protocol because it uses the characteristics of both distance-vector and link-state routing protocols."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Your switch has a port status LED that is alternating between green and amber. What could this indicate?",
+          "options": {
+               "A": "The port is experiencing errors.",
+               "B": "The port is shut down.",
+               "C": "The port is in STP blocking mode.",
+               "D": "Nothing; this is normal."
+          },
+          "correct_answer": "A",
+          "answer_description": "When you connect to a switch port, at first the link lights are orange/amber, and then they turn green, indicating normal operation. If the link light is blinking, you have a problem."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want to run the new 802.1w on your switches. Which of the following would enable this protocol?",
+          "options": {
+               "A": "Switch(config)#spanning-tree mode rapid-pvst",
+               "B": "Switch#spanning-tree mode rapid-pvst",
+               "C": "Switch(config)#spanning-tree mode 802.1w",
+               "D": "Switch#spanning-tree mode 802.1w"
+          },
+          "correct_answer": "A",
+          "answer_description": "802.1w is the also called Rapid Spanning Tree Protocol. It is not enabled by default on Cisco switches, but it is a better STP to run since it has all the fixes that the Cisco extensions provide with 802.1d."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which circumstance are multiple copies of the same unicast frame likely to be transmitted in a switched LAN?",
+          "options": {
+               "A": "During high-traffic periods",
+               "B": "After broken links are reestablished",
+               "C": "When upper-layer protocols require high reliability",
+               "D": "In an improperly implemented redundant topology"
+          },
+          "correct_answer": "D",
+          "answer_description": "If the Spanning Tree Protocol is not running on your switches and you connect them together with redundant links, you will have broadcast storms and multiple frame copies."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is an example of a standard IP access list?",
+          "options": {
+               "A": "access-list 110 permit host 1.1.1.1",
+               "B": "access-list 1 deny 172.16.10.1 0.0.0.0",
+               "C": "access-list 1 permit 172.16.10.1 255.255.0.0",
+               "D": "access-list standard 1.1.1.1"
+          },
+          "correct_answer": "B",
+          "answer_description": "Standard IP access lists use the numbers 1-99 and 1300-1999 and filter based on source IP address only. Option C is incorrect because the mask must be in wildcard format."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You want to create a standard access list that denies the subnet of the following host: 172.16.50.172/20. Which of the following would you start your list with?",
+          "options": {
+               "A": "access-list 10 deny 172.16.48.0 255.255.240.0",
+               "B": "access-list 10 deny 172.16.0.0 0.0.255.255",
+               "C": "access-list 10 deny 172.16.64.0 0.0.31.255",
+               "D": "access-list 10 deny 172.16.48.0 0.0.15.255"
+          },
+          "correct_answer": "D",
+          "answer_description": "First, you must know that a /20 is 255.255.240.0, which is a block size of 16 in the third octet. Counting by 16s, this makes our subnet 48 in the third octet, and the wildcard for the third octet would be 15 since the wildcard is always one less than the block size."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following series of commands will restrict Telnet access to the router?",
+          "options": {
+               "A": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line con 0Lab_A(config-line)#ip access-group 10 in",
+               "B": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#access-class 10 out",
+               "C": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#access-class 10 in",
+               "D": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#ip access-group 10 in"
+          },
+          "correct_answer": "C",
+          "answer_description": "Telnet access to the router is restricted by using either a standard or extended IP access list inbound on the VTY lines of the router. The commandaccess-classis used to apply the access list to the VTY lines."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will allow you to see real-time translations on your router?",
+          "options": {
+               "A": "show ip nat translations",
+               "B": "show ip nat statistics",
+               "C": "debug ip nat",
+               "D": "clear ip nat translations *"
+          },
+          "correct_answer": "C",
+          "answer_description": "The commanddebug ip natwill show you in real time the translations occurring on your router."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the maximum distance running the lowest data rate for 802.11b?",
+          "options": {
+               "A": "About 100 feet",
+               "B": "About 175 feet",
+               "C": "About 300 feet",
+               "D": "About 350 feet"
+          },
+          "correct_answer": "D",
+          "answer_description": "The IEEE 802.11b standard provides the lowest data rate at 1Mbps, but it also has the longest distance, which is about 350 feet."
+     }
+]

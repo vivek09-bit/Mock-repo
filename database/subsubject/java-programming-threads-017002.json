@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which two of the following methods are defined in class Thread?start()wait()notify()run()terminate()",
+        "options": {
+            "A": "1 and 4",
+            "B": "2 and 3",
+            "C": "3 and 4",
+            "D": "2 and 4"
+        },
+        "correct_answer": "A",
+        "answer_description": "(1) and (4). Onlystart()andrun()are defined by theThreadclass.(2) and (3) are incorrect because they are methods of theObjectclass. (5) is incorrect because there's no such method in any thread-related class."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which three guarantee that a thread will leave the running state?yield()wait()notify()notifyAll()sleep(1000)aLiveThread.join()Thread.killThread()",
+        "options": {
+            "A": "1, 2 and 4",
+            "B": "2, 5 and 6",
+            "C": "3, 4 and 7",
+            "D": "4, 5 and 7"
+        },
+        "correct_answer": "B",
+        "answer_description": "(2) is correct becausewait()always causes the current thread to go into the object's wait pool.(5) is correct becausesleep()will always pause the currently running thread for at least the duration specified in the sleep argument (unless an interrupted exception is thrown).(6) is correct because, assuming that the thread you're callingjoin()on is alive, the thread callingjoin()will immediately block until the thread you're callingjoin()on is no longer alive.(1) is wrong, but tempting. Theyield()method is not guaranteed to cause a thread to leave the running state, although if there are runnable threads of the same priority as the currently running thread, then the current thread will probably leave the running state.(3) and (4) are incorrect because they don't cause the thread invoking them to leave the running state.(7) is wrong because there's no such method."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following will directly stop the execution of a Thread?",
+        "options": {
+            "A": "wait()",
+            "B": "notify()",
+            "C": "notifyall()",
+            "D": "exits synchronized code"
+        },
+        "correct_answer": "A",
+        "answer_description": "Option A is correct.wait()causes the current thread to wait until another thread invokes thenotify()method or thenotifyAll()method for this object.Option B is wrong.notify()- wakes up a single thread that is waiting on this object's monitor.Option C is wrong.notifyAll()- wakes up all threads that are waiting on this object's monitor.Option D is wrong. Typically, releasing a lock means the thread holding the lock (in other words, the thread currently in the synchronized method) exits the synchronized method. At that point, the lock is free until some other thread enters a synchronized method on that object. Does entering/exiting synchronized code mean that the thread execution stops? Not necessarily because the thread can still run code that is not synchronized. I think the word directly in the question gives us a clue. Exiting synchronized code does not directly stop the execution of a thread."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which method must be defined by a class implementing thejava.lang.Runnableinterface?",
+        "options": {
+            "A": "void run()",
+            "B": "public void run()",
+            "C": "public void start()",
+            "D": "void run(int priority)"
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct because in an interface all methods are abstract by default therefore they must be overridden by the implementing class. TheRunnableinterface only contains 1 method, thevoid run()method therefore it must be implemented.Option A and D are incorrect because they are narrowing the access privileges i.e. package(default) access is narrower than public access.Option C is not method in theRunnableinterface therefore it is incorrect."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which will contain the body of the thread?",
+        "options": {
+            "A": "run();",
+            "B": "start();",
+            "C": "stop();",
+            "D": "main();"
+        },
+        "correct_answer": "A",
+        "answer_description": "Option A is Correct. Therun()method to a thread is like themain()method to an application. Starting the thread causes the object's run method to be called in that separately executing thread.Option B is wrong. Thestart()method causes this thread to begin execution; the Java Virtual Machine calls the run method of this thread.Option C is wrong. Thestop()method is deprecated. It forces the thread to stop executing.Option D is wrong. Is the main entry point for an application."
+    }
+]

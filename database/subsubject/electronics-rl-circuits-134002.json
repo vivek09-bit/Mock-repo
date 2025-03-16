@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Calculate the voltage dropped across L2in the given circuit.",
+        "options": {
+            "A": "18 V",
+            "B": "6 V",
+            "C": "13.5 V",
+            "D": "0 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the magnitude of the phase angle of a 24 Vac parallelRLcircuit whenR= 45andXL= 1100?",
+        "options": {
+            "A": "0.001°",
+            "B": "2.3°",
+            "C": "87.6°",
+            "D": "89.9°"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true if the frequency decreases in the circuit in the given circuit?",
+        "options": {
+            "A": "The phase angle decreases.",
+            "B": "VRdecreases.",
+            "C": "ITdecreases.",
+            "D": "VSdecreases."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the magnitude of the phase angle between the source voltage and current when a 100 mH inductor with an inductive reactance of 6 kand a 1 kresistor are in series with a source?",
+        "options": {
+            "A": "0.1°",
+            "B": "9.0°",
+            "C": "61.0°",
+            "D": "81.0°"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is true if R1opens in the circuit in the given circuit?",
+        "options": {
+            "A": "IL2increases.",
+            "B": "ZTdecreases.",
+            "C": "VSincreases.",
+            "D": "VL1equals 0 V."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

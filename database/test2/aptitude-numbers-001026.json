@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the number 653xyis divisible by 90, then (x+y) = ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "90 = 10 x 9Clearly, 653xyis divisible by 10, soy= 0Now, 653x0 is divisible by 9.So, (6 + 5 + 3 +x+ 0) = (14 +x) is divisible by 9. So,x= 4.Hence, (x+y) = (4 + 0) = 4."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "3897 x 999 = ?",
+        "options": {
+            "A": "3883203",
+            "B": "3893103",
+            "C": "3639403",
+            "D": "3791203",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "3897 x 999= 3897 x (1000 - 1)= 3897 x 1000 - 3897 x 1= 3897000 - 3897= 3893103."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the unit digit in 7105?",
+        "options": {
+            "A": "1",
+            "B": "5",
+            "C": "7",
+            "D": "9"
+        },
+        "correct_answer": "C",
+        "answer_description": "Unit digit in 7105= Unit digit in [ (74)26x 7 ]But, unit digit in (74)26= 1Unit digit in 7105= (1 x 7) = 7"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following numbers will completely divide (461+ 462+ 463+ 464) ?",
+        "options": {
+            "A": "3",
+            "B": "10",
+            "C": "11",
+            "D": "13"
+        },
+        "correct_answer": "B",
+        "answer_description": "(461+ 462+ 463+ 464) = 461x (1 + 4 + 42+ 43) = 461x 85= 460x (4 x 85)= (460x 340), which is divisible by 10."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "106 x 106 - 94 x 94 = ?",
+        "options": {
+            "A": "2400",
+            "B": "2000",
+            "C": "1904",
+            "D": "1906",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "106 x 106 - 94 x 94= (106)2- (94)2= (106 + 94)(106 - 94)    [Ref:(a2- b2) = (a + b)(a - b)]= (200 x 12)= 2400."
+    }
+]

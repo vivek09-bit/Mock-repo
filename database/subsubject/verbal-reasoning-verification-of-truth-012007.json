@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is always in 'Sentiment'?",
+        "options": {
+            "A": "Cruelty",
+            "B": "Insight",
+            "C": "Neutrality",
+            "D": "Emotion"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Controversy always involves",
+        "options": {
+            "A": "Dislike",
+            "B": "Injustice",
+            "C": "Disagreement",
+            "D": "Passion"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is found necessarily in newspaper?",
+        "options": {
+            "A": "Date",
+            "B": "Advertisement",
+            "C": "News",
+            "D": "Editor"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

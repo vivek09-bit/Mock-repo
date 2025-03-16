@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Larger buildings may be supplied with a medium voltage electricity supply, and will required a substation or mini-sub. What is the main item of equipment contained in these?",
+        "options": {
+            "A": "Transformer",
+            "B": "Transponder",
+            "C": "Transducer",
+            "D": "Converter"
+        },
+        "correct_answer": "A",
+        "answer_description": "The transformer is used to transform a medium voltage supply to a low voltage supply, e.g. from 11 000 V to 400 V. A transformer is rated in kVA, kilo-Volt-Amps, which is a measurement of electrical power."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What was the active medium used in the first working laser ever constructed?",
+        "options": {
+            "A": "A diamond block",
+            "B": "Helium-neon gas",
+            "C": "A ruby rod",
+            "D": "Carbon dioxide gas"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theodore Maiman built the first working laser using a ruby rod while working at Hughes Research Laboratories in Malibu, California. It lased for the first time on May 16, 1960."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does EPROM stand for?",
+        "options": {
+            "A": "Electric Programmable Read Only Memory",
+            "B": "Erasable Programmable Read Only Memory",
+            "C": "Evaluable Philotic Random Optic Memory",
+            "D": "Every Person Requires One Mind"
+        },
+        "correct_answer": "B",
+        "answer_description": "A chip found in alomst every microprocessor..."
+    }
+]

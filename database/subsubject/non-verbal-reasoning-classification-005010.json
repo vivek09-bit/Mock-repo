@@ -1,0 +1,58 @@
+[
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "B",
+        "answer_description": "Each one of the figures except fig. (2), is obtained by the lateral inversion of an English alphabet."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "E",
+        "answer_description": "All others are punctuation marks."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "D",
+        "answer_description": "Only in fig. (4), the dot appears in the region common to all the three circles."
+    },
+    {
+        "direction": "Directions to SolveIn each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+        "image_path": null,
+        "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "correct_answer": "D",
+        "answer_description": "Only in fig. (4), the pin passes through a vertex of each one of the two elements."
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Assume that a particular IC has a supply voltage (Vcc) equal to +5 V andICCH= 10 mA andICCL= 23 mA. What is the power dissipation for the chip?",
+        "options": {
+            "A": "50 mW",
+            "B": "82.5 mW",
+            "C": "115 mW",
+            "D": "165 mW"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Can a 74HCMOS logic gate directly connect to a 74ALSTTL gate?",
+        "options": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the major advantage of ECL logic?",
+        "options": {
+            "A": "very high speed",
+            "B": "wide range of operating voltage",
+            "C": "very low cost",
+            "D": "very high power"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "As a general rule, the lower the value of the speed–power product, the better the device because of its:",
+        "options": {
+            "A": "long propagation delay and high power consumption",
+            "B": "long propagation delay and low power consumption"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the range of invalid TTL output voltage?",
+        "options": {
+            "A": "0.0–0.4 V",
+            "B": "0.4–2.4 V",
+            "C": "2.4–5.0 V",
+            "D": "0.0–5.0 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,275 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Remember, you are looking for the word that does NOT belong in the same group as the others. Sometimes, all four words seem to fit in the same group. If so, look more closely to further narrow your classification.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "two",
+               "B": "three",
+               "C": "six",
+               "D": "eight"
+          },
+          "correct_answer": "B",
+          "answer_description": "Two, six, and eight are all even numbers; three is an odd number."
+     },
+     {
+          "direction": "Direction (Q.No. 2)The words in the bottom row are related in the same way as the words in the top row. For each item, find the word that completes the bottom row of words.",
+          "image_path": null,
+          "question": "walkskipruntosspitch?",
+          "options": {
+               "A": "swerve",
+               "B": "hurl",
+               "C": "jump",
+               "D": "dance"
+          },
+          "correct_answer": "B",
+          "answer_description": "Walk, skip, and run represent a continuum of movement: Skipping is faster than walking; running is faster than skipping. Below the line, the continuum is about throwing: Pitch is faster than toss; hurl is faster than pitch."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+          "image_path": null,
+          "question": "Peoplespeculatewhen they consider a situation and assume something to be true based on inconclusive evidence. Which situation below is the best example of Speculation ?",
+          "options": {
+               "A": "Francine decides that it would be appropriate to wear jeans to her new office on Friday after reading about \"Casual Fridays\" in her employee handbook.",
+               "B": "Mary spends thirty minutes sitting in traffic and wishes that she took the train instead of driving.",
+               "C": "After consulting several guidebooks and her travel agent, Jennifer feels confident that the hotel she has chosen is first-rate.",
+               "D": "When Emily opens the door in tears, Theo guesses that she's had a death in her family."
+          },
+          "correct_answer": "D",
+          "answer_description": "This is the only situation in which someone makes an assumption that is not based on conclusive evidence. Choices a and c reflect situations in which assumptions are made based on evidence. In choice b, Mary is not assuming anything to be true. She is simply wishing that she'd made a different decision."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+          "image_path": null,
+          "question": "Middletown is north of Centerville.Centerville is east of Penfield.Penfield is northwest of Middletown.If the first two statements are true, the third statement is",
+          "options": {
+               "A": "true",
+               "B": "false",
+               "C": "uncertain"
+          },
+          "correct_answer": "B",
+          "answer_description": "Because the first two statements are true, Penfield is  west of Centerville and southwest of Middletown. Therefore, the third statement is false."
+     },
+     {
+          "direction": "Direction (Q.No. 5)The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.",
+          "image_path": null,
+          "question": "Fact 1:All chickens are birds.Fact 2:Some chickens are hens.Fact 3:Female birds lay eggs.If the first three statements are facts, which of the following statements must also be a fact?I:All birds lay eggs.II:Some Hens are birds.III:Some chickens are not hens.",
+          "options": {
+               "A": "I only",
+               "B": "II only",
+               "C": "II and III only",
+               "D": "None of the statements is a known fact."
+          },
+          "correct_answer": "C",
+          "answer_description": "The first statement cannot be true because only female birds lay eggs. Statement II is true because some hens are chickens and all chickens are birds. Statement III is also true because if only some chickens are hens, then some must not be hens."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Read the question carefully and choose the correct answer.",
+          "image_path": null,
+          "question": "Danielle has been visiting friends in Ridge-wood for the past two weeks. She is leaving tomorrow morning and her flight is very early. Most of her friends live fairly close to the airport. Madison lives ten miles away. Frances lives five miles away, Samantha, seven miles. Alexis is farther away than Frances, but closer than Samantha. Approximately how far away from the airport is Alexis?",
+          "options": {
+               "A": "nine miles",
+               "B": "seven miles",
+               "C": "eight miles",
+               "D": "six miles"
+          },
+          "correct_answer": "D",
+          "answer_description": "Alexis is farther away than Frances, who is five miles away, and closer than Samantha, who is seven miles away."
+     },
+     {
+          "direction": "Direction (Q.No. 7)Read the below passage carefully and answer the questions:Five cities all got more rain than usual this year. The five cities are: Last Stand, Mile City, New Town, Olliopolis, and Polberg. The cities are located in five different areas of the country: the mountains, the forest, the coast, the desert, and in a valley. The rainfall amounts were: 12 inches, 27 inches, 32 inches, 44  inches, and 65 inches.* The city in the desert got the least rain; the city in the forest got the most rain.* New Town is in the mountains.* Last Stand got more rain than Olliopolis.* Mile City got more rain than Polberg, but less rain than New Town.* Olliopolis got 44 inches of rain.* The city in the mountains got 32 inches of rain; the city on the coast got 27 inches of rain.",
+          "image_path": null,
+          "question": "Which city got the most rain?",
+          "options": {
+               "A": "Last Stand",
+               "B": "Mile City",
+               "C": "New Town",
+               "D": "Olliopolis",
+               "E": "Polberg"
+          },
+          "correct_answer": "A",
+          "answer_description": "Olliopolis got 44 inches of rain. Last Stand got more  rain than that, so it got 65 inches, which is the most."
+     },
+     {
+          "direction": "Direction (Q.No. 8)Read the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+          "image_path": null,
+          "question": "One New York publisher has estimated that 50,000 to 60,000 people in the United States want an anthology that includes the complete works of William Shakespeare. And what accounts for this renewed interest in Shakespeare? As  scholars point out, his psychological insights into both male and female characters are amazing even today.This paragraph best supports the statement that",
+          "options": {
+               "A": "Shakespeare's characters are more interesting than fictional characters today.",
+               "B": "people even today are interested in Shakespeare's work because of the characters.",
+               "C": "academic scholars are putting together an anthology of Shakespeare's work.",
+               "D": "New Yorkers have a renewed interested in the work of Shakespeare.",
+               "E": "Shakespeare was a psychiatrist as well as a playwright."
+          },
+          "correct_answer": "B",
+          "answer_description": "The last sentence in the paragraph clearly gives support for the idea that the interest in Shakespeare is due to the development of his characters. Choice a is incorrect because the writer never makes this type of comparison. Choice c is wrong because even though scholars are mentioned in the paragraph, there is no indication that the scholars are compiling the anthology. Choice d is wrong because there is no support to show that most New Yorkers are interested in this work. There is no support for choice e either."
+     },
+     {
+          "direction": "Direction (Q.No. 9)Choose the statement that is best supported by the information given in the question passage.",
+          "image_path": null,
+          "question": "The Fourth Amendment to the Constitution protects citizens against unreasonable searches and seizures. No search of a person's home or personal effects may be conducted without a written search warrant issued on probable cause. This means that a neutral judge must approve the factual basis justifying a search before it can be conducted.This paragraph best supports the statement  that the police cannot search a person's home or private papers unless they have",
+          "options": {
+               "A": "legal authorization",
+               "B": "direct evidence of a crime.",
+               "C": "read the person his or her constitutional rights.",
+               "D": "a reasonable belief that a crime has occurred.",
+               "E": "requested that a judge be present."
+          },
+          "correct_answer": "A",
+          "answer_description": "The second and third sentence combine to give support to choice a. The statement stresses that there must be a judge's approval (i.e., legal authorization) before a search can be conducted. Choices b and d are wrong because it is not enough for the police to have direct evidence or a reasonable beliefâ€”a judge must authorize the search for it to be legal. Choices c and e are not mentioned in the passage."
+     },
+     {
+          "direction": "Direction (Q.No. 10)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The government has decided to pay compensation to the tune of Rs. 1 lakh to the family members of those who are killed in railway accidents.Assumptions:The government has enough funds to meet the expenses due to compensation.There may be reduction in incidents of railway accidents in near future.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the amount of compensation must have been decided keeping in mind the monetary position of the Government. So, I is implicit. However, nothing can be said about the frequency of railway accidents in future. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 11)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The State Government has abolished the scheme of providing concessional air ticket to students.Assumptions:Students will not travel by air in future.The students who resort to travel by air can bear the expenses of air ticket.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The scheme has been abolished not to discourage the students from travelling by air but keeping in mind that the abolition of scheme won't stop them from travelling by air. So, only II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The General Administration Department has issued a circular to all the employees informing them that henceforth the employees can avail their lunch break at any of the half-hour slots between 1.00 p.m. and 2.30 p.m.Assumptions:The employees may welcome the decision and avail lunch break at different time's slots.There may not be any break in the work of the organization as the employees will have their lunch break at different time slots.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "B",
+          "answer_description": "The employees' reaction to the new decision cannot be deduced from the statement. So, I is not implicit. However, II denotes the most probable consequence of the new decision. So, II is implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:No regular funds have been provided for welfare activities in this year's budget of the factory.Assumptions:The factory does not desire to carry out welfare this year.Budgetary provision is necessary for carrying put welfare activities.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "The non-provision of funds for welfare activities in the budget clearly indicates the factory's intention to not carry out such activities in the current year. So, I is implicit. Also, welfare activities cannot be carried out in organisations without the allocation of funds for the same in the budget. So, II is also implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 14)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:A large number of people visiting India from country X have been tested positive for carrying viruses of a killer disease.Courses of Action:The government of India should immediately put a complete ban on people coming to India from country X including those Indians who are settled in country X.The government of India should immediately set up detection centres at all its airports and seaports to identify and quarantine those who are tested positive.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, the non-infected persons should not be debarred from visiting India. So, only course II follows."
+     },
+     {
+          "direction": "Direction (Q.No. 15)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:The alert villagers caught a group of dreaded dacoits armed with murderous weapons.Courses of Action:The villagers should be provided sophisticated weapons.The villagers should be rewarded for their courage and unity.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, I is not practically viable. However, villagers should be rewarded for their courage, to keep up their spirits in future. Thus, II follows."
+     },
+     {
+          "direction": "Direction (Q.No. 16)In each question below are given two statements followed by two conclusions numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts. Read the conclusion and then decide which of the given conclusions logically follows from the two given statements, disregarding commonly known facts.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:Some men are educated. Educated persons prefer small families.Conclusions:All small families are educated.Some men prefer small families.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "Since one premise is particular, the conclusion must be particular and should not contain the middle term. Thus, only II follows."
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should we scrap the system of formal education beyond graduation?Arguments:Yes. It will mean taking employment at an early date.No. It will mean lack of depth of knowledge.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, argument I is vague because at present too, many fields are open to all after graduation. However, eliminating the post-graduate courses would abolish higher and specialized studies which lead to understanding things better and deeply. So, argument II is valid."
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should Government close down loss-making public sector enterprises?Arguments:No. All employees will lose their jobs, security and earning, what would they do?Yes. In a competitive world the rule is 'survival of the fittest'.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "A",
+          "answer_description": "Closing down public-sector enterprises will definitely throw the engaged persons out of employment. So, argument I holds. Also, closing down is no solution for a loss-making enterprise. Rather, its causes of failure should be studied, analyzed and the essential reforms implemented. Even if this does not work out, the enterprise may be privatized. So, argument II is vague,"
+     },
+     {
+          "direction": "Direction (Q.Nos. 17 - 19)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should Doordarshan be given autonomous status?Arguments:Yes. It will help Doordarshan to have fair and impartial coverage of all important events.No. The coverage of events will be decided by a few who may not have healthy outlook.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, the autonomous status of the Doordarshan will be a step towards giving it independence for an impartial coverage. Autonomous status does not mean that the coverage will be decided by a few. So, only argument I holds."
+     },
+     {
+          "direction": "Direction (Q.No. 20)Each question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+          "image_path": null,
+          "question": "Statement:Should India support all the international policies of United States of America?Arguments:No. Many other powerful countries do not support the same.Yes. This is the only way to gain access to USA developmental funds.",
+          "options": {
+               "A": "Only argument I is strong",
+               "B": "Only argument II is strong",
+               "C": "Either I or II is strong",
+               "D": "Neither I nor II is strong",
+               "E": "Both I and II are strong"
+          },
+          "correct_answer": "D",
+          "answer_description": "Our country cannot support USA's policies blindly without analysis, just to gain monetary help. Also, we should not withdraw our support without considering the policies, just because some other nations have done so. So, none of the arguments holds strong."
+     }
+]

@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The iron and steel industries of which of the following  countries are almost fully dependent on imported raw materials?",
+          "options": {
+               "A": "Britain",
+               "B": "Japan",
+               "C": "Poland",
+               "D": "Germany"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The iron ore mined at Bailadila is mostly",
+          "options": {
+               "A": "haematite",
+               "B": "siderite",
+               "C": "limonite",
+               "D": "magnetic"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "India's first indigenously built submarine was",
+          "options": {
+               "A": "INS Savitri",
+               "B": "INS Shalki",
+               "C": "INS Delhi",
+               "D": "INS Vibhuti"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Rana Pratap Sagar (Rajasthan) is famous for",
+          "options": {
+               "A": "hydropower generation",
+               "B": "aluminum industry",
+               "C": "brassware",
+               "D": "sports goods"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The 2002 Commonwealth Games were held in",
+          "options": {
+               "A": "Canada",
+               "B": "UK",
+               "C": "Australia",
+               "D": "Malaysia"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following crops needs maximum water per hectare?",
+          "options": {
+               "A": "Barley",
+               "B": "Maize",
+               "C": "Sugarcane",
+               "D": "Wheat"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Sir C.V. Raman was awarded Nobel Prize for his work connected with which of the following phenomenon of radiation?",
+          "options": {
+               "A": "Scattering",
+               "B": "Diffraction",
+               "C": "Interference",
+               "D": "Polarization"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the picture is stretched or distorted up and down like a fun house mirror the circuit to adjust or repair is...?",
+          "options": {
+               "A": "Vertical",
+               "B": "Tuning",
+               "C": "Horizontal",
+               "D": "Filament"
+          },
+          "correct_answer": "A",
+          "answer_description": "Improper vertical linearity would describe this symptom."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Who created Pretty Good Privacy (PGP)?",
+          "options": {
+               "A": "Phil Zimmermann",
+               "B": "Tim Berners-Lee",
+               "C": "Marc Andreessen",
+               "D": "Ken Thompson"
+          },
+          "correct_answer": "A",
+          "answer_description": "Phil Zimmermann created the first version of PGP encryption in 1991. Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting and decrypting texts, E-mails, files, directories and whole disk partitions to increase the security of e-mail communications."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Mumps is a disease caused by",
+          "options": {
+               "A": "fungus",
+               "B": "bacterium",
+               "C": "virus",
+               "D": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Placenta is the structure formed",
+          "options": {
+               "A": "by the union of foetal and uterine tissue",
+               "B": "by foetus only",
+               "C": "by fusion of germ layers",
+               "D": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The helicopter fleet of Air Force consists of",
+          "options": {
+               "A": "Chetak",
+               "B": "Cheetah",
+               "C": "MI-8s, MI-17s, MI-26",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are the members of SAARC (South Asian Association for Regional Cooperation)?",
+          "options": {
+               "A": "Bhutan, Bangladesh, India and Pakistan",
+               "B": "Bhutan, Bangladesh, the Maldives, Nepal, India, Pakistan, Afghanistan and Sri Lanka",
+               "C": "Afghanistan, Pakistan, Thailand, Indonesia, Nepal and Sri Lanka",
+               "D": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The ratio of the weight of water vapour to the total weight of air (including the water vapor) is called",
+          "options": {
+               "A": "specific humidity",
+               "B": "mixing ratio",
+               "C": "relative humidity",
+               "D": "absolute humidity"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The sidereal month may be defined  as",
+          "options": {
+               "A": "the period in which the moon completes an orbit around the earth",
+               "B": "the period in which the moon completes an orbit around the earth and returns to the same positions in the sky",
+               "C": "the period of rotation of moon",
+               "D": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On whose name is the highest award for services to the development of cinema given?",
+          "options": {
+               "A": "Raj Kapoor",
+               "B": "Dada Saheb",
+               "C": "Meena Kumari",
+               "D": "Amitabh Bachchan"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In India the first television programme was broadcasted in",
+          "options": {
+               "A": "1959",
+               "B": "1965",
+               "C": "1976",
+               "D": "1957"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The United Nations declared 1993 as a year of the",
+          "options": {
+               "A": "disabled",
+               "B": "forests",
+               "C": "girl child",
+               "D": "indigenous people"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The United Nations Conference on Trade and Development (UNCTAD) is located at which of the following places?",
+          "options": {
+               "A": "Geneva",
+               "B": "Rome",
+               "C": "Paris",
+               "D": "Vienna"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Who suggested that most of the mass of the atom is located in the nucleus?",
+          "options": {
+               "A": "Thompson",
+               "B": "Bohr",
+               "C": "Rutherford",
+               "D": "Einstein"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

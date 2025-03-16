@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Consider the following Python code:class Square:\r\n    def __init__(self, __side_length):\r\n        self.__side_length = __side_length\r\n\r\n    def calculate_area(self):\r\n        return self.__side_length ** 2What is the purpose of the calculate_area() method?",
+        "options": {
+            "A": "To retrieve the area of the square",
+            "B": "To set a new area for the square",
+            "C": "To calculate the area of the square",
+            "D": "To expose all internal details of the class"
+        },
+        "correct_answer": "C",
+        "answer_description": "The calculate_area() method calculates and returns the area of the square, demonstrating encapsulation."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, what is the benefit of using a private variable with a double underscore prefix, such as __song_count?class MusicLibrary:\r\n    __song_count = 0\r\n\r\n    def update_count(self, count):\r\n        MusicLibrary.__song_count += count",
+        "options": {
+            "A": "It improves code maintainability by hiding implementation details",
+            "B": "It allows unrestricted access to __song_count",
+            "C": "It exposes all internal details of __song_count",
+            "D": "It creates a global variable"
+        },
+        "correct_answer": "A",
+        "answer_description": "Encapsulation with a double underscore prefix improves code maintainability by hiding the implementation details of the class attribute __song_count."
+    }
+]

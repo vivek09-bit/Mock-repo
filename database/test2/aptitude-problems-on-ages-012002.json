@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is:",
+        "options": {
+            "A": "14 years",
+            "B": "18 years",
+            "C": "20 years",
+            "D": "22 years"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the son's present age bexyears. Then, man's present age = (x+ 24) years.(x+ 24) + 2 = 2(x+ 2)x+ 26 = 2x+ 4x= 22."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's age at present?",
+        "options": {
+            "A": "16 years",
+            "B": "18 years",
+            "C": "20 years",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the ages of Kunal and Sagar 6 years ago be 6xand 5xyears respectively.Then,(6x+ 6) + 4=11(5x+ 6) + 41010(6x+ 10) = 11(5x+ 10)5x= 10x= 2.Sagar's present age = (5x+ 6) = 16 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be:",
+        "options": {
+            "A": "12 years",
+            "B": "14 years",
+            "C": "18 years",
+            "D": "20 years"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the present ages of son and father bexand (60 -x) years respectively.Then, (60 -x) - 6 = 5(x- 6)54 -x= 5x- 306x= 84x= 14.Son's age after 6 years = (x+ 6) = 20 years.."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At present, the ratio between the ages of Arun and Deepak is 4 : 3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
+        "options": {
+            "A": "12 years",
+            "B": "15 years",
+            "C": "19 and half",
+            "D": "21 years"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the present ages of Arun and Deepak be 4xyears and 3xyears respectively. Then,4x+ 6 = 264x= 20x= 5.Deepak's age = 3x= 15 years."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of  7 : 9, how old is Sachin?",
+        "options": {
+            "A": "16 years",
+            "B": "18 years",
+            "C": "28 years",
+            "D": "24.5 years",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let Rahul's age bexyears.Then, Sachin's age = (x- 7) years.x- 7=7x99x- 63 = 7x2x= 63x= 31.5Hence, Sachin's age =(x- 7) = 24.5 years."
+    }
+]

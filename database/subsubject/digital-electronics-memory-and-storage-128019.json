@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the bit storage capacity of a ROM with a 1024 × 8 organization?",
+        "options": {
+            "A": "1024",
+            "B": "2048",
+            "C": "4096",
+            "D": "8192"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is one of the basic characteristics of DRAMs?",
+        "options": {
+            "A": "DRAMs must have a constantly changing input.",
+            "B": "DRAMs must be periodically refreshed in order to be able to retain data.",
+            "C": "DRAMs have a broader \"dynamic\" storage range than other types of memories.",
+            "D": "DRAMs are simpler devices than other types of memories."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The main advantage of semiconductor RAM is its ability to:",
+        "options": {
+            "A": "retain stored data when power is interrupted or turned off",
+            "B": "be written to and read from rapidly",
+            "C": "be randomly accessed",
+            "D": "be sequentially accessed"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following describes the action of storing a bit of data in a mask ROM?",
+        "options": {
+            "A": "A 1 is stored in a bipolar cell by opening the base connection to the address line.",
+            "B": "A 0 is stored in a bipolar cell by shorting the base connection to the address line.",
+            "C": "A 1 is stored by connecting the gate of a MOS cell to the address line.",
+            "D": "A 0 is stored by connecting the gate of a MOS cell to the address line."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Address decoding for dynamic memory chip control may also be used for:",
+        "options": {
+            "A": "controlling refresh circuits",
+            "B": "read and write control",
+            "C": "chip selection and address location",
+            "D": "memory mapping"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

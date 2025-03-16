@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a basic element within the microprocessor?",
+        "options": {
+            "A": "microcontroller",
+            "B": "arithmetic-logic unit (ALU)",
+            "C": "temporary register",
+            "D": "accumulator"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many bits are used in the address bus?",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "16"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Exceptions to the 8085 microprocessor normal operation are called:",
+        "options": {
+            "A": "jump instructions",
+            "B": "decoding",
+            "C": "interrupts",
+            "D": "jump instructions or interrupts"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

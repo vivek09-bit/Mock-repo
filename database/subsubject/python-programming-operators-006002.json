@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which operator is used for concatenating two strings?",
+        "options": {
+            "A": "+",
+            "B": "~",
+            "C": ".",
+            "D": "|"
+        },
+        "correct_answer": "A",
+        "answer_description": "The+operator in Python is used for concatenating two strings. For example,\"Hello \"+\"World\"will result in\"Hello World\"."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which operator is used for performing logical AND operation?",
+        "options": {
+            "A": "&&",
+            "B": "&",
+            "C": "||",
+            "D": "|"
+        },
+        "correct_answer": "B",
+        "answer_description": "The&operator in Python is used for performing logical AND operation on two operands. For example,1 & 0will result in 0 as the output."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code?num1 = 10\r\nnum2 = 20\r\nnum3 = 30\r\nresult = num1 < num2 and num3 > num2\r\n\r\nprint(result)",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "None",
+            "D": "Error"
+        },
+        "correct_answer": "A",
+        "answer_description": "In the code, the logical operator and is used to combine two conditions. The first conditionnum1 < num2isTrue, and the second conditionnum3 > num2is alsoTrue. So, the overall result isTrue."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which logical operator is used for the \"exclusive or\" (XOR)?",
+        "options": {
+            "A": "and",
+            "B": "or",
+            "C": "not",
+            "D": "^"
+        },
+        "correct_answer": "D",
+        "answer_description": "The^operator is used for the XOR (exclusive or) operation in Python.For example:True ^ True   # False\nTrue ^ False  # True\nFalse ^ True  # True\nFalse ^ False # FalseThe other optionsand, or, notare logical AND, OR,  NOT operators respectively."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following code?x = True\r\ny = False\r\nresult = not x or y\r\n\r\nprint(result)",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "None",
+            "D": "Error"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thenotoperator is used to negate the value of a boolean expression. In the code,not xmeans notTrue, which isFalse. Theoroperator returnsTrueif at least one of the expressions isTrue. So, the expressionnot xorybecomesFalseorFalse, which evaluates toFalse."
+    }
+]

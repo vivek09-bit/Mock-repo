@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does the@propertydecorator differ from regular methods in a Python class?",
+        "options": {
+            "A": "It defines a read-only property without a setter method",
+            "B": "It marks a method as a class method",
+            "C": "It is used to create private methods",
+            "D": "It enables dynamic method invocation"
+        },
+        "correct_answer": "A",
+        "answer_description": "The@propertydecorator is used to define read-only properties in a class. It allows you to access a method as an attribute without the need for explicit getter methods. However, it doesn't provide a setter method, making the property read-only."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following decorators is used to cache the result of a function to improve performance?",
+        "options": {
+            "A": "@staticmethod",
+            "B": "@property",
+            "C": "@functools.lru_cache",
+            "D": "@classmethod"
+        },
+        "correct_answer": "C",
+        "answer_description": "The@functools.lru_cachedecorator is used to cache the result of a function with the least recently used (LRU) strategy, improving the performance by avoiding redundant calculations."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the@wrapsdecorator do?",
+        "options": {
+            "A": "Marks a method as a static method",
+            "B": "Provides a way to document and maintain the original function's metadata",
+            "C": "Converts a method to a class method",
+            "D": "Indicates a method is an instance method"
+        },
+        "correct_answer": "B",
+        "answer_description": "The@wrapsdecorator is used to preserve the original metadata of a function, including its name, docstring, and other attributes, when creating a wrapper or decorator."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which built-in decorator is used to enforce that a function is only called once?",
+        "options": {
+            "A": "@staticmethod",
+            "B": "@functools.lru_cache",
+            "C": "@functools.singledispatch",
+            "D": "@functools.singledispatchmethod"
+        },
+        "correct_answer": "C",
+        "answer_description": "The@functools.singledispatchdecorator is used to define a single-dispatch generic function, ensuring that the function is only called once for a particular type."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens when you use the@classmethoddecorator on a method in a Python class?",
+        "options": {
+            "A": "Marks the method as a static method",
+            "B": "Converts the method to a class method",
+            "C": "Indicates the method is an instance method",
+            "D": "Decorates the method with dynamic behavior"
+        },
+        "correct_answer": "B",
+        "answer_description": "The@classmethoddecorator is used to convert a method into a class method, allowing it to access and modify class-level attributes, rather than instance-level attributes."
+    }
+]

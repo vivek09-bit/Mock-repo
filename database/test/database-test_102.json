@@ -1,0 +1,238 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Applications are programs that interact directly with the database.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the original purpose of SQL?",
+          "options": {
+               "A": "To specify the syntax and semantics of SQL data definition language",
+               "B": "To specify the syntax and semantics of SQL manipulation language",
+               "C": "To define the data structures",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The format SELECT-FROM-WHERE is the fundamental framework of SQL SELECT statements.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If attributes A and B determine attribute C, then it is also true that:",
+          "options": {
+               "A": "A → C.",
+               "B": "B → C.",
+               "C": "(A,B) is a composite determinant.",
+               "D": "C is a determinant."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The primary key is selected from the:",
+          "options": {
+               "A": "composite keys.",
+               "B": "determinants.",
+               "C": "candidate keys.",
+               "D": "foreign keys."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "We have normalized a table into BCNF if all candidate keys are determinants.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A ternary relationship is so called because in contains two entities and one association between them.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following data constraints would be used to specify that the value of a cell in one column must be less than the value of a cell in another column in the same row of the same table?",
+          "options": {
+               "A": "A domain constraint",
+               "B": "A range constraint",
+               "C": "An intrarelation constraint",
+               "D": "An interrelation constraint"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The data model produced from the reverse engineering process is a true logical model.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The left-leaning slash tells Oracle to execute whatever statement is in the buffer.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Sequences guarantee valid surrogate key values.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the three possible types of triggers does SQL Server support?",
+          "options": {
+               "A": "INSTEAD OF only",
+               "B": "AFTER only",
+               "C": "BEFORE only",
+               "D": "INSTEAD OF and AFTER only"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following refers to the SQL Server transaction isolation level which places and holds locks on all rows that are read?",
+          "options": {
+               "A": "REPEATABLE READ",
+               "B": "SERIALIZABLE",
+               "C": "READ COMMITTED",
+               "D": "READ UNCOMMITTED"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Most operational databases can be used for many BI applications.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A supertype/subtype hierarchy is which of the following?",
+          "options": {
+               "A": "Each subtype has only one attribute.",
+               "B": "Each supertype has only one attribute.",
+               "C": "Each subtype has only one supertype.",
+               "D": "Each supertype has only one subtype."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The entity integrity rule states that:",
+          "options": {
+               "A": "no primary key attribute may be null.",
+               "B": "no primary key can be composite.",
+               "C": "no primary key may be unique.",
+               "D": "no primary key may be equal to a value in a foreign key."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A null value is assigned when no other value applies.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Symmetric multiprocessing (SMP) architectures are useful for situations where data must remain in memory during processing to achieve the desired performance level.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A method defines the form or protocol of the operation, but not its implementation.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An aggregation is a stronger form of association relationship and is represented with a solid diamond at the aggregate end.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

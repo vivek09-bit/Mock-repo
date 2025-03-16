@@ -1,0 +1,44 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following can't be the square of natural number ?",
+        "options": {
+            "A": "30976",
+            "B": "75625",
+            "C": "28561",
+            "D": "143642",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "The square of a natural number nerver ends in 2.143642 is not the square of natural number."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(1000)9÷ 1024= ?",
+        "options": {
+            "A": "10000",
+            "B": "1000",
+            "C": "100",
+            "D": "10",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Given Exp. =(1000)9=(103)9=(10)27= 10(27-24)= 103= 1000102410241024"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "{(476 + 424)2- 4 x 476 x 424} = ?",
+        "options": {
+            "A": "2906",
+            "B": "3116",
+            "C": "2704",
+            "D": "2904",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Given Exp.= [(a+b)2- 4ab], wherea= 476 andb= 424= [(476 + 424)2- 4 x 476 x 424]= [(900)2- 807296]= 810000 - 807296= 2704."
+    }
+]

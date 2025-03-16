@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For a 4-bit parallel adder, if the carry-in is connected to a logical HIGH, the result is:",
+        "options": {
+            "A": "the same as if the carry-in is tied LOW since the least significant carry-in is ignored.",
+            "B": "that carry-out will always be HIGH.",
+            "C": "a one will be added to the final result.",
+            "D": "the carry-out is ignored."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the first thing you will need if you are going to use a macrofunction?",
+        "options": {
+            "A": "A complicated design project",
+            "B": "An experienced design engineer",
+            "C": "Good documentation",
+            "D": "Experience in HDL"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Perform subtraction on each of the following binary numbers by taking the two's-complement of the number being subtracted and then adding it to the first number.01001        0110000011        00111",
+        "options": {
+            "A": "01100    10011",
+            "B": "00110    00101",
+            "C": "10110    10101",
+            "D": "00111    00100"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Solving –11 + (–2) will yield which two's-complement answer?",
+        "options": {
+            "A": "1110 1101",
+            "B": "1111 1001",
+            "C": "1111 0011",
+            "D": "1110 1001"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Multiply the following binary numbers.101010111001×0011×0111×1010",
+        "options": {
+            "A": "0001  1110    0100  1101    0101  1011",
+            "B": "0001  1110    0100  1100    0101  1010",
+            "C": "0001  1110    0100  1101    0101  1010",
+            "D": "0001  1101    0100  1101    0101  1010"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

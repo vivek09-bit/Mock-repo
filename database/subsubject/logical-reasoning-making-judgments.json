@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveEach question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+        "image_path": null,
+        "question": "Eileen is planning a special birthday dinner for her husband's 35th birthday. She wants the evening to be memorable, but her husband is a simple man who would rather be in jeans at a baseball game than in a suit at a fancy restaurant. Which restaurant below should Eileen choose?",
+        "options": {
+            "A": "Alfredo's offers fine Italian cuisine and an elegant Tuscan decor. Patrons will feel as though they've spent the evening in a luxurious Italian villa.",
+            "B": "Pancho's Mexican Buffet is an all-you-can-eat family style smorgasbord with the best tacos in town.",
+            "C": "The Parisian Bistro is a four-star French restaurant where guests are treated like royalty. Chef Dilbert Olay is famous for his beef bourguignon.",
+            "D": "Marty's serves delicious, hearty meals in a charming setting reminiscent of a baseball clubhouse in honor of the owner,Marty Lester, a former major league baseball all-star."
+        },
+        "correct_answer": "D",
+        "answer_description": "Since Eileen's husband does not enjoy fancy restaurants, choices a and c can be ruled out. Choice b, although casual, doesn't sound as though it would be the kind of special and memorable evening that Eileen is looking for. Choice d, which is owned by a former baseball star  and is described as \"charming\" and \"reminiscent of a baseball clubhouse\", sounds perfect for Eileen's husband, who is described as a baseball fan and a man with simple tastes."
+    },
+    {
+        "direction": "Directions to SolveEach question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+        "image_path": null,
+        "question": "The film director wants an actress for the lead role of Lucy who perfectly fits the description that appears in the original screenplay. He is not willing to consider actresses who do not resemble the character as she is described in the screenplay, no matter how talented they are. The screenplay describes Lucy as an average-sized, forty  something redhead, with deep brown eyes, very fair skin, and a brilliant smile. The casting agent has four actresses in mind.Actress #1is a stunning red-haired beauty who is 5'9\" and in her mid-twenties. Her eyes are brown and she has an olive complexion.Actress #2has red hair, big brown eyes, and a fair complexion. She is in her mid-forties and is 5'5\".Actress #3is 5'4\" and of medium build. She has red hair, brown eyes, and is in her early forties.Actress #4is a blue-eyed redhead in her early thirties. She's of very slight build and stands at 5'.",
+        "options": {
+            "A": "1, 2",
+            "B": "2, 3",
+            "C": "1, 4",
+            "D": "2, 4"
+        },
+        "correct_answer": "B",
+        "answer_description": "Actresses #2 and #3 possess most of the required traits. They both have red hair and brown eyes, are average-sized, and are in their forties. Actress #1 is very tall and is only in her mid-twenties. She also has an olive complexion. Actress #4 is of very slight build and is in her early thirties. She also has blue eyes."
+    },
+    {
+        "direction": "Directions to SolveEach question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+        "image_path": null,
+        "question": "The school principal has received complaints from parents about bullying in the school yard during recess. He wants to investigate and end this situation as soon as possible, so he has asked the recess aides to watch closely. Which situation should the recess aides report to the principal?",
+        "options": {
+            "A": "A girl is sitting glumly on a bench reading a book and not interacting with her peers.",
+            "B": "Four girls are surrounding another girl and seem to have possession of her backpack.",
+            "C": "Two boys are playing a one-on-one game of basketball and are arguing over the last basket scored.",
+            "D": "Three boys are huddled over a handheld video game, which isn't supposed to be on school grounds."
+        },
+        "correct_answer": "B",
+        "answer_description": "Seeing four girls surrounding another girl, while in possession of her backpack, is the most suspicious of the incidents described."
+    },
+    {
+        "direction": "Directions to SolveEach question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+        "image_path": null,
+        "question": "Mrs. Carson took a taxi to meet her three friends for lunch. They were waiting for her outside the restaurant when she pulled up in the car. She was so excited to see her friends that she left her tote bag in the taxi. As the taxi pulled away, she and her friends took notice of the license plate number so they would be able to identify the car when they called the taxi company.#1: The four women seem to agree that the plate starts out with the letter J.#2: Three of them agree that the plate ends with 12L.#3: Three of them think that the second letter is X, and a different three think that the third letter is K.The four license plate numbers below represent what each of the four women thinks she saw. Which one is most likely the license plate number of the taxi?",
+        "options": {
+            "A": "JXK 12L",
+            "B": "JYK 12L",
+            "C": "JXK 12I",
+            "D": "JXX 12L"
+        },
+        "correct_answer": "A",
+        "answer_description": "The four women seem to agree that the plate starts out with the letter J. Three of them agree that the plate ends with 12L. Three of them think that the second letter is X, and a different three think that the third letter is K. The plate description that has all of these common elements  is\"Option A\"."
+    },
+    {
+        "direction": "Directions to SolveEach question presents a situation and asks you to make a judgment regarding that particular circumstance. Choose an answer based on given information.",
+        "image_path": null,
+        "question": "Zachary has invited his three buddies over to watch the basketball game on his wide-screen television. They are all hungry, but no one wants to leave to get food. Just as they are arguing about who should make the food run, a commercial comes on for a local pizze-ria that delivers. The phone number flashes on the screen briefly and they all try to remember it. By the time Zachary grabs a pen and paper, each of them recollects a different number.#1: All of the men agree that the first three numbers are 995.#2: Three of them agree that the fourth number is 9.#3: Three agree that the fifth number is 2.#4: Three agree that the sixth number is 6; three others agree that the seventh number is also 6.Which of the numbers is most likely the telephone number of the pizzeria?",
+        "options": {
+            "A": "995-9266",
+            "B": "995-9336",
+            "C": "995-9268",
+            "D": "995-8266"
+        },
+        "correct_answer": "A",
+        "answer_description": "All of the men agree that the first three numbers are  995. Three of them agree that the fourth number is 9. Three agree that the fifth number is 2. Three agree that the sixth number is 6; three others agree that the seventh number is also 6.\"Option A\"is the best choice because it is made up  of the numbers that most of the men agree they saw."
+    }
+]

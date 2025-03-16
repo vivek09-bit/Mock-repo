@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can the active condition (HIGH or LOW) or the decoder output be determined from the logic symbol?",
+        "options": {
+            "A": "A bubble indicates active-HIGH.",
+            "B": "A bubble indicates active-LOW.",
+            "C": "A square indicates active-HIGH.",
+            "D": "A square indicates active-LOW."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If two inputs are active on a priority encoder, which will be coded on the output?",
+        "options": {
+            "A": "the higher value",
+            "B": "the lower value",
+            "C": "neither of the inputs",
+            "D": "both of the inputs"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A circuit that responds to a specific set of signals to produce a related digital signal output is called a(n):",
+        "options": {
+            "A": "BCD matrix",
+            "B": "display driver",
+            "C": "encoder",
+            "D": "decoder"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 74184 BCD-to-binary converters would be required to convert two complete BCD digits to a binary number?",
+        "options": {
+            "A": "8",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many select lines would be required for an 8-line-to-1-line multiplexer?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "8"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

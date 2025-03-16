@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ratio of width of our National flag to its length is",
+        "options": {
+            "A": "3:5",
+            "B": "2:3",
+            "C": "2:4",
+            "D": "3:4"
+        },
+        "correct_answer": "B",
+        "answer_description": "The National Flag of India is a horizontal tricolour of deep saffron [kesaria] at the top, white in the middle & dark green at the bottom in equal proportion. The ratio of width of the flag to its length is 2 to 3. In the centre of the white band of the Indian National Flag, there is a navy blue wheel which represents the chakra. Its design is that of the wheel which appears on the abacus of the Sarnath Lion Capital of Ashoka. Its diameter comes close to the width of the white band & it has twenty four spokes. The design of the National Flag of India was adopted by the Constituent Assembly of India on 22 July 1947."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rabindranath Tagore's 'Jana Gana Mana' has been adopted as India's National Anthem. How many stanzas of the said song were adopted?",
+        "options": {
+            "A": "Only the first stanza",
+            "B": "The whole song",
+            "C": "Third and Fourth stanza",
+            "D": "First and Second stanza"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'Natya - Shastra' the main source of India's classical dances was written by",
+        "options": {
+            "A": "Nara Muni",
+            "B": "Bharat Muni",
+            "C": "Abhinav Gupt",
+            "D": "Tandu Muni"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'Dandia' is a popular dance of",
+        "options": {
+            "A": "Punjab",
+            "B": "Gujarat",
+            "C": "Tamil Nadu",
+            "D": "Maharashtra"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The words 'Satyameva Jayate' inscribed below the base plate of the emblem of India are taken from",
+        "options": {
+            "A": "Rigveda",
+            "B": "Satpath Brahmana",
+            "C": "Mundak Upanishad",
+            "D": "Ramayana"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

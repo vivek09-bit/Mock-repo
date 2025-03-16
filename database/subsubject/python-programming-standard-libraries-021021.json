@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which Python library is commonly used for implementing machine learning models in production and for deploying them at scale?",
+        "options": {
+            "A": "TensorFlow",
+            "B": "Scikit-learn",
+            "C": "Tkinter",
+            "D": "PyQt"
+        },
+        "correct_answer": "A",
+        "answer_description": "TensorFlow is often used for building and deploying machine learning models in production, especially in scenarios that require scalability."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which Python library is commonly used for creating desktop applications with rich graphical interfaces?",
+        "options": {
+            "A": "Flask",
+            "B": "Django",
+            "C": "Tkinter",
+            "D": "PyQt"
+        },
+        "correct_answer": "D",
+        "answer_description": "PyQt is a set of Python bindings for the Qt application framework and is commonly used for creating desktop applications with rich graphical interfaces."
+    }
+]

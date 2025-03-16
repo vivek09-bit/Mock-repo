@@ -1,0 +1,263 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which three are valid method signatures in an interface?private int getArea();public float getVol(float x);public void main(String [] args);public static void main(String [] args);boolean setFlag(Boolean [] test);",
+          "options": {
+               "A": "1 and 2",
+               "B": "2, 3 and 5",
+               "C": "3, 4, and 5",
+               "D": "2 and 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2), (3), and (5). These are all valid interface method signatures.(1), is incorrect because an interface method must bepublic; if it is not explicitly declaredpublicit will be made public implicitly. (4) is incorrect because interface methods cannot bestatic."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which cause a compiler error?",
+          "options": {
+               "A": "int[ ] scores = {3, 5, 7};",
+               "B": "int [ ][ ] scores = {2,7,6}, {9,3,45};",
+               "C": "String cats[ ] = {\"Fluffy\", \"Spot\", \"Zeus\"};",
+               "D": "boolean results[ ] = new boolean [] {true, false, true};",
+               "E": "Integer results[ ] = {new Integer(3), new Integer(5), new Integer(8)};"
+          },
+          "correct_answer": "B",
+          "answer_description": "Option B generates a compiler error: <identifier> expected. The compiler thinks you are trying to create two arrays because there are two array initialisers to the right of the equals, whereas your intention was to create one 3 x 3 two-dimensional array.To correct the problem and make option B compile you need to add an extra pair of curly brackets:int [ ] [ ] scores = { {2,7,6}, {9,3,45} };"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Super \n{ \n    public Integer getLength() \n    {\n        return new Integer(4); \n    } \n} \n\npublic class Sub extends Super \n{ \n    public Long getLength() \n    {\n        return new Long(5); \n    } \n\n    public static void main(String[] args) \n    { \n        Super sooper = new Super(); \n        Sub sub = new Sub(); \n        System.out.println( \n        sooper.getLength().toString() + \",\" + sub.getLength().toString() ); \n    } \n}",
+          "options": {
+               "A": "4, 4",
+               "B": "4, 5",
+               "C": "5, 4",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "D",
+          "answer_description": "Option D is correct, compilation fails - The return type ofgetLength( )in the super class is an object of reference type Integer and the return type in the sub class is an object of reference typeLong. In other words, it is not an override because of the change in the return type and it is also not an overload because the argument list has not changed."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        int x= 0;\n        int y= 0;\n        for (int z = 0; z < 5; z++) \n        {\n            if (( ++x > 2 ) && (++y > 2)) \n            {\n                x++;\n            }\n        }\n        System.out.println(x + \" \" + y);\n    }\n}",
+          "options": {
+               "A": "5 2",
+               "B": "5 3",
+               "C": "6 3",
+               "D": "6 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "In the first two iterationsxis incremented once andyis not because of the short circuit&&operator. In the third and forth iterationsxandyare each incremented, and in the fifth iterationxis doubly incremented andyis incremented."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?for(int i = 0; i < 3; i++) \n{ \n    switch(i) \n    { \n        case 0: break; \n        case 1: System.out.print(\"one \"); \n        case 2: System.out.print(\"two \"); \n        case 3: System.out.print(\"three \"); \n    } \n} \nSystem.out.println(\"done\");",
+          "options": {
+               "A": "done",
+               "B": "one two done",
+               "C": "one two three done",
+               "D": "one two three two three done"
+          },
+          "correct_answer": "D",
+          "answer_description": "The variable i will have the values 0, 1 and 2.Wheniis0, nothing will be printed because of the break incase 0.Wheniis1, \"one two three\" will be output becausecase 1,case 2andcase 3will be executed (they don't have break statements).Wheniis2, \"two three\" will be output becausecase 2andcase 3will be executed (again no break statements).Finally, when the for loop finishes \"done\" will be output."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?boolean bool = true; \nif(bool = false) /* Line 2 */\n{\n    System.out.println(\"a\"); \n} \nelse if(bool) /* Line 6 */\n{\n    System.out.println(\"b\"); \n} \nelse if(!bool) /* Line 10 */\n{\n    System.out.println(\"c\"); /* Line 12 */\n} \nelse \n{\n    System.out.println(\"d\"); \n}",
+          "options": {
+               "A": "a",
+               "B": "b",
+               "C": "c",
+               "D": "d"
+          },
+          "correct_answer": "C",
+          "answer_description": "Look closely at line 2, is this an equality check (==) or an assignment (=). The condition at line 2 evaluates to false and also assigns false tobool.boolis now false so the condition at line 6 is not true. The condition at line 10 checks to see ifboolis not true (if !(bool == true)), it isn't so line 12 is executed."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int i = 1, j = -1; \nswitch (i) \n{\n    case 0, 1: j = 1; /* Line 4 */\n    case 2: j = 2; \n    default: j = 0; \n} \nSystem.out.println(\"j = \" + j);",
+          "options": {
+               "A": "j = -1",
+               "B": "j = 0",
+               "C": "j = 1",
+               "D": "Compilation fails."
+          },
+          "correct_answer": "B",
+          "answer_description": "Multi-constant case labels supported from Java 14, No compilation error and output will be j=0."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class Exc0 extends Exception { } \nclass Exc1 extends Exc0 { } /* Line 2 */\npublic class Test \n{  \n    public static void main(String args[]) \n    { \n        try \n        {  \n            throw new Exc1(); /* Line 9 */\n        } \n        catch (Exc0 e0) /* Line 11 */\n        {\n            System.out.println(\"Ex0 caught\"); \n        } \n        catch (Exception e) \n        {\n            System.out.println(\"exception caught\");  \n        } \n    } \n}",
+          "options": {
+               "A": "Ex0caught",
+               "B": "exception caught",
+               "C": "Compilation fails because of an error at line 2.",
+               "D": "Compilation fails because of an error at line 9."
+          },
+          "correct_answer": "A",
+          "answer_description": "An exceptionExc1is thrown and is caught by the catch statement on line 11. The code is executed in this block. There is no finally block of code to execute."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class MyProgram \n{\n    public static void throwit() \n    {\n        throw new RuntimeException();\n    }\n    public static void main(String args[])\n    {\n        try \n        {\n            System.out.println(\"Hello world \");\n            throwit();\n            System.out.println(\"Done with try block \");\n        }\n        finally \n        {\n            System.out.println(\"Finally executing \");\n        }\n    }\n}which answer most closely indicates the behavior of the program?",
+          "options": {
+               "A": "The program will not compile.",
+               "B": "The program will print Hello world, then will print that aRuntimeExceptionhas occurred, then will print Done with try block, and then will print Finally executing.",
+               "C": "The program will print Hello world, then will print that aRuntimeExceptionhas occurred, and then will print Finally executing.",
+               "D": "The program will print Hello world, then will print Finally executing, then will print that aRuntimeExceptionhas occurred."
+          },
+          "correct_answer": "D",
+          "answer_description": "Once the program throws aRuntimeException(in thethrowit()method) that is not caught, the finally block will be executed and the program will be terminated. If a method does not handle an exception, the finally block is executed before the exception is propagated."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which interface provides the capability to store objects using a key-value pair?",
+          "options": {
+               "A": "Java.util.Map",
+               "B": "Java.util.Set",
+               "C": "Java.util.List",
+               "D": "Java.util.Collection"
+          },
+          "correct_answer": "A",
+          "answer_description": "An object that maps keys to values. A map cannot contain duplicate keys; each key can map to at most one value."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements about thehashcode()method are incorrect?The value returned byhashcode()is used in some collection classes to help locate objects.Thehashcode()method is required to return a positiveintvalue.Thehashcode()method in theStringclass is the one inherited fromObject.Two new empty String objects will produce identical hashcodes.",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "3 and 4",
+               "D": "1 and 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "(2) is an incorrect statement because there is no such requirement.(3) is an incorrect statement and therefore a correct answer because the hashcode for a string is computed from the characters in the string."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class TestObj \n{\n    public static void main (String [] args) \n    {\n        Object o = new Object() /* Line 5 */\n        {\n            public boolean equals(Object obj) \n            {\n                return true;\n            } \n        }      /* Line 11 */\n        \n        System.out.println(o.equals(\"Fred\"));\n    }\n}",
+          "options": {
+               "A": "It prints \"true\".",
+               "B": "It prints \"Fred\".",
+               "C": "An exception occurs at runtime.",
+               "D": "Compilation fails"
+          },
+          "correct_answer": "D",
+          "answer_description": "This code would be legal if line 11 ended with a semicolon. Remember that line 5 is a statement that doesn't end until line 11, and a statement needs a closing semicolon!"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following will directly stop the execution of a Thread?",
+          "options": {
+               "A": "wait()",
+               "B": "notify()",
+               "C": "notifyall()",
+               "D": "exits synchronized code"
+          },
+          "correct_answer": "A",
+          "answer_description": "Option A is correct.wait()causes the current thread to wait until another thread invokes thenotify()method or thenotifyAll()method for this object.Option B is wrong.notify()- wakes up a single thread that is waiting on this object's monitor.Option C is wrong.notifyAll()- wakes up all threads that are waiting on this object's monitor.Option D is wrong. Typically, releasing a lock means the thread holding the lock (in other words, the thread currently in the synchronized method) exits the synchronized method. At that point, the lock is free until some other thread enters a synchronized method on that object. Does entering/exiting synchronized code mean that the thread execution stops? Not necessarily because the thread can still run code that is not synchronized. I think the word directly in the question gives us a clue. Exiting synchronized code does not directly stop the execution of a thread."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which class or interface defines thewait(),notify(),andnotifyAll()methods?",
+          "options": {
+               "A": "Object",
+               "B": "Thread",
+               "C": "Runnable",
+               "D": "Class"
+          },
+          "correct_answer": "A",
+          "answer_description": "TheObjectclass defines these thread-specific methods.Option B, C, and D are incorrect because they do not define these methods. And yes, the Java API does define a class calledClass, though you do not need to know it for the exam."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?public class ThreadDemo \n{ \n    private int count = 1; \n    public synchronized void doSomething() \n    { \n        for (int i = 0; i < 10; i++) \n            System.out.println(count++); \n    } \n    public static void main(String[] args) \n    { \n        ThreadDemo demo = new ThreadDemo(); \n        Thread a1 = new A(demo); \n        Thread a2 = new A(demo); \n        a1.start(); \n        a2.start(); \n    } \n} \nclass A extends Thread \n{ \n    ThreadDemo demo; \n    public A(ThreadDemo td) \n    { \n        demo = td; \n    } \n    public void run() \n    { \n        demo.doSomething(); \n    } \n}",
+          "options": {
+               "A": "It will print the numbers 0 to 19 sequentially",
+               "B": "It will print the numbers 1 to 20 sequentially",
+               "C": "It will print the numbers 1 to 20, but the order cannot be determined",
+               "D": "The code will not compile."
+          },
+          "correct_answer": "B",
+          "answer_description": "You have two different threads that share one reference to a common object.The updating and output takes place inside synchronized code.One thread will run to completion printing the numbers 1-10.The second thread will then run to completion printing the numbers 11-20."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which two can be used to create a new Thread?Extendjava.lang.Threadand override therun()method.Extendjava.lang.Runnableand override thestart()method.Implementjava.lang.Threadand implement therun()method.Implementjava.lang.Runnableand implement therun()method.Implementjava.lang.Threadand implement thestart()method.",
+          "options": {
+               "A": "1 and 2",
+               "B": "2 and 3",
+               "C": "1 and 4",
+               "D": "3 and 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "There are two ways of creating a thread; extend (sub-class) theThreadclass and implement theRunnableinterface. For both of these ways you must implement (override and not overload) thepublic void run()method.(1) is correct - Extending the Thread class and overriding its run method is a valid procedure.(4) is correct - You must implement interfaces, and runnable is an interface and you must also include the run method.(2) is wrong - Runnable is an interface which implements not Extends. Gives the error: (No interface expected here)(3) is wrong - You cannot implementjava.lang.Thread(This is a Class). (Implements Thread, gives the error: Interface expected). Implements expects an interface.(5) is wrong - You cannot implementjava.lang.Thread(This is a class). You Extend classes, and Implement interfaces. (Implements Thread, gives the error: Interface expected)"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The following block of code creates a Thread using a Runnable target:Runnable target = new MyRunnable();\nThread myThread = new Thread(target);Which of the following classes can be used to create the target, so that the preceding code compiles correctly?",
+          "options": {
+               "A": "public class MyRunnable extends Runnable{public void run(){}}",
+               "B": "public class MyRunnable extends Object{public void run(){}}",
+               "C": "public class MyRunnable implements Runnable{public void run(){}}",
+               "D": "public class MyRunnable implements Runnable{void run(){}}"
+          },
+          "correct_answer": "C",
+          "answer_description": "The class correctly implements the Runnable interface with a legalpublic void run()method.Option A is incorrect because interfaces are not extended; they are implemented.Option B is incorrect because even though the class would compile and it has a validpublic void run()method, it does not implement theRunnableinterface, so the compiler would complain when creating a Thread with an instance of it.Option D is incorrect because therun()method must bepublic."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "public class Myfile \n{ \n    public static void main (String[] args) \n    {\n        String biz = args[1]; \n        String baz = args[2]; \n        String rip = args[3]; \n        System.out.println(\"Arg is \" + rip); \n    } \n}Select how you would start the program to cause it to print:Arg is 2",
+          "options": {
+               "A": "java Myfile 222",
+               "B": "java Myfile 1 2 2 3 4",
+               "C": "java Myfile 1 3 2 2",
+               "D": "java Myfile 0 1 2 3"
+          },
+          "correct_answer": "C",
+          "answer_description": "Arguments start at array element0so the fourth arguement must be2to produce the correct output."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?class A \n{ \n    public A(int x){} \n} \nclass B extends A { } \npublic class test \n{ \n    public static void main (String args []) \n    {\n        A a = new B(); \n        System.out.println(\"complete\"); \n    } \n}",
+          "options": {
+               "A": "It compiles and runs printing nothing",
+               "B": "Compiles but fails at runtime",
+               "C": "Compile Error",
+               "D": "Prints \"complete\""
+          },
+          "correct_answer": "C",
+          "answer_description": "No constructor has been defined forclass Btherefore it will make a call to the default constructor but sinceclass Bextendsclass Ait will also call theSuper()default constructor.Since a constructor has been defined inclass Ajava will no longer supply a default constructor forclass Atherefore whenclass Bcallsclass A's default constructor it will result in a compile error."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?int i = (int) Math.random();",
+          "options": {
+               "A": "i = 0",
+               "B": "i = 1",
+               "C": "value of i is undetermined",
+               "D": "Statement causes a compile error"
+          },
+          "correct_answer": "A",
+          "answer_description": "Math.random()returns adoublevalue greater than or equal to0and less than1. Its value is stored to anintbut as this is a narrowing conversion, a cast is needed to tell the compiler that you are aware that there may be a loss of precision.The value after the decimal point is lost when you cast adoubletointand you are left with0."
+     }
+]

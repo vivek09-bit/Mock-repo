@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Most of those who study in premier engineering colleges in India migrate to developed nations for better prospects in their professional pursuits.Courses of Action:All the students joining these colleges should be asked to sign a bond at the time of admission to the effect that they will remain in India at least for ten years after they complete education.All those students who desire to settle in the developed nations should be asked to pay entire cost of their education which the government subsidises.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, no student can be bound to live and work in the country against his wish. So, I does not follow. However, it is quite right to recover the extra benefits awarded to students if they do not serve their own country. So, II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:There is an unprecedented increase in migration of villagers to urban areas as repeated crop failure has put them into precarious financial situation.Courses of Action:The villagers should be provided with alternate source of income in their villages which will make them stay put.The migrated villagers should be provided with jobs in the urban areas to help them survive.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, increased migration would add to the burden on city's infrastructure. So, attempts should be made to make the villagers feel comfortable in the villages itself. So, only course I follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:As stated in the recent census report the female to male ratio is alarmingly low.Courses of Action:The government should conduct another census to verify the results.The government should immediately issue orders to all the departments to encourage people to improve the ratio.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "A census is always conducted with the utmost precision, leaving chances of only negligible differences. So, I does not follow. Further, the ratio can be improved by creating awareness among the masses and abolishing female foeticide. Thus, only course II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:Four districts in State A have been experiencing severe drought for the last three years resulting into exodus of people from these districts.Courses of Action:The government should immediately start food for work programme in the district to put a halt to the exodus.The government should make since efforts to provide drinking/potable water to these districts",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "The exodus can be stopped by providing the people conditions conducive to living. So, both the courses follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statement:If the retired Professors of the same Institutes are also invited to deliberate on restructuring of the organisation, their contribution may be beneficial to the Institute.Courses of Action:Management may seek opinion of the employees before calling retired professors.Management should involve experienced people for the systematic restructuring of the organisation.",
+        "options": {
+            "A": "Only I follows",
+            "B": "Only II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, the statement stresses that the contribution of retired Professors shall be beneficial. This means that these people's experience regarding working of the organisation is helpful. So, only course II follows."
+    }
+]

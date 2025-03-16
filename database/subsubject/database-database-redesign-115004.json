@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What SQL command will allow you to change the table STUDENT to add the constraint named GradeCheck that states that the values of the Grade column must be greater than 0?",
+        "options": {
+            "A": "ALTER TABLE STUDENT ALTER CONSTRAINT GradeCheck (Grade > 0);",
+            "B": "ALTER TABLE STUDENT ADD CONSTRAINT GradeCheck (Grade > 0);",
+            "C": "ALTER TABLE STUDENT ADD CONSTRAINT GradeCheck CHECK (Grade > 0);",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not true of a correlated subquery?",
+        "options": {
+            "A": "EXISTS/NOT EXISTS is a form of a correlated subquery.",
+            "B": "The processing of the SELECT statements is nested.",
+            "C": "They can be used to verify functional dependencies.",
+            "D": "They are very similar to a regular subquery."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A tool that can help designers understand the dependencies of database structures is a:",
+        "options": {
+            "A": "dependency graph.",
+            "B": "data model.",
+            "C": "graphical display.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many copies of the database schema are typically used in the redesign process?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Because of the importance of making data model changes correctly, many professionals are ________ about using an automated process for database redesign.",
+        "options": {
+            "A": "optimistic",
+            "B": "skeptical",
+            "C": "ambivalent",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

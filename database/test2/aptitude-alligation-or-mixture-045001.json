@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+        "options": {
+            "A": "13",
+            "B": "14",
+            "C": "15",
+            "D": "17"
+        },
+        "correct_answer": "C",
+        "answer_description": "Suppose the vessel initially contains 8 litres of liquid.Letxlitres of this liquid be replaced with water.Quantity of water in new mixture =3 -3x+xlitres8Quantity of syrup in new mixture =5 -5xlitres83 -3x+x=5 -5x885x+ 24 = 40 - 5x10x= 16x=8.5So, part of the mixture replaced =8x1=1.585"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:",
+        "options": {
+            "A": "Rs. 169.50",
+            "B": "Rs. 170",
+            "C": "Rs. 175.50",
+            "D": "Rs. 180"
+        },
+        "correct_answer": "C",
+        "answer_description": "Since first and second varieties are mixed in equal proportions.So, their average price = Rs.126 + 135= Rs. 130.502So, the mixture is formed by mixing two varieties, one at Rs. 130.50 per kg and the other at say, Rs.xper kg in the ratio 2 : 2,i.e.,1 : 1. We have to findx.By the rule of alligation, we have:Cost of 1 kg of 1stkindCost of 1 kg tea of 2ndkindRs. 130.50Mean PriceRs. 153Rs.x(x- 153)22.50x- 153= 122.50x- 153 = 22.50x= 175.50"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
+        "options": {
+            "A": "10",
+            "B": "20",
+            "C": "21",
+            "D": "25"
+        },
+        "correct_answer": "C",
+        "answer_description": "Suppose the can initially contains 7xand 5xof mixtures A and B respectively.Quantity of A in mixture left =7x-7x 9litres =7x-21litres.124Quantity of B in mixture left =5x-5x 9litres =5x-15litres.1247x-214=75x-15+ 94928x- 21=720x+ 219252x- 189 = 140x+ 147112x= 336x= 3.So, the can contained 21 litres of A."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk. The second contains 50% water. How much milk should he mix from each of the containers so as to get 12 litres of milk such that the ratio of water to milk is 3 : 5?",
+        "options": {
+            "A": "4 litres, 8 litres",
+            "B": "6 litres, 6 litres",
+            "C": "5 litres, 7 litres",
+            "D": "7 litres, 5 litres"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the cost of 1 litre milk be Re. 1Milk in 1 litre mix. in 1stcan =3litre, C.P. of 1 litre mix. in 1stcan Re.344Milk in 1 litre mix. in 2ndcan =1litre, C.P. of 1 litre mix. in 2ndcan Re.122Milk in 1 litre of final mix. =5litre, Mean price = Re.588By the rule of alligation, we have:C.P. of 1 litre mixture in 1stcanC.P. of 1 litre mixture in 2ndcan34Mean Price58121818Ratio of two mixtures =1:1= 1 : 1.88So, quantity of mixture taken from each can =1x 12= 6 litres.2"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
+        "options": {
+            "A": "3 : 7",
+            "B": "5 : 7",
+            "C": "7 : 3",
+            "D": "7 : 5"
+        },
+        "correct_answer": "C",
+        "answer_description": "By the rule of alligation:Cost of 1 kg pulses of 1stkindCost of 1 kg pulses of 2ndkindRs. 15Mean PriceRs. 16.50Rs. 203.501.50Required rate = 3.50 : 1.50  = 7 : 3."
+    }
+]

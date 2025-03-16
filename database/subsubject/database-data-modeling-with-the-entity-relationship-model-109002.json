@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following indicates the minimum number of entities that must be involved in a relationship?",
+        "options": {
+            "A": "Minimum cardinality",
+            "B": "Maximum cardinality",
+            "C": "ERD",
+            "D": "Greater Entity Count (GEC)"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following refers to something that can be identified in the users' work environment, something that the users want to track?",
+        "options": {
+            "A": "Entity",
+            "B": "Attribute",
+            "C": "Identifier",
+            "D": "Relationship"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which of the following is a single-entity instance of one type related to many entity instances of another type?",
+        "options": {
+            "A": "One-to-One Relationship",
+            "B": "One-to-Many Relationship",
+            "C": "Many-to-Many Relationship",
+            "D": "Composite Relationship"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following refers to an entity in which the identifier of one entity includes the identifier of another entity?",
+        "options": {
+            "A": "Weak entity",
+            "B": "Strong entity",
+            "C": "ID-dependent entity",
+            "D": "ID-independent entity"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which type of entity is related to two or more associated entities that each contain specialized attributes that apply to some but not all of the instances of the entity?",
+        "options": {
+            "A": "Supertype entity",
+            "B": "Subtype entity",
+            "C": "Archetype entity",
+            "D": "Instance entity"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

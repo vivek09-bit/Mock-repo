@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ordinary table salt is sodium chloride. What is baking soda?",
+        "options": {
+            "A": "Potassium chloride",
+            "B": "Potassium carbonate",
+            "C": "Potassium hydroxide",
+            "D": "Sodium bicarbonate"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ozone hole refers to",
+        "options": {
+            "A": "hole in ozone layer",
+            "B": "decrease in the ozone layer in troposphere",
+            "C": "decrease in thickness of ozone layer in stratosphere",
+            "D": "increase in the thickness of ozone layer in troposphere"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Pine, fir, spruce, cedar, larch and cypress are the famous timber-yielding plants of which several also occur widely in the hilly regions of India. All these belong to",
+        "options": {
+            "A": "angiosperms",
+            "B": "gymnosperms",
+            "C": "monocotyledons",
+            "D": "dicotyledons"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Pollination is best defined as",
+        "options": {
+            "A": "transfer of pollen from anther to stigma",
+            "B": "germination of pollen grains",
+            "C": "growth of pollen tube in ovule",
+            "D": "visiting flowers by insects"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Plants receive their nutrients mainly from",
+        "options": {
+            "A": "chlorophyll",
+            "B": "atmosphere",
+            "C": "light",
+            "D": "soil"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

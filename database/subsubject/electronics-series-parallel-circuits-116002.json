@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a Wheatstone bridge is in a balanced condition, the center voltmeter in the bridge will read:",
+        "options": {
+            "A": "twice the source voltage",
+            "B": "the same as the source voltage",
+            "C": "zero volts",
+            "D": "half the source voltage"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When a load is connected to a voltage divider, the total resistance of the circuit will:",
+        "options": {
+            "A": "decrease",
+            "B": "double",
+            "C": "increase",
+            "D": "remain the same"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "With 21 V applied, if R1= 5 ohms, R2= 35 ohms, and R3= 14 ohms, what is the current of R2if R1is series connected with parallel circuit R2and R3?",
+        "options": {
+            "A": "200 mA",
+            "B": "800 mA",
+            "C": "600 mA",
+            "D": "400 mA"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total resistance of a circuit when R1(7 k) is in series with a parallel combination of R2(20 k), R3(36 k), and R4(45 k)?",
+        "options": {
+            "A": "4 k",
+            "B": "17 k",
+            "C": "41 k",
+            "D": "108 k"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the load in the given circuit is 80 k, what is thebleeder current?",
+        "options": {
+            "A": "196A",
+            "B": "1.96 mA",
+            "C": "2 mA",
+            "D": "2.16 mA"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

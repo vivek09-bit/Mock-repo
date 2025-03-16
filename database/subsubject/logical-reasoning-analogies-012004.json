@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Artist is to painting as senator is to",
+        "options": {
+            "A": "attorney",
+            "B": "law",
+            "C": "politician",
+            "D": "constituents"
+        },
+        "correct_answer": "B",
+        "answer_description": "An artist makes paintings; a senator makes laws. The  answer is not choice a because an attorney does not make laws and a senator is not an attorney. Choice c is incorrect because a senator is not a politician. Constituents (choice d) is also incorrect because a senator serves his or her constituents."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Exercise is to gym as eating is to",
+        "options": {
+            "A": "food",
+            "B": "dieting",
+            "C": "fitness",
+            "D": "restaurant"
+        },
+        "correct_answer": "D",
+        "answer_description": "A gym is a place where people exercise. A restaurant  is a place where people eat. Food (choice a) is not the answer because it is something people eat, not a place or location where they eat. The answer is not  choice b or c because neither represents a place where people eat."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Candid is to indirect as honest is to",
+        "options": {
+            "A": "frank",
+            "B": "wicked",
+            "C": "truthful",
+            "D": "untruthful"
+        },
+        "correct_answer": "D",
+        "answer_description": "Candid and indirect refer to opposing traits. Honest and untruthful refer to opposing traits. The answer is not choice a because frank means the same thing as candid.Wicked (choice b) is incorrect because even though it refers to a negative trait, it does not mean the opposite of honest. (Choice c) is incorrect because truthful and honest mean the same thing."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Guide is to direct as reduce is to",
+        "options": {
+            "A": "decrease",
+            "B": "maintain",
+            "C": "increase",
+            "D": "preserve"
+        },
+        "correct_answer": "A",
+        "answer_description": "Guide and direct are synonyms, and reduce and decrease are synonyms. The answer is not choice b or d because neither means the same as reduce. (Choice c) is incorrect because increase is the opposite of reduce."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Oar is to rowboat as foot is to",
+        "options": {
+            "A": "running",
+            "B": "sneaker",
+            "C": "skateboard",
+            "D": "jumping"
+        },
+        "correct_answer": "C",
+        "answer_description": "An oar puts a rowboat into motion. A foot puts a skateboard into motion. The answer is not choice a because running is not an object that is put into motion by a foot. Sneaker (choice b) is incorrect because it is something worn on a foot. Jumping (choice d) is incorrect because although you do need feet to jump, jumping is not an object that is put into motion by means of a foot."
+    }
+]

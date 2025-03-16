@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How does Python achieve polymorphism through \"operator overloading\"?",
+        "options": {
+            "A": "By explicitly specifying data types for objects",
+            "B": "By allowing objects to take on multiple forms based on their behavior",
+            "C": "By defining custom behavior for operators in a class",
+            "D": "By using static typing to enforce object compatibility"
+        },
+        "correct_answer": "C",
+        "answer_description": "Python achieves polymorphism through operator overloading by allowing the definition of custom behavior for operators in a class, such as using methods like__add__()for the+operator."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an example of polymorphism through \"function overriding\"?",
+        "options": {
+            "A": "Defining a function with the same name but different parameters in a module",
+            "B": "Defining a function with different access modifiers in a module",
+            "C": "Defining a function with the same name in a module",
+            "D": "Defining a function with the same name but different return types in a module"
+        },
+        "correct_answer": "C",
+        "answer_description": "Polymorphism through function overriding in Python involves defining a function with the same name in a module, where a subclass provides a specific implementation for the function."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the output of the following Python code?class Animal:\r\n    def make_sound(self):\r\n        return \"Generic animal sound\"\r\n\r\nclass Dog(Animal):\r\n    def make_sound(self):\r\n        return \"Woof!\"\r\n\r\nclass Cat(Animal):\r\n    def make_sound(self):\r\n        return \"Meow!\"\r\n\r\ndef pet_sounds(animals):\r\n    for animal in animals:\r\n        print(animal.make_sound())\r\n\r\ndog = Dog()\r\ncat = Cat()\r\n\r\npet_sounds([dog, cat])",
+        "options": {
+            "A": "Generic animal sound\\nWoof!\\nMeow!",
+            "B": "Woof!\\nMeow!\\nGeneric animal sound",
+            "C": "Woof!\\nMeow!\\nMeow!",
+            "D": "Generic animal sound\\nGeneric animal sound\\nGeneric animal sound"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thepet_sounds()function demonstrates polymorphism, printing different sounds based on the specific implementations of themake_sound()method in the Dog and Cat classes."
+    }
+]

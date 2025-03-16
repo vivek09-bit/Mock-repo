@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Implementation of the Boolean expressionresults in ________.",
+        "options": {
+            "A": "three AND gates, one OR gate",
+            "B": "three AND gates, one NOT gate, one OR gate",
+            "C": "three AND gates, one NOT gate, three OR gates",
+            "D": "three AND gates, three OR gates"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One possible output expression for an AND-OR-Invert circuit having one AND gate with inputs A, B, and C and one AND gate with inputs D and E is ________.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 2-input NOR gates does it take to produce a 2-input NAND gate?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A logic circuit with an outputconsists of ________.",
+        "options": {
+            "A": "two AND gates, two OR gates, two inverters",
+            "B": "three AND gates, two OR gates, one inverter",
+            "C": "two AND gates, one OR gate, two inverters",
+            "D": "two AND gates, one OR gate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

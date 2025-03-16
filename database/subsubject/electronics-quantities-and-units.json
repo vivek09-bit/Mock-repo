@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Derived units are obtained from various combinations of",
+        "options": {
+            "A": "electrical quantities",
+            "B": "fundamental units",
+            "C": "metric prefixes",
+            "D": "international standards"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following metric prefixes could replace 10–9?",
+        "options": {
+            "A": "Nano",
+            "B": "Mega",
+            "C": "Kilo",
+            "D": "Micro"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Scientific notation is a method",
+        "options": {
+            "A": "of expressing a very large number",
+            "B": "of expressing a very small number",
+            "C": "used to make calculations with large and small numbers",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If you drop a 5 when rounding a number, you are using the",
+        "options": {
+            "A": "round-to-even rule",
+            "B": "significant digit rule",
+            "C": "round-off rule",
+            "D": "retained digit rule"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "7200 mV is the same as",
+        "options": {
+            "A": "7.2V",
+            "B": "7.2 V",
+            "C": "7,200,000 V",
+            "D": "0.0072V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

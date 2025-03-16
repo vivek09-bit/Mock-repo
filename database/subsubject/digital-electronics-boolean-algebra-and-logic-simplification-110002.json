@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One of De Morgan's theorems states that. Simply stated, this means that logically there is no difference between:",
+        "options": {
+            "A": "a NOR and an AND gate with inverted inputs",
+            "B": "a NAND and an OR gate with inverted inputs",
+            "C": "an AND and a NOR gate with inverted inputs",
+            "D": "a NOR and a NAND gate with inverted inputs"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The commutative law of Boolean addition states thatA+B=A×B.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Applying DeMorgan's theorem to the expression, we get ________.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The systematic reduction of logic circuits is accomplished by:",
+        "options": {
+            "A": "using Boolean algebra",
+            "B": "symbolic reduction",
+            "C": "TTL logic",
+            "D": "using a truth table"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which output expression might indicate a product-of-sums circuit construction?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

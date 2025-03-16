@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command will copy the IOS to a backup host on your network?",
+        "options": {
+            "A": "transfer IOS to 172.16.10.1",
+            "B": "copy run start",
+            "C": "copy start tftp",
+            "D": "copy flash tftp"
+        },
+        "correct_answer": "D",
+        "answer_description": "To copy the IOS to a backup host, which is stored in flash memory by default, use thecopy flash tftpcommand."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command loads a new version of the Cisco IOS into a router?",
+        "options": {
+            "A": "copy flash ftp",
+            "B": "copy ftp flash",
+            "C": "copy flash tftp",
+            "D": "copy tftp flash"
+        },
+        "correct_answer": "D",
+        "answer_description": "The commandcopy tftp flashwill allow you to copy a new IOS into flash memory on your router."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You are troubleshooting a connectivity problem in your corporate network and want to isolate the problem. You suspect that a router on the route to an unreachable network is at fault. What IOS user exec command should you issue?",
+        "options": {
+            "A": "Router> ping",
+            "B": "Router> trace",
+            "C": "Router> show ip route",
+            "D": "Router> show interface"
+        },
+        "correct_answer": "B",
+        "answer_description": "The commandtraceroute(trace for short), which can be issued from user mode or privileged mode, is used to find the path a packet takes through an internetwork and will also show you where the packet stops because of an error on a router."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The configuration register setting of 0x2102 provides what function to a router?",
+        "options": {
+            "A": "Tells the router to boot into ROM monitor mode",
+            "B": "Provides password recovery",
+            "C": "Tells the router to look in NVRAM for the boot sequence",
+            "D": "Boots the IOS from a TFTP server"
+        },
+        "correct_answer": "C",
+        "answer_description": "The default configuration setting of 0x2102 tells the router to look in NVRAM for the boot sequence."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You telnet to a router and make your necessary changes; now you want to end the Telnet session. What command do you type in?",
+        "options": {
+            "A": "close",
+            "B": "disable",
+            "C": "disconnect",
+            "D": "exit"
+        },
+        "correct_answer": "D",
+        "answer_description": "Since the question never mentioned anything about a suspended session, you can assume that the Telnet session is still open, and you would just typeexitto close the session."
+    }
+]

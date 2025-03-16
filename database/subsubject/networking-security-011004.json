@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following are valid ways to refer only to host 172.16.30.55 in an IP access list?172.16.30.55 0.0.0.255172.16.30.55 0.0.0.0any 172.16.30.55host 172.16.30.550.0.0.0 172.16.30.55ip any 172.16.30.55",
+        "options": {
+            "A": "1 and 4",
+            "B": "2 and 4",
+            "C": "1, 4 and 6",
+            "D": "3 and 5"
+        },
+        "correct_answer": "B",
+        "answer_description": "The wildcard 0.0.0.0 tells the router to match all four octets. This wildcard format alone can be replaced with thehostcommand."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If you wanted to deny FTP access from network 200.200.10.0 to network 200.199.11.0 but allow everything else, which of the following command strings is valid?",
+        "options": {
+            "A": "access-list 110 deny 200.200.10.0 to network 200.199.11.0 eq ftpaccess-list 111 permit ip any 0.0.0.0 255.255.255.255",
+            "B": "access-list 1 deny ftp 200.200.10.0 200.199.11.0 any any",
+            "C": "access-list 100 deny tcp 200.200.10.0 0.0.0.255 200.199.11.0 0.0.0.255 eq ftp",
+            "D": "access-list 198 deny tcp 200.200.10.0 0.0.0.255 200.199.11.0 0.0.0.255 eq ftpaccess-list 198 permit ip any 0.0.0.0 255.255.255.255"
+        },
+        "correct_answer": "D",
+        "answer_description": "Extended IP access lists use numbers 100-199 and 2000-2699 and filter based on source and destination IP address, protocol number, and port number. The last option is correct because of the second line that specifies permit ip any any. (I used 0.0.0.0 255.255.255.255, which is the same as the any option.) The third option does not have this, so it would deny access but not allow everything else."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following series of commands will restrict Telnet access to the router?",
+        "options": {
+            "A": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line con 0Lab_A(config-line)#ip access-group 10 in",
+            "B": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#access-class 10 out",
+            "C": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#access-class 10 in",
+            "D": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#ip access-group 10 in"
+        },
+        "correct_answer": "C",
+        "answer_description": "Telnet access to the router is restricted by using either a standard or extended IP access list inbound on the VTY lines of the router. The commandaccess-classis used to apply the access list to the VTY lines."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following commands connect access list 110 inbound to interface ethernet0?",
+        "options": {
+            "A": "Router(config)#ip access-group 110 in",
+            "B": "Router(config)#ip access-list 110 in",
+            "C": "Router(config-if)#ip access-group 110 in",
+            "D": "Router(config-if)#ip access-list 110 in"
+        },
+        "correct_answer": "C",
+        "answer_description": "To place an access list on an interface, use theip access-groupcommand in interface configuration mode."
+    }
+]

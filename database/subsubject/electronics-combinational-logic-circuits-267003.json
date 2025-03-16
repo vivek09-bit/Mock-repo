@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A basic multiplexer principle can be demonstrated through the use of a:",
+        "options": {
+            "A": "single-pole relay",
+            "B": "DPDT switch",
+            "C": "rotary switch",
+            "D": "linear stepper"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a BCD-to-seven-segment converter, why must a code converter be utilized?",
+        "options": {
+            "A": "No conversion is necessary.",
+            "B": "to convert the 4-bit BCD into gray code",
+            "C": "to convert the 4-bit BCD into 10-bit code",
+            "D": "to convert the 4-bit BCD into 7-bit code"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

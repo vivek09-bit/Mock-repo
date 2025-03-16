@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+        "options": {
+            "A": "Rs. 2000",
+            "B": "Rs. 2200",
+            "C": "Rs. 2400",
+            "D": "Data inadequate"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let C.P. be Rs.x.Then,1920 -xx 100 =x- 1280x 100xx1920 -x=x- 12802x= 3200x= 1600Required S.P. = 125% of Rs. 1600 = Rs.125x 1600= Rs 2000.100Video Explanation:https://youtu.be/0tTd5TwCspY"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+        "options": {
+            "A": "Rs. 18.20",
+            "B": "Rs. 70",
+            "C": "Rs. 72",
+            "D": "Rs. 88.25"
+        },
+        "correct_answer": "C",
+        "answer_description": "C.P. = Rs.100x 392= Rs.1000x 392= Rs. 320122.51225Profit = Rs. (392 - 320) = Rs. 72.Video Explanation:https://youtu.be/a36nJFgh5yk"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+        "options": {
+            "A": "Rs. 1090",
+            "B": "Rs. 1160",
+            "C": "Rs. 1190",
+            "D": "Rs. 1202"
+        },
+        "correct_answer": "C",
+        "answer_description": "S.P. = 85% of Rs. 1400 = Rs.85x 1400= Rs. 1190100Video Explanation:https://youtu.be/jn0XIafQvAc"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+        "options": {
+            "A": "3.5",
+            "B": "4.5",
+            "C": "5.6",
+            "D": "6.5"
+        },
+        "correct_answer": "C",
+        "answer_description": "Cost Price of 1 toy = Rs.375= Rs. 31.2512Selling Price of 1 toy = Rs. 33So, Gain = Rs. (33 - 31.25) = Rs. 1.75Profit % =1.75x 100%=28% = 5.6%31.255Video Explanation:https://youtu.be/MhswuvDVWzo"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+        "options": {
+            "A": "30%",
+            "B": "331%3",
+            "C": "35%",
+            "D": "44%"
+        },
+        "correct_answer": "D",
+        "answer_description": "Suppose, number of articles bought = L.C.M. of 6 and 5 = 30.C.P. of 30 articles = Rs.5x 30= Rs. 25.6S.P. of 30 articles = Rs.6x 30= Rs. 36.5Gain % =11x 100% = 44%.25"
+    }
+]

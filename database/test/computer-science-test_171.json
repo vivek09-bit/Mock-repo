@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Codes consisting of light and dark marks which may be optically read is known as",
+          "options": {
+               "A": "Mnemonics",
+               "B": "Bar code",
+               "C": "Decoder",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A compiler means",
+          "options": {
+               "A": "A person who compiles source programs",
+               "B": "The same thing as a programmer",
+               "C": "Keypunch operator",
+               "D": "A program which translates source program into object program",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is used to insure the high quality of computer output?",
+          "options": {
+               "A": "computer output microfilm",
+               "B": "output controls",
+               "C": "voice output systems",
+               "D": "liquid crystal display",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Who coordinates the sequencing of events within the central processor of a computer?",
+          "options": {
+               "A": "Logic unit",
+               "B": "Arithmetic unit",
+               "C": "Register",
+               "D": "Control unit",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A double sided magnetic disk pack has six disks. Can you tell how many surfaces of this pack are normally used?",
+          "options": {
+               "A": "10",
+               "B": "12",
+               "C": "6",
+               "D": "9",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The  equipment   with   which   the computer talks to its users is called a",
+          "options": {
+               "A": "word processor",
+               "B": "peripheral",
+               "C": "software",
+               "D": "diskette",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The computer translates the condition of each switch to a number. What number is represented by the OFF state?",
+          "options": {
+               "A": "-7",
+               "B": "-3.75",
+               "C": "1",
+               "D": "0",
+               "E": "-22"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A computer program that converts an entire program into machine language at one time is called a/an",
+          "options": {
+               "A": "interpreter",
+               "B": "simulator",
+               "C": "compiler",
+               "D": "commander",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A computer-controlled device for training exercises that duplicates the work environment is a:",
+          "options": {
+               "A": "simulator",
+               "B": "duplicator",
+               "C": "trainer",
+               "D": "COM device",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An AND gate",
+          "options": {
+               "A": "implements logic addition",
+               "B": "is     equivalent     to     a     series switching circuit",
+               "C": "is an any-or all gate",
+               "D": "is    equivalent    to    a    parallel switching circuit",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "File specification books are created primarily for the use of",
+          "options": {
+               "A": "systems analysts",
+               "B": "programmers",
+               "C": "operators",
+               "D": "managers",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the name of the chip which has more than once processor on it?",
+          "options": {
+               "A": "Parallel chip",
+               "B": "Multi-processor chip",
+               "C": "Transputer",
+               "D": "Parallel processor",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The process used to set up a programs once the system is operational is",
+          "options": {
+               "A": "Operating system",
+               "B": "Black bon",
+               "C": "Boot strap",
+               "D": "Utility",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following languages is often translated to pseudo code?",
+          "options": {
+               "A": "Assembly",
+               "B": "FORTRAN",
+               "C": "PASCAL",
+               "D": "BASIC",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which memory stores the values of variables.",
+          "options": {
+               "A": "SAM",
+               "B": "ROM",
+               "C": "RAM",
+               "D": "PROM",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Tiny rings made of magnetic material that can be polarised to represent binary 1 or 0 is called",
+          "options": {
+               "A": "Magnetic core",
+               "B": "Magnetic disk",
+               "C": "Card punch",
+               "D": "Floppy disk",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The _____ provides a path between the CPU and peripheral devices, which are connected via interface cards.",
+          "options": {
+               "A": "computer",
+               "B": "expansion bus",
+               "C": "memory",
+               "D": "CPU",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A storage area used to store data to compensate for the difference in speed at which the different units can handle data is",
+          "options": {
+               "A": "Memory",
+               "B": "Buffer",
+               "C": "Accumulator",
+               "D": "Address",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "High-level languages are not concerned with computer but with",
+          "options": {
+               "A": "Assembler",
+               "B": "Machine code",
+               "C": "Compiler",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Output hardware is often categorized according to whether it:",
+          "options": {
+               "A": "is expensive",
+               "B": "requires a large amount of electricity to work",
+               "C": "produces hardcopy or softcopy",
+               "D": "can fit on a desktop",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

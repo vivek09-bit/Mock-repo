@@ -1,0 +1,279 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What part of 192.168.10.51 is the Network ID, assuming a default subnet mask?",
+          "options": {
+               "A": "192",
+               "B": "192.168.10",
+               "C": "0.0.0.5",
+               "D": "51",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A distributed network configuration in which all  data/information pass through a central computer is",
+          "options": {
+               "A": "bus network",
+               "B": "star network",
+               "C": "ring network",
+               "D": "Point-to-point network",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is not a disadvantage of wireless LAN?",
+          "options": {
+               "A": "Slower data transmission",
+               "B": "higher error rate",
+               "C": "interference of transmissions from different computers",
+               "D": "All of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "On a class B network, how many hosts are available at each site with a subnet mask of 248?",
+          "options": {
+               "A": "16,382",
+               "B": "8,190",
+               "C": "4,094",
+               "D": "2,046",
+               "E": "1,022"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If delays are recorded as 10 bit numbers in a 50 router network, and delay vectors are exchanged twice a second, how much bandwidth per fill duplex line is occupied by the distributed routing algorithm?",
+          "options": {
+               "A": "500 bps",
+               "B": "1500 bps",
+               "C": "5 bps",
+               "D": "1000 bps"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You are working with a network that has the network ID 192.168.10.0. What subnet should you use that supports four subnets and a maximum number of hosts?",
+          "options": {
+               "A": "255.255.255.192",
+               "B": "255.255.255.224",
+               "C": "255.255.255.240",
+               "D": "255.255.255.248",
+               "E": "255.255.255.252"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The transfer of data from a CPU to peripheral devices of a computer is achieved through",
+          "options": {
+               "A": "modems",
+               "B": "computer ports",
+               "C": "interfaces",
+               "D": "buffer memory",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Four bits are used for packet sequence numbering in a sliding window protocol used in a computer network. What is the maximum window size?",
+          "options": {
+               "A": "4",
+               "B": "8",
+               "C": "15",
+               "D": "16",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Typewriter terminals can print computer-generated data at a rate of",
+          "options": {
+               "A": "10 characters per second",
+               "B": "120 characters per second",
+               "C": "120 characters per minute",
+               "D": "1200 characters per minute",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following network access standard is used for connecting stations to a circuit-switched network?",
+          "options": {
+               "A": "X.3",
+               "B": "X.21",
+               "C": "X.25",
+               "D": "X.75",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the first octet range for a class B IP address?",
+          "options": {
+               "A": "128 - 255",
+               "B": "1 - 127",
+               "C": "192 - 223",
+               "D": "128 - 191",
+               "E": "127 - 191"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In geosynchronous orbit, satellite",
+          "options": {
+               "A": "remains in a fixed position so that as earth rotates, it can fully cover the earth",
+               "B": "remains in a fixed position related to points on earth",
+               "C": "moves faster than the earth's rotation so that it can cover larger portion of earth.",
+               "D": "moves simultaneously",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following TCP/IP protocol is used for file transfer with minimal capability and minimal overhead?",
+          "options": {
+               "A": "RARP",
+               "B": "FTP",
+               "C": "TFTP",
+               "D": "TELNET",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What OSI layer handles logical address to logical name resolution?",
+          "options": {
+               "A": "Transport",
+               "B": "Physical",
+               "C": "Presentation",
+               "D": "Data Link"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have purchased a MAU (Multistation Access Unit) from your computer supplier and now must decide what type of network card you should install in the workstations. Which of the following would be the most appropriate?",
+          "options": {
+               "A": "Fast SCSI Wide",
+               "B": "Token-Ring",
+               "C": "ArcServe",
+               "D": "Ethernet",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Baseband is",
+          "options": {
+               "A": "transmission of signals without modulation",
+               "B": "a signal all of whose energy is contained within a finite frequency range",
+               "C": "the simultaneous transmission of data to a number of stations",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Synchronous protocols",
+          "options": {
+               "A": "transmit characters one at a time",
+               "B": "allow faster transmission than asynchronous protocols do",
+               "C": "are generally used by personal computers",
+               "D": "are more reliable",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Different computers are connected to a LAN by a cable and a/an",
+          "options": {
+               "A": "modem",
+               "B": "interface card",
+               "C": "special wires",
+               "D": "telephone lines",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A characteristic of a multiprogramming system is:",
+          "options": {
+               "A": "simultaneous execution of program instructions from two applications",
+               "B": "concurrent processing of two or more programs",
+               "C": "multiple CPUs",
+               "D": "All the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Modulation in which the two binary values are represented by two different amplitudes of the carrier frequency is known as",
+          "options": {
+               "A": "Amplitude-shift keying",
+               "B": "Amplitude",
+               "C": "Amplitude modulation",
+               "D": "Aloha",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

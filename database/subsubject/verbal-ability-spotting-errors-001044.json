@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "A  small baby breathes about",
+            "B": "45 times per minute while",
+            "C": "a child of about six years breathes about 25 times per minute.",
+            "D": "No error."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "I have read",
+            "B": "too many books",
+            "C": "by R . K . Narayan.",
+            "D": "No error."
+        },
+        "correct_answer": "B",
+        "answer_description": "so many books"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "He was sure",
+            "B": "that he should",
+            "C": "win the Prize.",
+            "D": "No error."
+        },
+        "correct_answer": "B",
+        "answer_description": "that he would"
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "He is",
+            "B": "too intelligent",
+            "C": "to make a mistake.",
+            "D": "No error."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveRead each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore the errors of punctuation, if any).",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "He fell from a running train",
+            "B": "and would have died",
+            "C": "if  the villagers did not get him admitted in the nearby hospital immediately.",
+            "D": "No error."
+        },
+        "correct_answer": "C",
+        "answer_description": "if the villagers had not got him immediately admitted to a nearby hospital"
+    }
+]

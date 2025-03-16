@@ -1,0 +1,184 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How does a host on an Ethernet LAN know when to transmit after a collision has occurred?In a CSMA/CD collision domain, multiple stations can successfully transmit data simultaneously.In a CSMA/CD collision domain, stations must wait until the media is not in use before transmitting.You can improve the CSMA/CD network by adding more hubs.After a collision, the station that detected the collision has first priority to resend the lost data.After a collision, all stations run a random backoff algorithm. When the backoff delay period has expired, all stations have equal priority to transmit data.",
+          "options": {
+               "A": "1 and 3",
+               "B": "2 and 4",
+               "C": "1,3 and 4",
+               "D": "2 and 5"
+          },
+          "correct_answer": "D",
+          "answer_description": "Once transmitting stations on an Ethernet segment hear a collision, they send an extended jam signal to ensure that all stations recognize the collision. After the jamming is complete, each sender waits a predetermined amount of time, plus a random time. After both timers expire, they are free to transmit, but they must make sure the media is clear before transmitting and that they all have equal priority."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You have an interface on a router with the IP address of 192.168.192.10/29. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?",
+          "options": {
+               "A": "6",
+               "B": "8",
+               "C": "30",
+               "D": "32"
+          },
+          "correct_answer": "A",
+          "answer_description": "A /29 (255.255.255.248), regardless of the class of address, has only 3 host bits. Six hosts is the maximum number of hosts on this LAN, including the router interface."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many simultaneous Telnet sessions does a Cisco router support by default?",
+          "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "Cisco routers, if they do not have the Enterprise edition of the IOS, will default to 5 simultaneous Telnet sessions."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What does the commando/r 0x2142provide?",
+          "options": {
+               "A": "It is used to restart the router.",
+               "B": "It is used to bypass the configuration in NVRAM.",
+               "C": "It is used to enter ROM Monitor mode.",
+               "D": "It is used to view the lost password."
+          },
+          "correct_answer": "B",
+          "answer_description": "The default configuration setting is0x2102, which tells the router to load the IOS from flash and the configuration from NVRAM.0x2142tells the router to bypass the configuration in NVRAM so that you can perform password recovery."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command will show you the IOS version running on your router?",
+          "options": {
+               "A": "sh IOS",
+               "B": "sh flash",
+               "C": "sh version",
+               "D": "sh running-config"
+          },
+          "correct_answer": "C",
+          "answer_description": "The best answer isshow version, which shows you the IOS file running currently on your router. Theshow flashcommand shows you the contents of flash memory, not which file is running."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which type of OSPF network will elect a backup designated router?Broadcast multi-accessNon-broadcast multi-accessPoint-to-pointBroadcast multipoint",
+          "options": {
+               "A": "1 and 2",
+               "B": "3 and 4",
+               "C": "3 only",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "DR and BDR are elected on broadcast and non-broadcast multi-access networks. Frame Relay is a non-broadcast multi-access (NBMA) network by default. No DR is assigned on any type of point-to-point link. No DR/BDR is assigned on the NBMA point-to-multipoint due to the hub/spoke topology."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement describes a spanning-tree network that has converged?",
+          "options": {
+               "A": "All switch and bridge ports are in the forwarding state.",
+               "B": "All switch and bridge ports are assigned as either root or designated ports.",
+               "C": "All switch and bridge ports are in either the forwarding or blocking state.",
+               "D": "All switch and bridge ports are either blocking or looping."
+          },
+          "correct_answer": "C",
+          "answer_description": "Convergence occurs when all ports on bridges and switches have transitioned to either the forwarding or blocking states. No data is forwarded until convergence is complete. Before data can be forwarded again, all devices must be updated."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which switching technology reduces the size of a broadcast domain?",
+          "options": {
+               "A": "ISL",
+               "B": "802.1Q",
+               "C": "VLANs",
+               "D": "STP"
+          },
+          "correct_answer": "C",
+          "answer_description": "Virtual LANs break up broadcast domains in layer 2 switched internetworks."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following commands sets a trunk port on a 2960 switch?",
+          "options": {
+               "A": "trunk on",
+               "B": "trunk all",
+               "C": "switchport trunk on",
+               "D": "switchport mode trunk"
+          },
+          "correct_answer": "D",
+          "answer_description": "To set a switch port to trunk mode, which allows all VLAN information to pass down the link, use theswitchport mode trunkcommand."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are benefits of VLANs?They increase the size of collision domains.They allow logical grouping of users by function.They can enhance network security.They increase the size of broadcast domains while decreasing the number of collision domains.They simplify switch administration.They increase the number of broadcast domains while decreasing the size of the broadcast domains.",
+          "options": {
+               "A": "1 and 5",
+               "B": "2 and 4",
+               "C": "1, 3 and 5",
+               "D": "2, 3 and 6"
+          },
+          "correct_answer": "D",
+          "answer_description": "VLANs break up broadcast domains in a switched layer 2 network, which means smaller broadcast domains. They allow configuration by logical function instead of physical location and can create some security if configured correctly."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command will permit SMTP mail to only host 1.1.1.1?",
+          "options": {
+               "A": "access-list 10 permit smtp host 1.1.1.1",
+               "B": "access-list 110 permit ip smtp host 1.1.1.1",
+               "C": "access-list 10 permit tcp any host 1.1.1.1 eq smtp",
+               "D": "access-list 110 permit tcp any host 1.1.1.1 eq smtp"
+          },
+          "correct_answer": "D",
+          "answer_description": "When trying to find the best answer to an access-list question, always check the access-list number and then the protocol. When filtering to an upper-layer protocol, you must use an extended list, numbers 100-199 and 2000-2699. Also, when you filter to an upper-layer protocol, you must use eithertcporudpin the protocol field. If it saysipin the protocol field, you cannot filter to an upper-layer protocol. SMTP uses TCP."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following series of commands will restrict Telnet access to the router?",
+          "options": {
+               "A": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line con 0Lab_A(config-line)#ip access-group 10 in",
+               "B": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#access-class 10 out",
+               "C": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#access-class 10 in",
+               "D": "Lab_A(config)#access-list 10 permit 172.16.1.1Lab_A(config)#line vty 0 4Lab_A(config-line)#ip access-group 10 in"
+          },
+          "correct_answer": "C",
+          "answer_description": "Telnet access to the router is restricted by using either a standard or extended IP access list inbound on the VTY lines of the router. The commandaccess-classis used to apply the access list to the VTY lines."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You are working on a router that has established privilege levels that restrict access to certain functions. You discover that you are not able to execute the commandshow running-configuration. How can you view and confirm the access lists that have been applied to the Ethernet 0 interface on your router?",
+          "options": {
+               "A": "show access-lists",
+               "B": "show interface Ethernet 0",
+               "C": "show ip access-lists",
+               "D": "show ip interface Ethernet 0"
+          },
+          "correct_answer": "D",
+          "answer_description": "The only command that shows which access lists have been applied to an interface isshow ip interface Ethernet 0. The commandshow access-listsdisplays all configured access lists, andshow ip access-listsdisplays all configured IP access lists, but neither command indicates whether the displayed access lists have been applied to an interface."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following would be good reasons to run NAT?You need to connect to the Internet and your hosts don't have globally unique IP addresses.You change to a new ISP that requires you to renumber your network.You don't want any hosts connecting to the Internet.You require two intranets with duplicate addresses to merge.",
+          "options": {
+               "A": "1, 2 and 4",
+               "B": "2 and 4",
+               "C": "3 only",
+               "D": "All of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "The most popular use of NAT is if you want to connect to the Internet and you don't want hosts to have global (real) IP addresses, but option B and D are correct as well."
+     }
+]

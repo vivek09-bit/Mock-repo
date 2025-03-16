@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A data warehouse uses:",
+        "options": {
+            "A": "partial operational data.",
+            "B": "historical operational data.",
+            "C": "future operational data.",
+            "D": "health care data."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Metadata enables database designers and users to do all of the following except:",
+        "options": {
+            "A": "sample data.",
+            "B": "understand what data exist.",
+            "C": "what the fine distinctions are between similar data items.",
+            "D": "what the data mean."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Duplicate data often results in loss of data integrity because:",
+        "options": {
+            "A": "the data formats may be inconsistent.",
+            "B": "data values may not agree.",
+            "C": "Both A & B.",
+            "D": "Neither A & B."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Legacy data is which of the following?",
+        "options": {
+            "A": "Data contained in a newly-installed system",
+            "B": "Data rejected during the installation of a new system",
+            "C": "Data contained in a file system",
+            "D": "Data contained by a system used prior to the installation of a new system"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A database management system (DBMS) is a:",
+        "options": {
+            "A": "hardware system used to create, maintain, and provide controlled access to a database.",
+            "B": "hardware system used to create, maintain, and provide uncontrolled access to a database.",
+            "C": "software system used to create, maintain, and provide controlled access to a database.",
+            "D": "software system used to create, maintain, and provide uncontrolled access to a database."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ________ circuit overcomes the problem of switching caused by jitter on the inputs.",
+        "options": {
+            "A": "astable multivibrator",
+            "B": "monostable multivibrator",
+            "C": "bistable multivibrator",
+            "D": "Schmitt trigger"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Why would a delay gate be needed for a digital circuit?",
+        "options": {
+            "A": "A delay gate is never needed.",
+            "B": "to provide for setup times",
+            "C": "to provide for hold times",
+            "D": "to provide for setup times and hold times"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An optocoupler is an integrated circuit with an LED and a zener diode encased in the same package.",
+        "options": {
+            "A": "True",
+            "B": "False"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A Schmitt trigger hasVT+= 2.0 V andVT–= 1.2 V. What is the hysteresis voltage of the Schmitt trigger?",
+        "options": {
+            "A": "0.4 volt",
+            "B": "0.6 volt",
+            "C": "0.8 volt",
+            "D": "1.2 volts"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following circuit parameters would be most likely to limit the maximum operating frequency of a flip-flop?",
+        "options": {
+            "A": "setup and hold time",
+            "B": "clock pulse HIGH and LOW time",
+            "C": "propagation delay time",
+            "D": "clock transition time"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

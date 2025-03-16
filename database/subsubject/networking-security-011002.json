@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What command will permit SMTP mail to only host 1.1.1.1?",
+        "options": {
+            "A": "access-list 10 permit smtp host 1.1.1.1",
+            "B": "access-list 110 permit ip smtp host 1.1.1.1",
+            "C": "access-list 10 permit tcp any host 1.1.1.1 eq smtp",
+            "D": "access-list 110 permit tcp any host 1.1.1.1 eq smtp"
+        },
+        "correct_answer": "D",
+        "answer_description": "When trying to find the best answer to an access-list question, always check the access-list number and then the protocol. When filtering to an upper-layer protocol, you must use an extended list, numbers 100-199 and 2000-2699. Also, when you filter to an upper-layer protocol, you must use eithertcporudpin the protocol field. If it saysipin the protocol field, you cannot filter to an upper-layer protocol. SMTP uses TCP."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want to create a standard access list that denies the subnet of the following host: 172.16.50.172/20. Which of the following would you start your list with?",
+        "options": {
+            "A": "access-list 10 deny 172.16.48.0 255.255.240.0",
+            "B": "access-list 10 deny 172.16.0.0 0.0.255.255",
+            "C": "access-list 10 deny 172.16.64.0 0.0.31.255",
+            "D": "access-list 10 deny 172.16.48.0 0.0.15.255"
+        },
+        "correct_answer": "D",
+        "answer_description": "First, you must know that a /20 is 255.255.240.0, which is a block size of 16 in the third octet. Counting by 16s, this makes our subnet 48 in the third octet, and the wildcard for the third octet would be 15 since the wildcard is always one less than the block size."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What router command allows you to determine whether an IP access list is enabled on a particular interface?",
+        "options": {
+            "A": "show ip port",
+            "B": "show access-lists",
+            "C": "show ip interface",
+            "D": "show access-lists interface"
+        },
+        "correct_answer": "C",
+        "answer_description": "Only theshow ip interfacecommand will tell you which interfaces have access lists applied.show access-listswill not show you which interfaces have an access list applied."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You have created a named access list called Blocksales. Which of the following is a valid command for applying this to packets trying to enter interface s0 of your router?",
+        "options": {
+            "A": "(config)#ip access-group 110 in",
+            "B": "(config-if)#ip access-group 110 in",
+            "C": "(config-if)#ip access-group Blocksales in",
+            "D": "(config-if)#blocksales ip access-list in"
+        },
+        "correct_answer": "C",
+        "answer_description": "Using a named access list just replaces the number used when applying the list to the router's interface.ip access-group Blocksales inis correct."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You want to create a standard access list that denies the subnet of the following host: 172.16.144.17/21. Which of the following would you start your list with?",
+        "options": {
+            "A": "access-list 10 deny 172.16.48.0 255.255.240.0",
+            "B": "access-list 10 deny 172.16.144.0 0.0.7.255",
+            "C": "access-list 10 deny 172.16.64.0 0.0.31.255",
+            "D": "access-list 10 deny 172.16.136.0 0.0.15.255"
+        },
+        "correct_answer": "B",
+        "answer_description": "First, you must know that a /21 is 255.255.248.0, which is a block size of 8 in the third octet. Counting by eight, this makes our subnet 144 in the third octet, and the wildcard for the third octet would be 7 since the wildcard is always one less than the block size."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not associated with the UNO?",
+        "options": {
+            "A": "ILO",
+            "B": "WHO",
+            "C": "ASEAN",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "UNO: United Nations OrganizationILO: International Labor OrganizationWHO: World Health OrganizationASEAN: Association of Southeast Asian Nations"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The chairmanship/presidency of the UN Security Council rotates among the Council Members",
+        "options": {
+            "A": "every 6 months",
+            "B": "every 3 months",
+            "C": "every year",
+            "D": "every month"
+        },
+        "correct_answer": "D",
+        "answer_description": "The presidency of the United Nations Security Council rotates on a monthly basis alphabetically among all of the members based on their English name."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a chief organ of the United Nations Organisations?",
+        "options": {
+            "A": "International Labour Organisation",
+            "B": "Security Council",
+            "C": "International Court of Justice",
+            "D": "General Assembly"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Permanent Secretariat to coordinate the implementation of SAARC programme is located at",
+        "options": {
+            "A": "Dhaka",
+            "B": "New Delhi",
+            "C": "Colombo",
+            "D": "Kathmandu"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Indian delegation to the first World Conference on Human Rights was led by",
+        "options": {
+            "A": "Dr. Manmohan Singh",
+            "B": "Farooq Abdullah",
+            "C": "Dinesh singh",
+            "D": "Alam Khan"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

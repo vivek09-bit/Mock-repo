@@ -1,0 +1,254 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the below C-program?#include<stdio.h>\nint main()\n{\n    int x = 10, y = 100%90, i;\n    for(i=1; i<10; i++)\n    if(x != y);\n        printf(\"x = %d y = %d\\n\", x, y);\n    return 0;\n}1 :Theprintf()function is called 10 times.2 :The program will produce the outputx = 10 y = 103 :The;after theif(x!=y)will NOT produce an error.4 :The program will not produce output.",
+          "options": {
+               "A": "1",
+               "B": "2, 3",
+               "C": "3, 4",
+               "D": "4"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\nint main()\n{\n    int k, num=30;\n    k = (num>5 ? (num <=10 ? 100 : 200): 500);\n    printf(\"%d\\n\", num);\n    return 0;\n}",
+          "options": {
+               "A": "200",
+               "B": "30",
+               "C": "100",
+               "D": "500"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:int k, num=30;here variablekandnumare declared as an integer type and variablenumis initialized to '30'.Step 2:k = (num>5 ? (num <=10 ? 100 : 200): 500);This statement does not affect the output of the program. Because we are going to print the variablenumin the next statement. So, we skip this statement.Step 3:printf(\"%d\\n\", num);It prints the value of variablenum'30'Step 3: Hence the output of the program is '30'"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the following program.#include<stdio.h>\nint main()\n{\n    struct emp\n    {\n        char name[20];\n        float sal;\n    };\n    struct emp e[10];\n    int i;\n    for(i=0; i<=9; i++)\n        scanf(\"%s %f\", e[i].name, &e[i].sal);\n    return 0;\n}",
+          "options": {
+               "A": "Suspicious pointer conversion",
+               "B": "Floating point formats not linked (Run time error)",
+               "C": "Cannot usescanf()for structures",
+               "D": "Strings cannot be nested inside structures"
+          },
+          "correct_answer": "B",
+          "answer_description": "Compile and Run the above program in Turbo C:C:\\>myprogram.exe\nSundar\n2555.50\nscanf : floating point formats not linked\nAbnormal program terminationThe program terminates abnormally at the time of entering the float value fore[i].sal.Solution:Just add the following function in your program. It will force the compiler to include required libraries for handling floating point linkages.static void force_fpf() /* A dummy function */\n{\n    float x, *y; /* Just declares two variables */\n    y = &x      /* Forces linkage of FP formats */\n    x = *y;      /* Suppress warning message about x */\n}"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The keyword used to transfer control from a function back to the calling function is",
+          "options": {
+               "A": "switch",
+               "B": "goto",
+               "C": "go back",
+               "D": "return"
+          },
+          "correct_answer": "D",
+          "answer_description": "The keywordreturnis used to transfer control from a function back to the calling function.Example:#include<stdio.h>\nint add(int, int); /* Function prototype */\n\nint main()\n{\n    int a = 4, b = 3, c;\n    c = add(a, b);\n    printf(\"c = %d\\n\", c);\n    return 0;\n}\nint add(int a, int b)\n{\n/* returns the value and control back to main() function */\n   return (a+b);\n}Output:c = 7"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about the function?long fun(int num)\n{\n    int i;\n    long f=1;\n    for(i=1; i<=num; i++)\n        f = f * i;\n    return f;\n}",
+          "options": {
+               "A": "The function calculates the value of 1 raised to power num.",
+               "B": "The function calculates the square root of an integer",
+               "C": "The function calculates the factorial value of an integer",
+               "D": "None of above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Yes, this function calculates and return the factorial value of an given integernum."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the statements is correct about the program?#include<stdio.h>\n\nint main()\n{\n    float a=3.14;\n    char *j;\n    j = (char*)&a;\n    printf(\"%d\\n\", *j);\n    return 0;\n}",
+          "options": {
+               "A": "It prints ASCII value of the binary number present in the first byte of a float variablea.",
+               "B": "It prints character equivalent of the binary number present in the first byte of a float variablea.",
+               "C": "It will print 3",
+               "D": "It will print a garbage value"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Will the program compile in Turbo C?#include<stdio.h>\nint main()\n{\n    int a=10, *j;\n    void *k;\n    j=k=&a;\n    j++;\n    k++;\n    printf(\"%u %u\\n\", j, k);\n    return 0;\n}",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "Error in statementk++. We cannot perform arithmetic onvoidpointers.The following error will be displayed while compiling above program in TurboC.Compiling PROGRAM.C:Error PROGRAM.C 8: Size of the type is unknown or zero."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct about an array?1:The arrayint num[26];can store 26 elements.2:The expressionnum[1]designates the very first element in the array.3:It is necessary to initialize the array at the time of declaration.4:The declarationnum[SIZE]is allowed if SIZE is a macro.",
+          "options": {
+               "A": "1",
+               "B": "1,4",
+               "C": "2,3",
+               "D": "2,4"
+          },
+          "correct_answer": "B",
+          "answer_description": "1. The arrayint num[26];can store 26 elements. This statement is true.2. The expressionnum[1]designates the very first element in the array. This statement is false, because it designates the second element of the array.3. It is necessary to initialize the array at the time of declaration. This statement is false.4. The declarationnum[SIZE]is allowed if SIZE is a macro. This statement is true, because the MACRO just replaces the symbol SIZE with given value.Hence the statements '1' and '4' are correct statements."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The library function used to find the last occurrence of a character in a string is",
+          "options": {
+               "A": "strnstr()",
+               "B": "laststr()",
+               "C": "strrchr()",
+               "D": "strstr()"
+          },
+          "correct_answer": "C",
+          "answer_description": "Declaration:char *strrchr(const char *s, int c);It scans a stringsin the reverse direction, looking for a specific characterc.Example:#include <string.h>\n#include <stdio.h>\n\nint main(void)\n{\n   char text[] = \"I learn through IndiaBIX.com\";\n   char *ptr, c = 'i';\n\n   ptr = strrchr(text, c);\n   if (ptr)\n      printf(\"The position of '%c' is: %d\\n\", c, ptr-text);\n   else\n      printf(\"The character was not found\\n\");\n   return 0;\n}Output:The position of 'i' is: 19"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ifchar=1, int=4,andfloat=4bytes size, What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    char ch = 'A';\n    printf(\"%d, %d, %d\", sizeof(ch), sizeof('A'), sizeof(3.14f));\n    return 0;\n}",
+          "options": {
+               "A": "1, 2, 4",
+               "B": "1, 4, 4",
+               "C": "2, 2, 4",
+               "D": "2, 4, 8"
+          },
+          "correct_answer": "B",
+          "answer_description": "Step 1:char ch = 'A';The variablechis declared as an character type and initialized with value 'A'.Step 2:printf(\"%d, %d, %d\", sizeof(ch), sizeof('A'), sizeof(3.14));The sizeof function returns the size of the given expression.sizeof(ch)becomessizeof(char). The size ofcharis 1 byte.sizeof('A')becomessizeof(65). The size ofintis 4 bytes (as mentioned in the question).sizeof(3.14f). The size offloatis 4 bytes.Hence the output of the program is 1, 4, 4"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    char str[] = \"Nagpur\";\r\n    str[0]='K';\r\n    printf(\"%s, \", str);\r\n    str = \"Kanpur\";\r\n    printf(\"%s\", str+1);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "Kagpur, Kanpur",
+               "B": "Nagpur, Kanpur",
+               "C": "Kagpur, anpur",
+               "D": "Error"
+          },
+          "correct_answer": "D",
+          "answer_description": "The statementstr = \"Kanpur\";generates the LVALUE required error. We have to use strcpy function to copy a string.To remove error we have to change this statementstr = \"Kanpur\";tostrcpy(str, \"Kanpur\");The program prints the string \"anpur\""
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    int i=4, j=8;\r\n    printf(\"%d, %d, %d\\n\", i|j&j|i, i|j&j|i, i^j);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "12, 12, 12",
+               "B": "112, 1, 12",
+               "C": "32, 1, 12",
+               "D": "-64, 1, 12"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Bit fields CANNOT be used in union.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "The following is the example program to explain \"using bit fields inside an union\".#include<stdio.h>\n\nunion Point\n{\n  unsigned int x:4;\n  unsigned int y:4;\n  int res;\n};\n\nint main()\n{\n   union  Point pt;\n\n   pt.x = 2;\n   pt.y = 3;\n   pt.res = pt.y;\n\n   printf(\"\\n The value of res = %d\" , pt.res);\n\n   return 0;\n}\n// Output: The value of res = 3"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    FILE *fp;\r\n    char ch;\r\n    int i=1;\r\n    fp = fopen(\"myfile.c\", \"r\");\r\n    while((ch=getc(fp))!=EOF)\r\n    {\r\n        if(ch == '\\n')\r\n            i++;\r\n    }\r\n    fclose(fp);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "The code counts number of characters in the file",
+               "B": "The code counts number of words in the file",
+               "C": "The code counts number of blank lines in the file",
+               "D": "The code counts number of lines in the file"
+          },
+          "correct_answer": "D",
+          "answer_description": "This program counts the number of lines in the filemyfile.cby counting the character'\\n'in that file."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The first argument to be supplied at command-line must always be count of total arguments.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n\nint main()\n{\n    char c=48;\n    int i, mask=01;\n    for(i=1; i<=5; i++)\n    {\n        printf(\"%c\", c|mask);\n        mask = mask<<1;\n    }\n    return 0;\n}",
+          "options": {
+               "A": "12400",
+               "B": "12480",
+               "C": "12500",
+               "D": "12556"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is the output of the program?typedef struct data;\n{\n    int x;\n    sdata *b;\n}sdata;",
+          "options": {
+               "A": "Error: Declaration missing ';'",
+               "B": "Error: intypedef",
+               "C": "No error",
+               "D": "None of above"
+          },
+          "correct_answer": "A",
+          "answer_description": "since the type 'sdata' is not known at the point of declaring the structure"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which header file should you include, if you are going to develop a function, which can accept variable number of arguments?",
+          "options": {
+               "A": "varagrg.h",
+               "B": "stdlib.h",
+               "C": "stdio.h",
+               "D": "stdarg.h"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the following program.#include<stdio.h>\n#include<stdarg.h>\nvoid varfun(int n, ...);\n\nint main()\n{\n    varfun(3, 7, -11.2, 0.66);\n    return 0;\n}\nvoid varfun(int n, ...)\n{\n    float *ptr;\n    int num;\n    va_start(ptr, n);\n    num = va_arg(ptr, int);\n    printf(\"%d\", num);\n}",
+          "options": {
+               "A": "Error: too many parameters",
+               "B": "Error: invalid access to list member",
+               "C": "Error: ptr must be type ofva_list",
+               "D": "No error"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "va_listis an array that holds information needed byva_argandva_end",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     }
+]

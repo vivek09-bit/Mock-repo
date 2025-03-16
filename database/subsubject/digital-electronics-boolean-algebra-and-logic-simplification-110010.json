@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following combinations cannot be combined into K-map groups?",
+        "options": {
+            "A": "corners in the same row",
+            "B": "corners in the same column",
+            "C": "diagonal",
+            "D": "overlapping combinations"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

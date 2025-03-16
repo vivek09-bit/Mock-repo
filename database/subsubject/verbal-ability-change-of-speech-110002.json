@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "The boy said, \"Who dare call you a thief?\"",
+        "options": {
+            "A": "The boy enquired who dared call him a thief.",
+            "B": "The boy asked who called him a thief.",
+            "C": "The boy told that who dared call him a thief.",
+            "D": "The boy wondered who dared call a thief."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "She exclaimed with sorrow that was a very miserable plight.",
+        "options": {
+            "A": "She said with sorrow, \"What a pity it is.\"",
+            "B": "She said, \"What a mystery it is.\"",
+            "C": "She said, \"What a miserable sight it is.\"",
+            "D": "She said, \"What a miserable plight it is.\""
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "Dhruv said that he was sick and tired of working for that company.",
+        "options": {
+            "A": "Dhruv said, \"I am sick and tired of working for this company.\"",
+            "B": "Dhruv said, \"He was tired of that company.\"",
+            "C": "Dhruv said to me, \"I am sick and tired of working for this company.\"",
+            "D": "Dhruv said, \"I will be tired of working for that company.\""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "\"Are you alone, my son?\" asked a soft voice close behind me.",
+        "options": {
+            "A": "A soft voice asked that what I was doing there alone.",
+            "B": "A soft voice said to me are you alone son.",
+            "C": "A soft voice from my back asked If I was alone.",
+            "D": "A soft voice behind me asked If I was alone."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn the questions below the sentences have been given in Direct/Indirect speech. From the given alternatives, choose the one which best expresses the given sentence in Indirect/Direct speech.",
+        "image_path": null,
+        "question": "She said to him, \"Why don't you go today?\"",
+        "options": {
+            "A": "She asked him why he did not go that day.",
+            "B": "She said to him why he don't go that day.",
+            "C": "She asked him not to go that day.",
+            "D": "She asked him why he did not go today."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

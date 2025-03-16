@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of theifstatement?",
+        "options": {
+            "A": "To declare a variable",
+            "B": "To define a function",
+            "C": "To control the flow of a program based on a condition",
+            "D": "To create a loop"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theifstatement is used to make decisions in Python. It allows you to execute a block of code if a certain condition is true."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which keyword is used to introduce theelseblock in anif-elsestatement?",
+        "options": {
+            "A": "elif",
+            "B": "else",
+            "C": "then",
+            "D": "or"
+        },
+        "correct_answer": "B",
+        "answer_description": "In anif-elsestatement, theelsekeyword is used to define the block of code that should be executed if the condition in the if statement is false."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code?x = 10\ny = 5\nif x > y:\n    print(\"x is greater\")\nelse:\n    print(\"y is greater\")",
+        "options": {
+            "A": "x is greater",
+            "B": "y is greater",
+            "C": "No output",
+            "D": "Syntax Error"
+        },
+        "correct_answer": "A",
+        "answer_description": "The code compares the values ofxandyusing the>(greater than) operator. Sincexis greater thany, the code inside theifblock will be executed, printing \"x is greater.\""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the correct syntax for anifstatement with multiple conditions?",
+        "options": {
+            "A": "if condition1:\n    # code block\nif condition2:\n    # code block",
+            "B": "if condition1:\n    # code block\nelif condition2:\n    # code block",
+            "C": "if condition1:\n    # code block\nelse if condition2:\n    # code block",
+            "D": "if condition1:\n    # code block\nelse condition2:\n    # code block"
+        },
+        "correct_answer": "B",
+        "answer_description": "The correct syntax for anifstatement with multiple conditions is to useelif(short for \"else if\") for subsequent conditions after the initialifstatement.Option A is also a valid syntax for handling multiple conditions, but it doesn't ensure mutual exclusivity between the conditions. In this case, both code blocks would execute if both condition1 and condition2 are true."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will happen if the following code is executed?temperature = 25\r\nif temperature > 30:\r\n    print(\"It's hot!\")\r\nelif temperature > 20:\r\n    print(\"It's warm.\")\r\nelse:\r\n    print(\"It's cool.\")",
+        "options": {
+            "A": "It will print \"It's hot!\"",
+            "B": "It will print \"It's warm.\"",
+            "C": "It will print \"It's cool.\"",
+            "D": "It will print nothing (no output)"
+        },
+        "correct_answer": "B",
+        "answer_description": "The code checks multiple conditions usingifandelif. Sincetemperatureis 25, it satisfies the second condition (temperature > 20), and the corresponding code block inside theelifwill be executed, printing \"It's warm.\""
+    }
+]

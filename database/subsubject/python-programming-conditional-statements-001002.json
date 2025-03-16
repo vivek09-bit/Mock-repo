@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which logical operator is used to combine multiple conditions in anifstatement?",
+        "options": {
+            "A": "&&",
+            "B": "||",
+            "C": "and",
+            "D": "in"
+        },
+        "correct_answer": "C",
+        "answer_description": "Theandkeyword is used as the logical AND operator to combine multiple conditions in anifstatement. Both conditions must be true for the combined condition to be true."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code?num = 0\r\nif num > 0:\r\n    print(\"Positive\")\r\nelif num < 0:\r\n    print(\"Negative\")\r\nelse:\r\n    print(\"Zero\")",
+        "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "No output"
+        },
+        "correct_answer": "C",
+        "answer_description": "The code checks ifnumis greater than 0, less than 0, or equal to 0. Sincenumis 0, the code inside theelseblock will be executed, printing \"Zero.\""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In Python, how can you represent the logical NOT operator in anifstatement?",
+        "options": {
+            "A": "!=",
+            "B": "not",
+            "C": "<>",
+            "D": "nor"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thenotkeyword is used as the logical NOT operator in Python. It is used to negate the truth value of a condition.The!=operator in Python is used for inequality comparison, not for logical negation. It checks if two values are not equal to each other. It's not used directly to represent logical NOT in an if statement."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which comparison operator is used to check for equality?",
+        "options": {
+            "A": "=",
+            "B": "==",
+            "C": "===",
+            "D": "equals"
+        },
+        "correct_answer": "B",
+        "answer_description": "The double equals (==) operator is used to check if two values are equal in Python."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does theinkeyword check in Python conditional statements?",
+        "options": {
+            "A": "Object identity",
+            "B": "Membership in a sequence or collection",
+            "C": "Inequality",
+            "D": "Division"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theinkeyword is used to test if a value is a member of a sequence or collection, such as a list or a string."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Applying for Seasonal Employmentoccurs when a person requests to be considered for a job that is dependent on a particular season or time of year. Which situation below is the best example of Applying for Seasonal Employment?",
+        "options": {
+            "A": "The ski instructors at Top of the Peak Ski School work from December through March.",
+            "B": "Matthew prefers jobs that allow him to work outdoors.",
+            "C": "Lucinda makes an appointment with the beach resort restaurant manager to interview for the summer waitressing position that was advertised in the newspaper.",
+            "D": "Doug's ice cream shop stays open until 11 p.m. during the summer months."
+        },
+        "correct_answer": "C",
+        "answer_description": "Although the ski instructors at Top of the Peak Ski School do work seasonally, choice a does not describe anyone  applying for seasonal employment. In choice b, the statement that Matthew likes to work outdoors tells us nothing about seasonal employment or someone applying for it. And although choice d describes a business with seasonal hours, it does not describe a person applying for seasonal work. Choice c, on the other hand, very specifically depicts a person, Lucinda, who is applying for a job as a summer waitress at a beach resort, which is dependent upon a particular season of the year."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Violating an Apartment Leaseoccurs when a tenant does something prohibited by the legally binding document that he or she has signed with a landlord. Which situation below is the best example of Violating an Apartment Lease?",
+        "options": {
+            "A": "Tim has decided to move to another city, so he calls his landlord to tell him that he is not interested in renewing his lease when it expires next month.",
+            "B": "Valerie recently lost her job and, for the last three months, has neglected to pay her landlord the monthly rent they agreed upon in writing when she moved into her apartment eight months ago.",
+            "C": "Mark writes a letter to his landlord that lists numerous complaints about the apartment he has agreed to rent for two years.",
+            "D": "Leslie thinks that her landlord is neglecting the building in which she rents an apartment. She calls her attorney to ask for advice."
+        },
+        "correct_answer": "B",
+        "answer_description": "Valerie signed a legally binding document that requires her to pay a monthly rent for her apartment and she has failed to do this for the last three months. Therefore, she has violated her apartment lease."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "AnInformal Gatheringoccurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?",
+        "options": {
+            "A": "The book club meets on the first Thursday evening of every month.",
+            "B": "After finding out about his promotion, Jeremy and a few coworkers decide to go out for a quick drink after work.",
+            "C": "Mary sends out 25 invitations for the bridal shower she is giving for her sister.",
+            "D": "Whenever she eats at the Mexican restaurant, Clara seems to run into Peter."
+        },
+        "correct_answer": "B",
+        "answer_description": "After getting some good news, Jeremy and a few friends casually get together for a drink after work, thereby having an informal gathering. Choices a and c describe more formal types of gatherings. Choice d describes a chance or coincidental kind of meeting."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Peoplespeculatewhen they consider a situation and assume something to be true based on inconclusive evidence. Which situation below is the best example of Speculation ?",
+        "options": {
+            "A": "Francine decides that it would be appropriate to wear jeans to her new office on Friday after reading about \"Casual Fridays\" in her employee handbook.",
+            "B": "Mary spends thirty minutes sitting in traffic and wishes that she took the train instead of driving.",
+            "C": "After consulting several guidebooks and her travel agent, Jennifer feels confident that the hotel she has chosen is first-rate.",
+            "D": "When Emily opens the door in tears, Theo guesses that she's had a death in her family."
+        },
+        "correct_answer": "D",
+        "answer_description": "This is the only situation in which someone makes an assumption that is not based on conclusive evidence. Choices a and c reflect situations in which assumptions are made based on evidence. In choice b, Mary is not assuming anything to be true. She is simply wishing that she'd made a different decision."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Posthumous Publicationoccurs when a book is published after the author's death. Which situation below is the best example of Posthumous Publication ?",
+        "options": {
+            "A": "Richard's illness took his life before he was able to enjoy the amazing early reviews of his novel.",
+            "B": "Melissa's publisher cancels her book contract after she fails to deliver the manuscript on time.",
+            "C": "Clarence never thought he'd live to see the third book in his trilogy published.",
+            "D": "Elizabeth is honored with a prestigious literary award for her writing career and her daughter accepts the award on behalf of her deceased mother."
+        },
+        "correct_answer": "A",
+        "answer_description": "Although choice d also mentions a writer who has died, it does not state that one of the writer's books was published after her death, only that she received an award. Choice  a states that Richard wasn't around  to see the early reviews of his novel, therefore implying that Richard died before the book was published. The other two options depict living writers."
+    }
+]

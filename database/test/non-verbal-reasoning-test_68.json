@@ -1,0 +1,282 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Each of the following questions consists of five figures marked A, B, C, D and E called the Problem Figures followed by five other figures marked 1, 2, 3, 4 and 5 called the Answer Figures. Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+          "image_path": null,
+          "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.Problem Figures:                          Answer Figures:(A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "A",
+          "answer_description": "In each step, the dot moves one space CW and the arrow moves two spaces CW."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 2)Each of the following questions consists of five figures marked A, B, C, D and E called the Problem Figures followed by five other figures marked 1, 2, 3, 4 and 5 called the Answer Figures. Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+          "image_path": null,
+          "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.Problem Figures:                          Answer Figures:(A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "E",
+          "answer_description": "In the first step, the ACW end element moves two spaces (each space is equal to half-a-side of the square boundary) in an ACW direction. In the second step, the CW-end element moves three spaces ACW. In the third step, the remaining element moves four spaces ACW. The three steps are repeated to continue the series."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Each of the following questions consists of five figures marked A, B, C, D and E called the Problem Figures followed by five other figures marked 1, 2, 3, 4 and 5 called the Answer Figures. Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+          "image_path": null,
+          "question": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.Problem Figures:                          Answer Figures:(A)     (B)     (C)     (D)     (E)       (1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "The symbols move in the sequencesandalternately. In each step, the symbol that reaches the-encircled position gets replaced by a new symbol."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 8)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "Both the elements move to the adjacent side in a CW direction; the half-arrow rotates 90oACW; the semi-circular element rotates 90oACW and gets laterally inverted."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 8)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "C",
+          "answer_description": "The line segment moves four spaces ACW and the dot moves three spaces ACW."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 8)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "B",
+          "answer_description": "The lower element gets enlarged and becomes the outermost element; the upper element gets slightly enlarged and becomes the middle element and a new element with one more number of sides than the lower element appears as the innermost element."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 8)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "A",
+          "answer_description": "The figure rotates 90oCW and the stars disappears."
+     },
+     {
+          "direction": "Direction (Q.Nos. 4 - 8)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "A",
+          "answer_description": "The black leaf rotates 135oCW and the white leaf rotates 135oACW."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "C",
+          "answer_description": "The upper part of the figure gets vertically inverted."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "The arrow rotates 135oCW and moves a distance equal to one and a half sides of the square boundary in a CW direction. Out of the two central elements, the outer element diminishes in size and becomes the inner element, the inner element moves to the position of the corner element and the corner element gets enlarged and moves to the central position to become the outer element."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "The figure rotates through 90othe two parts get separated along the dividing line; each part gets rotated through 180oand these two parts are joined together by a black circle."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "C",
+          "answer_description": "The arc gets divided at one place and the other element gets separated from the arc and gets divided at two places."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "The outer element rotates 90oACW; moves to the adjacent side of the square in an ACW direction and shifts inside the square. The inner element rotates 90oACW; moves to the adjacent side of the square in an ACW direction and shifts outside the square."
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "E",
+          "answer_description": "The figure rotates 90oCW; the inner element rotates about the main line and turns outwards while the outer element shifts inwards,"
+     },
+     {
+          "direction": "Direction (Q.Nos. 9 - 15)Each of the following questions consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).",
+          "image_path": null,
+          "question": "Select a suitable figure from the Answer Figures that would replace the question mark (?).Problem Figures:                            Answer Figures:(A)     (B)      (C)     (D)                  (1)      (2)      (3)      (4)      (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "D",
+          "answer_description": "The two elements at the ends of the line segment, move to the centre of the line segment."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 19)In each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+          "image_path": null,
+          "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "C",
+          "answer_description": "All other figures can be rotated into each other."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 19)In each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+          "image_path": null,
+          "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "E",
+          "answer_description": "All others are punctuation marks."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 19)In each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+          "image_path": null,
+          "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "A",
+          "answer_description": "All other figures can be rotated into each other."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 19)In each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+          "image_path": null,
+          "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "E",
+          "answer_description": "In each one of the figures except fig. (5), two arrows point towards left and one arrow points towards right."
+     },
+     {
+          "direction": "Direction (Q.No. 20)In each problem, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.",
+          "image_path": null,
+          "question": "Choose the figure which is different from the rest.(1)     (2)     (3)     (4)     (5)",
+          "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+          },
+          "correct_answer": "E",
+          "answer_description": "Only in fig. (5), the small line segment lies on the same side (right side) of the main figure as the head of the pin (or all other figures can be rotated into each other)."
+     }
+]

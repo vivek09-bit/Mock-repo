@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should cottage industries be encouraged in rural areas?Arguments:Yes. Rural people are creative.Yes. This would help to solve the problem of unemployment to some extent.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, cottage industries need to be promoted to create more job opportunities for rural people in the villages themselves. The reason that rural people are creative is vague. So, only argument II holds."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should young entrepreneurs be encouraged?Arguments:Yes. They will help in industrial development of the country.Yes. They will reduce the burden on employment market.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "E",
+        "answer_description": "Clearly, encouraging the young entrepreneurs will open up the field for the establishment of new industries. Thus, it shall help in industrial development and not only employ the entrepreneurs but create more job opportunities for others as well. So, both the arguments hold strong."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should all the annual examinations up to Std. V be abolished?Arguments:Yes. The young students should not be burdened with such examinations which hampers their natural growth.No. The students will not study seriously as they will get automatic promotion to the next class and this will affect them in future.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "E",
+        "answer_description": "Clearly, neither the students can be burdened with studies at such a tender age, nor can they be left free to take studies casually, as this shall weaken their basic foundation. So, both the arguments follow."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should Indian scientists working abroad be called back to India?Arguments:Yes. They must serve the motherland first and forget about discoveries, honours, facilities and all.No. We have enough talent; let them stay where they want.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "D",
+        "answer_description": "Clearly, every person must be free to work wherever he wants and no compulsion should be made to confine one to one's own country. So, argument I is vague. However, talented scientists can be of great benefit to the nation and some alternatives as special incentives or better prospects may be made available to them to retain them within their motherland. So, argument II also does not hold."
+    },
+    {
+        "direction": "Directions to SolveEach question given below consists of a statement, followed by two arguments numbered I and II. You have to decide which of the arguments is a 'strong' argument and which is a 'weak' argument.Give answer:(A) If only argument I is strong(B) If only argument II is strong(C) If either I or II is strong(D) If neither I nor II is strong and(E) If both I and II are strong.",
+        "image_path": null,
+        "question": "Statement:Should we scrap the system of formal education beyond graduation?Arguments:Yes. It will mean taking employment at an early date.No. It will mean lack of depth of knowledge.",
+        "options": {
+            "A": "Only argument I is strong",
+            "B": "Only argument II is strong",
+            "C": "Either I or II is strong",
+            "D": "Neither I nor II is strong",
+            "E": "Both I and II are strong"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, argument I is vague because at present too, many fields are open to all after graduation. However, eliminating the post-graduate courses would abolish higher and specialized studies which lead to understanding things better and deeply. So, argument II is valid."
+    }
+]

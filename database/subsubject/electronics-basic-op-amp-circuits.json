@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The center frequency of a band-pass filter is always equal to the",
+        "options": {
+            "A": "bandwidth",
+            "B": "–3 dB frequency",
+            "C": "bandwidth divided byQ",
+            "D": "geometric average of the critical frequencies"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The formulashows that for a given capacitor, if the voltage changes at a constant rate with respect to time, the current will",
+        "options": {
+            "A": "increase",
+            "B": "decrease",
+            "C": "be constant",
+            "D": "decrease logarithmically"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A zero-level detector is a",
+        "options": {
+            "A": "comparator with a sine-wave output",
+            "B": "comparator with a trip point referenced to zero",
+            "C": "peak detector",
+            "D": "limiter"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A digital-to-analog converter is an application of the",
+        "options": {
+            "A": "scaling adder",
+            "B": "voltage-to-current converter",
+            "C": "noninverting amplifier",
+            "D": "adjustable bandwidth circuit"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the value of resistorRfin an averaging amplifier circuit is equal to the value of one input resistor divided by the number of inputs, the output will be equal to",
+        "options": {
+            "A": "the average of the individual inputs",
+            "B": "the inverted sum of the individual inputs",
+            "C": "the sum of the individual inputs",
+            "D": "the inverted average of the individual inputs"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

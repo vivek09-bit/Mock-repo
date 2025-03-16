@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.godabimmeans kidney stonesromzbimmeans kidney beansromzbakomeans wax beansWhich word could mean \"wax statue\"?",
+        "options": {
+            "A": "godaromz",
+            "B": "lazbim",
+            "C": "wasibako",
+            "D": "romzpeo"
+        },
+        "correct_answer": "C",
+        "answer_description": "In this language, the adjective follows the noun. Fromgodabimandromzbim, you can determine that bim means kidney. Fromromzbimandromzbako, you can determine thatromzmeans beans. Therefore,bakomeans wax. Because the adjective wax must come after the noun in this language,wasibakois the only choice."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.granamelkemeans big treepinimelkemeans little treemelkehoonmeans tree houseWhich word could mean \"big house\"?",
+        "options": {
+            "A": "granahoon",
+            "B": "pinishur",
+            "C": "pinihoon",
+            "D": "melkegrana"
+        },
+        "correct_answer": "A",
+        "answer_description": "Grana means big;melkemeans tree; pini means little; hoonmeans house. Therefore, granahoon means big house."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.daftafonimeans advisementimodaftameans misadviseimoloktimeans misconductWhich word could mean \"statement\"?",
+        "options": {
+            "A": "kratafoni",
+            "B": "kratadafta",
+            "C": "loktifoni",
+            "D": "daftaimo"
+        },
+        "correct_answer": "A",
+        "answer_description": "Dafta means advise;foniis the same as thesuffix -ment; imo is the same as the prefix mis-; lokti means conduct. Since the only word in the answer choices that hasn't been defined is  krata, it is reasonable to assume thatkratameans state. Therefore,kratafoniis the only choice that could mean statement."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.lelibroonmeans yellow hatplekafrotimeans flower gardenfrotimixmeans garden saladWhich word could mean \"yellow flower\"?",
+        "options": {
+            "A": "lelifroti",
+            "B": "lelipleka",
+            "C": "plekabroon",
+            "D": "frotibroon"
+        },
+        "correct_answer": "B",
+        "answer_description": "Lelimeans yellow;broonmeans hat;plekameans flower;frotimeans garden;mixmeans salad. Therefore,leliplekameans yellow flower."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.myncabelmeans saddle horseconowirmeans trail ridecabelalmameans horse blanketWhich word could mean \"horse ride\"?",
+        "options": {
+            "A": "cabelwir",
+            "B": "conocabel",
+            "C": "almamyn",
+            "D": "conoalma"
+        },
+        "correct_answer": "A",
+        "answer_description": "Myn means saddle; cabel means horse; cono means trail; and wir means ride. Therefore, cabelwir is the correct answer."
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One ampere of current flowing through one ohm of resistance is equal to:",
+        "options": {
+            "A": "1 horsepower",
+            "B": "1 Btu",
+            "C": "1 watt",
+            "D": "1 joule"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Good insulators:",
+        "options": {
+            "A": "have few electrons in their outer shells",
+            "B": "have a large dielectric strength",
+            "C": "have a small breakdown voltage",
+            "D": "have many electrons in the nucleus"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

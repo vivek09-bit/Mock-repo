@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many terms are there in the G.P. 3, 6, 12, 24, ... , 384 ?",
+        "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11",
+            "E": "7"
+        },
+        "correct_answer": "A",
+        "answer_description": "Herea= 3 andr=6= 2. Let the number of terms ben.3Then, tn= 384arn-1= 3843 x 2n- 1= 3842n-1= 128 = 27n- 1 = 7n= 8Number of terms = 8."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifxandyare positive integers such that (3x+ 7y) is a multiple of 11, then which of the following will be divisible by 11 ?",
+        "options": {
+            "A": "4x+ 6y",
+            "B": "x+y+ 4",
+            "C": "9x+ 4y",
+            "D": "4x- 9y"
+        },
+        "correct_answer": "D",
+        "answer_description": "By hit and trial, we putx= 5 andy= 1 so that (3x+ 7y) = (3 x 5 + 7 x 1) = 22, which is divisible by 11.(4x+ 6y) = ( 4 x 5 + 6 x 1) = 26, which is not divisible by 11;(x+y+ 4 ) = (5 + 1 + 4) = 10, which is not divisible by 11;(9x+ 4y) = (9 x 5 + 4 x 1) = 49, which is not divisible by 11;(4x- 9y) = (4 x 5 - 9 x 1) = 11, which is divisible by 11."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "9548 + 7314  = 8362 + (?)",
+        "options": {
+            "A": "8230",
+            "B": "8410",
+            "C": "8500",
+            "D": "8600",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "9548          16862 = 8362 +x+ 7314x= 16862 - 8362 \n -----             = 8500 \n 16862\n -----"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a division sum, the remainder is 0. As student mistook the divisor by 12 instead of 21 and obtained 35 as quotient. What is the correct quotient ?",
+        "options": {
+            "A": "0",
+            "B": "12",
+            "C": "13",
+            "D": "20"
+        },
+        "correct_answer": "D",
+        "answer_description": "Number = (12 x 35)Correct Quotient = 420 ÷ 21 = 20"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "2 + 22+ 23+ ... + 29= ?",
+        "options": {
+            "A": "2044",
+            "B": "1022",
+            "C": "1056",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is a G.P. in whicha= 2,r=22= 2 andn= 9.2Sn=a(rn- 1)=2 x (29- 1)= 2 x (512 - 1)   = 2 x 511   = 1022.(r- 1)(2 - 1)"
+    }
+]

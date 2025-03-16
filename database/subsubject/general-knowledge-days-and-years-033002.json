@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "National Maritime Day of India falls on",
+        "options": {
+            "A": "April 5",
+            "B": "June 5",
+            "C": "October 5",
+            "D": "September 5"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Journalist Day was celebrated for the first time all over the country on",
+        "options": {
+            "A": "Oct. 20, 1984",
+            "B": "Oct. 1, 1984",
+            "C": "Oct 28, 1984",
+            "D": "Oct. 8, 1984"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'Teacher's Day' is observed on which of the date?",
+        "options": {
+            "A": "September 5",
+            "B": "January 30",
+            "C": "November 14",
+            "D": "October 2"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The World Environment Day is celebrated on",
+        "options": {
+            "A": "April 7",
+            "B": "June 5",
+            "C": "August 6",
+            "D": "June 16"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which day is observed as World No Smoking Day ?",
+        "options": {
+            "A": "15th July",
+            "B": "31st December",
+            "C": "1st January",
+            "D": "31st May"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

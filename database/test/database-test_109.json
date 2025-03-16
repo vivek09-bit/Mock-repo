@@ -1,0 +1,244 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "SQL query and modification commands make up a(n) ________ .",
+          "options": {
+               "A": "DDL",
+               "B": "DML",
+               "C": "HTML",
+               "D": "XML"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To remove duplicate rows from the results of an SQL SELECT statement, the ________ qualifier specified must be included.",
+          "options": {
+               "A": "ONLY",
+               "B": "UNIQUE",
+               "C": "DISTINCT",
+               "D": "SINGLE"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The SQL keyword(s) ________ is used with wildcards.",
+          "options": {
+               "A": "LIKE only",
+               "B": "IN only",
+               "C": "NOT IN only",
+               "D": "IN and NOT IN"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A subquery in an SQL SELECT statement is enclosed in:",
+          "options": {
+               "A": "braces -- {...}.",
+               "B": "CAPITAL LETTERS.",
+               "C": "parenthesis -- (...) .",
+               "D": "brackets -- [...]."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Multivalued dependencies should ________ be eliminated.",
+          "options": {
+               "A": "always",
+               "B": "commonly",
+               "C": "seldom",
+               "D": "never"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Multivalued dependencies create harmless anomalies that should be noted, but do not always need to be eliminated.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which type of entity has its relationship to another entity determined by an attribute in that other entity called a discriminator?",
+          "options": {
+               "A": "Supertype entity",
+               "B": "Subtype entity",
+               "C": "Archetype entity",
+               "D": "Instance entity"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is an SQL trigger supported by Oracle?",
+          "options": {
+               "A": "BEFORE",
+               "B": "INSTEAD OF",
+               "C": "AFTER",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The SQL statement used to create a view is CREATE VIEW.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A tool that can help designers understand the dependencies of database structures is a:",
+          "options": {
+               "A": "dependency graph.",
+               "B": "data model.",
+               "C": "graphical display.",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Oracle, the world's most popular DBMS, is powerful and robust, running on many different operating systems.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Money is defined in Oracle with the Currency data type.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Legacy data is which of the following?",
+          "options": {
+               "A": "Data contained in a newly-installed system",
+               "B": "Data rejected during the installation of a new system",
+               "C": "Data contained in a file system",
+               "D": "Data contained by a system used prior to the installation of a new system"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is true for a relational database?",
+          "options": {
+               "A": "Data is represented by tables.",
+               "B": "It is difficult to access data.",
+               "C": "Complex programs have to be written for simple queries.",
+               "D": "All of the above."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If an entity adheres to the disjoint rule, then an entity instance can be a member of more than one entity for a given supertype.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "It is usually not very important to design the physical database to minimize the time required by users to interact with the information systems.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Hashing algorithm converts a primary key value into a record address.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "ROLLBACK WORK asks SQL to empty the log file.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Activities of a DBMS occur in the processing component logic.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The extract process is which of the following?",
+          "options": {
+               "A": "Capturing all of the data contained in various operational systems",
+               "B": "Capturing a subset of the data contained in various operational systems",
+               "C": "Capturing all of the data contained in various decision support systems",
+               "D": "Capturing a subset of the data contained in various decision support systems"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

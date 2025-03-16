@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. I2. immediately3. salary4. my5. want",
+        "options": {
+            "A": "43152",
+            "B": "15432",
+            "C": "25143",
+            "D": "42351",
+            "E": "45132"
+        },
+        "correct_answer": "B",
+        "answer_description": "\"I want my salary immediately.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. do2. today3. you4. must5. it",
+        "options": {
+            "A": "34152",
+            "B": "25413",
+            "C": "12543",
+            "D": "51324",
+            "E": "45213"
+        },
+        "correct_answer": "A",
+        "answer_description": "\"You must do it today.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. left2. the3. house4. he5. suddenly",
+        "options": {
+            "A": "12435",
+            "B": "21354",
+            "C": "45123",
+            "D": "52341",
+            "E": "24135"
+        },
+        "correct_answer": "C",
+        "answer_description": "\"He suddenly left the house.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. medicine2. a3. Neeta4. given5. was",
+        "options": {
+            "A": "51423",
+            "B": "25431",
+            "C": "15423",
+            "D": "42531",
+            "E": "35421"
+        },
+        "correct_answer": "E",
+        "answer_description": "\"Neeta was given a medicine.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. of2. we3. heard4. him5. had",
+        "options": {
+            "A": "42351",
+            "B": "52341",
+            "C": "25341",
+            "D": "25431",
+            "E": "25314"
+        },
+        "correct_answer": "E",
+        "answer_description": "\"We had heard of him.\""
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "The small child does whatever his fatherwas done.",
+        "options": {
+            "A": "has done",
+            "B": "did",
+            "C": "does",
+            "D": "had done",
+            "E": "No correction required"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "You need not come unless you want to.",
+        "options": {
+            "A": "You don't need to come unless you want to",
+            "B": "You come only when you want to",
+            "C": "You come unless you don't want to",
+            "D": "You needn't come until you don't want to",
+            "E": "No correction required"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "There are not many men who are so famous that they are frequently referred to by theirshort namesonly",
+        "options": {
+            "A": "initials",
+            "B": "signatures",
+            "C": "pictures",
+            "D": "middle names",
+            "E": "No correction required"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "The manto who I soldmy house was a cheat.",
+        "options": {
+            "A": "to whom I sell",
+            "B": "to who I sell",
+            "C": "who was sold to",
+            "D": "to whom I sold",
+            "E": "No correction required"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveWhich of phrases given below each sentence should replace the phrase printed inboldtype to make the grammatically correct? If the sentence is correct as it is, mark 'E' as the answer.",
+        "image_path": null,
+        "question": "Theywere all shocked athis failure in the competition.",
+        "options": {
+            "A": "were shocked at all",
+            "B": "had all shocked at",
+            "C": "had all shocked by",
+            "D": "had been all shocked on",
+            "E": "No correction required"
+        },
+        "correct_answer": "E",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

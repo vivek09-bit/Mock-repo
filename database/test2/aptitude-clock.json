@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "options": {
+            "A": "144°",
+            "B": "150°",
+            "C": "168°",
+            "D": "180°"
+        },
+        "correct_answer": "D",
+        "answer_description": "Angle traced by the hour hand in 6 hours =360x 6°= 180°.12"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The reflex angle between the hands of a clock at 10.25 is:",
+        "options": {
+            "A": "180°",
+            "B": "1921°2",
+            "C": "195°",
+            "D": "1971°2"
+        },
+        "correct_answer": "D",
+        "answer_description": "Angle traced by hour hand in125hrs =360x125°= 3121°.1212122Angle traced by minute hand in 25 min =360x 25°= 150°.60Reflex angle = 360° -3121- 150°= 360° - 1621°= 1971°.222"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:",
+        "options": {
+            "A": "145°",
+            "B": "150°",
+            "C": "155°",
+            "D": "160°"
+        },
+        "correct_answer": "C",
+        "answer_description": "Angle traced by hour hand in 12 hrs = 360°.Angle traced by hour hand in 5 hrs 10 min.i.e.,31hrs =360x31°= 155°.6126"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:",
+        "options": {
+            "A": "597min. past 312",
+            "B": "4 p.m.",
+            "C": "587min. past 311",
+            "D": "23min. past 411"
+        },
+        "correct_answer": "B",
+        "answer_description": "Time from 7 a.m. to 4.15 p.m. = 9 hrs 15 min. =37hrs.43 min. 5 sec. of this clock = 3 min. of the correct clock.37hrs of this clock =1hrs of the correct clock.7202037hrs of this clock =1x720x37hrs of the correct clock.420374= 9 hrs of the correct clock.The correct time is 9 hrs after 7 a.m.i.e.,4 p.m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How much does a watch lose per day, if its hands coincide every 64 minutes?",
+        "options": {
+            "A": "328min.11",
+            "B": "365min.11",
+            "C": "90 min.",
+            "D": "96 min."
+        },
+        "correct_answer": "A",
+        "answer_description": "55 min. spaces are covered in 60 min.60 min. spaces are covered in60x 60min.= 655min.5511Loss in 64 min. =655- 64=16min.1111Loss in 24 hrs =16x1x 24 x 60min.=328min.116411"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To smell a rat",
+        "options": {
+            "A": "To see signs of plague epidemic",
+            "B": "To get bad small of a bad dead rat",
+            "C": "To suspect foul dealings",
+            "D": "To be in a bad mood",
+            "E": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To hit the nail right on the head",
+        "options": {
+            "A": "To do the right thing",
+            "B": "To destroy one's reputation",
+            "C": "To announce one's fixed views",
+            "D": "To teach someone a lesson",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "To do exactly the right thing; to do something in the most effective and efficient way."
+    },
+    {
+        "direction": "Directions to SolveSome proverbs/idioms are given below together with their meanings. Choose the correct meaning of proverb/idiom, If there is no correct meaning given, E (i.e.) 'None of these' will be the answer.",
+        "image_path": null,
+        "question": "To set one's face against",
+        "options": {
+            "A": "To oppose with determination",
+            "B": "To judge by appearence",
+            "C": "To get out of difficulty",
+            "D": "To look at one steadily",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,262 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Deficit financing implies",
+          "options": {
+               "A": "printing new currency notes",
+               "B": "replacing new currency with worn out currency",
+               "C": "public expenditure in excess of public revenue",
+               "D": "public revenue in excess of public expenditure"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Board of Industrial and Financial Reconstruction (BIFR) came into existence in",
+          "options": {
+               "A": "1984",
+               "B": "1986",
+               "C": "1987",
+               "D": "1989"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Lal Bahadur Shastri is also known as",
+          "options": {
+               "A": "Guruji",
+               "B": "Man of Peace",
+               "C": "Punjab Kesari",
+               "D": "Mahamana"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Liquid asset is",
+          "options": {
+               "A": "a type of asset that is in cash in the current account of the commercial bank",
+               "B": "a type of asset that is in the form of a deposit in the current account of the commercial bank",
+               "C": "either of these",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Moment of inertia is",
+          "options": {
+               "A": "vector",
+               "B": "scalar",
+               "C": "phasor",
+               "D": "tensor"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What beverage was invented by Charles Alderton in 1885 in Waco, Texas?",
+          "options": {
+               "A": "Cream soda",
+               "B": "Coca-Cola",
+               "C": "Dr. Pepper",
+               "D": "Sprite"
+          },
+          "correct_answer": "C",
+          "answer_description": "The cherry-flavored cola made its debut at Morrison's Old Corner Drugstore."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What invention caused many deaths while testing it?",
+          "options": {
+               "A": "Dynamite",
+               "B": "Ladders",
+               "C": "Race cars",
+               "D": "Parachute"
+          },
+          "correct_answer": "D",
+          "answer_description": "Many people who tried to test the first parachutes died by jumping from high places. One attempt was a parachute hat, but the inventor broke his neck while testing it. The first successful parachute was tested from a hot air balloon in 1797, in France, by Jacques Garnerin."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Experts say the healthiest way to view a computer monitor is by...",
+          "options": {
+               "A": "Placing it 18 to 30 inches away from your eyes",
+               "B": "Viewing from a darkened room",
+               "C": "Adjusting the screen for maximum contrast",
+               "D": "Using special glasses that filter out UV rays"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ramapithecus and Cro-Magnon man are considered",
+          "options": {
+               "A": "ancestors of modern man",
+               "B": "ancestors of monkey",
+               "C": "ancestors of lion",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The important industries of Assam are",
+          "options": {
+               "A": "tea processing, oil refineries and coal",
+               "B": "silk and plywood",
+               "C": "both (a) and (b)",
+               "D": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The scientist who first discovered that the earth revolves round the sun was",
+          "options": {
+               "A": "Newton",
+               "B": "Dalton",
+               "C": "Copernicus",
+               "D": "Einstein"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When did India enter into space age by launching the satellite 'Aryabhatta'?",
+          "options": {
+               "A": "1966",
+               "B": "1932",
+               "C": "1975",
+               "D": "1990"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The longest day (shortest night) in the southern hemisphere is",
+          "options": {
+               "A": "June 21",
+               "B": "December 22",
+               "C": "July 21",
+               "D": "November 22"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The process that explains the recent changes in the height of sea level in coastal areas of eastern and northern Canada and Scandinavi is",
+          "options": {
+               "A": "isostasy",
+               "B": "continental drift",
+               "C": "plate tectonics",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Who won the Grand Slam title four times successively?",
+          "options": {
+               "A": "Mortina Navratilova",
+               "B": "Steffi Graf",
+               "C": "Jennifer Capriati",
+               "D": "Monica Seles"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Jude Felix is a famous Indian player in which of the fields?",
+          "options": {
+               "A": "Volleyball",
+               "B": "Tennis",
+               "C": "Football",
+               "D": "Hockey"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The title of 'sparrow' given to",
+          "options": {
+               "A": "Napoleon",
+               "B": "Major General Rajinder Singh",
+               "C": "T. T. Krishnamachari",
+               "D": "Sardar Patel"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following awards was conferred on Mrs. Kiran Bedi?",
+          "options": {
+               "A": "Golden Globe",
+               "B": "Rani Lakshmi",
+               "C": "Magsaysay",
+               "D": "Saraswati"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "'Crime and Punishment' was written by",
+          "options": {
+               "A": "Fyodor Dostoevsky",
+               "B": "Vladimir Nabakov",
+               "C": "Lewis Carrol",
+               "D": "Alexander Solzhenitsyn"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Gypsum is added to cement clinker to",
+          "options": {
+               "A": "increase the tensile strength of cement",
+               "B": "decrease the rate of setting of cement",
+               "C": "facilitate the formation of colloidal gel",
+               "D": "bind the particles of calcium silicate"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
+        "options": {
+            "A": "East",
+            "B": "West",
+            "C": "North",
+            "D": "South"
+        },
+        "correct_answer": "C",
+        "answer_description": ""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
+        "options": {
+            "A": "North",
+            "B": "South",
+            "C": "South-East",
+            "D": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "P is in South-West of Y."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+        "options": {
+            "A": "North-East",
+            "B": "North-West",
+            "C": "South-East",
+            "D": "South-West"
+        },
+        "correct_answer": "C",
+        "answer_description": "It is clear from the diagrams that new name of West will become South-East."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+        "options": {
+            "A": "West",
+            "B": "South",
+            "C": "North-East",
+            "D": "South-West"
+        },
+        "correct_answer": "D",
+        "answer_description": "Hence required direction is South-West."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
+        "options": {
+            "A": "South-East",
+            "B": "South",
+            "C": "North",
+            "D": "West"
+        },
+        "correct_answer": "D",
+        "answer_description": "At 9.15 P.M., the minute hand will point towards west."
+    }
+]

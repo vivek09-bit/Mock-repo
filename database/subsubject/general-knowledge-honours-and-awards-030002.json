@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is the highest gallantry award in India?",
+        "options": {
+            "A": "Param Vishishtat Seva Medal",
+            "B": "Param Vir Chakra",
+            "C": "Kirti Chakra",
+            "D": "Vir Chakra"
+        },
+        "correct_answer": "B",
+        "answer_description": "The Param Vir Chakra (PVC) is India's highest military decoration awarded for the highest degree of valour or self-sacrifice in the presence of the enemy, similar to the British Victoria Cross, US Medal of Honor, Pakistani Nishan-e-Haider, or French Legion of Honor or Russian Cross of St. George."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which state gives Mewar Award?",
+        "options": {
+            "A": "Haryana",
+            "B": "Delhi",
+            "C": "Punjab",
+            "D": "Rajasthan"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who is the first Asian Winner of Nobel Prize?",
+        "options": {
+            "A": "C. V. Raman",
+            "B": "Rajiv Gandhi",
+            "C": "Rabindranath Tagore",
+            "D": "Mother Teresa"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The first Indian to receive Noble Prize in Literature was",
+        "options": {
+            "A": "Mother Teresa",
+            "B": "C. V. Raman",
+            "C": "Rabindranath Tagore",
+            "D": "Sarojini Naidu"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The first recipient of Rajiv Gandhi's 'Khel Ratna' award is",
+        "options": {
+            "A": "Vishwanathan Anand",
+            "B": "Leander Peas",
+            "C": "Kapil Dev",
+            "D": "Limba Ram"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "ODL supports which of the following types of association relationships?",
+        "options": {
+            "A": "Unary",
+            "B": "Unary and Binary",
+            "C": "Unary and Binary and Ternary",
+            "D": "Unary and Binary and Ternary and higher"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An extent is which of the following?",
+        "options": {
+            "A": "A keyword that indicates that the subclass inherits from a superclass",
+            "B": "A keyword that indicates that the superclass inherits from a subclass",
+            "C": "The set of all instances of a class within a database",
+            "D": "Only one instance of a class within a database"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Identify the class name for the following code: ABC123 course();",
+        "options": {
+            "A": "ABC123",
+            "B": "course",
+            "C": "course()",
+            "D": "All of the above."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Using ODL, you can define which of the following?",
+        "options": {
+            "A": "Attribute",
+            "B": "Structure",
+            "C": "Operation",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The keyword \"inverse\" is used in which of the following?",
+        "options": {
+            "A": "Class",
+            "B": "Attribute",
+            "C": "Relationship",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

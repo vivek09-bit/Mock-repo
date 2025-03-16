@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you check if a Python function raises a specific exception during testing?",
+        "options": {
+            "A": "Use theassertRaisesmethod from theunittestmodule",
+            "B": "Utilize theexpectExceptiondecorator",
+            "C": "Employ thecheckExceptionfunction in thetestingmodule",
+            "D": "Insert a try-except block and manually check for the exception"
+        },
+        "correct_answer": "A",
+        "answer_description": "TheassertRaisesmethod in theunittestmodule is used to check if a specific exception is raised by a Python function during testing."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thesetUpmethod in a Python test class?",
+        "options": {
+            "A": "It signals the start of the test class",
+            "B": "It initializes resources before each test method is executed",
+            "C": "It marks a test as skipped",
+            "D": "It defines the teardown logic for a test case"
+        },
+        "correct_answer": "B",
+        "answer_description": "ThesetUpmethod in a Python test class is used to initialize resources or perform setup tasks before each test method is executed."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which assertion method in theunittestmodule is used to check if two values are not equal?",
+        "options": {
+            "A": "assertEqual",
+            "B": "assertNotEqual",
+            "C": "assertTrue",
+            "D": "assertNot"
+        },
+        "correct_answer": "B",
+        "answer_description": "TheassertNotEqualmethod in theunittestmodule is used to check if two values are not equal during testing."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thetearDownmethod in a Python test class?",
+        "options": {
+            "A": "It signals the end of the test class",
+            "B": "It initializes resources before each test method is executed",
+            "C": "It marks a test as skipped",
+            "D": "It defines the teardown logic for a test case"
+        },
+        "correct_answer": "D",
+        "answer_description": "ThetearDownmethod in a Python test class is used to define the teardown or cleanup logic that should be executed after each test method."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of the@classmethoddecorator in a Python test class?",
+        "options": {
+            "A": "It marks a method as a class method",
+            "B": "It signals that the method is a test case",
+            "C": "It defines the setup logic for a test case",
+            "D": "It is not used in test classes"
+        },
+        "correct_answer": "A",
+        "answer_description": "The@classmethoddecorator in a Python test class is used to mark a method as a class method, allowing it to be called on the class itself rather than an instance."
+    }
+]

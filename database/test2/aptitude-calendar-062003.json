@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The calendar for the year 2007 will be the same for the year:",
+        "options": {
+            "A": "2014",
+            "B": "2016",
+            "C": "2017",
+            "D": "2018"
+        },
+        "correct_answer": "D",
+        "answer_description": "Count the number of odd days from the year 2007 onwards to get the sum equal to 0 odd day.Year    : 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017\nOdd day : 1    2    1    1    1    2    1    1    1    2    1Sum = 14 odd days0 odd days.Calendar for the year 2018 will be the same as for the year 2007."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a leap year?",
+        "options": {
+            "A": "700",
+            "B": "800",
+            "C": "1200",
+            "D": "2000"
+        },
+        "correct_answer": "A",
+        "answer_description": "The century divisible by 400 is a leap year.The year 700 is not a leap year."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "On 8thDec, 2007 Saturday falls. What day of the week was it on 8thDec, 2006?",
+        "options": {
+            "A": "Sunday",
+            "B": "Thursday",
+            "C": "Tuesday",
+            "D": "Friday"
+        },
+        "correct_answer": "D",
+        "answer_description": "The year 2006 is an ordinary year. So, it has 1 odd day.So, the day on 8thDec, 2007 will be 1 day beyond the day on 8thDec, 2006.But, 8thDec, 2007 is Saturday.8thDec, 2006 is Friday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "January 1, 2008 is Tuesday. What day of the week lies on Jan 1, 2009?",
+        "options": {
+            "A": "Monday",
+            "B": "Wednesday",
+            "C": "Thursday",
+            "D": "Sunday"
+        },
+        "correct_answer": "C",
+        "answer_description": "The year 2008 is a leap year. So, it has 2 odd days.1stday of the year 2008 is Tuesday (Given)So, 1stday of the year 2009 is 2 days beyond Tuesday.Hence, it will be Thursday."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+        "options": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Sunday"
+        },
+        "correct_answer": "B",
+        "answer_description": "The year 2007 is an ordinary year. So, it has 1 odd day.1stday of the year 2007 was Monday.1stday of the year 2008 will be 1 day beyond Monday.Hence, it will be Tuesday."
+    }
+]

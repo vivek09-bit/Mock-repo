@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?",
+        "options": {
+            "A": "15 m West",
+            "B": "30 m East",
+            "C": "30 m West",
+            "D": "45 m East"
+        },
+        "correct_answer": "D",
+        "answer_description": ""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two cars start from the opposite places of a main road, 150 km apart. First car runs for 25 km and takes a right turn and then runs 15 km. It then turns left and then runs for another 25 km and then takes the direction back to reach the main road. In the mean time, due to minor break down the other car has run only 35 km along the main road. What would be the distance between two cars at this point?",
+        "options": {
+            "A": "65 km",
+            "B": "75 km",
+            "C": "80 km",
+            "D": "85 km"
+        },
+        "correct_answer": "A",
+        "answer_description": ""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Starting from the point X, Jayant walked 15 m towards west. He turned left and walked 20 m. He then turned left and walked 15 m. After this he turned to his right and walked 12 m. How far and in which directions is now Jayant from X?",
+        "options": {
+            "A": "32 m, South",
+            "B": "47 m, East",
+            "C": "42 m, North",
+            "D": "27 m, South"
+        },
+        "correct_answer": "A",
+        "answer_description": ""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "One evening before sunset Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?",
+        "options": {
+            "A": "North",
+            "B": "South",
+            "C": "East",
+            "D": "Data is inadequate"
+        },
+        "correct_answer": "B",
+        "answer_description": "In the evening sun sets in West. Hence then any shadow falls in the East. Since Hema's shadow was to the right of Hema. Hence Rekha was facing towards South."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A boy rode his bicycle Northward, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km west of his starting point. How far did he ride northward initially?",
+        "options": {
+            "A": "1 km",
+            "B": "2 km",
+            "C": "3 km",
+            "D": "5 km"
+        },
+        "correct_answer": "B",
+        "answer_description": "The boy rode 2 km. Northward."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A and B together have Rs. 1210. Ifof A's amount is equal toof B's amount, how much amount does B have?",
+        "options": {
+            "A": "Rs. 460",
+            "B": "Rs. 484",
+            "C": "Rs. 550",
+            "D": "Rs. 664"
+        },
+        "correct_answer": "B",
+        "answer_description": "4A=2B155A =2x15B54A =3B2A=3B2A : B = 3 : 2.B's share = Rs.1210 x2= Rs. 484.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:",
+        "options": {
+            "A": "2 : 5",
+            "B": "3 : 5",
+            "C": "4 : 5",
+            "D": "6 : 7"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the third number bex.Then, first number = 120% ofx=120x=6x1005Second number = 150% ofx=150x=3x1002Ratio of first two numbers =6x:3x= 12x: 15x= 4 : 5.52"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A sum of money is to be distributed among A, B, C, D in the proportion of  5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+        "options": {
+            "A": "Rs. 500",
+            "B": "Rs. 1500",
+            "C": "Rs. 2000",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let the shares of A, B, C and D be Rs. 5x, Rs. 2x, Rs. 4xand Rs. 3xrespectively.Then, 4x- 3x= 1000x= 1000.B's share = Rs. 2x= Rs. (2 x 1000) = Rs. 2000."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+        "options": {
+            "A": "2 : 3 : 4",
+            "B": "6 : 7 : 8",
+            "C": "6 : 8 : 9",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "Originally, let the number of seats for Mathematics, Physics and Biology be 5x, 7xand 8xrespectively.Number of increased seats are (140% of 5x), (150% of 7x) and (175% of 8x).140x 5x,150x 7xand175x 8x1001001007x,21xand 14x.2The required ratio = 7x:21x: 14x214x: 21x: 28x2 : 3 : 4."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a mixture 60 litres, the ratio of milk and water 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:",
+        "options": {
+            "A": "20 litres",
+            "B": "30 litres",
+            "C": "40 litres",
+            "D": "60 litres"
+        },
+        "correct_answer": "D",
+        "answer_description": "Quantity of milk =60 x2litres = 40 litres.3Quantity of water in it = (60- 40) litres = 20 litres.New ratio = 1 : 2Let quantity of water to be added further bexlitres.Then, milk : water =40.20 +xNow,40=120 +x220 +x= 80x= 60.Quantity of water to be added = 60 litres."
+    }
+]

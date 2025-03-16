@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following SQL statements are helpful in database redesign?",
+        "options": {
+            "A": "Correlated subqueries only",
+            "B": "EXISTS/NOT EXISTS expressions only",
+            "C": "Both of the above are helpful",
+            "D": "None of the above are helpful."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What SQL command can be used to delete columns from a table?",
+        "options": {
+            "A": "MODIFY TABLETableNameDROP COLUMNColumnName",
+            "B": "MODIFY TABLETableNameDROPColumnName",
+            "C": "ALTER TABLETableNameDROP COLUMNColumnName",
+            "D": "ALTER TABLETableNameDROPColumnName"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Database redesign is not terribly difficult if the:",
+        "options": {
+            "A": "database is structured.",
+            "B": "database is well-designed.",
+            "C": "database has no data.",
+            "D": "database is relatively small."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which SQL-92 standard SQL command can be used to change a table name?",
+        "options": {
+            "A": "RENAME TABLE",
+            "B": "CHANGE TABLE",
+            "C": "ALTER TABLE",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The process of reading a database schema and producing a data model from that schema is known as:",
+        "options": {
+            "A": "data modeling.",
+            "B": "database design.",
+            "C": "reverse engineering.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

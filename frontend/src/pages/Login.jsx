@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import "./Login.css"; // Custom styles for the dark theme
+import "./css/Login.css"; // Custom styles for the dark theme
 
 const Login = () => {
   const [formData, setFormData] = useState({ emailOrUsername: "", password: "" });
@@ -36,7 +36,8 @@ const Login = () => {
   return (
     <div className="login-dark">
       <form onSubmit={handleSubmit}>
-        <h2 className="sr-only">Login Form</h2>
+        {/* <h2 className="sr-only">Login Form</h2> */}
+        <h2 className="">Login Form</h2>
 
         {/* Lock Icon */}
         <div className="illustration">
@@ -74,7 +75,7 @@ const Login = () => {
 
         {/* Login Button */}
         <div className="form-group">
-          <button className="btn btn-primary btn-block" type="submit">
+          <button id="design"className="" type="submit">
             Log In
           </button>
         </div>

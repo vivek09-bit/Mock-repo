@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An open-drain gate is the CMOS counterpart of ________.",
+        "options": {
+            "A": "an open-collector TTL gate",
+            "B": "a tristate TTL gate",
+            "C": "a bipolar junction transistor",
+            "D": "an emitter-coupled logic gate"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A TTL NAND gate with IIL(max)of –1.6 mA per input drives eight TTL inputs. How much current does the drive output sink?",
+        "options": {
+            "A": "–12.8 mA",
+            "B": "–8 mA",
+            "C": "–1.6 mA",
+            "D": "–25.6 mA"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The nominal value of the dc supply voltage for TTL and CMOS is ________.",
+        "options": {
+            "A": "+3 V",
+            "B": "+5 V",
+            "C": "+9 V",
+            "D": "+12 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which logic family combines the advantages of CMOS and TTL?",
+        "options": {
+            "A": "BiCMOS",
+            "B": "TTL/CMOS",
+            "C": "ECL",
+            "D": "TTL/MOS"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which equation is correct?",
+        "options": {
+            "A": "VNL= VIL(max)+ VOL(max)",
+            "B": "VNH= VOH(min)+ VIH(min)",
+            "C": "VNL= VOH(min)– VIH(min)",
+            "D": "VNH= VOH(min)– VIH(min)"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

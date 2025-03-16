@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Parliament of India cannot be regarded as a sovereign body because",
+        "options": {
+            "A": "it can legislate only on subjects entrusted to the Centre by the Constitution",
+            "B": "it has to operate within the limits prescribed by the Constitution",
+            "C": "the Supreme Court can declare laws passed by parliament as unconstitutional if they contravene the provisions of the Constitution",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The name of the Laccadive, Minicoy and Amindivi islands was changed to Lakshadweep by an Act of Parliament in",
+        "options": {
+            "A": "1970",
+            "B": "1971",
+            "C": "1972",
+            "D": "1973"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The members of the Rajya Sabha are elected by",
+        "options": {
+            "A": "the people",
+            "B": "Lok Sabha",
+            "C": "elected members of the legislative assembly",
+            "D": "elected members of the legislative council"
+        },
+        "correct_answer": "C",
+        "answer_description": "Members of Rajya Sabha are elected by the elected members of the Assemblies of States and Union territories in accordance with the system of proportional representation by means of the single transferable vote.Ref:http://rajyasabha.nic.in/rsnew/faq/freaq1.asp"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The members of the panchayat are",
+        "options": {
+            "A": "nominated by the district officer",
+            "B": "the electorates of the respective territorial constituencies",
+            "C": "nominated by local self-government minister of the state",
+            "D": "nominated by the block development organization"
+        },
+        "correct_answer": "B",
+        "answer_description": "The Members of Gram Panchayats, Panch of Gram Kutchahry, Members of Panchayat Samiti and Zila Parishad are elected directly by the electorates of the respective territorial constituencies through universal adult franchise."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The power to decide an election petition is vested in the",
+        "options": {
+            "A": "Parliament",
+            "B": "Supreme Court",
+            "C": "High courts",
+            "D": "Election Commission"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

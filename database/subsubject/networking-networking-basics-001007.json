@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command is used to upgrade an IOS on a Cisco router?",
+        "options": {
+            "A": "copy tftp run",
+            "B": "copy tftp start",
+            "C": "config net",
+            "D": "copy tftp flash"
+        },
+        "correct_answer": "D",
+        "answer_description": "Thecopy tftp flashcommand places a new file in flash memory, which is the default location for the Cisco IOS in Cisco routers."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If you wanted to delete the configuration stored in NVRAM, what would you type?",
+        "options": {
+            "A": "erase startup",
+            "B": "erase nvram",
+            "C": "delete nvram",
+            "D": "erase running"
+        },
+        "correct_answer": "A",
+        "answer_description": "The commanderase startup-configdeletes the configuration stored in NVRAM."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What protocols are used to configure trunking on a switch?VLAN Trunking ProtocolVLAN802.1QISL",
+        "options": {
+            "A": "1 and 2",
+            "B": "3 and 4",
+            "C": "1 only",
+            "D": "2 only"
+        },
+        "correct_answer": "B",
+        "answer_description": "VTP is not right because it has nothing to do with trunking except that it sends VLAN information across a trunk link. 802.1Q and ISL are used to configure trunking on a port."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Elated is to despondent as enlightened is to",
+        "options": {
+            "A": "aware",
+            "B": "ignorant",
+            "C": "miserable",
+            "D": "tolerant"
+        },
+        "correct_answer": "B",
+        "answer_description": "Elated is the opposite of despondent; enlightened is the opposite of ignorant."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Optimist is to cheerful as pessimist is to",
+        "options": {
+            "A": "gloomy",
+            "B": "mean",
+            "C": "petty",
+            "D": "helpful"
+        },
+        "correct_answer": "A",
+        "answer_description": "An optimist is a person whose outlook is cheerful. A  pessimist is a person whose outlook is gloomy. The answer is not (choice b) because a pessimist does not have to be mean. (Choices c) and d are incorrect because neither adjective describes the outlook of a pessimist."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Reptile is to lizard as flower is to",
+        "options": {
+            "A": "petal",
+            "B": "stem",
+            "C": "daisy",
+            "D": "alligator"
+        },
+        "correct_answer": "C",
+        "answer_description": "A lizard is a type of reptile; a daisy is a type of flower. Choices a and b are incorrect because a petal and a stem are parts of a flower, not types of flowers. (Choice d) is incorrect because an alligator is another type of reptile, not a type of flower."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Play is to actor as concert is to",
+        "options": {
+            "A": "symphony",
+            "B": "musician",
+            "C": "piano",
+            "D": "percussion"
+        },
+        "correct_answer": "B",
+        "answer_description": "An actor performs in a play. A musician performs at a  concert. Choices a, c, and d are incorrect because none is people who perform."
+    },
+    {
+        "direction": "Directions to SolveA good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "image_path": null,
+        "question": "Sponge is to porous as rubber is to",
+        "options": {
+            "A": "massive",
+            "B": "solid",
+            "C": "elastic",
+            "D": "inflexible"
+        },
+        "correct_answer": "C",
+        "answer_description": "A sponge is a porous material. Rubber is an elastic  material. (Choice a) is incorrect because rubber would not generally be referred to as massive. The answer is not (choice b) because even though rubber is a solid, its most noticeable characteristic is its elasticity. Choice d is incorrect because rubber has flexibility."
+    }
+]

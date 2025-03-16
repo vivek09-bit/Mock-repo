@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Pentium can address ________.",
+        "options": {
+            "A": "1 MB",
+            "B": "1 GB",
+            "C": "2 GB",
+            "D": "4 GB"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A port can be ________.",
+        "options": {
+            "A": "strictly for input",
+            "B": "strictly for output",
+            "C": "bidirectional",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a computer functional block?",
+        "options": {
+            "A": "Analog-to-digital converter",
+            "B": "Central-processing unit",
+            "C": "Memory",
+            "D": "Input/output ports"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Pentium microprocessor has a data bus of ________.",
+        "options": {
+            "A": "16 bits",
+            "B": "32 bits",
+            "C": "64 bits",
+            "D": "128 bits"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The process of jointly establishing communication is called ________.",
+        "options": {
+            "A": "DMA",
+            "B": "bidirectional addressing",
+            "C": "multiplexing",
+            "D": "handshaking"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "(17)3.5x (17)?= 178",
+        "options": {
+            "A": "2.29",
+            "B": "2.75",
+            "C": "4.25",
+            "D": "4.5"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let (17)3.5x (17)x= 178.Then, (17)3.5 +x= 178.3.5 +x= 8x= (8 - 3.5)x= 4.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifax- 1=bx- 3, then the value ofxis:ba",
+        "options": {
+            "A": "12",
+            "B": "1",
+            "C": "2",
+            "D": "72"
+        },
+        "correct_answer": "C",
+        "answer_description": "Givenax- 1=bx- 3baax- 1=a-(x- 3)=a(3 -x)bbbx- 1 = 3 -x2x= 4x= 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Given that 100.48=x, 100.70=yandxz=y2, then the value ofzis close to:",
+        "options": {
+            "A": "1.45",
+            "B": "1.88",
+            "C": "2.9",
+            "D": "3.7"
+        },
+        "correct_answer": "C",
+        "answer_description": "xz=y210(0.48z)= 10(2 x 0.70)= 101.400.48z= 1.40z=140=35= 2.9 (approx.)4812"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 5a= 3125, then the value of 5(a- 3)is:",
+        "options": {
+            "A": "25",
+            "B": "125",
+            "C": "625",
+            "D": "1625"
+        },
+        "correct_answer": "A",
+        "answer_description": "5a= 31255a= 55a= 5.5(a- 3)= 5(5 - 3)= 52= 25."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 3(x-y)= 27 and 3(x+y)= 243, thenxis equal to:",
+        "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "answer_description": "3x-y= 27 = 33x-y= 3 ....(i)3x+y= 243 = 35x+y= 5 ....(ii)On solving (i) and (ii), we getx= 4."
+    }
+]

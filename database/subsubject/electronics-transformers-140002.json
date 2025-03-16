@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the secondary voltage in the given circuit?",
+        "options": {
+            "A": "13.3 V rms in phase with the primary",
+            "B": "120 V rms in phase with the primary",
+            "C": "13.3 V rms out of phase with the primary",
+            "D": "120 V rms out of phase with the primary"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The transformer turns ratio determines",
+        "options": {
+            "A": "the ratio of primary and secondary voltages",
+            "B": "the ratio of primary and secondary currents",
+            "C": "the reflected impedance",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Mutual induction is dependent on",
+        "options": {
+            "A": "winding ratios",
+            "B": "output polarities",
+            "C": "dc voltage levels",
+            "D": "current changes"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the current through the load in the given circuit?",
+        "options": {
+            "A": "500A",
+            "B": "10 mA",
+            "C": "250 mA",
+            "D": "1.25 A"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the power dissipated in the primary of the transformer in the given circuit?",
+        "options": {
+            "A": "25 mW",
+            "B": "500 mW",
+            "C": "12.5 W",
+            "D": "62.5 W"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

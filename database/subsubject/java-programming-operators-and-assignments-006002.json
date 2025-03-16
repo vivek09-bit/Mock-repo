@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        int x=20;\n        String sup = (x < 15) ? \"small\" : (x < 22)? \"tiny\" : \"huge\";\n        System.out.println(sup);\n    }\n}",
+        "options": {
+            "A": "small",
+            "B": "tiny",
+            "C": "huge",
+            "D": "Compilation fails"
+        },
+        "correct_answer": "B",
+        "answer_description": "This is an example of a nested ternary operator. The second evaluation(x < 22)istrue, so the \"tiny\" value is assigned tosup."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        int x= 0;\n        int y= 0;\n        for (int z = 0; z < 5; z++) \n        {\n            if (( ++x > 2 ) && (++y > 2)) \n            {\n                x++;\n            }\n        }\n        System.out.println(x + \" \" + y);\n    }\n}",
+        "options": {
+            "A": "5 2",
+            "B": "5 3",
+            "C": "6 3",
+            "D": "6 4"
+        },
+        "correct_answer": "C",
+        "answer_description": "In the first two iterationsxis incremented once andyis not because of the short circuit&&operator. In the third and forth iterationsxandyare each incremented, and in the fifth iterationxis doubly incremented andyis incremented."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Test \n{\n    public static void main(String [] args) \n    {\n        int x= 0;\n        int y= 0;\n        for (int z = 0; z < 5; z++) \n        {\n            if (( ++x > 2 ) || (++y > 2)) \n            {\n                x++;\n            }\n        }\n    System.out.println(x + \" \" + y);\n    }\n}",
+        "options": {
+            "A": "5 3",
+            "B": "8 2",
+            "C": "8 3",
+            "D": "8 5"
+        },
+        "correct_answer": "B",
+        "answer_description": "The first two iterations of theforloop bothxandyare incremented. On the third iterationxis incremented, and for the first time becomes greater than 2. The short circuit or operator||keepsyfrom ever being incremented again andxis incremented twice on each of the last three iterations."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Bitwise \n{\n    public static void main(String [] args) \n    {\n        int x = 11 & 9;\n        int y = x ^ 3;\n        System.out.println( y | 12 );\n    }\n}",
+        "options": {
+            "A": "0",
+            "B": "7",
+            "C": "8",
+            "D": "14"
+        },
+        "correct_answer": "D",
+        "answer_description": "The&operator produces a 1 bit when both bits are 1. The result of the&operation is 9. The^operator produces a 1 bit when exactly one bit is 1; the result of this operation is 10. The|operator produces a 1 bit when at least one bit is 1; the result of this operation is 14."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class SSBool \n{\n    public static void main(String [] args) \n    {\n        boolean b1 = true;\n        boolean b2 = false;\n        boolean b3 = true;\n        if ( b1 & b2 | b2 & b3 | b2 ) /* Line 8 */\n            System.out.print(\"ok \");\n        if ( b1 & b2 | b2 & b3 | b2 | b1 ) /*Line 10*/\n            System.out.println(\"dokey\");\n    }\n}",
+        "options": {
+            "A": "ok",
+            "B": "dokey",
+            "C": "ok dokey",
+            "D": "No output is produced",
+            "E": "Compilation error"
+        },
+        "correct_answer": "B",
+        "answer_description": "The&operator has a higher precedence than the|operator so that on line 8b1andb2are evaluated together as areb2 & b3. The final b1 in line 10 is what causes that if test to be true. Hence it prints \"dokey\"."
+    }
+]

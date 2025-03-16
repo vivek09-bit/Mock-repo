@@ -1,0 +1,69 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference of the squares of two consecutive even integers is divisible by which of the following integers ?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the two consecutive even integers  be 2nand (2n+ 2). Then,(2n+ 2)2= (2n+ 2 + 2n)(2n+ 2 - 2n)= 2(4n+ 2)= 4(2n+ 1), which is divisible by 4."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which one of the following is a prime number ?",
+        "options": {
+            "A": "119",
+            "B": "187",
+            "C": "247",
+            "D": "551",
+            "E": "None of these"
+        },
+        "correct_answer": "E",
+        "answer_description": "551> 22All prime numbers less than 24 are : 2, 3, 5, 7, 11, 13, 17, 19, 23.119 is divisible by 7; 187 is divisible by 11; 247 is divisible by 13 and 551 is divisible by 19.So, none of the given numbers is prime."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The sum all even natural numbers between 1 and 31 is:",
+        "options": {
+            "A": "16",
+            "B": "128",
+            "C": "240",
+            "D": "512"
+        },
+        "correct_answer": "C",
+        "answer_description": "Required sum = (2 + 4 + 6 + ... + 30)This is an A.P. in whicha= 2,d= (4 - 2) = 2 andl= 30.Let the number of terms ben. Then,tn= 30a+ (n- 1)d= 302 + (n- 1) x 2 = 30n- 1 = 14n= 15Sn=n(a+l)=15x (2 + 30)   = 240.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between the place value and the face value of 6 in the numeral 856973 is",
+        "options": {
+            "A": "973",
+            "B": "6973",
+            "C": "5994",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "(Place value of 6) - (Face value of 6)  = (6000 - 6) = 5994"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ifaandbare odd numbers, then which of the following is even ?",
+        "options": {
+            "A": "a+b",
+            "B": "a+b+ 1",
+            "C": "ab",
+            "D": "ab+ 2",
+            "E": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": "The sum of two odd number is even. So, a + b is even."
+    }
+]

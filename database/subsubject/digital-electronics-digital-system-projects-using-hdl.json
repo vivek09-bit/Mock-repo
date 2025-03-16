@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a frequency counter, what happens at high frequencies when the sampling interval is too long?",
+        "options": {
+            "A": "The counter works fine.",
+            "B": "The counter undercounts the frequency.",
+            "C": "The measurement is less precise.",
+            "D": "The counter overflows."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the digital clock project, when does the PM indicator go high?",
+        "options": {
+            "A": "Never",
+            "B": "Going from 11:59:59 to 12:00:00",
+            "C": "Going from 12:59:59 to 01:00:00",
+            "D": "On the falling edge of the clock after enable goes high"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is the output frequency related to the sampling interval of a frequency counter?",
+        "options": {
+            "A": "Directly with the sampling interval",
+            "B": "Inversely with the sampling interval",
+            "C": "More precision with longer sampling interval",
+            "D": "Less precision with longer sampling interval"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In an HDL application of a stepper motor, after an up/down counter is built what is done next?",
+        "options": {
+            "A": "Build the sequencer",
+            "B": "Test it on a simulator",
+            "C": "Test the decoder",
+            "D": "Design an intermediate integer variable"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a digital clock application, the basic frequency must be divided down to:",
+        "options": {
+            "A": "1 Hz.",
+            "B": "60 Hz.",
+            "C": "100 Hz.",
+            "D": "1000 Hz."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

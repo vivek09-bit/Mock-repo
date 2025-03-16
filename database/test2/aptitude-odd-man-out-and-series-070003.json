@@ -1,0 +1,54 @@
+[
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "331, 482, 551, 263, 383, 362, 284",
+        "options": {
+            "A": "263",
+            "B": "383",
+            "C": "331",
+            "D": "551"
+        },
+        "correct_answer": "B",
+        "answer_description": "In each number except 383, the product of first and third digits is the middle one."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "835, 734, 642, 751, 853, 981, 532",
+        "options": {
+            "A": "751",
+            "B": "853",
+            "C": "981",
+            "D": "532"
+        },
+        "correct_answer": "A",
+        "answer_description": "In each number except 751, the difference of third and first digit is the middle one."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "41, 43, 47, 53, 61, 71, 73, 81",
+        "options": {
+            "A": "61",
+            "B": "71",
+            "C": "73",
+            "D": "81"
+        },
+        "correct_answer": "D",
+        "answer_description": "Each of the numbers except 81 is a prime number."
+    },
+    {
+        "direction": "Directions to SolveFind the odd man out.",
+        "image_path": null,
+        "question": "3, 5, 7, 12, 17, 19",
+        "options": {
+            "A": "19",
+            "B": "17",
+            "C": "5",
+            "D": "12"
+        },
+        "correct_answer": "D",
+        "answer_description": "Each of the numbers is a prime number except 12."
+    }
+]

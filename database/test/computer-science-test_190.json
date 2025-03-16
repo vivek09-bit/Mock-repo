@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following applies to external DOS commands?",
+          "options": {
+               "A": "External commands reside in RAM until called",
+               "B": "External commands are stored on disk separately from COMMAND.COM",
+               "C": "External commands must always be used with the /e switch",
+               "D": "External commands can only be executed from a batch file.",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While working with MS-DOS, which command is used to restore files that were backed up using the BACKUP command?",
+          "options": {
+               "A": "COPY",
+               "B": "DISKCOPY",
+               "C": "RESTORE",
+               "D": "STORE",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The buffers statement is found in what file?",
+          "options": {
+               "A": "Config.sys",
+               "B": "Autoexec.ncf",
+               "C": "Autoexec.bat",
+               "D": "Neb.cfg",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Upper Memory blocks are located where?",
+          "options": {
+               "A": "Conventional Memory",
+               "B": "Extended Memory",
+               "C": "Expanded memory",
+               "D": "Reserved Memory",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What command would you type to list all of the files in the current directory?",
+          "options": {
+               "A": "DIR",
+               "B": "LIST ALL",
+               "C": "SHOW",
+               "D": "SHOW ME",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The _____ command allows you to modify the default prompt to provide other information",
+          "options": {
+               "A": "prompt",
+               "B": "windows",
+               "C": "cursor",
+               "D": "click",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To find out how much memory is available, you could type______.",
+          "options": {
+               "A": "EMM",
+               "B": "MEM",
+               "C": "CHKDSK",
+               "D": "MEMMAKER",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While working with MS-DOS, which command is used to display the contents of a file and pause the display after each screenful of information?",
+          "options": {
+               "A": "TYPE filename | MORE",
+               "B": "CAT filename | MORE",
+               "C": "CAT filename | pg",
+               "D": "MORE filename",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to suppress the prompt that asks you to confirm that you want to delete the directory?",
+          "options": {
+               "A": "DELTREE",
+               "B": "DELTREE/F",
+               "C": "DEL*.*",
+               "D": "ERASE *.*",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "After searching the current directory where does command.com search next?",
+          "options": {
+               "A": "C:\\DOS\\UTILITIES",
+               "B": "Config.sys",
+               "C": "Autoexec.bat",
+               "D": "The Path Statement",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While working with MS-DOS, which command will you use to transfer a specific file from one disk to another?",
+          "options": {
+               "A": "COPY",
+               "B": "DISKCOPY",
+               "C": "TIME",
+               "D": "RENAME",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is executed before the others when a computer is first turned on?",
+          "options": {
+               "A": "Device=c:\\emm386.exe",
+               "B": "Device=c:\\dos\\himem.sys",
+               "C": "Prompt=$p$g",
+               "D": "Patch c:\\dos",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Filename extensions help identify certain files. What filename extension identifies command files?",
+          "options": {
+               "A": "COM",
+               "B": "BAT",
+               "C": "EXE",
+               "D": "SYS",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command of DOS is used to sort the file in reverse order?",
+          "options": {
+               "A": "SORT > filename",
+               "B": "SORT < filename",
+               "C": "SORT/R < filename",
+               "D": "SORT/V < filename",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which command is used to display the subdirectory structure of the currently logged drive and pause the screen display after each screenful of information?",
+          "options": {
+               "A": "TREE",
+               "B": "DELTREE/F",
+               "C": "DIR | MORE",
+               "D": "TREE | MORE",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is LEAST likely to interfere with upgrading to a newer DOS version?",
+          "options": {
+               "A": "ROM BIOS",
+               "B": "Video controller",
+               "C": "Compressed drives",
+               "D": "Existing backup files",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "You suspect that your automatic modem dialer is not working correctly. Which of the following commands will manually dial the number 123-4567?",
+          "options": {
+               "A": "AT1234567",
+               "B": "ATDT1234567",
+               "C": "AT1234567DL",
+               "D": "ATM 1234567",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "DOS uses letters of the alphabet to designate disk drives. How many disk drives can DOS address (recognize)?",
+          "options": {
+               "A": "4",
+               "B": "26",
+               "C": "1",
+               "D": "16",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While working with MS-DOS, which command is used to switch to the monochrome display from color display?",
+          "options": {
+               "A": "MODE BLACK",
+               "B": "MODE B/W",
+               "C": "MODE MONO",
+               "D": "MODE CO40",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "While working with MS-DOS, which command is used to restore only those files modified since the last backup, from the drive A to the currently logged drive or directory?",
+          "options": {
+               "A": "RESTORE A: *.*/S",
+               "B": "RESTORE A: *.*/M",
+               "C": "RESTORE A: *.*/N",
+               "D": "RESTORE A: *.*/L",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

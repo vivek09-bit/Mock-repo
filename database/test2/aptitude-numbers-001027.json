@@ -1,0 +1,71 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A number when divided successively by 4 and 5 leaves remainders 1 and 4 respectively. When it is successively divided by 5 and 4, then the respective remainders will be",
+        "options": {
+            "A": "1, 2",
+            "B": "2, 3",
+            "C": "3, 2",
+            "D": "4, 1"
+        },
+        "correct_answer": "B",
+        "answer_description": "4 |xy= (5 x 1 + 4) = 9\n --------\n 5 |y-1x= (4 xy+ 1) = (4 x 9 + 1) = 37\n --------\n   | 1 -4\n\n Now, 37 when divided successively by 5 and 4, we get\n\n 5 | 37\n ---------\n 4 | 7 - 2\n ---------\n   | 1 - 3\n \n Respective remainders are 2 and 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "8796 x 223 + 8796 x 77 = ?",
+        "options": {
+            "A": "2736900",
+            "B": "2638800",
+            "C": "2658560",
+            "D": "2716740",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "8796 x 223 + 8796 x 77= 8796 x (223 + 77)    [Ref:By Distributive Law]= (8796 x 300)= 2638800"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "8988 ÷ 8 ÷ 4 = ?",
+        "options": {
+            "A": "4494",
+            "B": "561.75",
+            "C": "2247",
+            "D": "280.875",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given Exp. = 8988 x1x1=2247= 280.875848"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "287 x 287 + 269 x 269 - 2 x 287 x 269 = ?",
+        "options": {
+            "A": "534",
+            "B": "446",
+            "C": "354",
+            "D": "324",
+            "E": "None of these"
+        },
+        "correct_answer": "D",
+        "answer_description": "Given Exp.=a2+b2- 2ab, wherea= 287 andb= 269= (a - b)2= (287 - 269)2= (182)= 324"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "3 + 33 + 333 + 3.33 = ?",
+        "options": {
+            "A": "362.3",
+            "B": "372.33",
+            "C": "702.33",
+            "D": "702",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "3\n+  33\n+ 333\n+   3.33\n  ------\n  372.33\n  ------"
+    }
+]

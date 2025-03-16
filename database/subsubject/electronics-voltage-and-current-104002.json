@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The battery symbol is:",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What type of switch is this?",
+        "options": {
+            "A": "push button",
+            "B": "SPST",
+            "C": "DPDT",
+            "D": "SPDT"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Primary batteries, unlike secondary batteries, may be:",
+        "options": {
+            "A": "charged once",
+            "B": "used once",
+            "C": "recharged over and over",
+            "D": "stored indefinitely"
+        },
+        "correct_answer": "B",
+        "answer_description": "Primary batteries (disposable batteries), which are designed to be used once and discarded when they are exhausted.Secondary batteries (rechargeable batteries), which are designed to be recharged and used multiple times."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In practical applications, battery voltage:",
+        "options": {
+            "A": "is restored as soon as disconnect occurs",
+            "B": "is lowered as the load increases",
+            "C": "may be stored indefinitely",
+            "D": "will be reduced to zero as power is drawn"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The negative and positive charge symbols are assigned (in that order) to the:",
+        "options": {
+            "A": "proton and electron",
+            "B": "electron and proton",
+            "C": "atom and nucleus",
+            "D": "electron and element"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

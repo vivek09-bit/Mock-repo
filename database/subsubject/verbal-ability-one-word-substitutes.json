@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "Extreme old age when a man behaves like a fool",
+        "options": {
+            "A": "Imbecility",
+            "B": "Senility",
+            "C": "Dotage",
+            "D": "Superannuation"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "That which cannot be corrected",
+        "options": {
+            "A": "Unintelligible",
+            "B": "Indelible",
+            "C": "Illegible",
+            "D": "Incorrigible"
+        },
+        "correct_answer": "D",
+        "answer_description": "Incorrigible (Adjective): (of a person or their tendencies) Not able to be corrected, improved, or reformed."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "The study of ancient societies",
+        "options": {
+            "A": "Anthropology",
+            "B": "Archaeology",
+            "C": "History",
+            "D": "Ethnology"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "A person of good understanding knowledge and reasoning power",
+        "options": {
+            "A": "Expert",
+            "B": "Intellectual",
+            "C": "Snob",
+            "D": "Literate"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveIn questions given below out of four alternatives, choose the one which can be substituted for the given word/sentence.",
+        "image_path": null,
+        "question": "A person who insists on something",
+        "options": {
+            "A": "Disciplinarian",
+            "B": "Stickler",
+            "C": "Instantaneous",
+            "D": "Boaster"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

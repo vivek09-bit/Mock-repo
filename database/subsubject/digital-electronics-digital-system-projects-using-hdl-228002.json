@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the keypad application, what does the data signal define?",
+        "options": {
+            "A": "The row and column encoded data",
+            "B": "The ring encoded data",
+            "C": "The freeze locator data",
+            "D": "The ring counter data"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does the ring counter in the HDL keypad application do when a key is pressed?",
+        "options": {
+            "A": "Count to find the row",
+            "B": "Freeze",
+            "C": "Count to find the column",
+            "D": "Start the D flip-flop"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the digital clock project, the purpose of the frequency prescaler is to:",
+        "options": {
+            "A": "find the basic frequency.",
+            "B": "transform a 60 pps input to a 1 pps timing signal.",
+            "C": "prevent the clock from exceeding 12:59:59.",
+            "D": "allow the BCD display to have a value from 00–59."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not a step that should be followed in project management?",
+        "options": {
+            "A": "Overall definition",
+            "B": "System documentation",
+            "C": "Synthesis and testing",
+            "D": "System integration"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In the keypad application, what does the preset state of the ring counter define?",
+        "options": {
+            "A": "The proper output of the column encoder",
+            "B": "The NANDing of the rows",
+            "C": "The NANDing of the columns",
+            "D": "The proper output of the row encoder"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements is not correct?",
+        "options": {
+            "A": "log1010 = 1",
+            "B": "log (2 + 3) = log (2 x 3)",
+            "C": "log101 = 0",
+            "D": "log (1 + 2 + 3) = log 1 + log 2 + log 3"
+        },
+        "correct_answer": "B",
+        "answer_description": "(a) Since logaa= 1, so log1010 = 1.(b) log (2 + 3) = log 5 and log (2 x 3) = log 6 = log 2 + log 3log (2 + 3)log (2 x 3)(c) Since loga1 = 0, so log101 = 0.(d) log (1 + 2 + 3) = log 6 = log (1 x 2 x 3) = log 1 + log 2 + log 3.So, (b) is incorrect."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log 2 = 0.3010 and log 3 = 0.4771, the value of log5512 is:",
+        "options": {
+            "A": "2.870",
+            "B": "2.967",
+            "C": "3.876",
+            "D": "3.912"
+        },
+        "correct_answer": "C",
+        "answer_description": "log5512=log 512log 5=log 29log (10/2)=9 log 2log 10 - log 2=(9 x 0.3010)1 - 0.3010=2.7090.699=2709699= 3.876"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "log8is equal to:log 8",
+        "options": {
+            "A": "18",
+            "B": "14",
+            "C": "12",
+            "D": "18"
+        },
+        "correct_answer": "C",
+        "answer_description": "log8=log (8)1/2=log 8=1.log 8log 8log 82"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If log 27 = 1.431, then the value of log 9 is:",
+        "options": {
+            "A": "0.934",
+            "B": "0.945",
+            "C": "0.954",
+            "D": "0.958"
+        },
+        "correct_answer": "C",
+        "answer_description": "log 27 = 1.431log (33) = 1.4313 log 3 = 1.431log 3 = 0.477log 9 = log(32) = 2 log 3 = (2 x 0.477) = 0.954."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If loga+logb= log (a+b), then:ba",
+        "options": {
+            "A": "a+b= 1",
+            "B": "a-b= 1",
+            "C": "a=b",
+            "D": "a2-b2= 1"
+        },
+        "correct_answer": "A",
+        "answer_description": "loga+ logb= log (a+b)balog (a+b) = logaxb= log 1.baSo,a+b= 1."
+    }
+]

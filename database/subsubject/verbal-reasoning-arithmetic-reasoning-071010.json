@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The total number of digits used in numbering the pages of a book having 366 pages is",
+        "options": {
+            "A": "732",
+            "B": "990",
+            "C": "1098",
+            "D": "1305"
+        },
+        "correct_answer": "B",
+        "answer_description": "Total number of digits= (No. of digits in 1- digit page nos. + No. of digits in 2-digit page nos. + No. of digits in 3- digit page nos.)= (1 x 9 + 2 x 90 + 3 x 267) = (9 + 180 + 801) = 990."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a family, each daughter has the same number of brothers as she has sisters and each son has twice as many sisters as he has brothers. How many sons are there in the family ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let d and s represent the number of daughters and sons respectively.Then, we have :d - 1 = s       and       2 (s - 1) = d.Solving these two equations, we get: d = 4, s = 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "At a dinner party every two guests used a bowl of rice between them, every three guests used a bowl of dal between them and every four used a bowl of meat between them. There were altogether 65 dishes. How many guests were present at the party ?",
+        "options": {
+            "A": "60",
+            "B": "65",
+            "C": "90",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "answer_description": ""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ayush was born two years after his father's marriage. His mother is five years younger than his father but 20 years older than Ayush who is 10 years old. At what age did the father get married ?",
+        "options": {
+            "A": "23 years",
+            "B": "25 years",
+            "C": "33 years",
+            "D": "35 years"
+        },
+        "correct_answer": "A",
+        "answer_description": "Ayush's present age = 10 years.His mother's present age = (10 + 20) years = 30 years.Ayush's father's present age = (30 + 5) years = 35 years.Ayush's father's age at the time of Ayush's birth = (35 - 10) years = 25 years.Therefore Ayush's father's age at the time of marriage = (25 - 2) years = 23 years."
+    }
+]

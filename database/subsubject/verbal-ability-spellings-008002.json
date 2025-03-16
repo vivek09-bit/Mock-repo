@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Treachrous",
+            "B": "Trecherous",
+            "C": "Trechearous",
+            "D": "Treacherous"
+        },
+        "correct_answer": "D",
+        "answer_description": "Treacherous means guilty of or involving betrayal or deception."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Forcast",
+            "B": "Forecaste",
+            "C": "Forcaust",
+            "D": "Forecast"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Rigerous",
+            "B": "Rigourous",
+            "C": "Regerous",
+            "D": "Rigorous"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Palete",
+            "B": "Palet",
+            "C": "Palate",
+            "D": "Pelate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Bouquete",
+            "B": "Bouquette",
+            "C": "Bouquet",
+            "D": "Boqquet"
+        },
+        "correct_answer": "C",
+        "answer_description": "Bouquet - bunch of flowers, nosegay, fragrance of a wine, compliment."
+    }
+]

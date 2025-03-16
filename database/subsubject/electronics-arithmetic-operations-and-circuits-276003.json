@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Binary subtraction of a decimal 15 from 43 will utilize which two's complement?",
+        "options": {
+            "A": "101011",
+            "B": "110000",
+            "C": "011100",
+            "D": "110001"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When multiplying in binary the decimal values 13 × 11, what is the third partial product?",
+        "options": {
+            "A": "100000",
+            "B": "100001",
+            "C": "0000",
+            "D": "1011"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The range of an 8-bit two's complement word is from:",
+        "options": {
+            "A": "+12810to –12810",
+            "B": "–12810to +12710",
+            "C": "+12810to –12710",
+            "D": "+12710to –12710"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

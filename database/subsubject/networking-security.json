@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true regarding access lists applied to an interface?",
+        "options": {
+            "A": "You can place as many access lists as you want on any interface until you run out of memory.",
+            "B": "You can apply only one access list on any interface.",
+            "C": "One access list may be configured, per direction, for each layer 3 protocol configured on an interface.",
+            "D": "You can apply two access lists to any interface."
+        },
+        "correct_answer": "C",
+        "answer_description": "A Cisco router has rules regarding the placement of access lists on a router interface. You can place one access list per direction for each layer 3 protocol configured on an interface."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which command would you use to apply an access list to a router interface?",
+        "options": {
+            "A": "ip access-list 101 out",
+            "B": "access-list ip 101 in",
+            "C": "ip access-group 101 in",
+            "D": "access-group ip 101 in"
+        },
+        "correct_answer": "C",
+        "answer_description": "To apply an access list, the proper command isip access-group 101 in."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is an example of a standard IP access list?",
+        "options": {
+            "A": "access-list 110 permit host 1.1.1.1",
+            "B": "access-list 1 deny 172.16.10.1 0.0.0.0",
+            "C": "access-list 1 permit 172.16.10.1 255.255.0.0",
+            "D": "access-list standard 1.1.1.1"
+        },
+        "correct_answer": "B",
+        "answer_description": "Standard IP access lists use the numbers 1-99 and 1300-1999 and filter based on source IP address only. Option C is incorrect because the mask must be in wildcard format."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need to create an access list that will prevent hosts in the network range of 192.168.160.0 to 192.168.191.0. Which of the following lists will you use?",
+        "options": {
+            "A": "access-list 10 deny 192.168.160.0 255.255.224.0",
+            "B": "access-list 10 deny 192.168.160.0 0.0.191.255",
+            "C": "access-list 10 deny 192.168.160.0 0.0.31.255",
+            "D": "access-list 10 deny 192.168.0.0 0.0.31.255"
+        },
+        "correct_answer": "C",
+        "answer_description": "The range of 192.168.160.0 to 192.168.191.0 is a block size of 32. The network address is 192.168.160.0 and the mask would be 255.255.224.0, which for an access list must be a wildcard format of 0.0.31.255. The 31 is used for a block size of 32. The wildcard is always one less than the block size."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You are working on a router that has established privilege levels that restrict access to certain functions. You discover that you are not able to execute the commandshow running-configuration. How can you view and confirm the access lists that have been applied to the Ethernet 0 interface on your router?",
+        "options": {
+            "A": "show access-lists",
+            "B": "show interface Ethernet 0",
+            "C": "show ip access-lists",
+            "D": "show ip interface Ethernet 0"
+        },
+        "correct_answer": "D",
+        "answer_description": "The only command that shows which access lists have been applied to an interface isshow ip interface Ethernet 0. The commandshow access-listsdisplays all configured access lists, andshow ip access-listsdisplays all configured IP access lists, but neither command indicates whether the displayed access lists have been applied to an interface."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.gorblflurmeans fan beltpixngorblmeans ceiling fanarthtuslmeans tile roofWhich word could mean \"ceiling tile\"?",
+        "options": {
+            "A": "gorbltusl",
+            "B": "flurgorbl",
+            "C": "arthflur",
+            "D": "pixnarth"
+        },
+        "correct_answer": "D",
+        "answer_description": "Gorblmeans fan;flurmeans belt;pixnmeans ceiling;arthmeans tile; andtuslmeans roof. Therefore,pixnarthis the correct choice."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.haplleshmeans cloudburstsrenchochmeans pinballresbosrenchmeans ninepinWhich word could mean \"cloud nine\"?",
+        "options": {
+            "A": "leshsrench",
+            "B": "ochhapl",
+            "C": "haploch",
+            "D": "haplresbo"
+        },
+        "correct_answer": "D",
+        "answer_description": "Haplmeans cloud;leshmeans burst;srenchmeans pin;ochmeans ball; andresbomeans nine.Leshsrench(choice a) doesn't contain any of the words needed for cloud nine. We know that och means ball, so that rules out choices b and c. When you combinehapl(cloud) withresbo(nine), you  get the correct answer"
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.agnoscreniameans poisonous spiderdelanocreniameans poisonous snakeagnosdeerymeans brown spiderWhich word could mean \"black widow spider\"?",
+        "options": {
+            "A": "deeryclostagnos",
+            "B": "agnosdelano",
+            "C": "agnosvitriblunin",
+            "D": "trymuttiagnos"
+        },
+        "correct_answer": "C",
+        "answer_description": "In this language, the noun appears first and the adjectives follow. Sinceagnosmeans spider and should appear first, choices a and d can be ruled out. Choice b can be ruled out becausedelanomeans snake."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.moolokarnmeans blue skywilkospadimeans bicycle racemoolowilkomeans blue bicycleWhich word could mean \"racecar\"?",
+        "options": {
+            "A": "wilkozwet",
+            "B": "spadiwilko",
+            "C": "moolobreil",
+            "D": "spadivolo"
+        },
+        "correct_answer": "D",
+        "answer_description": "Fromwilkospadi, you can determine thatwilkomeans bicicyle andspadimeans race. Therefore, the first part of the word that means racecar should begin withspadi. That limits your choices to b and d. Choice b,spadiwilko, is incorrect because we have already determined that wilkomeans bicycle. Therefore, the answer must be choice d,spadivolo."
+    },
+    {
+        "direction": "Directions to SolveFirst, you will be given a list of three \"nonsense\" words and their English word meanings. The question(s) that follow will ask you to reverse the process and translate an English word into the artificial language.",
+        "image_path": null,
+        "question": "Here are some words translated from an artificial language.migenlasanmeans cupboardlasanpoenmeans boardwalkcuopdansameans pullmanWhich word could mean \"walkway\"?",
+        "options": {
+            "A": "poenmigen",
+            "B": "cuopeisel",
+            "C": "lasandansa",
+            "D": "poenforc"
+        },
+        "correct_answer": "D",
+        "answer_description": "Migenmeans cup;lasanmeans board;poenmeans walk;cuopmeans pull; anddansameans man. The only possible choices, then, are choices a and d. Choice a can be ruled out becausemigenmeans cup."
+    }
+]

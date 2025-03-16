@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 6% stock yields 8%. The market value of the stock is:",
+        "options": {
+            "A": "Rs. 48",
+            "B": "Rs. 75",
+            "C": "Rs. 96",
+            "D": "Rs. 133.33"
+        },
+        "correct_answer": "B",
+        "answer_description": "For an income of Rs. 8, investment = Rs. 100.For an income of Rs. 6, investment = Rs.100x 6= Rs. 75.8Market value of Rs. 100 stock = Rs. 75."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man invested Rs. 4455 in Rs. 10 shares quoted at Rs. 8.25. If the rate of dividend be 12%, his annual income is:",
+        "options": {
+            "A": "Rs. 207.40",
+            "B": "Rs. 534.60",
+            "C": "Rs. 648",
+            "D": "Rs. 655.60"
+        },
+        "correct_answer": "C",
+        "answer_description": "Number of shares =4455= 540.8.25Face value = Rs. (540 x 10) = Rs. 5400.Annual income = Rs.12x 5400= Rs. 648.100"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Rs. 9800 are invested partly in 9% stock at 75 and 10% stock at 80 to have equal amount of incomes. The investment in 9% stock is:",
+        "options": {
+            "A": "Rs. 4800",
+            "B": "Rs. 5000",
+            "C": "Rs. 5400",
+            "D": "Rs. 5600"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the investment in 9% stock be Rs.x.Then, investment in 10% stock = Rs. (9800 -x).9xx=10x (9800 -x)75803x=9800 -x25824x= 9800 x 25 - 25x49x= 9800 x 25x= 5000."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A man invests some money partly in 9% stock at 96 and partly in 12% stock at 120. To obtain equal dividends from both, he must invest the money in the ratio:",
+        "options": {
+            "A": "3 : 4",
+            "B": "3 : 5",
+            "C": "4 : 5",
+            "D": "16 : 15"
+        },
+        "correct_answer": "D",
+        "answer_description": "For an income of Re. 1 in 9% stock at 96, investment = Rs.96= Rs.3293For an income Re. 1 in 12% stock at 120, investment = Rs.120= Rs. 10.12Ratio of investments =32: 10 = 32 : 30 = 16 : 15.3"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "By investing Rs. 1620 in 8% stock, Michael earns Rs. 135. The stock is then quoted at:",
+        "options": {
+            "A": "Rs. 80",
+            "B": "Rs. 96",
+            "C": "Rs. 106",
+            "D": "Rs. 108"
+        },
+        "correct_answer": "B",
+        "answer_description": "To earn Rs. 135, investment = Rs. 1620.To earn Rs. 8, investment = Rs.1620x 8= Rs. 96.135Market value of Rs. 100 stock = Rs.  96."
+    }
+]

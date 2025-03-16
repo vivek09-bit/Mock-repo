@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An active-HIGH input S-R latch has a 1 on theSinput and a 0 on theRinput. What state is the latch in?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If both inputs of anS-Rflip-flop are LOW, what will happen when the clock goes high?",
+        "options": {
+            "A": "No change will occur in the output.",
+            "B": "An invalid state will exist.",
+            "C": "The output will toggle.",
+            "D": "The output will reset."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Four J-K flip-flops are cascaded with their J-K inputs tied HIGH. If the input frequency (fin) to the first flip-flop is 32 kHz, the output frequency (fout) is ________.",
+        "options": {
+            "A": "1 kHz",
+            "B": "2 kHz",
+            "C": "4 kHz",
+            "D": "16 kHz"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

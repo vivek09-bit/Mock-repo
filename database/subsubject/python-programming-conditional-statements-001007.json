@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the following code?num = 0\r\nif num:\r\n    print(\"Non-zero\")\r\nelse:\r\n    print(\"Zero\")",
+        "options": {
+            "A": "Non-zero",
+            "B": "Zero",
+            "C": "Error",
+            "D": "No output"
+        },
+        "correct_answer": "B",
+        "answer_description": "The conditionif numchecks ifnumis truthy. Sincenumis 0, which is falsy, the code inside theelseblock is executed, printing \"Zero.\""
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the correct way to handle multiple exceptions in atry-exceptblock?",
+        "options": {
+            "A": "try:\r\n    # code block\r\nexcept Exception1:\r\n    # handle Exception1\r\nexcept Exception2:\r\n    # handle Exception2",
+            "B": "try:\r\n    # code block\r\nexcept Exception1, Exception2:\r\n    # handle exceptions",
+            "C": "try:\r\n    # code block\r\nexcept (Exception1, Exception2):\r\n    # handle exceptions",
+            "D": "try:\r\n    # code block\r\ncatch Exception1:\r\n    # handle Exception1\r\ncatch Exception2:\r\n    # handle Exception2"
+        },
+        "correct_answer": "C",
+        "answer_description": "The correct syntax is to use a tuple in theexceptclause to handle multiple exceptions."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you check if a key exists in a dictionary?",
+        "options": {
+            "A": "Usingif key in dict",
+            "B": "Usingif exists(dict[key])",
+            "C": "Usingif contains(dict, key)",
+            "D": "Usingif key: dict"
+        },
+        "correct_answer": "A",
+        "answer_description": "Theinkeyword is used to check if a key exists in a dictionary in Python."
+    }
+]

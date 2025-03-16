@@ -1,0 +1,68 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+        "options": {
+            "A": "35",
+            "B": "36",
+            "C": "45",
+            "D": "54"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the number bex.Then,1of1ofx= 15x= 15 x 3 x 4 = 180.34So, required number =3x 180= 54.10Video Explanation:https://youtu.be/z49OUnzTnwY"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is:",
+        "options": {
+            "A": "9",
+            "B": "11",
+            "C": "13",
+            "D": "15"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the three integers bex,x+ 2 andx+ 4.Then, 3x= 2(x+ 4) + 3x= 11.Third integer =x+ 4 = 15.Video Explanation:https://youtu.be/_77C9YE321Y"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "9",
+            "D": "Cannot be determined",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the ten's digit bexand unit's digit bey.Then, (10x+y) - (10y+x) = 369(x-y) = 36x-y= 4.Video Explanation:https://youtu.be/7QOJjAmGVx0"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2 ?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "16",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "Since the number is greater than the number obtained on reversing the digits, so the ten's digit is greater than the unit's digit.Let ten's and unit's digits be 2xandxrespectively.Then, (10 x 2x+x) - (10x+ 2x) = 369x= 36x= 4.Required difference = (2x+x) - (2x-x) = 2x= 8."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is:",
+        "options": {
+            "A": "18",
+            "B": "24",
+            "C": "42",
+            "D": "81"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the ten's and unit digit bexand8respectively.xThen,10x+8+ 18 = 10 x8+xxx10x2+ 8 + 18x= 80 +x29x2+ 18x- 72 = 0x2+ 2x- 8 = 0(x+ 4)(x- 2) = 0x= 2."
+    }
+]

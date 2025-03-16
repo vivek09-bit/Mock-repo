@@ -1,0 +1,252 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Ashort integeris at least 16 bits wide and along integeris at least 32 bits wide.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "The basic C compiler is 16 bit compiler, below are the size of it's data typesThe size ofshort intis 2 bytes wide(16 bits).The size oflong intis 4 bytes wide(32 bits)."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which order do the following gets evaluated1.Relational2.Arithmetic3.Logical4.Assignment",
+          "options": {
+               "A": "2134",
+               "B": "1234",
+               "C": "4321",
+               "D": "3214"
+          },
+          "correct_answer": "A",
+          "answer_description": "2. Arithmetic operators:*, /, %, +, -1. Relational operators:>, <, >=, <=, ==, !=3. Logical operators   :!, &&, ||4. Assignment operators:="
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following correctly shows the hierarchy of arithmetic operations in C?",
+          "options": {
+               "A": "/ + * -",
+               "B": "* - / +",
+               "C": "+ - / *",
+               "D": "/ * + -"
+          },
+          "correct_answer": "D",
+          "answer_description": "Simply called as BODMAS (Bracket of Division, Multiplication, Addition and Subtraction).How Do I Remember ? BODMAS !B- Brackets firstO- Orders (ie Powers and Square Roots, etc.)DM- Division and Multiplication (left-to-right)AS- Addition and Subtraction (left-to-right)"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Associativity has no role to play unless the precedence of operator is same.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Associativity is only needed when the operators in an expression have the same precedence. Usually+and-have the same precedence.Consider the expression7 - 4 + 2. The result could be either(7 - 4) + 2 = 5or7 - (4 + 2) = 1. The former result corresponds to the case when+and-are left-associative, the latter to when+and-are right-associative.Usually the addition, subtraction, multiplication, and division operators are left-associative, while the exponentiation, assignment and conditional operators are right-associative. To prevent cases where operands would be associated with two operators, or no operator at all, operators with the same precedence must have the same associativity."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Afloatoccupies 4 bytes. If the hexadecimal equivalent of these 4 bytes are A, B, C and D, then when thisfloatis stored in memory in which of the following order do these bytes gets stored?",
+          "options": {
+               "A": "ABCD",
+               "B": "DCBA",
+               "C": "0xABCD",
+               "D": "Depends on big endian or little endian architecture"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "If the binary eauivalent of 5.375 in normalised form is 0100 0000 1010 1100 0000 0000 0000 0000, what will be the output of the program (on intel machine)?#include<stdio.h>\n#include<math.h>\nint main()\n{\n    float a=5.375;\n    char *p;\n    int i;\n    p = (char*)&a;\n    for(i=0; i<=3; i++)\n        printf(\"%02x\\n\", (unsigned char)p[i]);\n    return 0;\n}",
+          "options": {
+               "A": "40 AC 00 00",
+               "B": "04 CA 00 00",
+               "C": "00 00 AC 40",
+               "D": "00 00 CA 04"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\r\nint sumdig(int);\r\nint main()\r\n{\r\n    int a, b;\r\n    a = sumdig(123);\r\n    b = sumdig(123);\r\n    printf(\"%d, %d\\n\", a, b);\r\n    return 0;\r\n}\r\nint sumdig(int n)\r\n{\r\n    int s, d;\r\n    if(n!=0)\r\n    {\r\n        d = n%10;\r\n        n = n/10;\r\n        s = d+sumdig(n);\r\n    }\r\n    else\r\n        return 0;\r\n    return s;\r\n}",
+          "options": {
+               "A": "4, 4",
+               "B": "3, 3",
+               "C": "6, 6",
+               "D": "12, 12"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Point out the error in the programf(int a, int b)\n{\n    int a;\n    a = 20;\n    return a;\n}",
+          "options": {
+               "A": "Missing parenthesis inreturnstatement",
+               "B": "The function should be defined asint f(int a, int b)",
+               "C": "Redeclaration ofa",
+               "D": "None of above"
+          },
+          "correct_answer": "C",
+          "answer_description": "f(int a, int b)The variableais declared in the function argument statement.int a;Here again we are declaring the variablea. Hence it shows the error \"Redeclaration of a\""
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n#define SQUARE(x) x*x\n\nint main()\n{\n    float s=10, u=30, t=2, a;\n    a = 2*(s-u*t)/SQUARE(t);\n    printf(\"Result = %f\", a);\n    return 0;\n}",
+          "options": {
+               "A": "Result = -100.000000",
+               "B": "Result = -25.000000",
+               "C": "Result = 0.000000",
+               "D": "Result = 100.000000"
+          },
+          "correct_answer": "A",
+          "answer_description": "The macro functionSQUARE(x) x*xcalculate the square of the given number'x'. (Eg: 102)Step 1:float s=10, u=30, t=2, a;Here the variables, u, t, aare declared as an floating point type and the variables, u, tare initialized to 10, 30, 2.Step 2:a = 2*(s-u*t)/SQUARE(t);becomes,=>a = 2 * (10 - 30 * 2) / t * t;HereSQUARE(t)is replaced by macro tot*t.=>a = 2 * (10 - 30 * 2) / 2 * 2;=>a = 2 * (10 - 60) / 2 * 2;=>a = 2 * (-50) / 2 * 2 ;=>a = 2 * (-25) * 2 ;=>a = (-50) * 2 ;=>a = -100;Step 3:printf(\"Result=%f\", a);It prints the value of variable 'a'.Hence the output of the program is -100"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Preprocessor directive#undefcan be used only on a macro that has been#defineearlier",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "True,#undefcan be used only on a macro that has been#defineearlierExample:#define PI 3.14We can undefinePImacro by#undef PI"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which statement will you add to the following program to ensure that the program outputs \"IndiaBIX\" on execution?#include<stdio.h>\n\nint main()\n{\n    char s[] = \"IndiaBIX\";\n    char t[25];\n    char *ps, *pt;\n    ps = s;\n    pt = t;\n    while(*ps)\n        *pt++ = *ps++;\n\n    /* Add a statement here */\n    printf(\"%s\\n\", t);\n    return 0;\n}",
+          "options": {
+               "A": "*pt='';",
+               "B": "pt='\\0';",
+               "C": "pt='\\n';",
+               "D": "*pt='\\0';"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\r\n\r\nint main()\r\n{\r\n    char p[] = \"%d\\n\";\r\n    p[1] = 'c';\r\n    printf(p, 65);\r\n    return 0;\r\n}",
+          "options": {
+               "A": "A",
+               "B": "a",
+               "C": "c",
+               "D": "65"
+          },
+          "correct_answer": "A",
+          "answer_description": "Step 1:char p[] = \"%d\\n\";The variablepis declared as an array of characters and initialized with string \"%d\".Step 2:p[1] = 'c';Here, we overwrite the second element of arraypby 'c'. So arraypbecomes \"%c\".Step 3:printf(p, 65);becomesprintf(\"%c\", 65);Therefore it prints the ASCII value of 65. The output is 'A'."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\nvoid swap(char *, char *);\n\nint main()\n{\n    char *pstr[2] = {\"Hello\", \"IndiaBIX\"};\n    swap(pstr[0], pstr[1]);\n    printf(\"%s\\n%s\", pstr[0], pstr[1]);\n    return 0;\n}\nvoid swap(char *t1, char *t2)\n{\n    char *t;\n    t=t1;\n    t1=t2;\n    t2=t;\n}",
+          "options": {
+               "A": "IndiaBIXHello",
+               "B": "Address of \"Hello\" and \"IndiaBIX\"",
+               "C": "HelloIndiaBIX",
+               "D": "IelloHndiaBIX"
+          },
+          "correct_answer": "C",
+          "answer_description": "Step 1:void swap(char *, char *);This prototype tells the compiler that the function swap accept two strings as arguments and it does not return anything.Step 2:char *pstr[2] = {\"Hello\", \"IndiaBIX\"};The variablepstris declared as an pointer to the array of strings. It is initialized topstr[0] = \"Hello\",pstr[1] = \"IndiaBIX\"Step 3:swap(pstr[0], pstr[1]);Theswapfunction is called by \"call by value\". Hence it does not affect the output of the program.If theswapfunction is \"called by reference\" it will affect the variablepstr.Step 4:printf(\"%s\\n%s\", pstr[0], pstr[1]);It prints the value ofpstr[0]andpstr[1].Hence the output of the program isHelloIndiaBIX"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n#include<string.h>\n\nint main()\n{\n    char str1[20] = \"Hello\", str2[20] = \" World\";\n    printf(\"%s\\n\", strcpy(str2, strcat(str1, str2)));\n    return 0;\n}",
+          "options": {
+               "A": "Hello",
+               "B": "World",
+               "C": "Hello World",
+               "D": "WorldHello"
+          },
+          "correct_answer": "C",
+          "answer_description": "Step 1:char str1[20] = \"Hello\", str2[20] = \" World\";The variablestr1andstr2is declared as an array of characters and initialized with value \"Hello\" and \" World\" respectively.Step 2:printf(\"%s\\n\", strcpy(str2, strcat(str1, str2)));=>strcat(str1, str2))it append the stringstr2tostr1. The result will be stored instr1. Thereforestr1contains \"Hello World\".=>strcpy(str2, \"Hello World\")it copies the \"Hello World\" to the variablestr2.Hence it prints \"Hello World\"."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program ?#include<stdio.h>\n\nint main()\n{\n    union var\n    {\n        int a, b;\n    };\n    union var v;\n    v.a=10;\n    v.b=20;\n    printf(\"%d\\n\", v.a);\n    return 0;\n}",
+          "options": {
+               "A": "10",
+               "B": "20",
+               "C": "30",
+               "D": "0"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Nested unions are allowed",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Can we have an array of bit fields?",
+          "options": {
+               "A": "Yes",
+               "B": "No"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To scanaandbgiven below, which of the followingscanf()statement will you use?#include<stdio.h>\n\nfloat a;\ndouble b;",
+          "options": {
+               "A": "scanf(\"%f %f\", &a, &b);",
+               "B": "scanf(\"%Lf %Lf\", &a, &b);",
+               "C": "scanf(\"%f %Lf\", &a, &b);",
+               "D": "scanf(\"%f %lf\", &a, &b);"
+          },
+          "correct_answer": "D",
+          "answer_description": "To scan a float value,%fis used as format specifier.To scan a double value,%lfis used as format specifier.Therefore, the answer isscanf(\"%f %lf\", &a, &b);"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#include<stdio.h>\n\nint main()\n{\n    unsigned int res;\n    res = (64 >>(2+1-2)) & (~(1<<2));\n    printf(\"%d\\n\", res);\n    return 0;\n}",
+          "options": {
+               "A": "32",
+               "B": "64",
+               "C": "0",
+               "D": "128"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the program?#define P printf(\"%d\\n\", -1^~0);\n#define M(P) int main()\\\n             {\\\n                P\\\n                return 0;\\\n             }\nM(P)",
+          "options": {
+               "A": "1",
+               "B": "0",
+               "C": "-1",
+               "D": "2"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which WLAN IEEE specification allows up to 54Mbps at 2.4GHz?",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "G",
+            "D": "N"
+        },
+        "correct_answer": "C",
+        "answer_description": "IEEE 802.11B is 2.4GHz, but with a maximum of only 11Mbps. IEEE 802.11G is in the 2.4GHz range, with a top speed of 54Mbps."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?",
+        "options": {
+            "A": "192.168.168.129-190",
+            "B": "192.168.168.129-191",
+            "C": "192.168.168.128-190",
+            "D": "192.168.168.128-192"
+        },
+        "correct_answer": "A",
+        "answer_description": "256 - 192 = 64. 64 + 64 = 128. 128 + 64 = 192. The subnet is 128, the broadcast address \nis 191, and the valid host range is the numbers in between, or 129-190."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To back up an IOS, what command will you use?",
+        "options": {
+            "A": "backup IOS disk",
+            "B": "copy ios tftp",
+            "C": "copy tftp flash",
+            "D": "copy flash tftp"
+        },
+        "correct_answer": "D",
+        "answer_description": "The commandcopy flash tftpwill prompt you to back up an existing IOS in flash to a TFTP host."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What protocol does PPP use to identify the Network layer protocol?",
+        "options": {
+            "A": "NCP",
+            "B": "ISDN",
+            "C": "HDLC",
+            "D": "LCP"
+        },
+        "correct_answer": "A",
+        "answer_description": "Network Control Protocol is used to help identify the Network layer protocol used in the packet."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following commands will allow you to set your Telnet password on a Cisco router?",
+        "options": {
+            "A": "line telnet 0 4",
+            "B": "line aux 0 4",
+            "C": "line vty 0 4",
+            "D": "line con 0"
+        },
+        "correct_answer": "C",
+        "answer_description": "The commandline vty 0 4places you in a prompt that will allow you to set or change your Telnet password."
+    }
+]

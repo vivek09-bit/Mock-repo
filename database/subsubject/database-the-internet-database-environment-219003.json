@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true about Microsoft Active Server Pages (ASP)?",
+        "options": {
+            "A": "It is stored in .cfm files.",
+            "B": "It is executed on the client.",
+            "C": "It does not use tags.",
+            "D": "It allows for coding of custom tags in an HTML file."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Websites without a database attached to them have which of the following characteristics?",
+        "options": {
+            "A": "The ability to generate data via SQL.",
+            "B": "The inability to use a browser to display Web pages.",
+            "C": "Static information using HTML or JavaScript.",
+            "D": "The need to use TCP/IP as the network protocol."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Web servers should be configured in which of the following ways?",
+        "options": {
+            "A": "unauthorized access is restricted.",
+            "B": "unauthorized access is unrestricted.",
+            "C": "unauthorized access is impossible.",
+            "D": "unauthorized access is possible."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A proxy server is used for which of the following?",
+        "options": {
+            "A": "To provide security against unauthorized users",
+            "B": "To process client requests for Web pages",
+            "C": "To process client requests for database access",
+            "D": "To provide TCP/IP"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is true concerning the standard network protocol for connecting a client to a Web or database server via the Internet?",
+        "options": {
+            "A": "Both TCP and IP are needed.",
+            "B": "TCP is needed but IP is not needed.",
+            "C": "TCP is not needed but IP is needed.",
+            "D": "Neither TCP and IP are needed."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

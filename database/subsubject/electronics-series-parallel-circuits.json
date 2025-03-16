@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What theorem replaces a complex network with an equivalent circuit containing a source voltage and a series resistance?",
+        "options": {
+            "A": "Multinetwork",
+            "B": "Norton",
+            "C": "Thevenin",
+            "D": "Superposition"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the power dissipated by R2, R4, and R6?",
+        "options": {
+            "A": "P2 = 417 mW, P4 = 193 mW, P6 = 166 mW",
+            "B": "P2 = 407 mW, P4 = 183 mW, P6 = 156 mW",
+            "C": "P2 = 397 mW, P4 = 173 mW, P6 = 146 mW",
+            "D": "P2 = 387 mW, P4 = 163 mW, P6 = 136 mW"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If the load in the given circuit is 120 k, what is the loaded output voltage?",
+        "options": {
+            "A": "4.21 V",
+            "B": "15.79 V",
+            "C": "16 V",
+            "D": "19.67 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a series–parallel circuit, individual component power dissipations are calculated using:",
+        "options": {
+            "A": "individual component parameters",
+            "B": "a percent of the voltage division ratio squared",
+            "C": "total current squared multiplied by the resistor values",
+            "D": "a percent of the total power depending on resistor ratios"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The current flowing through an unloaded voltage divider is called the:",
+        "options": {
+            "A": "resistor current",
+            "B": "load current",
+            "C": "bleeder current",
+            "D": "voltage current"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

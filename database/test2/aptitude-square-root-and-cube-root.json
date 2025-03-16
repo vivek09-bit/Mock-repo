@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The cube root of .000216 is:",
+        "options": {
+            "A": ".6",
+            "B": ".06",
+            "C": "77",
+            "D": "87"
+        },
+        "correct_answer": "B",
+        "answer_description": "(.000216)1/3=2161/3106=6 x 6 x 61/3102x 102x 102=6102=6100= 0.06"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What should come in place of bothxin the equationx=162.128x",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "144",
+            "D": "196"
+        },
+        "correct_answer": "A",
+        "answer_description": "Letx=162128xThenx2=128 x 162=64 x 2 x 18 x 9=82x 62x 32= 8 x 6 x 3= 144.x=144= 12."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The least perfect square, which is divisible by each of 21, 36 and 66 is:",
+        "options": {
+            "A": "213444",
+            "B": "214344",
+            "C": "214434",
+            "D": "231444"
+        },
+        "correct_answer": "A",
+        "answer_description": "L.C.M. of 21, 36, 66 = 2772.Now, 2772 = 2 x 2 x 3 x 3 x 7 x 11To make it a perfect square, it must be multiplied by 7 x 11.So, required number = 22x 32x 72x 112= 213444"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "1.5625= ?",
+        "options": {
+            "A": "1.05",
+            "B": "1.25",
+            "C": "1.45",
+            "D": "1.55"
+        },
+        "correct_answer": "B",
+        "answer_description": "1|1.5625( 1.25\r\n    |1\r\n    |-------\r\n  22| 56\r\n    | 44\r\n    |-------\r\n 245| 1225\r\n    | 1225\r\n    |-------\r\n    |    X\r\n    |-------1.5625= 1.25."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If 35+125= 17.88, then what will be the value of80+ 65?",
+        "options": {
+            "A": "13.41",
+            "B": "20.46",
+            "C": "21.66",
+            "D": "22.35"
+        },
+        "correct_answer": "D",
+        "answer_description": "35+125= 17.8835+25 x 5= 17.8835+ 55= 17.8885= 17.885= 2.23580+ 65=16 x 5+ 65= 45+ 65= 105= (10 x 2.235) = 22.35"
+    }
+]

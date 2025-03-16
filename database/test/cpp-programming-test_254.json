@@ -1,0 +1,265 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How many instances of an abstract class can be created?",
+          "options": {
+               "A": "1",
+               "B": "5",
+               "C": "13",
+               "D": "0"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following header file includes definition ofcinandcout?",
+          "options": {
+               "A": "istream.h",
+               "B": "ostream.h",
+               "C": "iomanip.h",
+               "D": "iostream.h"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following provides a reuse mechanism?",
+          "options": {
+               "A": "Abstraction",
+               "B": "Inheritance",
+               "C": "Dynamic binding",
+               "D": "Encapsulation"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "How \"Late binding\" is implemented in C++?",
+          "options": {
+               "A": "Using C++ tables",
+               "B": "Using Virtual tables",
+               "C": "Using Indexed virtual tables",
+               "D": "Using polymorphic tables"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Why reference is not same as a pointer?",
+          "options": {
+               "A": "A reference can never be null.",
+               "B": "A reference once established cannot be changed.",
+               "C": "Reference doesn't need an explicit dereferencing mechanism.",
+               "D": "All of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following type of class allows only one object of it to be created?",
+          "options": {
+               "A": "Virtual class",
+               "B": "Abstract class",
+               "C": "Singleton class",
+               "D": "Friend class"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following function / types of function cannot have default parameters?",
+          "options": {
+               "A": "Member function of class",
+               "B": "main()",
+               "C": "Member function of structure",
+               "D": "Both B and C"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "Overloaded functions can accept same number of arguments.",
+               "B": "Overloaded functions always return value of same data type.",
+               "C": "Overloaded functions can accept only same number and same type of arguments.",
+               "D": "Overloaded functions can accept only different number and different type of arguments."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement will be correct if the function has three arguments passed to it?",
+          "options": {
+               "A": "The trailing argument will be the default argument.",
+               "B": "The first argument will be the default argument.",
+               "C": "The middle argument will be the default argument.",
+               "D": "All the argument will be the default argument."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is correct about the following program?#include<iostream.h> \nclass Base\n{\n    int x, y, z; \n    public: \n    Base()\n    {\n        x = y = z = 0;\n    }\n    Base(int xx, int yy = 'A', int zz = 'B')\n    {\n        x = xx;\n        y = x + yy;\n        z = x + y;\n    }\n    void Display(void)\n    {\n        cout<< x << \" \" << y << \" \" << z << endl;\n    }\n};\nclass Derived : public Base\n{\n    int x, y; \n    public:\n    Derived(int xx = 65, int yy = 66) : Base(xx, yy)\n    {\n        y = xx; \n        x = yy;\n    }\n    void Display(void)\n    {\n        cout<< x << \" \" << y << \" \";\n        Display(); \n    }\n};\nint main()\n{\n    Derived objD;\n    objD.Display();\n    return 0; \n}",
+          "options": {
+               "A": "The program will report compilation error.",
+               "B": "The program will run successfully giving the output 66 65.",
+               "C": "The program will run successfully giving the output 65 66.",
+               "D": "The program will run successfully giving the output 66 65 65 131 196.",
+               "E": "The program will produce the output 66 65 infinite number of times (or till stack memory overflow)."
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the following program?#include<iostream.h> \nstruct IndiaBix\n{\n    int arr[5]; \n    public:\n    void BixFunction(void);\n    void Display(void);\n};\nvoid IndiaBix::Display(void)\n{\n    for(int i = 0; i < 5; i++) \n        cout<< arr[i] << \" \" ;\n}\nvoid IndiaBix::BixFunction(void)\n{\n    static int i = 0, j = 4; \n    int tmp = arr[i]; \n    arr[i]  = arr[j]; \n    arr[j]  = tmp   ; \n    i++;\n    j--;\n    if(j != i) BixFunction();\n}\nint main()\n{\n    IndiaBix objBix = {{ 5, 6, 3, 9, 0 }};\n    objBix.BixFunction();\n    objBix.Display();\n    return 0; \n}",
+          "options": {
+               "A": "0 9 3 6 5",
+               "B": "9 3 6 5 0",
+               "C": "5 6 3 9 0",
+               "D": "5 9 3 6 0"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct?",
+          "options": {
+               "A": "A reference is declared using*operator.",
+               "B": "Once a reference variable has been defined to refer to a particular variable it can refer to any other variable.",
+               "C": "A reference must always be initialized within classes.",
+               "D": "A variable can have multiple references."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nclass IndiaBix\n{\n    int x, y; \n    public:\n    void SetValue(int &a, int &b)\n    {\n        a = 100;\n        x = a;\n        y = b;\n        Display();\n    }\n    void Display()\n    {\n        cout<< x << \" \" << y; \n    }\n};\nint main()\n{\n    int x = 10;\n    IndiaBix objBix;\n    objBix.SetValue(x, x);\n    return 0;\n}",
+          "options": {
+               "A": "The program will print the output 100 10.",
+               "B": "The program will print the output 100 100.",
+               "C": "The program will print the output 100 garbage.",
+               "D": "The program will print two garbage values.",
+               "E": "It will result in a compile time error."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following also known as an instance of a class?",
+          "options": {
+               "A": "Friend Functions",
+               "B": "Object",
+               "C": "Member Functions",
+               "D": "Member Variables"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following two entities (reading from Left to Right) can be connected by the dot operator?",
+          "options": {
+               "A": "A class member and a class object.",
+               "B": "A class object and a class.",
+               "C": "A class and a member of that class.",
+               "D": "A class object and a member of that class."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Constructor is executed when _____.",
+          "options": {
+               "A": "an object is created",
+               "B": "an object is used",
+               "C": "a class is declared",
+               "D": "an object goes out of scope."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following gets called when an object is being created?",
+          "options": {
+               "A": "constructor",
+               "B": "virtual function",
+               "C": "destructor",
+               "D": "main"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following gets called when an object goes out of scope?",
+          "options": {
+               "A": "constructor",
+               "B": "destructor",
+               "C": "main",
+               "D": "virtual function"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "It is a __________ error to pass arguments to a destructor.",
+          "options": {
+               "A": "logical",
+               "B": "virtual",
+               "C": "syntax",
+               "D": "linker"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statement is correct about the program given below?#include<iostream.h> \nclass IndiaBix\n{\n    int x; \n    public:\n    IndiaBix(short ss)\n    {\n        cout<< \"Short\" << endl;\n    }\n    IndiaBix(int xx)\n    {\n        cout<< \"Int\" << endl;\n    }\n    IndiaBix(char ch)\n    {\n        cout<< \"Char\" << endl;\n    }\n    ~IndiaBix() \n    {\n        cout<< \"Final\";\n    }\n};\nint main()\n{\n    IndiaBix *ptr = new IndiaBix('B');\n    return 0; \n}",
+          "options": {
+               "A": "The program will print the outputShort.",
+               "B": "The program will print the outputInt.",
+               "C": "The program will print the outputChar.",
+               "D": "The program will print the outputFinal.",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

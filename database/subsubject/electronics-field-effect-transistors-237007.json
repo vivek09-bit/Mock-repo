@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which component is considered to be an \"OFF\" device?",
+        "options": {
+            "A": "transistor",
+            "B": "JFET",
+            "C": "D-MOSFET",
+            "D": "E-MOSFET"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In an n-channel JFET, what will happen at the pinch-off voltage?",
+        "options": {
+            "A": "the value of VDSat which further increases in VDSwill cause no further increase in ID",
+            "B": "the value of VGSat which further decreases in VGSwill cause no further increases in ID",
+            "C": "the value of VDGat which further decreases in VDGwill cause no further increases in ID",
+            "D": "the value of VDSat which further increases in VGSwill cause no further increases in ID"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

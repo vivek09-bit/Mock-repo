@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a 10-bit ring counter has an initial state 1101000000, what is the state after the second clock pulse?",
+        "options": {
+            "A": "1101000000",
+            "B": "0011010000",
+            "C": "1100000000",
+            "D": "0000000000"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How much storage capacity does each stage in a shift register represent?",
+        "options": {
+            "A": "One bit",
+            "B": "Two bits",
+            "C": "Four bits (one nibble)",
+            "D": "Eight bits (one byte)"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When the output of a tristate shift register is disabled, the output level is placed in a:",
+        "options": {
+            "A": "float state",
+            "B": "LOW state",
+            "C": "high-impedance state",
+            "D": "float or high-impedance state"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

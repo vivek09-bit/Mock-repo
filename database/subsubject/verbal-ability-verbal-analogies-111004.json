@@ -1,0 +1,41 @@
+[
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "HOPE:ASPIRES",
+        "options": {
+            "A": "love:elevates",
+            "B": "film:flam",
+            "C": "fib:lie",
+            "D": "fake:ordinary"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "CORPOREAL:SPIRITUAL",
+        "options": {
+            "A": "mesa:plateau",
+            "B": "moron:savant",
+            "C": "foreigner:immigrant",
+            "D": "pedagogue:teacher"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveEach question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.",
+        "image_path": null,
+        "question": "SYMPHONY:COMPOSER",
+        "options": {
+            "A": "Leonardo:music",
+            "B": "Fresco:painter",
+            "C": "colours:pallet",
+            "D": "art:appreciation"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

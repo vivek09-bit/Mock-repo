@@ -1,0 +1,268 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A function that changes the state of the cout object is called a(n) _____",
+          "options": {
+               "A": "member",
+               "B": "adjuster",
+               "C": "manipulator",
+               "D": "operator"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A fundamental type such as int or double is a _____",
+          "options": {
+               "A": "programmer-defined type",
+               "B": "complex type",
+               "C": "nonscalar type",
+               "D": "scalar type"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In a simple 'if' statement with no 'else'. What happens if the condition following the 'if is false?",
+          "options": {
+               "A": "the program searches for the last else in the program",
+               "B": "nothing",
+               "C": "control 'falls through' to the statement following 'if",
+               "D": "the body of the statement is executed",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Code that has already been tested is said to be _____",
+          "options": {
+               "A": "inherited",
+               "B": "reusable",
+               "C": "reliable",
+               "D": "polymorphic"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "One way pointers are useful is to refer to   a   memory   address  that  has no _____",
+          "options": {
+               "A": "name",
+               "B": "constant",
+               "C": "location",
+               "D": "field"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The while loop is referred to as a(n)  _____ loop because the loop condition is tested at the beginning of the loop",
+          "options": {
+               "A": "beginning",
+               "B": "initial",
+               "C": "pretest",
+               "D": "priming"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A group of related fields that contain all of the data about a specific person, place,    or    thing    is    called    a",
+          "options": {
+               "A": "data file",
+               "B": "field file",
+               "C": "program file",
+               "D": "record"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Simple routines that programmers use as place holders while a system is being tested are called _____",
+          "options": {
+               "A": "stubs",
+               "B": "stumps",
+               "C": "holders",
+               "D": "templates"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which is true?",
+          "options": {
+               "A": "Sequential cohesion is slightly weaker than functional cohesion",
+               "B": "Sequential cohesion is slightly stronger than functional cohesion",
+               "C": "Sequential cohesion is much stronger than functional cohesion",
+               "D": "Neither sequential cohesion nor functional cohesion is stronger than the other"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "One of the relational operators in the C language is",
+          "options": {
+               "A": "!=",
+               "B": "&&",
+               "C": "!",
+               "D": "#",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In C++, class definitions are most often",
+          "options": {
+               "A": "stored with each program that uses them",
+               "B": "stored in a header file that is included in the programs that use them",
+               "C": "stored in a folder that you paste into every new project",
+               "D": "retyped for every new project"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A function argument is",
+          "options": {
+               "A": "a variable in the function that receives a value from the calling program",
+               "B": "a way that functions resist accepting the calling program's values",
+               "C": "a value sent to the function by the calling program",
+               "D": "a value returned by the function to the calling program",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are valid characters for a numeric literal constant?",
+          "options": {
+               "A": "a decimal point",
+               "B": "the letter e",
+               "C": "a minus sign",
+               "D": "a plus sign",
+               "E": "All of the above"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "3 is a _____ constant",
+          "options": {
+               "A": "character literal",
+               "B": "named literal",
+               "C": "numeric literal",
+               "D": "string literal"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Two access specifers in C++ are",
+          "options": {
+               "A": "public and private",
+               "B": "int and double",
+               "C": "formal and informal",
+               "D": "void and free"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A measure of the strength of the connection between two functions is",
+          "options": {
+               "A": "cohesion",
+               "B": "coupling",
+               "C": "dependence",
+               "D": "subjection"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Hiding individual components of an entry is _____",
+          "options": {
+               "A": "polymorphism",
+               "B": "encapsulation",
+               "C": "scaling",
+               "D": "not recommended in C++"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements opens a file named temp.dat for output?",
+          "options": {
+               "A": "outFile.open(\"temp .dat\");",
+               "B": "fileOut.output(\"temp .dat\");",
+               "C": "openFile.out(\"temp .dat\");",
+               "D": "fileOpen.out(\"temp .dat\");",
+               "E": "out.fileOpen(\"temp .dat\");"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The     delete     operator     returns ______ to the operating system",
+          "options": {
+               "A": "memory that is no longer needed",
+               "B": "void",
+               "C": "recycle bin",
+               "D": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The standard output stream, which refers to the computer screen, is called",
+          "options": {
+               "A": "cin",
+               "B": "cout",
+               "C": "stin",
+               "D": "stout",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

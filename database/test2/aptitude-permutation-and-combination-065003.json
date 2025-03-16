@@ -1,0 +1,56 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+        "options": {
+            "A": "63",
+            "B": "90",
+            "C": "126",
+            "D": "45",
+            "E": "135"
+        },
+        "correct_answer": "A",
+        "answer_description": "Required number of ways = (7C5x3C2) = (7C2x3C1) =7 x 6x 3= 63.2 x 1"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
+        "options": {
+            "A": "40",
+            "B": "400",
+            "C": "5040",
+            "D": "2520"
+        },
+        "correct_answer": "C",
+        "answer_description": "'LOGARITHMS' contains 10 different letters.Required number of words= Number of arrangements of 10 letters, taking 4 at a time.=10P4= (10 x 9 x 8 x 7)= 5040."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?",
+        "options": {
+            "A": "10080",
+            "B": "4989600",
+            "C": "120960",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "In the word 'MATHEMATICS', we treat the vowels AEAI as one letter.Thus, we have MTHMTCS (AEAI).Now, we have to arrange 8 letters, out of which M occurs twice, T occurs twice and the rest are different.Number of ways of arranging these letters =8!= 10080.(2!)(2!)Now, AEAI has 4 letters in which A occurs 2 times and the rest are different.Number of ways of arranging these letters =4!= 12.2!Required number of words = (10080 x 12) = 120960."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?",
+        "options": {
+            "A": "120",
+            "B": "720",
+            "C": "4320",
+            "D": "2160",
+            "E": "None of these"
+        },
+        "correct_answer": "B",
+        "answer_description": "The word 'OPTICAL'  contains 7 different letters.When the vowels OIA are always together, they can be supposed to form one letter.Then, we have to arrange the letters PTCL (OIA).Now, 5 letters can be arranged in 5! = 120 ways.The vowels (OIA) can be arranged among themselves in 3! = 6 ways.Required number of ways = (120 x 6) = 720."
+    }
+]

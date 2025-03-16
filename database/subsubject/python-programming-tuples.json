@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the key characteristic of a tuple?",
+        "options": {
+            "A": "Mutable",
+            "B": "Ordered",
+            "C": "Dynamic",
+            "D": "Indexed"
+        },
+        "correct_answer": "B",
+        "answer_description": "Tuples in Python are ordered collections, meaning the order of elements is maintained."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How do you create an empty tuple?",
+        "options": {
+            "A": "empty_tuple = ()",
+            "B": "empty_tuple = [ ]",
+            "C": "empty_tuple = new Tuple()",
+            "D": "empty_tuple = {}"
+        },
+        "correct_answer": "A",
+        "answer_description": "An empty tuple can be created using parentheses with no elements."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements about tuples is true?",
+        "options": {
+            "A": "Tuples can be resized after creation.",
+            "B": "Tuples allow duplicate elements.",
+            "C": "Elements of a tuple cannot be accessed by index.",
+            "D": "Tuples can contain a mix of data types."
+        },
+        "correct_answer": "D",
+        "answer_description": "Tuples in Python can contain elements of different data types."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens when you try to modify a tuple?",
+        "options": {
+            "A": "Raises aTypeError",
+            "B": "Automatically converts it to a list.",
+            "C": "Adds the new element to the end of the tuple.",
+            "D": "Modifies the element at the specified index."
+        },
+        "correct_answer": "A",
+        "answer_description": "Tuples are immutable in Python, and attempting to modify them raises aTypeError."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thetuple.count()method?",
+        "options": {
+            "A": "Counts the number of elements in the tuple.",
+            "B": "Counts the occurrences of a specific element in the tuple.",
+            "C": "Returns the index of the first occurrence of a specific element.",
+            "D": "Checks if a specific element exists in the tuple."
+        },
+        "correct_answer": "B",
+        "answer_description": "Thecount()method in Python tuples is used to count the occurrences of a specific element."
+    }
+]

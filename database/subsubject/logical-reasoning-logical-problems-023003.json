@@ -1,0 +1,14 @@
+[
+    {
+        "direction": "Directions to SolveEach problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "image_path": null,
+        "question": "Class A has a higher enrollment than Class B.Class C has a lower enrollment than Class B.Class A has a lower enrollment than Class C.If the first two statements are true, the third statement is",
+        "options": {
+            "A": "true",
+            "B": "false",
+            "C": "uncertain"
+        },
+        "correct_answer": "B",
+        "answer_description": "From the first two statements, we know that of the three classes, Class A has the highest enrollment, so the third statement must be false."
+    }
+]

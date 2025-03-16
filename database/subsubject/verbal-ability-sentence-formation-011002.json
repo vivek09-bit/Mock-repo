@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. at2. it3. take4. once5. away",
+        "options": {
+            "A": "23514",
+            "B": "14352",
+            "C": "32514",
+            "D": "53214",
+            "E": "42315"
+        },
+        "correct_answer": "C",
+        "answer_description": "\"Take it away at once.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. him2. the3. to4. charge5. handover",
+        "options": {
+            "A": "42531",
+            "B": "51342",
+            "C": "41352",
+            "D": "45231",
+            "E": "52431"
+        },
+        "correct_answer": "E",
+        "answer_description": "\"Handover the charge to him.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. seen2. going3. you4. him5. have",
+        "options": {
+            "A": "35214",
+            "B": "35142",
+            "C": "32514",
+            "D": "35124",
+            "E": "53124"
+        },
+        "correct_answer": "B",
+        "answer_description": "\"You have seen him going.\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. bag?2. you3. seen4. have5. my",
+        "options": {
+            "A": "51432",
+            "B": "43512",
+            "C": "42351",
+            "D": "42153",
+            "E": "21435"
+        },
+        "correct_answer": "C",
+        "answer_description": "\"Have you seen my bag?\""
+    },
+    {
+        "direction": "Directions to SolveIn each question below a sentence broken into five or six parts. Join these parts to make a meaningful sentence. The correct order of parts is the answer.",
+        "image_path": null,
+        "question": "1. killed2. a3. Jaswant4. bear5. wild",
+        "options": {
+            "A": "31254",
+            "B": "53124",
+            "C": "23145",
+            "D": "43125",
+            "E": "15234"
+        },
+        "correct_answer": "A",
+        "answer_description": "\"Jaswant killed a wild bear.\""
+    }
+]

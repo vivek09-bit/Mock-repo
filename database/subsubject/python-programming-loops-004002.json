@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following statements accurately describes the behavior of theelseblock in a Pythonwhileloop?",
+        "options": {
+            "A": "It is executed when the loop condition is True.",
+            "B": "It is executed when the loop is terminated prematurely.",
+            "C": "It is executed only if an exception occurs in the loop.",
+            "D": "It is executed when the loop condition becomes False."
+        },
+        "correct_answer": "D",
+        "answer_description": "Theelseblock in awhileloop is executed when the loop condition becomes False."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the purpose of thezipfunction in Python when used with loops?",
+        "options": {
+            "A": "Counts the total number of iterations",
+            "B": "Combines multiple sequences into tuples",
+            "C": "Returns the index and value of each element in a sequence",
+            "D": "Reverses the order of iteration"
+        },
+        "correct_answer": "B",
+        "answer_description": "Thezipfunction is used to combine multiple sequences into tuples, allowing you to iterate over corresponding elements from each sequence simultaneously."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which keyword is used to exit a loop and skip the remaining iterations?",
+        "options": {
+            "A": "terminate",
+            "B": "exit",
+            "C": "break",
+            "D": "skip"
+        },
+        "correct_answer": "C",
+        "answer_description": "Thebreakkeyword is used to exit a loop prematurely and skip the remaining iterations."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What does therangefunction return in Python when used with a single argument?",
+        "options": {
+            "A": "A list of numbers from 0 to the specified argument (exclusive)",
+            "B": "A list of numbers from 1 to the specified argument (inclusive)",
+            "C": "A list of numbers from 0 to the specified argument (inclusive)",
+            "D": "A list of numbers from 1 to the specified argument (exclusive)"
+        },
+        "correct_answer": "A",
+        "answer_description": "Therangefunction with a single argument returns a sequence of numbers starting from 0 up to (but not including) the specified argument."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a for loop, which method is used to iterate over the keys of a dictionary?",
+        "options": {
+            "A": "keys()",
+            "B": "items()",
+            "C": "values()",
+            "D": "enumerate()"
+        },
+        "correct_answer": "A",
+        "answer_description": "Thekeys()method is used to iterate over the keys of a dictionary in aforloop."
+    }
+]

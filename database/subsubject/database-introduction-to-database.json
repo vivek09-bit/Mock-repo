@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The DBMS acts as an interface between what two components of an enterprise-class database system?",
+        "options": {
+            "A": "Database application and the database",
+            "B": "Data and the database",
+            "C": "The user and the database application",
+            "D": "Database application and SQL"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following products was an early implementation of the relational model developed by E.F. Codd of IBM?",
+        "options": {
+            "A": "IDMS",
+            "B": "DB2",
+            "C": "dBase-II",
+            "D": "R:base"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The following are components of a database except ________ .",
+        "options": {
+            "A": "user data",
+            "B": "metadata",
+            "C": "reports",
+            "D": "indexes"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An application where only one user accesses the database at a given time is an example of a(n) ________ .",
+        "options": {
+            "A": "single-user database application",
+            "B": "multiuser database application",
+            "C": "e-commerce database application",
+            "D": "data mining database application"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An on-line commercial site such as Amazon.com is an example of a(n) ________ .",
+        "options": {
+            "A": "single-user database application",
+            "B": "multiuser database application",
+            "C": "e-commerce database application",
+            "D": "data mining database application"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

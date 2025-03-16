@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The river Godavari  is often referred to as Vridha Ganga because",
+        "options": {
+            "A": "it is the older river of India",
+            "B": "of its large size and extent among the peninsular rivers",
+            "C": "there are a fairly large number of pilgrimage centres situated on its banks",
+            "D": "its length is nearly the same as that of the river Ganges"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The scarcity or crop failure of which of the following can cause a serious edible oil crisis in India?",
+        "options": {
+            "A": "coconut",
+            "B": "Groundnut",
+            "C": "Linseed",
+            "D": "Mustard"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The pennines (Europe), Appalachians (America) and the Aravallis (India) are examples of",
+        "options": {
+            "A": "old mountains",
+            "B": "young mountains",
+            "C": "fold mountains",
+            "D": "block mountains"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following factors are responsible for present crisis in the jute industry in India?The decline in overseas marketInadequately supply of raw juteStiff competition from synthetic packing materialsSelect the correct answer from the codes given below",
+        "options": {
+            "A": "I and II",
+            "B": "I, II and III",
+            "C": "I and III",
+            "D": "II and III"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following factors are responsible for India's failure to fully exploit the inland fisheries during the last five decades?Silting and pollution of the inland water bodiesDeforestation in the catchment areas of the riversLack of marketing facilitiesSelect the correct answer from the codes given below",
+        "options": {
+            "A": "I, II and III",
+            "B": "I and II",
+            "C": "I and III",
+            "D": "II and III"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

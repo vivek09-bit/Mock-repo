@@ -1,0 +1,44 @@
+[
+    {
+        "direction": "Directions to SolveRead the below passage carefully and answer the questions:The government of an island nation is in the process of deciding how to spend its limited income. It has $7 million left in its budget and eight programs to choose among. There is no provision in the constitution to have a surplus, and each program has requested the minimum amount they need; in other words, no program may be partially funded. The programs and their funding requests are:* Hurricane preparedness: $2.5 million* Harbor improvements: $1 million* School music program: $0.5 million* Senate office building remodeling: $1.5 million* Agricultural subsidy program: $2 million* National radio: $0.5 million* Small business loan program: $3 million* International airport: $4 million",
+        "image_path": null,
+        "question": "Senators from urban areas are very concerned about assuring that there will be funding for a new international airport. Senators from rural areas refuse to fund anything until money for agricultural subsidies is appropriated. If the legislature funds these two programs, on which of the following could they spend the rest of the money?",
+        "options": {
+            "A": "the school music program and national radio",
+            "B": "hurricane preparedness",
+            "C": "harbor improvements and the school music program",
+            "D": "small business loan program",
+            "E": "national radio and senate office building remodeling"
+        },
+        "correct_answer": "A",
+        "answer_description": "The total cost of the school music program and national radio is $1 million, the amount left after the international airport and agricultural subsidies are funded.International airport + Agricultural subsidy program$4 million + $2 million = $6 millionschool music program and national radio is $1 million.Hence, Total $7 million."
+    },
+    {
+        "direction": "Directions to SolveRead the below passage carefully and answer the questions:The government of an island nation is in the process of deciding how to spend its limited income. It has $7 million left in its budget and eight programs to choose among. There is no provision in the constitution to have a surplus, and each program has requested the minimum amount they need; in other words, no program may be partially funded. The programs and their funding requests are:* Hurricane preparedness: $2.5 million* Harbor improvements: $1 million* School music program: $0.5 million* Senate office building remodeling: $1.5 million* Agricultural subsidy program: $2 million* National radio: $0.5 million* Small business loan program: $3 million* International airport: $4 million",
+        "image_path": null,
+        "question": "If the legislature decides to fund the agricultural subsidy program, national radio, and the small business loan program, what two other programs could they fund?",
+        "options": {
+            "A": "harbor improvements and international airport",
+            "B": "harbor improvements and school music program",
+            "C": "hurricane preparedness and school music program",
+            "D": "hurricane preparedness and international airport",
+            "E": "harbor improvements and hurricane preparedness"
+        },
+        "correct_answer": "B",
+        "answer_description": "The only two programs that total 1.5 million dollars are the harbor improvements and school music program."
+    },
+    {
+        "direction": "Directions to SolveRead the below passage carefully and answer the questions:The government of an island nation is in the process of deciding how to spend its limited income. It has $7 million left in its budget and eight programs to choose among. There is no provision in the constitution to have a surplus, and each program has requested the minimum amount they need; in other words, no program may be partially funded. The programs and their funding requests are:* Hurricane preparedness: $2.5 million* Harbor improvements: $1 million* School music program: $0.5 million* Senate office building remodeling: $1.5 million* Agricultural subsidy program: $2 million* National radio: $0.5 million* Small business loan program: $3 million* International airport: $4 million",
+        "image_path": null,
+        "question": "If the legislature decides to fund the agricultural subsidy program, national radio, and the small business loan program, the only other single program that can be funded is",
+        "options": {
+            "A": "hurricane preparedness.",
+            "B": "harbor improvements.",
+            "C": "school music program.",
+            "D": "senate office building remodeling.",
+            "E": "international airport."
+        },
+        "correct_answer": "D",
+        "answer_description": "The total of the three programs (2 million + 0.5 million + 3 million) is 5.5 million. That leaves 1.5 million (7 million - 5.5 million), and the only single program needing that amount is the senate office building remodeling."
+    }
+]

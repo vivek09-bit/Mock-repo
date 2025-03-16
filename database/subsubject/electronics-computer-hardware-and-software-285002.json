@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many buses are connected as part of the 8085 microprocessor?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "8"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is not a computer bus?",
+        "options": {
+            "A": "data bus",
+            "B": "timer bus",
+            "C": "control bus",
+            "D": "address bus"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The technique of assigning a memory address to each I/O device in the SAM system is called:",
+        "options": {
+            "A": "wired I/O",
+            "B": "I/O mapping",
+            "C": "dedicated I/O",
+            "D": "memory-mapped I/O"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many bits are used in the data bus?",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "16"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A port can be:",
+        "options": {
+            "A": "strictly for input",
+            "B": "strictly for output",
+            "C": "bidirectional",
+            "D": "all the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

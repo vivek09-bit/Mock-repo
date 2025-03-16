@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who is the first Indian woman to win an Asian Games gold in 400m run?",
+        "options": {
+            "A": "M.L.Valsamma",
+            "B": "P.T.Usha",
+            "C": "Kamaljit Sandhu",
+            "D": "K.Malleshwari"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which two counties did Kapil Dev play?",
+        "options": {
+            "A": "Northamptonshire & Worcestershire",
+            "B": "Northamptonshire & Warwickshire",
+            "C": "Nottinghamshire & Worcestershire",
+            "D": "Nottinghamshire & Warwickshire"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When was Amateur Athletics Federation of India established?",
+        "options": {
+            "A": "1936",
+            "B": "1946",
+            "C": "1956",
+            "D": "1966"
+        },
+        "correct_answer": "B",
+        "answer_description": "Amateur Athletic Federation of India (AAFI) was formed in 1946 at the initiative of Maharaja Yadvindra Singh, the then President of Indian Olympic Association with Prof. G.D. Sondhi as its first President."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who did Stone Cold Steve Austin wrestle at the 1998 edition of \"Over the Edge\"?",
+        "options": {
+            "A": "Cactus Jack",
+            "B": "Mankind",
+            "C": "Dude Love",
+            "D": "Mick Foley"
+        },
+        "correct_answer": "C",
+        "answer_description": "Even though Mick Foley portrayed all of these gimmicks, he wrestled Stone Cold under Dude Love. The match had Vince McMahon as the referee. It started off as a regular match. Vince then changed it to No Holds Barred so Dude Love can use weapons. Finally he changed it to Falls Count Anywhere. That happened when Love had Austin knocked out while outside the ring. Since Vince is the owner and assigned himself as referee he could do what he wants. After all of that, Austin still retained his title that night."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Ricky Ponting is also known as what?",
+        "options": {
+            "A": "The Rickster",
+            "B": "Ponts",
+            "C": "Ponter",
+            "D": "Punter"
+        },
+        "correct_answer": "D",
+        "answer_description": "It is no secret he doesn't mind a bet or two."
+    }
+]

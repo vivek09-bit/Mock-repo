@@ -1,0 +1,28 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "IGRP uses which of the following as default parameters for finding the best path to a remote network?Hop countMTUCumulative interface delaySTPPath bandwidth value",
+        "options": {
+            "A": "1 and 3",
+            "B": "3 and 5",
+            "C": "2, 3 and 5",
+            "D": "All of the above"
+        },
+        "correct_answer": "B",
+        "answer_description": "IGRP uses bandwidth and delay of the line, by default, to determine the best path to a remote network. Delay of the line can sometimes be called the cumulative interface delay."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Network 206.143.5.0 was assigned to the Acme Company to connect to its ISP. The administrator of Acme would like to configure one router with the commands to access the Internet. Which commands could be configured on the Gateway router to allow Internet access to the entire network?Gateway(config)# ip route 0.0.0.0 0.0.0.0 206.143.5.2Gateway(config)# router ripGateway(config-router)# network 206.143.5.0Gateway(config-router)# network 206.143.5.0 default",
+        "options": {
+            "A": "1 only",
+            "B": "3 only",
+            "C": "1, 2 and 4",
+            "D": "1 and 4"
+        },
+        "correct_answer": "D",
+        "answer_description": "There are actually three different ways to configure the same default route, but only two are shown in the answer. First, you can set a default route with the0.0.0.0 0.0.0.0mask and then specify the next hop, as in option A. Or you can use0.0.0.0 0.0.0.0and use the exit interface instead of the next hop. Finally, you can use option D with theip default-networkcommand."
+    }
+]

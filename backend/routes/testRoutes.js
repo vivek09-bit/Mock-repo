@@ -8,14 +8,14 @@ const { Test, UserTestRecord } = require("../models/Structure");
 router.get("/", async (req, res) => {
     try {
 
-      console.log("Test model:", Test);
+      // console.log("Test model:", Test);
       const tests = await Test.find();
-      console.log(tests);
+      // console.log(tests);
       
       res.json(tests);
   
     } catch (error) {
-      console.error("Error fetching tests:", error); // 👈 Log the exact error
+      // console.error("Error fetching tests:", error); // 👈 Log the exact error
       res.status(500).json({ message: "Server error", error: error.message });
     }
   });
@@ -43,7 +43,7 @@ router.get("/:testId", async (req, res) => {
 router.post("/submit", async (req, res) => {
   try {
       const { testId, userId, answers } = req.body;
-      console.log(req.body);
+      // console.log(req.body);
 
       if (!testId || !userId || !answers) {
           return res.status(400).json({ message: "Missing required fields" });
@@ -114,7 +114,7 @@ router.post("/submit", async (req, res) => {
           userTestRecord,
       });
   } catch (error) {
-      console.error("Error submitting test:", error);
+      // console.error("Error submitting test:", error);
       res.status(500).json({ message: "Server error", error: error.message });
   }
 });

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+        "options": {
+            "A": "3.6",
+            "B": "7.2",
+            "C": "8.4",
+            "D": "10"
+        },
+        "correct_answer": "B",
+        "answer_description": "Speed =600m/sec.5 x 60= 2 m/sec.Converting m/sec to km/hr (seeimportant formulassection)=2 x18km/hr5= 7.2 km/hr."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1hours, it must travel at a speed of:",
+        "options": {
+            "A": "300 kmph",
+            "B": "360 kmph",
+            "C": "600 kmph",
+            "D": "720 kmph"
+        },
+        "correct_answer": "D",
+        "answer_description": "Distance = (240 x 5) = 1200 km.Speed = Distance/TimeSpeed = 1200/(5/3) km/hr.     [We can write 1hours as 5/3 hours]Required speed =1200 x3km/hr= 720 km/hr.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+        "options": {
+            "A": "50 km",
+            "B": "56 km",
+            "C": "70 km",
+            "D": "80 km"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the actual distance travelled bexkm.Then,x=x+ 20101414x= 10x+ 2004x= 200x= 50 km."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+        "options": {
+            "A": "100 kmph",
+            "B": "110 kmph",
+            "C": "120 kmph",
+            "D": "130 kmph"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let speed of the car bexkmph.Then, speed of the train =150x=3xkmph.100275-75=125x(3/2)x10 x 6075-50=5xx24x=25 x24= 120 kmph.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "12",
+            "D": "20"
+        },
+        "correct_answer": "B",
+        "answer_description": "Due to stoppages, it covers 9 km less.Time taken to cover 9 km =9x 60min= 10 min.54"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is true about an anonymous inner class?",
+        "options": {
+            "A": "It can extend exactly one class and implement exactly one interface.",
+            "B": "It can extend exactly one class and can implement multiple interfaces.",
+            "C": "It can extend exactly one class or implement exactly one interface.",
+            "D": "It can implement multiple interfaces regardless of whether it also extends a class."
+        },
+        "correct_answer": "C",
+        "answer_description": "Option C is correct because the syntax of an anonymous inner class allows for only one named type after the new, and that type must be either a single interface (in which case the anonymous class implements that one interface) or a single class (in which case the anonymous class extends that one class).Option A, B, D, and E are all incorrect because they don't follow the syntax rules described in the response for answer Option C."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "class Boo \n{\n    Boo(String s) { }\n    Boo() { }\n}\nclass Bar extends Boo \n{\n    Bar() { }\n    Bar(String s) {super(s);}\n    void zoo() \n    {\n    // insert code here\n    }\n}which one create an anonymous inner class from within class Bar?",
+        "options": {
+            "A": "Boo f = new Boo(24) { };",
+            "B": "Boo f = new Bar() { };",
+            "C": "Bar f = new Boo(String s) { };",
+            "D": "Boo f = new Boo.Bar(String s) { };"
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct because anonymous inner classes are no different from any other class when it comes to polymorphism. That means you are always allowed to declare a reference variable of the superclass type and have that reference variable refer to an instance of a subclass type, which in this case is an anonymous subclass ofBar. Since Bar is a subclass ofBoo, it all works.Option A is incorrect because it passes an int to theBooconstructor, and there is no matching constructor in theBooclass.Option C is incorrect because it violates the rules of polymorphismâ€”you cannot refer to a superclass type using a reference variable declared as the subclass type. The superclass is not guaranteed to have everything the subclass has.Option D uses incorrect syntax."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is true about a method-local inner class?",
+        "options": {
+            "A": "It must be marked final.",
+            "B": "It can be marked abstract.",
+            "C": "It can be marked public.",
+            "D": "It can be marked static."
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct because a method-local inner class can beabstract, although it means a subclass of the inner class must be created if the abstract class is to be used (so an abstract method-local inner class is probably not useful).Option A is incorrect because a method-local inner class does not have to be declaredfinal(although it is legal to do so).C and D are incorrect because a method-local inner class cannot be madepublic(remember-you cannot mark any local variables aspublic), orstatic."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which statement is true about a static nested class?",
+        "options": {
+            "A": "You must have a reference to an instance of the enclosing class in order to instantiate it.",
+            "B": "It does not have access to nonstatic members of the enclosing class.",
+            "C": "It's variables and methods must bestatic.",
+            "D": "It must extend the enclosing class."
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct because a static nested class is not tied to an instance of the enclosing class, and thus can't access the nonstatic members of the class (just as a static method can't access nonstatic members of a class).Option A is incorrect because static nested classes do not need (and can't use) a reference to an instance of the enclosing class.Option C is incorrect because static nested classes can declare and define nonstatic members.Option D is wrong because it just is. There's no rule that says an inner or nested class has to extend anything."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which constructs an anonymous inner class instance?",
+        "options": {
+            "A": "Runnable r = new Runnable() { };",
+            "B": "Runnable r = new Runnable(public void run() { });",
+            "C": "Runnable r = new Runnable { public void run(){}};",
+            "D": "System.out.println(new Runnable() {public void run() { }});"
+        },
+        "correct_answer": "D",
+        "answer_description": "D is correct. It defines an anonymous inner class instance, which also means it creates an instance of that new anonymous class at the same time. The anonymous class is an implementer of theRunnableinterface, so it must override therun()method ofRunnable.A is incorrect because it doesn't override therun()method, so it violates the rules of interface implementation.B and C use incorrect syntax."
+    }
+]

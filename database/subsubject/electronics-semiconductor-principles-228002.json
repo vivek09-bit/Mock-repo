@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Silicon atoms combine into an orderly pattern called a:",
+        "options": {
+            "A": "covalent bond",
+            "B": "crystal",
+            "C": "semiconductor",
+            "D": "valence orbit"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In \"n\" type material, majority carriers would be:",
+        "options": {
+            "A": "holes",
+            "B": "dopants",
+            "C": "slower",
+            "D": "electrons"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Elements with 1, 2, or 3 valence electrons usually make excellent:",
+        "options": {
+            "A": "conductors",
+            "B": "semiconductors",
+            "C": "insulators",
+            "D": "neutral"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A commonly used pentavalent material is:",
+        "options": {
+            "A": "arsenic",
+            "B": "boron",
+            "C": "gallium",
+            "D": "neon"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which material may also be considered a semiconductor element?",
+        "options": {
+            "A": "carbon",
+            "B": "ceramic",
+            "C": "mica",
+            "D": "argon"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

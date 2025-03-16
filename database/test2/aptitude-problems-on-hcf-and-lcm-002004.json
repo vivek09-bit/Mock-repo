@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The H.C.F. of two numbers is 11 and their L.C.M. is 7700. If one of the numbers is 275, then the other is:",
+        "options": {
+            "A": "279",
+            "B": "283",
+            "C": "308",
+            "D": "318"
+        },
+        "correct_answer": "C",
+        "answer_description": "Other number =11 x 7700= 308.275"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the least number which when doubled will be exactly divisible by 12, 18, 21 and 30 ?",
+        "options": {
+            "A": "196",
+            "B": "630",
+            "C": "1260",
+            "D": "2520"
+        },
+        "correct_answer": "B",
+        "answer_description": "L.C.M. of 12, 18, 21 30                 2 | 12  -  18  -  21  -  30----------------------------= 2 x 3 x 2 x 3 x 7 x 5 = 1260.       3 |  6  -   9  -  21  -  15----------------------------Required number = (1260 ÷ 2)            |  2  -   3  -   7  -   5= 630."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is:",
+        "options": {
+            "A": "12",
+            "B": "16",
+            "C": "24",
+            "D": "48"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the numbers be 3xand 4x. Then, their H.C.F. =x. So,x= 4.So, the numbers 12 and 16.L.C.M. of 12 and 16 = 48."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The smallest number which when diminished by 7, is divisible 12, 16, 18, 21 and 28 is:",
+        "options": {
+            "A": "1008",
+            "B": "1015",
+            "C": "1022",
+            "D": "1032"
+        },
+        "correct_answer": "B",
+        "answer_description": "Required number = (L.C.M. of 12,16, 18, 21, 28) + 7= 1008 + 7= 1015"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "252 can be expressed as a product of primes as:",
+        "options": {
+            "A": "2 x 2 x 3 x 3 x 7",
+            "B": "2 x 2 x 2 x 3 x 7",
+            "C": "3 x 3 x 3 x 3 x 7",
+            "D": "2 x 3 x 3 x 3 x 7"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, 252 = 2 x 2 x 3 x 3 x 7."
+    }
+]

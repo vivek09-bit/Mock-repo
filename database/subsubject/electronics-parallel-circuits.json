@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When parallel resistors are of three different values, which has the greatest power loss?",
+        "options": {
+            "A": "The smallest resistance",
+            "B": "The largest resistance",
+            "C": "They have the same power loss.",
+            "D": "Voltage and resistance values are needed."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the product-over-sum result of 150 and 6800?",
+        "options": {
+            "A": "150",
+            "B": "146.7",
+            "C": "0.006",
+            "D": "6800"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The voltage across any branch of a parallel circuit:",
+        "options": {
+            "A": "varies as the total current varies",
+            "B": "is inversely proportional to total circuit resistance",
+            "C": "is equally applied to all branch conductances",
+            "D": "is dropped in proportion to each branch resistance"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is the total power loss if 2 kand 1 kparallel-connected resistors have an ITof 3 mA?",
+        "options": {
+            "A": "6W",
+            "B": "36W",
+            "C": "6 mW",
+            "D": "36 mW"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What happens to total resistance in a circuit with parallel resistors if one of them opens?",
+        "options": {
+            "A": "It increases.",
+            "B": "It halves.",
+            "C": "It remains the same.",
+            "D": "It decreases."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

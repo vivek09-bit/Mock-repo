@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a C-E configuration, an emitter resistor is used for:",
+        "options": {
+            "A": "stabilization",
+            "B": "ac signal bypass",
+            "C": "collector bias",
+            "D": "higher gain"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Voltage-divider bias provides:",
+        "options": {
+            "A": "an unstable Q point",
+            "B": "a stable Q point",
+            "C": "a Q point that easily varies with changes in the transistor's current gain",
+            "D": "a Q point that is stable and easily varies with changes in the transistor’s current gain"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To operate properly, a transistor's base-emitter junction must be forward biased with reverse bias applied to which junction?",
+        "options": {
+            "A": "collector-emitter",
+            "B": "base-collector",
+            "C": "base-emitter",
+            "D": "collector-base"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The ends of a load line drawn on a family of curves determine:",
+        "options": {
+            "A": "saturation and cutoff",
+            "B": "the operating point",
+            "C": "the power curve",
+            "D": "the amplification factor"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If VCC= +18 V, voltage-divider resistor R1is 4.7 k, and R2is 1500, what is the base bias voltage?",
+        "options": {
+            "A": "8.70 V",
+            "B": "4.35 V",
+            "C": "2.90 V",
+            "D": "0.7 V"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

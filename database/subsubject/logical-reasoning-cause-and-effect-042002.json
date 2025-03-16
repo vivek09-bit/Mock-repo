@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:There is unprecedented increase in the number of young unemployed in comparison to the previous year.A large number of candidates submitted applications against an advertisement for the post of manager issued by a bank.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "A",
+        "answer_description": "An increase in the number of unemployed youth is bound to draw in huge crowds for a single vacancy."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The police authority has recently caught a group of house breakers.The citizens group in the locality have started night vigil in the area.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "E",
+        "answer_description": "Both the statements are clearly backed by a common cause, which is clearly an increase in the number of thefts in the locality."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:Majority of the students in the college expressed their opinion against the college authority's decision to break away from the university and become autonomous.The university authorities have expressed their inability to provide grants to its constituent colleges.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, the university's decision to refuse grant to the colleges must have triggered the college authority to become autonomous."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The literacy rate in the district has been increasing for the last four years.The district administration has conducted extensive training programme for the workers involved in the literacy drive.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, the increase in the literacy rate may be attributed directly to the stringent efforts of the district administration in this direction."
+    },
+    {
+        "direction": "Directions to SolveIn each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+        "image_path": null,
+        "question": "Statements:The school authority has asked the X Std. students to attend special classes to be conducted on Sundays.The parents of the X Std. students have withdrawn their wards from attending private tuitions conducted on Sundays.",
+        "options": {
+            "A": "Statement I is the cause and statement II is its effect",
+            "B": "Statement II is the cause and statement I is its effect",
+            "C": "Both the statements I and II are independent causes",
+            "D": "Both the statements I and II are effects of independent causes",
+            "E": "Both the statements I and II are effects of some common cause"
+        },
+        "correct_answer": "A",
+        "answer_description": "It seems quite evident that the parents have instructed their wards to abstain from private tuitions on Sundays and attend special classes organised by the school."
+    }
+]

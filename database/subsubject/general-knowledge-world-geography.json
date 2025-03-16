@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Homolographic projection has the correct representation of",
+        "options": {
+            "A": "shape",
+            "B": "area",
+            "C": "baring",
+            "D": "distance"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The latitudinal differences in pressure delineate a number of major pressure zones, which correspond with",
+        "options": {
+            "A": "zones of climate",
+            "B": "zones of oceans",
+            "C": "zones of land",
+            "D": "zones of cyclonic depressions"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The higher the wind  speed and the longer the fetch or distance of open water across which the wind blows and waves travel, the ____ waves and the ____ energy they process.",
+        "options": {
+            "A": "larger, more",
+            "B": "larger, less",
+            "C": "smaller, more",
+            "D": "smaller, less"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The hazards of radiation belts include",
+        "options": {
+            "A": "deterioration of electronic circuits",
+            "B": "damage of solar cells of spacecraft",
+            "C": "adverse effect on living organisms",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The great Victoria Desert is located in",
+        "options": {
+            "A": "Canada",
+            "B": "West Africa",
+            "C": "Australia",
+            "D": "North America"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

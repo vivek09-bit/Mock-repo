@@ -1,0 +1,262 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following bar chart and answer the questions carefully.Sales Turnover of 5 Companies (in Rs. crores)",
+          "image_path": "images\\15-1-15-1.png",
+          "question": "What is the approximate difference between the average sales turnover of all the companies put together between the years 2001 - 2002 and 2002 - 2003 ?",
+          "options": {
+               "A": "133.45",
+               "B": "142.48",
+               "C": "117.6",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Difference between the sum of the two years divided by 5."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following bar chart and answer the questions carefully.Sales Turnover of 5 Companies (in Rs. crores)",
+          "image_path": "images\\15-1-15-1.png",
+          "question": "What should have been the sales turnover of GM in 2002 - 2003 to have shown an excess of the same quantum over 2001 - 2002 as shown by the sales turnover of Maruti ?",
+          "options": {
+               "A": "953.76",
+               "B": "963.76",
+               "C": "952.76",
+               "D": "962.76"
+          },
+          "correct_answer": "D",
+          "answer_description": "GM should have increased its sales turnover by Rs.49.13 crore. Hence, the answer is 913.63 + 49.13 = 962.76."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following bar chart and answer the questions carefully.Sales Turnover of 5 Companies (in Rs. crores)",
+          "image_path": "images\\15-1-15-1.png",
+          "question": "Which of the companies shows the maximum percentage difference in sales turnover between the two years ?",
+          "options": {
+               "A": "Honda",
+               "B": "GM",
+               "C": "Hyundai",
+               "D": "Maruti"
+          },
+          "correct_answer": "C",
+          "answer_description": "Hyundai with 25.25 % is marginally higher than Honda with 24.5 %."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following bar chart and answer the questions carefully.Sales Turnover of 5 Companies (in Rs. crores)",
+          "image_path": "images\\15-1-15-1.png",
+          "question": "What is the percentage change in the overall sales turnover of the five companies together between 2001 - 2002 and 2002 - 2003 ?",
+          "options": {
+               "A": "17.21 %",
+               "B": "14.68 %",
+               "C": "12.67 %",
+               "D": "21.24 %"
+          },
+          "correct_answer": "B",
+          "answer_description": "The required answer is100 - percentage value of the fraction (Absolute change/first year's value)."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)Study the following bar chart and answer the questions carefully.Sales Turnover of 5 Companies (in Rs. crores)",
+          "image_path": "images\\15-1-15-1.png",
+          "question": "What is the absolute change in overall sales turnover of the five companies together between 2001 - 2002 and 2002 - 2003 ?",
+          "options": {
+               "A": "712.43",
+               "B": "142.48",
+               "C": "683.53",
+               "D": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Absolute value of the difference between the sum of the turnover of the five companies for 2001 - 2002 and 2002 - 2003."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The circle-graph  given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it.",
+          "image_path": "images\\15-2-9-1.png",
+          "question": "What percent of total spending is spent on Tennis?",
+          "options": {
+               "A": "121%2",
+               "B": "221%2",
+               "C": "25%",
+               "D": "45%"
+          },
+          "correct_answer": "A",
+          "answer_description": "Percentage of money spend on Tennis =45x 100% = 121%.3602"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The circle-graph  given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it.",
+          "image_path": "images\\15-2-9-1.png",
+          "question": "How much percent more is spent on Hockey than that on Golf?",
+          "options": {
+               "A": "27%",
+               "B": "35%",
+               "C": "37.5%",
+               "D": "75%"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the total spendings on sports be Rs.x. Then,Amount spent on Golf = Rs.36xx= Rs.x.36010Amount spent on Hockey = Rs63xx= Rs.7x.36040Difference = Rs.7x-x= Rs3x.401040Required percentage = Rs.3x/40x 100% = 75%.x/10"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The circle-graph  given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it.",
+          "image_path": "images\\15-2-9-1.png",
+          "question": "How much percent less is spent on Football than that on Cricket?",
+          "options": {
+               "A": "222%9",
+               "B": "27%",
+               "C": "331%3",
+               "D": "371%7"
+          },
+          "correct_answer": "C",
+          "answer_description": "Let the total spendings on sports be Rs.x. Then,Amount spent on Cricket = Rs.81xx= Rs.9x.36040Amount spent on Football = Rs54xx= Rs.3x.36020Difference = Rs.9x-3x= Rs3x.402040Required percentage = Rs.3x/40x 100% = 331%.9x/403"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The circle-graph  given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it.",
+          "image_path": "images\\15-2-9-1.png",
+          "question": "If the total amount spent on sports during the year was Rs. 2 crores, the amount spent on Cricket and Hockey together was:",
+          "options": {
+               "A": "Rs. 8,00,000",
+               "B": "Rs. 80,00,000",
+               "C": "Rs. 1,20,00,000",
+               "D": "Rs. 1,60,00,000"
+          },
+          "correct_answer": "B",
+          "answer_description": "Amount spent on Cricket and Hockey together= Rs.(81 + 63)x 2crores360= Rs. 0.8 crores= Rs. 80,00,000."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The circle-graph  given here shows the spendings of a country on various sports during a particular year. Study the graph carefully and answer the questions given below it.",
+          "image_path": "images\\15-2-9-1.png",
+          "question": "If the total amount spent on sports during the year be Rs. 1,80,00,000 , the amount spent on Basketball exceeds on Tennis by:",
+          "options": {
+               "A": "Rs. 2,50,000",
+               "B": "Rs. 3,60,000",
+               "C": "Rs. 3,75,000",
+               "D": "Rs. 4,10,000"
+          },
+          "correct_answer": "A",
+          "answer_description": "Amount spent on Basketball exceeds that on Tennis by:Rs.(50 - 45)x 1,80,00,000= Rs. 2,50,000.360"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Answer the questions based on the given line graph.Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years",
+          "image_path": "images\\15-3-7-1.png",
+          "question": "In how many of the given years were the exports more than the imports for Company A?",
+          "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5"
+          },
+          "correct_answer": "B",
+          "answer_description": "The exports are more than imports in those years for which the exports to imports ratio are more than 1. For Company A, such years are 1995, 1996 and 1997.Thus, during these 3 years, the exports are more than the imports for Company A."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Answer the questions based on the given line graph.Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years",
+          "image_path": "images\\15-3-7-1.png",
+          "question": "In which year(s) was the difference between impors and exports of Company B the maximum?",
+          "options": {
+               "A": "2000",
+               "B": "1996",
+               "C": "1998 and 2000",
+               "D": "Cannot be determined"
+          },
+          "correct_answer": "D",
+          "answer_description": "We shall try to find the difference between the imports and exports of Company B for various years one by one:For 1995: We haveE= 0.75IwhereE= amount of exports,I= amount of imports in 1995.E= 0.75II-E= 0.75 xI= 0.25I.Thus, the difference between the imports and exports of Company B in 1995 is dependent on the amount of imports of Company B in 1995.Similarly, the difference for other years can be determined only if the amount of imports for these years is known.Since the imports or exports for various years are not know, the differences between and exports for various years cannot be determined."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Answer the questions based on the given line graph.Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years",
+          "image_path": "images\\15-3-7-1.png",
+          "question": "If the exports of Company A in 1998 were Rs. 237 crores, what was the amount of imports in that year?",
+          "options": {
+               "A": "Rs. 189.6 crores",
+               "B": "Rs. 243 crores",
+               "C": "Rs. 281 crores",
+               "D": "Rs. 316 crores"
+          },
+          "correct_answer": "D",
+          "answer_description": "Let the amount of imports of Company A in 1998 be Rs.xcrores.Then,237= 0.75x=237= 316.x0.75Amount of imports of Company A in 1998 = Rs. 316 crores."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Answer the questions based on the given line graph.Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years",
+          "image_path": "images\\15-3-7-1.png",
+          "question": "If the imports of Company A in 1997 were increased by 40 percent, what would be the ratio of exports to the increased imports?",
+          "options": {
+               "A": "1.20",
+               "B": "1.25",
+               "C": "1.30",
+               "D": "cannot be determined"
+          },
+          "correct_answer": "B",
+          "answer_description": "In 1997 for Company A we have:E= 1.75     i.e.,E= 1.75IIwhereEamount of exports,I= amount of imports of Company A in 1997.Now, the required importsI1=I+ 40% ofI= 1.4I.Required ratio =E=1.75I= 1.25.I11.4I"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)Answer the questions based on the given line graph.Ratio of Exports to Imports (in terms of money in Rs. crores) of Two Companies Over the Years",
+          "image_path": "images\\15-3-7-1.png",
+          "question": "In 1995, the export of Company A was double that of Company B. If the imports of Company A during the year was Rs. 180 crores, what was the approximate amount of imports pf Company B during that year?",
+          "options": {
+               "A": "Rs. 190 crores",
+               "B": "Rs. 210 crores",
+               "C": "Rs. 225 crores",
+               "D": "Cannot be determined"
+          },
+          "correct_answer": "B",
+          "answer_description": "In 1995 for Company A we have:EA= 1.75 ... (i)IA[where EA= amount of exports, IA= amount of imports of Company a in 1995]In 1995 for Company B we have:EB= 0.75 ... (ii)IB[where EB= amount of exports, IB= amount of imports of Company B in 1995]Also, we have EA= 2EB... (iii)Substituting IA= Rs. 180 crores (given) in (i), we get:EA= Rs. (180 x 1.75) crores = Rs. 315 crores.Using EA= Rs. 315 crores in (iii), we get:EB=EA= Rs.315crores.22Substituting EB= Rs.315crores in (ii), we get:2IB=EB= Rs.315crores = Rs. 210 crores.0.752 x 0.75i.e., amount of imports of Company B in 1995 = Rs. 210 crores."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The following table shows the number of new employees added to different categories of employees in a company and also the number of employees from these categories who left the company every year since the foundation of the Company in 1995.YearManagersTechniciansOperatorsAccountantsPeonsNewLeftNewLeftNewLeftNewLeftNewLeft1995760-1200-880-1160-820-199628012027212025610420010018496199717992240128240120224104152881998148882369620810024896196801999160722561001921122728822412020001939628811224814426092200104",
+          "image_path": null,
+          "question": "During the period between 1995 and 2000, the total number of Operators who left the Company is what percent of total number of Operators who joined the Company?",
+          "options": {
+               "A": "19%",
+               "B": "21%",
+               "C": "27%",
+               "D": "29%"
+          },
+          "correct_answer": "D",
+          "answer_description": "Total number of Operators who left the Company during 1995 - 2000= (104 + 120 + 100 + 112 + 144)= 580.Total number of Operators who joined the Company during 1995 - 2000= (880 + 256 + 240 + 208 + 192 + 248)= 2024.Required Percentage =580x 100% = 28.66%29%.2024"
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The following table shows the number of new employees added to different categories of employees in a company and also the number of employees from these categories who left the company every year since the foundation of the Company in 1995.YearManagersTechniciansOperatorsAccountantsPeonsNewLeftNewLeftNewLeftNewLeftNewLeft1995760-1200-880-1160-820-199628012027212025610420010018496199717992240128240120224104152881998148882369620810024896196801999160722561001921122728822412020001939628811224814426092200104",
+          "image_path": null,
+          "question": "For which of the following categories the percentage increase in the number of employees working in the Company from 1995 to 2000 was the maximum?",
+          "options": {
+               "A": "Managers",
+               "B": "Technicians",
+               "C": "Operators",
+               "D": "Accountants"
+          },
+          "correct_answer": "A",
+          "answer_description": "Number of Managers working in the Company:In 1995= 760.In 2000= (760 + 280 + 179 + 148 + 160 + 193) - (120 + 92 + 88 + 72 + 96)= 1252.Percentage increase in the number of Managers=(1252 - 760)x 100% = 64.74%.760Number of Technicians working in the Company:In 1995= 1200.In 2000= (1200 + 272 + 240 + 236 + 256 + 288) -(120 + 128 + 96 + 100 + 112)= 1936.Percentage increase in the number of Technicians=(1936 - 1200)x 100% = 61.33%.1200Number of Operators working in the Company:In 1995= 880.In 2000= (880 + 256 + 240 + 208 + 192 + 248) -(104 + 120 + 100 + 112 + 144)= 1444.Percentage increase in the number of Operators=(1444 - 880)x 100% = 64.09%.880Number of Accountants working in the Company:In 1995= 1160.In 2000= (1160 + 200 + 224 + 248 + 272 + 260) -(100 + 104 + 96 + 88 + 92)= 1884.Percentage increase in the number of Accountants=(1884 - 1160)x 100% = 62.41%.1160Number of Peons working in the Company:In 1995= 820.In 2000= (820 + 184 + 152 + 196 + 224 + 200) -(96 + 88 + 80 + 120 + 104)= 1288.Percentage increase in the number of Peons=(1288 - 820)x 100% = 57.07%.820Clearly, the percentage increase is maximum in case of Managers."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The following table shows the number of new employees added to different categories of employees in a company and also the number of employees from these categories who left the company every year since the foundation of the Company in 1995.YearManagersTechniciansOperatorsAccountantsPeonsNewLeftNewLeftNewLeftNewLeftNewLeft1995760-1200-880-1160-820-199628012027212025610420010018496199717992240128240120224104152881998148882369620810024896196801999160722561001921122728822412020001939628811224814426092200104",
+          "image_path": null,
+          "question": "What is the difference between the total number of Technicians added to the Company and the total number of Accountants added to the Company during the years 1996 to 2000?",
+          "options": {
+               "A": "128",
+               "B": "112",
+               "C": "96",
+               "D": "88"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required difference= (272 + 240 + 236 + 256 + 288) - (200 + 224 + 248 + 272 + 260)= 88."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The following table shows the number of new employees added to different categories of employees in a company and also the number of employees from these categories who left the company every year since the foundation of the Company in 1995.YearManagersTechniciansOperatorsAccountantsPeonsNewLeftNewLeftNewLeftNewLeftNewLeft1995760-1200-880-1160-820-199628012027212025610420010018496199717992240128240120224104152881998148882369620810024896196801999160722561001921122728822412020001939628811224814426092200104",
+          "image_path": null,
+          "question": "What was the total number of Peons working in the Company in the year 1999?",
+          "options": {
+               "A": "1312",
+               "B": "1192",
+               "C": "1088",
+               "D": "968"
+          },
+          "correct_answer": "B",
+          "answer_description": "Total number of Peons working in the Company in 1999= (820 + 184 + 152 + 196 + 224) - (96 + 88 + 80 + 120)= 1192."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)The following table shows the number of new employees added to different categories of employees in a company and also the number of employees from these categories who left the company every year since the foundation of the Company in 1995.YearManagersTechniciansOperatorsAccountantsPeonsNewLeftNewLeftNewLeftNewLeftNewLeft1995760-1200-880-1160-820-199628012027212025610420010018496199717992240128240120224104152881998148882369620810024896196801999160722561001921122728822412020001939628811224814426092200104",
+          "image_path": null,
+          "question": "What is the pooled average of the total number of employees of all categories in the year 1997?",
+          "options": {
+               "A": "1325",
+               "B": "1195",
+               "C": "1265",
+               "D": "1235"
+          },
+          "correct_answer": "B",
+          "answer_description": "Total number of employees of various categories working in the Company in 1997 are:Managers= (760 + 280 + 179) - (120 + 92) = 1007.Technicians= (1200 + 272 + 240) - (120 + 128) = 1464.Operators= (880 + 256 + 240) - (104 + 120) = 1152.Accountants= (1160 + 200 + 224) - (100 + 104) = 1380.Peons= (820 + 184 + 152) - (96 + 88) = 972.Pooled average of all the five categories of employees working in the Company in 1997=1x (1007 + 1464 + 1152 + 1380 + 972)5=1x (5975)5= 1195."
+     }
+]

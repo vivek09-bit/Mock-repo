@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+        "options": {
+            "A": "65 sec",
+            "B": "89 sec",
+            "C": "100 sec",
+            "D": "150 sec"
+        },
+        "correct_answer": "B",
+        "answer_description": "Speed =240m/sec = 10 m/sec.24Required time =240 + 650sec = 89 sec.10"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:",
+        "options": {
+            "A": "50 m",
+            "B": "72 m",
+            "C": "80 m",
+            "D": "82 m"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the length of each train bexmetres.Then, distance covered = 2xmetres.Relative speed = (46 - 36) km/hr=10 x5m/sec18=25m/sec92x=253692x= 100x= 50."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
+        "options": {
+            "A": "40 sec",
+            "B": "42 sec",
+            "C": "45 sec",
+            "D": "48 sec"
+        },
+        "correct_answer": "A",
+        "answer_description": "Formula for converting from km/hr to m/s:Xkm/hr =Xx5m/s.18Therefore, Speed =45 x5m/sec=25m/sec.182Total distance to be covered = (360 + 140) m = 500 m.Formula for finding Time=DistanceSpeedRequired time =500 x 2sec= 40 sec.25"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+        "options": {
+            "A": "36",
+            "B": "45",
+            "C": "48",
+            "D": "49"
+        },
+        "correct_answer": "C",
+        "answer_description": "Relative speed = (60+ 90) km/hr=150 x5m/sec18=125m/sec.3Distance covered = (1.10 + 0.9) km = 2 km = 2000 m.Required time =2000 x3sec = 48 sec.125"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?",
+        "options": {
+            "A": "3.6 sec",
+            "B": "18 sec",
+            "C": "36 sec",
+            "D": "72 sec"
+        },
+        "correct_answer": "C",
+        "answer_description": "Speed of train relative to jogger = (45 - 9) km/hr = 36 km/hr.=36 x5m/sec18= 10 m/sec.Distance to be covered = (240 + 120) m = 360 m.Time taken =360sec= 36 sec.10"
+    }
+]

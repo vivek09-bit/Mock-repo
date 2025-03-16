@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The SQL keyword BETWEEN is used:",
+        "options": {
+            "A": "for ranges.",
+            "B": "to limit the columns displayed.",
+            "C": "as a wildcard.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A subquery in an SQL SELECT statement:",
+        "options": {
+            "A": "can only be used with two tables.",
+            "B": "can always be duplicated by a join.",
+            "C": "has a distinct form that cannot be duplicated by a join.",
+            "D": "cannot have its results sorted using ORDER BY."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "________ was adopted as a national standard by ANSI in 1992.",
+        "options": {
+            "A": "Oracle",
+            "B": "SQL",
+            "C": "Microsoft Access",
+            "D": "DBase"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "SQL is:",
+        "options": {
+            "A": "a programming language.",
+            "B": "an operating system.",
+            "C": "a data sublanguage.",
+            "D": "a DBMS."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

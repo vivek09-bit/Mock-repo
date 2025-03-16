@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which decade was the SPICE simulator introduced?",
+        "options": {
+            "A": "1950s",
+            "B": "1960s",
+            "C": "1970s",
+            "D": "1980s"
+        },
+        "correct_answer": "C",
+        "answer_description": "SPICE (Simulation Program with Integrated Circuit Emphasis) was introduced in May 1972 by the University of Berkeley, California."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+        "options": {
+            "A": "Sound",
+            "B": "Remote control",
+            "C": "Color balance",
+            "D": "High voltage"
+        },
+        "correct_answer": "B",
+        "answer_description": "Some authorities are recommending TV's, VCR's and Stereo's be connected to power strips with switches and turned off when not in use to save energy. Your remote will not work until power is switched back on."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+        "options": {
+            "A": "Flash",
+            "B": "Flange",
+            "C": "Fury",
+            "D": "FRAM"
+        },
+        "correct_answer": "A",
+        "answer_description": "It's commonly used for MP3 players, computer BIOS code and \"thumb\" drives. Originally developed in Japan by Toshiba, it has become quite popular for products requiring non-volatile erasable memory. Flash devices have a limited number of erase cycles (typically 10,000 to 1,000,000 cycles) so they're not as good a choice for applications in which the data changes constantly. However, since it has no moving parts (unlike a hard disk) it is an excellent choice for storing the operating code for small personal electronics like PDAs, cell phones, digital cameras, and the data in items like MP3 players."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The purpose of choke in tube light is ?",
+        "options": {
+            "A": "To decrease the current",
+            "B": "To increase the current",
+            "C": "To decrease the voltage momentarily",
+            "D": "To increase the voltage momentarily"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'.MPG' extension refers usually to what kind of file?",
+        "options": {
+            "A": "WordPerfect Document file",
+            "B": "MS Office document",
+            "C": "Animation/movie file",
+            "D": "Image file"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A dishonest milkman professes to sell his milk at cost price but he mixes it with water and thereby gains 25%. The percentage of water in the mixture is:",
+        "options": {
+            "A": "4%",
+            "B": "6%",
+            "C": "20%",
+            "D": "25%"
+        },
+        "correct_answer": "C",
+        "answer_description": "Let C.P. of 1 litre milk be Re. 1Then, S.P. of 1 litre of mixture = Re. 1, Gain = 25%.C.P. of 1 litre mixture = Re.100x 1=41255By the rule of alligation, we have:C.P. of 1 litre of milkC.P. of 1 litre of waterRe. 1Mean PriceRe.4504515Ratio of milk to water =4:1= 4 : 1.55Hence, percentage of water in the mixture =1x 100%= 20%.5"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How many kilogram of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?",
+        "options": {
+            "A": "36 kg",
+            "B": "42 kg",
+            "C": "54 kg",
+            "D": "63 kg"
+        },
+        "correct_answer": "D",
+        "answer_description": "S.P. of 1 kg of mixture = Rs. 9.24, Gain 10%.C.P. of 1 kg of mixture = Rs.100x 9.24= Rs. 8.40110By the rule of allilation, we have:C.P. of 1 kg sugar of 1stkindCost of 1 kg sugar of 2ndkindRs. 9Mean PriceRs. 8.40Rs. 71.400.60Ratio of quantities of 1stand 2ndkind = 14 : 6 = 7 : 3.Letxkg of sugar of 1stbe mixed with 27 kg of 2ndkind.Then, 7 : 3 =x: 27x=7 x 27= 63 kg.3"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container?",
+        "options": {
+            "A": "26.34 litres",
+            "B": "27.36 litres",
+            "C": "28 litres",
+            "D": "29.16 litres"
+        },
+        "correct_answer": "D",
+        "answer_description": "Amount of milk left after 3 operations =401 -43litres40=40 x9x9x9= 29.16 litres.101010"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is:",
+        "options": {
+            "A": "13",
+            "B": "23",
+            "C": "25",
+            "D": "35"
+        },
+        "correct_answer": "B",
+        "answer_description": "By the rule of alligation, we have:Strength of first jarStrength of 2ndjar40%MeanStrength26%19%714So, ratio of 1stand 2ndquantities = 7 : 14 = 1 : 2Required quantity replaced =23"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In what ratio must water be mixed with milk to gain 16% on selling the mixture at cost price?",
+        "options": {
+            "A": "1 : 6",
+            "B": "6 : 1",
+            "C": "2 : 3",
+            "D": "4 : 3"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let C.P. of 1 litre milk be Re. 1.S.P. of 1 litre of mixture = Re.1, Gain =50%.3C.P. of 1 litre of mixture =100 x3x 1=63507By the rule of alligation, we have:C.P. of 1 litre of waterC.P. of 1 litre of milk0Mean PriceRe.67Re. 11767Ratio of water and milk =1:6= 1 : 6.77"
+    }
+]

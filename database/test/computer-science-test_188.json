@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which company offers the LISP machine considered to be \"the most powerful symbolic processor available\"?",
+          "options": {
+               "A": "LMI",
+               "B": "Symbolics",
+               "C": "Xerox",
+               "D": "Texas Instruments",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To invoke the LISP system, you must enter",
+          "options": {
+               "A": "AI",
+               "B": "LISP",
+               "C": "CL (Common Lisp)",
+               "D": "both b and c",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Decision support programs are designed to help managers make:",
+          "options": {
+               "A": "budget projections",
+               "B": "visual presentations",
+               "C": "business decisions",
+               "D": "vacation schedules",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The field that investigates the mechanics of human intelligence is:",
+          "options": {
+               "A": "history",
+               "B": "cognitive science",
+               "C": "psychology",
+               "D": "sociology",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which type of actuator generates a good deal of power but tends to be messy?",
+          "options": {
+               "A": "electric",
+               "B": "hydraulic",
+               "C": "pneumatic",
+               "D": "(B) and (c) above",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A natural language generation program must decide:",
+          "options": {
+               "A": "what to say",
+               "B": "when to say something",
+               "C": "why it is being used",
+               "D": "both (a) and (b)",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The characteristics of the computer system capable of thinking, reasoning and learning is known is",
+          "options": {
+               "A": "machine intelligence",
+               "B": "human intelligence",
+               "C": "artificial intelligence",
+               "D": "virtual intelligence",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "In which of the following situations might a blind search be acceptable?",
+          "options": {
+               "A": "real-life situation",
+               "B": "complex game",
+               "C": "small search space",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A Personal Consultant knowledge base contain information in the form of:",
+          "options": {
+               "A": "parameters",
+               "B": "contexts",
+               "C": "production rules",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The  area  of AI  that investigates methods  of facilitating  communication between people and computers is:",
+          "options": {
+               "A": "natural language processing",
+               "B": "symbolic processing",
+               "C": "decision support",
+               "D": "robotics",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which approach to speech recognition avoids the problem caused by the variation in speech patterns among different speakers?",
+          "options": {
+               "A": "Continuous speech recognition",
+               "B": "Isolated word recognition",
+               "C": "Connected word recognition",
+               "D": "Speaker-dependent recognition",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Shaping teaching techniques to fit the learning patterns of individual students is the goal of:",
+          "options": {
+               "A": "decision support",
+               "B": "automatic programming",
+               "C": "intelligent computer-assisted instruction",
+               "D": "expert systems",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Graphic interfaces were first used in a Xerox product called:",
+          "options": {
+               "A": "InterLISP",
+               "B": "Ethernet",
+               "C": "Smalltalk",
+               "D": "ZetaLISP",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "An expert system differs from a database program in that only an expert system:",
+          "options": {
+               "A": "contains declarative knowledge",
+               "B": "contains procedural knowledge",
+               "C": "features  the  retrieval  of stored information",
+               "D": "expects users to draw their own conclusions",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Artificial intelligence is",
+          "options": {
+               "A": "the embodiment of human intellectual capabilities within a computer.",
+               "B": "a set of computer programs that produce output that would be considered to reflect intelligence if it were generated by humans.",
+               "C": "the study of mental faculties through the use of mental models implemented on a computer.",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When a top-level function is entered, the LISP processor do(es)",
+          "options": {
+               "A": "It reads the function entered",
+               "B": "It evaluates the function and the function's operands",
+               "C": "It prints the results returned by the function.",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Personal Consultant is based on:",
+          "options": {
+               "A": "EMYCIN",
+               "B": "OPS5+",
+               "C": "XCON",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Newell and Simon program that proved theorems of Principia Mathematica was:",
+          "options": {
+               "A": "Elementary Perceiver",
+               "B": "General Problem Solver",
+               "C": "Logic Theorist",
+               "D": "Boolean Algebra",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The primary method that people use to sense their environment is:",
+          "options": {
+               "A": "reading",
+               "B": "writing",
+               "C": "speaking",
+               "D": "seeing",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The Cedar, BBN Butterfly, Cosmic Cube and Hypercube machine can be characterized as",
+          "options": {
+               "A": "SISD",
+               "B": "MIMD",
+               "C": "SIMD",
+               "D": "MISD",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

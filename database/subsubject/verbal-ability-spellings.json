@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Efficient",
+            "B": "Treatmeant",
+            "C": "Beterment",
+            "D": "Employd"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Foreign",
+            "B": "Foreine",
+            "C": "Fariegn",
+            "D": "Forein"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Ommineous",
+            "B": "Omineous",
+            "C": "Ominous",
+            "D": "Omenous"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Pessenger",
+            "B": "Passenger",
+            "C": "Pasanger",
+            "D": "Pesanger"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": "Directions to SolveFind the correctly spelt words.",
+        "image_path": null,
+        "question": "(solve as per thedirectiongiven above)",
+        "options": {
+            "A": "Benefitted",
+            "B": "Benifited",
+            "C": "Benefited",
+            "D": "Benefeted"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

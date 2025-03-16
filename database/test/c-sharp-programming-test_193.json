@@ -1,0 +1,274 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following jobs are done by Common Language Runtime?It provides core services such as memory management, thread management, and remoting.It enforces strict type safety.It provides Code Access Security.It provides Garbage Collection Services.",
+          "options": {
+               "A": "Only 1 and 2",
+               "B": "Only 3, 4",
+               "C": "Only 1, 3 and 4",
+               "D": "Only 2, 3 and 4",
+               "E": "All of the above"
+          },
+          "correct_answer": "E",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are valid .NET CLR JIT performance counters?Total memory used for JIT compilationAverage memory used for JIT compilationNumber of methods that failed to compile with the standard JITPercentage    of   processor    time    spent    performing    JIT compilationPercentage of memory currently dedicated for JIT compilation",
+          "options": {
+               "A": "1, 5",
+               "B": "3, 4",
+               "C": "1, 2",
+               "D": "4, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?char ch = Convert.ToChar ('a' | 'b' | 'c'); \nswitch (ch)\n{\n    case 'A': \n    case 'a':\n    Console.WriteLine (\"case A | case a\");\n    break;\n    \n    case 'B': \n    case 'b':\n    Console.WriteLine (\"case B | case b\");\n    break;\n    \n    case 'C':\n    case 'c':\n    case 'D':\n    case 'd':\n    Console.WriteLine (\"case D | case d\");\n    break;\n}",
+          "options": {
+               "A": "case A | case a",
+               "B": "case B | case b",
+               "C": "case D | case d",
+               "D": "Compile Error",
+               "E": "No output"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Supposenis a variable of the type Byte and we wish, to check whether its fourth bit (from right) is ON or OFF. Which of the following statements will do this correctly?",
+          "options": {
+               "A": "if ((n&16) == 16)\nConsole.WriteLine(\"Fourth bit is ON\");",
+               "B": "if ((n&8) == 8)\nConsole.WriteLine(\"Fourth bit is ON\");",
+               "C": "if ((n ! 8) == 8)\nConsole.WriteLine(\"Fourth bit is ON\");",
+               "D": "if ((n ^ 8) == 8)\nConsole.WriteLine(\"Fourth bit is ON\");",
+               "E": "if ((n ~ 8) == 8)\nConsole. WriteLine(\"Fourth bit is ON\");"
+          },
+          "correct_answer": "B",
+          "answer_description": "byte myByte = 153;// In Binary = 10011001byte n = 8;// In Binary = 00001000 \n(Here 1 is the 4th bit from right)\n\nNow perform logical AND operation (n & myByte)\n\n 10011001\n 00001000\n---------\n 00001000  Here result is other than 0, so evaluated to True.\n---------If the result is true, then we can understand that 4th bit is ON of the given datamyByte."
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?int num = 1, z = 5;\n\nif (!(num <= 0))\n    Console.WriteLine( ++num + z++ + \" \" + ++z ); \nelse\n    Console.WriteLine( --num + z-- + \" \" + --z );",
+          "options": {
+               "A": "5 6",
+               "B": "6 5",
+               "C": "6 6",
+               "D": "7 7"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{\n    class SampleProgram\n    {\n        static void Main(string[ ] args)\n        {\n            object[] o = new object[] {\"1\", 4.0, \"India\", 'B'};\n            fun (o);\n        }\n        static void fun (params object[] obj)\n        {\n            for (int i = 0; i < obj.Length-1; i++)\n            Console.Write(obj[i] + \" \");\n        }\n    }\n}",
+          "options": {
+               "A": "1 4.0 India B",
+               "B": "1 4.0 India",
+               "C": "1 4 India",
+               "D": "1 India B"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{\n    class SampleProgram\n    {\n        static void Main(string[ ] args)\n        {\n            int i = 10;\n            double d = 34.340;\n            fun(i);\n            fun(d);\n        }\n        static void fun(double d)\n        {\n            Console.WriteLine(d + \" \");\n        }\n    }\n}",
+          "options": {
+               "A": "10.000000 34.340000",
+               "B": "10 34",
+               "C": "10 34.340",
+               "D": "10 34.34"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{ \n    class Sample\n    { \n        static Sample()\n        { \n            Console.Write(\"Sample class \");\n        }\n        public static void Bix1()\n        { \n            Console.Write(\"Bix1 method \");\n        } \n    } \n    class MyProgram\n    { \n        static void Main(string[ ] args)\n        { \n            Sample.Bix1();\n        } \n    } \n}",
+          "options": {
+               "A": "Sample class Bix1 method",
+               "B": "Bix1 method",
+               "C": "Sample class",
+               "D": "Bix1 method Sample class",
+               "E": "Sample class Sample class"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What will be the output of the C#.NET code snippet given below?namespace IndiabixConsoleApplication\n{ \n    class Baseclass\n    { \n        public void fun()\n        { \n            Console.Write(\"Base class\" + \" \");\n        } \n    } \n    class Derived1: Baseclass\n    { \n        new void fun()\n        {\n            Console.Write(\"Derived1 class\" + \" \"); \n        } \n    } \n    class Derived2: Derived1\n    { \n        new void fun()\n        { \n            Console.Write(\"Derived2 class\" + \" \");\n        }\n    }\n    class Program\n    { \n        public static void Main(string[ ] args)\n        { \n            Derived2 d = new Derived2(); \n            d.fun(); \n        } \n    } \n}",
+          "options": {
+               "A": "Base class",
+               "B": "Derived1 class",
+               "C": "Derived2 class",
+               "D": "Base class Derived1 class",
+               "E": "Base class Derived1 class Derived2 class"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following statements is correct?",
+          "options": {
+               "A": "Array elements can be of integer type only.",
+               "B": "The rank of an Array is the total number of elements it can contain.",
+               "C": "The length of an Array is the number of dimensions in the Array.",
+               "D": "The default value of numeric array elements is zero.",
+               "E": "The Array elements are guaranteed to be sorted."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following are the correct ways to define an array of 2 rows and 3 columns?int[ , ] a;\na = new int[2, 3]{{7, 1, 3},{2, 9, 6}};int[ , ] a;\na = new int[2, 3]{};int[ , ] a = {{7, 1, 3}, {2, 9,6 }};int[ , ] a;\na = new int[1, 2];int[ , ] a;\na = new int[1, 2]{{7, 1, 3}, {2, 9, 6}};",
+          "options": {
+               "A": "1, 2 , 3",
+               "B": "1, 3",
+               "C": "2, 3",
+               "D": "2, 4, 5",
+               "E": "4, 5"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For the code  snippet shown below, which of the  following statements are valid?public class TestIndiaBix\n{\n    public void TestSub<M> (M arg)\n    {\n        Console.Write(arg);\n    }\n}\nclass MyProgram\n{\n    static void Main(string[] args)\n    {\n        TestIndiaBix bix = new TestIndiaBix();\n        bix.TestSub(\"IndiaBIX \");\n        bix.TestSub(4.2f);\n    }\n}",
+          "options": {
+               "A": "Program will compile and on execution will print:IndiaBIX 4.2",
+               "B": "A non generic class Hello cannot have generic subroutine.",
+               "C": "Compiler will generate an error.",
+               "D": "Program will generate a run-time exception.",
+               "E": "None of the above."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "For the code snippet shown below, which of the following statements are valid?public class Generic<T>\n{\n    public T Field; \n    public void TestSub()\n    {\n        T i = Field + 1;\n    }\n}\nclass MyProgram\n{\n    static void Main(string[] args)\n    {\n        Generic<int> gen = new Generic<int>();\n        gen.TestSub();\n    }\n}",
+          "options": {
+               "A": "Addition will produce result 1.",
+               "B": "Result of addition is system-dependent.",
+               "C": "Program will generate run-time exception.",
+               "D": "Compiler will report an error: Operator'+'is not defined for typesTandint.",
+               "E": "None of the above."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which one of the following classes are presentSystem.Collections.Genericnamespace?StackTreeSortedDictionarySortedArray",
+          "options": {
+               "A": "1 and 2 only",
+               "B": "2 and 4 only",
+               "C": "1 and 3 only",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about anenumused in C#.NET?",
+          "options": {
+               "A": "enumis a reference type.",
+               "B": "enumis a value type.",
+               "C": "Whether it a value type or a reference type depends upon size.",
+               "D": "Whether it a value type or a reference type depends upon a Project Setting made in Visual Stiiclio.NET.",
+               "E": "We can programmatically control whether it is a value type or a reference type."
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following CANNOT be used as an underlying datatype for anenumin C#.NET?",
+          "options": {
+               "A": "byte",
+               "B": "short",
+               "C": "float",
+               "D": "int"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is the correct way to implement a write only propertyLengthin aSampleclass?",
+          "options": {
+               "A": "class Sample\n{\n    public int Length\n    {\n        set\n        {\n            Length = value;\n        } \n    } \n}",
+               "B": "class Sample\n{\n    int len;\n    public int Length\n    {\n        get\n        {\n            return len;\n        }\n        set\n        {\n            len = value;\n        } \n    } \n}",
+               "C": "class Sample\n{\n    int len;\n    public int Length\n    {\n        WriteOnly set\n        {\n            len = value;\n        } \n    } \n}",
+               "D": "class Sample\n{\n    int len;\n    public int Length\n    {\n        set\n        {\n            len = value;\n        }\n    } \n}"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct?The signature of an indexer consists of the number and types of its formal parameters.Indexers are similar to properties except that their accessors take parameters.Accessors of interface indexers use modifiers.The type of an indexer and the type of its parameters must be at least as accessible as the indexer itself.An interface accessor contains a body.",
+          "options": {
+               "A": "1, 3, 5",
+               "B": "1, 2, 4",
+               "C": "3, 5",
+               "D": "2, 4"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements is correct about the C#.NET program given below if a value\"6\"is input to it?using System;\nnamespace IndiabixConsoleApplication\n{\n    class MyProgram\n    {\n        static void Main (string[] args)\n        {\n            int index; \n            int val = 66; \n            int[] a = new int[5]; \n            try\n            {\n                Consote.Write(\"Enter a number: \"); \n                index = Convert.ToInt32(Console.ReadLine()); \n                a[index] = val;\n            }\n            catch(Exception e)\n            {\n                Console.Write(\"Exception occurred \");\n            }\n            Console.Write(\"Remaining program \");\n        }\n    }\n}",
+          "options": {
+               "A": "It will output: Exception occurred",
+               "B": "It will output: Remaining program",
+               "C": "It will output: Exception occurred Remaining program",
+               "D": "It will output: Remaining program Exception occurred",
+               "E": "The value66will get assigned toa[6]."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following statements are correct?All operators in C#.NET can be overloaded.We can use thenewmodifier to modify a nested type if the nested type is hiding another type.In case of operator overloading all parameters must be of the different type than the class or struct that declares the operator.Method overloading is used to create several methods with the same name that performs similar tasks on similar data types.Operator overloading permits the use of symbols to represent computations for a type.",
+          "options": {
+               "A": "1, 3",
+               "B": "2, 4",
+               "C": "2, 5",
+               "D": "3, 4"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

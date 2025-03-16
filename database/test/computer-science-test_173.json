@@ -1,0 +1,282 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The average time necessary for the correct sector of a disk to arrive at the read write head is _____",
+          "options": {
+               "A": "Down time",
+               "B": "Seek time",
+               "C": "Rotational delay",
+               "D": "Access time",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Binary numbers need more places for counting because",
+          "options": {
+               "A": "They are always big numbers",
+               "B": "Any no. of 0's can be added in front of them",
+               "C": "Binary base is small",
+               "D": "0's and l's have to be properly spaced apart",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What is meant by a dedicated computer?",
+          "options": {
+               "A": "Which  is used by one person only",
+               "B": "Which is assigned one and only one task",
+               "C": "Which uses on kind of software",
+               "D": "Which is meant for application software only",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "To locate a data item for storage is",
+          "options": {
+               "A": "Field",
+               "B": "Feed",
+               "C": "Database",
+               "D": "Fetch",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The time taken for the read/write head to move to the correct track on the magnetic disk is called",
+          "options": {
+               "A": "epoch delay",
+               "B": "latency delay",
+               "C": "seek time",
+               "D": "approach time",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A hashing scheme is used with",
+          "options": {
+               "A": "sequential file organization",
+               "B": "direct file organization",
+               "C": "indexed         sequential         file organization",
+               "D": "partitioned file organization",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Bit map terminal",
+          "options": {
+               "A": "support displays containing multiple windows",
+               "B": "requires considerable amount of video RAM",
+               "C": "requires tremendous amount of copying and hence low performance",
+               "D": "All of the above",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The first firm to mass-market a microcomputer as a personal computer was",
+          "options": {
+               "A": "IBM",
+               "B": "Sperry Univac",
+               "C": "Radio Shack",
+               "D": "Data General Corporation",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When did IBM close the last of its punched card manufacturing plant?",
+          "options": {
+               "A": "June, 1989",
+               "B": "December, 1984",
+               "C": "March, 1982",
+               "D": "November, 1979",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Conversion of hexadecimal number 1D7F16to a decimal number is",
+          "options": {
+               "A": "755110",
+               "B": "877110",
+               "C": "555710",
+               "D": "778110",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The terminal device often used in checking charge cards that offers both a limited keyboard input and visual output is the:",
+          "options": {
+               "A": "Intelligent terminal",
+               "B": "POS terminal",
+               "C": "Video display terminal",
+               "D": "Audio response unit",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What digits are representative of all binary numbers?",
+          "options": {
+               "A": "0",
+               "B": "1",
+               "C": "Both (a) and (b)",
+               "D": "3",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The flow and timing to data to and from the microprocessor is regulated by",
+          "options": {
+               "A": "control pins",
+               "B": "address pins",
+               "C": "data pins",
+               "D": "power pins",
+               "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Programmed instructions to the computer is known as",
+          "options": {
+               "A": "Data",
+               "B": "Code",
+               "C": "Documentation",
+               "D": "Database",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "What type of memory is not directly addressable by the CPU and requires special software called EMS (expanded memory specification)?",
+          "options": {
+               "A": "Extended",
+               "B": "Expanded",
+               "C": "Base",
+               "D": "Conventional",
+               "E": "Basic system"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A device that can accept data, hold them&deliver them on demand at a later time is known as",
+          "options": {
+               "A": "Buffer",
+               "B": "Memory",
+               "C": "CPU",
+               "D": "Register",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A half byte is know is",
+          "options": {
+               "A": "Data",
+               "B": "Bit",
+               "C": "Half byte",
+               "D": "Nibble",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A machine associated with card-based data processing is",
+          "options": {
+               "A": "Codomain",
+               "B": "Collator",
+               "C": "Cartridge",
+               "D": "Digitizer",
+               "E": "None of the above"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Which of the following is used as \"Input device\" for the computer?",
+          "options": {
+               "A": "Printer",
+               "B": "VDU",
+               "C": "TV",
+               "D": "Light pen",
+               "E": "None of the above"
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Sequential file organization is most appropriate for which of the following applications?",
+          "options": {
+               "A": "grocery-store checkout",
+               "B": "bank checking accounts",
+               "C": "payroll",
+               "D": "airline reservations",
+               "E": "None of the above"
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     }
+]

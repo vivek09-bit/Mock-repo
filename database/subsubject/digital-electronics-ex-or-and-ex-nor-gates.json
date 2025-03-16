@@ -1,0 +1,65 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Select the statement that best describes the parity method of error detection:",
+        "options": {
+            "A": "Parity checking is best suited for detecting double-bit errors that occur during the transmission of codes from one location to another.",
+            "B": "Parity checking is not suitable for detecting single-bit errors in transmitted codes.",
+            "C": "Parity checking is best suited for detecting single-bit errors in transmitted codes.",
+            "D": "Parity checking is capable of detecting and correcting errors in transmitted codes."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A logic circuit that provides a HIGH output for both inputs HIGH or both inputs LOW is a(n):",
+        "options": {
+            "A": "Ex-NOR gate",
+            "B": "OR gate",
+            "C": "Ex-OR gate",
+            "D": "NAND gate"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A logic circuit that provides a HIGH output if one input or the other input, but not both, is HIGH, is a(n):",
+        "options": {
+            "A": "Ex-NOR gate",
+            "B": "OR gate",
+            "C": "Ex-OR gate",
+            "D": "NAND gate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Identify the type of gate below from the equation",
+        "options": {
+            "A": "Ex-NOR gate",
+            "B": "OR gate",
+            "C": "Ex-OR gate",
+            "D": "NAND gate"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How is odd parity generated differently from even parity?",
+        "options": {
+            "A": "The first output is inverted.",
+            "B": "The last output is inverted."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

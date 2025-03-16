@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a power supply diagram, which block indicates a pulsating dc output?",
+        "options": {
+            "A": "transformer",
+            "B": "filter",
+            "C": "rectifier",
+            "D": "regulator"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "List three diode packages:",
+        "options": {
+            "A": "clip package, DIP, small current package",
+            "B": "DIP, small current package, large current package",
+            "C": "small current package, large current package, and SIP",
+            "D": "small current package, large current package, clip package"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The mimicking of an open/closed switch by a diode allows alternating current to be:",
+        "options": {
+            "A": "rectified",
+            "B": "regulated",
+            "C": "controlled",
+            "D": "attenuated"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

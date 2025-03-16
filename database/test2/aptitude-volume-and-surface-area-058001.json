@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A right triangle with sides 3 cm, 4 cm and 5 cm is rotated the side of 3 cm to form a cone. The volume of the cone so formed is:",
+        "options": {
+            "A": "12cm3",
+            "B": "15cm3",
+            "C": "16cm3",
+            "D": "20cm3"
+        },
+        "correct_answer": "A",
+        "answer_description": "Clearly, we haver= 3 cm andh= 4 cm.Volume =1r2h=1xx 32x 4cm3= 12cm3.33Video Explanation:https://youtu.be/Njsid2mVwUY"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+        "options": {
+            "A": "75 cu. m",
+            "B": "750 cu. m",
+            "C": "7500 cu. m",
+            "D": "75000 cu. m"
+        },
+        "correct_answer": "B",
+        "answer_description": "1 hectare = 10,000 m2So, Area = (1.5 x 10000) m2= 15000 m2.Depth =5m=1m.10020Volume = (Area x Depth) =15000 x1m3= 750 m3.20Video Explanation:https://youtu.be/dDbVuBzYop8"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+        "options": {
+            "A": "720",
+            "B": "900",
+            "C": "1200",
+            "D": "1800"
+        },
+        "correct_answer": "C",
+        "answer_description": "2(15 + 12) xh= 2(15 x 12)h=180m =20m.273Volume =15 x 12 x20m3= 1200 m3.3Video Explanation:https://youtu.be/V8EQ1YIaH74"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "66 cubic centimetres of silver is drawn into a wire 1 mm in diameter. The length of the wire in metres will be:",
+        "options": {
+            "A": "84",
+            "B": "90",
+            "C": "168",
+            "D": "336"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the length of the wire beh.Radius =1mm=1cm.Then,22022x1x1xh= 66.72020h=66 x 20 x 20 x 7= 8400 cm = 84 m.22"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm3, then the weight of the pipe is:",
+        "options": {
+            "A": "3.6 kg",
+            "B": "3.696 kg",
+            "C": "36 kg",
+            "D": "36.9 kg"
+        },
+        "correct_answer": "B",
+        "answer_description": "External radius = 4 cm,Internal radius = 3 cm.Volume of iron=22x [(4)2- (3)2] x 21cm37=22x 7 x 1 x 21cm37= 462 cm3.Weight of iron = (462 x 8) gm = 3696 gm = 3.696 kg."
+    }
+]

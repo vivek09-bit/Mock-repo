@@ -1,0 +1,67 @@
+[
+    {
+        "direction": "Directions to SolveFind the statement that must be true according to the given information.",
+        "image_path": null,
+        "question": "Vincent has a paper route. Each morning, he delivers 37 newspapers to customers in his neighborhood. It takes Vincent 50 minutes to deliver all the papers. If Vincent is sick or has other plans, his friend Thomas, who lives on the same street, will sometimes deliver the papers for him.",
+        "options": {
+            "A": "Vincent and Thomas live in the same neighborhood.",
+            "B": "It takes Thomas more than 50 minutes to deliver the papers.",
+            "C": "It is dark outside when Vincent begins his deliveries.",
+            "D": "Thomas would like to have his own paper route."
+        },
+        "correct_answer": "A",
+        "answer_description": "The fact that Vincent and Thomas live on the same street indicates that they live in the same neighborhood. There is no support for any of the other choices."
+    },
+    {
+        "direction": "Directions to SolveFind the statement that must be true according to the given information.",
+        "image_path": null,
+        "question": "The Pacific yew is an evergreen tree that grows in the Pacific Northwest. The Pacific yew has a fleshy, poisonous fruit. Recently, taxol, a substance found in the bark of the Pacific yew, was discovered to be a promising new anticancer drug.",
+        "options": {
+            "A": "Taxol is poisonous when taken by healthy people.",
+            "B": "Taxol has cured people from various diseases.",
+            "C": "People should not eat the fruit of the Pacific yew.",
+            "D": "The Pacific yew was considered worthless until taxol was discovered."
+        },
+        "correct_answer": "C",
+        "answer_description": "Given the information presented, the only statement that could be considered true is that the fruit should not be eaten because it is poisonous. There is no support that taxol is poisonous or that taxol has cured anyone (choices a and b). There is no support for choice d."
+    },
+    {
+        "direction": "Directions to SolveFind the statement that must be true according to the given information.",
+        "image_path": null,
+        "question": "Erin is twelve years old. For three years, she has been asking her parents for a dog. Her parents have told her that they believe a dog would not be happy in an apartment, but they have given her permission to have a bird. Erin has not yet decided what kind of bird she would like to have.",
+        "options": {
+            "A": "Erin's parents like birds better than they like dogs.",
+            "B": "Erin does not like birds.",
+            "C": "Erin and her parents live in an apartment.",
+            "D": "Erin and her parents would like to move."
+        },
+        "correct_answer": "C",
+        "answer_description": "Since Erin's parents think a dog would not be happy in an apartment, we can reasonably conclude that the family lives in an apartment. We do not know if Erin's parents dislike dogs (choice a) or if Erin  dislikes birds (choice b).There is no support for choice d."
+    },
+    {
+        "direction": "Directions to SolveFind the statement that must be true according to the given information.",
+        "image_path": null,
+        "question": "Tim's commute never bothered him because there were always seats available on the train and he was able to spend his 40 minutes comfortably reading the newspaper or catching up on paperwork. Ever since the train schedule changed, the train has been extremely crowded, and by the time the doors open at his station, there isn't a seat to be found.",
+        "options": {
+            "A": "Tim would be better off taking the bus to work.",
+            "B": "Tim's commute is less comfortable since the train schedule changed.",
+            "C": "Many commuters will complain about the new train schedule.",
+            "D": "Tim will likely look for a new job closer to home."
+        },
+        "correct_answer": "B",
+        "answer_description": "The passage tells us that Tim's commute didn't bother  him because he was always able to sit down and comfortably read or do paperwork. Therefore, it is reasonable to assume that Tim's commute has become less comfortable since the schedule change, because it is very crowded and he can no longer find a seat. There is no information given that supports choices a, c, and d."
+    },
+    {
+        "direction": "Directions to SolveFind the statement that must be true according to the given information.",
+        "image_path": null,
+        "question": "When they heard news of the hurricane, Maya and Julian decided to change their vacation plans. Instead of traveling to the island beach resort, they booked a room at a fancy new spa in the mountains. Their plans were a bit more expensive, but they'd heard wonderful things about the spa and they were relieved to find availability on such short notice.",
+        "options": {
+            "A": "Maya and Julian take beach vacations every year.",
+            "B": "The spa is overpriced.",
+            "C": "It is usually necessary to book at least six months in advance at the spa.",
+            "D": "Maya and Julian decided to change their vacation plans because of the hurricane."
+        },
+        "correct_answer": "D",
+        "answer_description": "The first sentence makes this statement true. There is no support for choice a. The passage tells us that the spa vacation is more expensive than the island beach resort vacation, but that doesn't necessarily mean that the spa is overpriced; therefore, choice b cannot be supported. And even though the paragraph says that the couple was relieved to find a room on short notice, there is no information to support choice c, which says that it is usually necessary to book at the spa at least six months in advance."
+    }
+]

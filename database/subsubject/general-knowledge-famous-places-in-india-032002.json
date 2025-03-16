@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The headquarters of the National Power Training institute is located in",
+        "options": {
+            "A": "Pune",
+            "B": "Bhopal",
+            "C": "Faridabad",
+            "D": "Lucknow"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Dr. Babasaheb Ambedkar Marathwada University is at which of the following places?",
+        "options": {
+            "A": "Aurangabad",
+            "B": "Nanded",
+            "C": "Parbhani",
+            "D": "Nagpur"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Indian Institute of Science is located at",
+        "options": {
+            "A": "Kerala",
+            "B": "Madras",
+            "C": "Bangalore",
+            "D": "New Delhi"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'Bagh', a village in Gwalior is famous for",
+        "options": {
+            "A": "Sculptures",
+            "B": "Architecture",
+            "C": "Cave Painting",
+            "D": "All of the above"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which city is known as 'Electronic City of India'?",
+        "options": {
+            "A": "Mumbai",
+            "B": "Hyderabad",
+            "C": "Guragon",
+            "D": "Bangalore"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

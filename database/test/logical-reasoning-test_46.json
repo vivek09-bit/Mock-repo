@@ -1,0 +1,279 @@
+[
+     {
+          "direction": "Direction (Q.No. 1)Three of the words will be in the same classification, the remaining one will not be. Your answer will be the one word that does NOT belong in the same classification as the others.",
+          "image_path": null,
+          "question": "Which word does NOT belong with the others?",
+          "options": {
+               "A": "leopard",
+               "B": "cougar",
+               "C": "elephant",
+               "D": "lion"
+          },
+          "correct_answer": "C",
+          "answer_description": "A leopard, cougar, and lion all belong to the cat family; an elephant does not."
+     },
+     {
+          "direction": "Direction (Q.No. 2)A good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+          "image_path": null,
+          "question": "Reptile is to lizard as flower is to",
+          "options": {
+               "A": "petal",
+               "B": "stem",
+               "C": "daisy",
+               "D": "alligator"
+          },
+          "correct_answer": "C",
+          "answer_description": "A lizard is a type of reptile; a daisy is a type of flower. Choices a and b are incorrect because a petal and a stem are parts of a flower, not types of flowers. (Choice d) is incorrect because an alligator is another type of reptile, not a type of flower."
+     },
+     {
+          "direction": "Direction (Q.No. 3)Read each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+          "image_path": null,
+          "question": "Erratic Behavioroccurs when an individual acts in a manner that lacks consistency, regularity, and uniformity. Which situation below is the best example of Erratic Behavior?",
+          "options": {
+               "A": "Julia cannot contain her anger whenever the subject of local politics is discussed.",
+               "B": "Martin has just been told that he is being laid off. Before leaving his supervisor's office, he punches a hole in the door.",
+               "C": "Rhonda has visited the dealership several times, but she still cannot decide which car to buy.",
+               "D": "In the past month, Jeffrey, who has been a model employee for three years, has repeatedly called in sick, forgotten important meetings, and been verbally abusive to colleagues."
+          },
+          "correct_answer": "D",
+          "answer_description": "Jeffrey's recent behavior is clearly inconsistent and irregular."
+     },
+     {
+          "direction": "Direction (Q.No. 4)Read the paragraph carefully and determine the main point the author is trying to make. What conclusion can be drawn from the argument? Each paragraph is followed by five statements.One statement supports the author's argument better than the others do.",
+          "image_path": null,
+          "question": "Today's high school students spend too much time thinking about trivial and distracting matters such as fashion. Additionally, they often dress inappropriately on school grounds. Rather than spending time writing another detailed dress policy, we should make school uniforms mandatory. If students were required to wear uniforms, it would increase a sense of community and harmony in our schools and it would instill a sense of discipline in our students. Another positive effect would be that teachers and administrators would no longer have to act as clothing police, freeing them up to focus on more important issues.This paragraph best supports the statement that",
+          "options": {
+               "A": "inappropriate clothing leads to failing grades.",
+               "B": "students who wear school uniforms get into better colleges.",
+               "C": "teachers and administrators spend at least 25% of their time enforcing the dress code.",
+               "D": "students are not interested in being part of a community",
+               "E": "school uniforms should be compulsory for high school students."
+          },
+          "correct_answer": "E",
+          "answer_description": "The support for choice e is in the third sentence \"we should make school uniforms mandatory\". There is no evidence provided to support choices a, b, and d. And although we know that teachers and administrators are spending some of their time enforcing dress code, the paragraph does not quantify how much of their time is spent that way, so there is no support for choice c."
+     },
+     {
+          "direction": "Direction (Q.No. 5)Choose the statement that is best supported by the information given in the question passage.",
+          "image_path": null,
+          "question": "In the 1966 Supreme Court decisionMiranda v. Arizona, the court held that before the police can obtain statements from a person subjected to an interrogation, the person must be given aMirandawarning. This warning means that a person must be told that he or she has the right to remain silent during the police interrogation. Violation of this right means that any statement that the person makes is not admissible in a court hearing.This paragraph best supports the statement that",
+          "options": {
+               "A": "police who do not warn persons of theirMirandarights are guilty of a crime.",
+               "B": "aMirandawarning must be given before a police interrogation can begin.",
+               "C": "the police may no longer interrogate persons suspected of a crime unless a lawyer is present.",
+               "D": "the 1966 Supreme Court decision inMirandashould be reversed",
+               "E": "persons who are interrogated by police should always remain silent until their lawyer comes"
+          },
+          "correct_answer": "B",
+          "answer_description": "This answer is clearly supported in the second sentence. Nothing in the paragraph suggests that it is a crime not to give a Miranda warning, so choice a is incorrect. Choice c is also wrong because police may interrogate as long as a warning is given. There is no support given for either choice d or e."
+     },
+     {
+          "direction": "Direction (Q.No. 6)Read the below passage carefully and answer the questions:Giving children computers in grade school is a waste of money and teachers time. These children are too young to learn how to use computers effectively and need  to spend time on learning the basics, like arithmetic and reading. After all, a baby has to crawl before she can walk.",
+          "image_path": null,
+          "question": "Which of the following, if true, would weaken the speaker's argument?",
+          "options": {
+               "A": "a demonstration that computers can be used to teach reading and arithmetic",
+               "B": "analysis of the cost-effectiveness of new computers versus repairing old computers",
+               "C": "examples of adults who do not know how to use computers",
+               "D": "recent grade reports of students in the computer classes",
+               "E": "a visit to a classroom where computers are being used"
+          },
+          "correct_answer": "A",
+          "answer_description": "If computers enhance the learning of arithmetic and reading, the speaker's argument is not as strong."
+     },
+     {
+          "direction": "Direction (Q.No. 7)In each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statements:Modern man influences his destiny by the choice he makes unlike in the past.Conclusions:Earlier there were fewer options available to man.There was no desire in the past to influence the destiny.",
+          "options": {
+               "A": "Only conclusion I follows",
+               "B": "Only conclusion II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "A",
+          "answer_description": "Clearly, I directly follows from the statement while II cannot be deduced from it."
+     },
+     {
+          "direction": "Direction (Q.No. 8)In each of the following questions, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without having any relationship. Read both the statements in each question and mark your answer as(A) If statement I is the cause and statement II is its effect;(B) If statement II is the cause and statement I is its effect;(C) If both the statements I and II are independent causes;(D) If both the statements I and II are effects of independent causes; and(E) If both the statements I and II are effects of some common cause.",
+          "image_path": null,
+          "question": "Statements:The prices of vegetables have been increased considerably during this summer.There is tremendous increase in the temperature during this summer thereby damaging crops greatly.",
+          "options": {
+               "A": "Statement I is the cause and statement II is its effect",
+               "B": "Statement II is the cause and statement I is its effect",
+               "C": "Both the statements I and II are independent causes",
+               "D": "Both the statements I and II are effects of independent causes",
+               "E": "Both the statements I and II are effects of some common cause"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, damage to crops due to high temperature may have resulted in a short supply of vegetables and hence an increase in their prices."
+     },
+     {
+          "direction": "Direction (Q.No. 9)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The regulatory authority has set up a review committee to find out the reasons for unstable stock prices.Assumptions:The investors may regain confidence in stock market by this decision.The review committee has the expertise to find out the causes for volatility in the stock market.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Clearly, I mentions the aim for which the step talked about in the statement, has been undertaken while II mentions the essential requirement for it. So, both I and II  are implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The present examination system needs overhauling thoroughly.Assumptions:The present examination system is obsolete.Overhauling results in improvement.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "The 'thorough' overhauling is needed only in case of an obsolete system. So, I is implicit. Overhauling is done for improvement. So, II is also implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:I have written several letters to the branch manager regarding my account in the bank but did not receive any reply so far.Assumptions:Branch manager is expected to read letters received from the customer.Branch manager is expected to reply to the letters received from the customers.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since both I and II follow from the given statement, so both are implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 10 - 12)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:The end of a financial year is the ideal time to take a look at the performance of various companies.Assumptions:All the companies take such a review at the end of a financial year.The performance data of various companies is available.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "Since both I and II follow from the given statement, so both are implicit."
+     },
+     {
+          "direction": "Direction (Q.No. 13)In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.Give answer(A) If only assumption I is implicit(B) If only assumption II is implicit(C) If either I or II is implicit(D) If neither I nor II is implicit(E) If both I and II are implicit.",
+          "image_path": null,
+          "question": "Statement:Children, who get encouragement, usually perform better. - A note by the Principal to the parents.Assumptions:Some parents do not encourage children.Parents may follow Principal's advice.",
+          "options": {
+               "A": "Only assumption I is implicit",
+               "B": "Only assumption II is implicit",
+               "C": "Either I or II is implicit",
+               "D": "Neither I nor II is implicit",
+               "E": "Both I and II are implicit"
+          },
+          "correct_answer": "E",
+          "answer_description": "The statement talks of the performance of children who get encouragement. It means that there are some children who are not encouraged. So, I is implicit. Also, the Principal notifies to the parents that encouragement helps children improve their performance, with the hope that they too would encourage their children. So, II is also implicit,"
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 15)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:Exporters in the capital are alleging that commercial banks are violating a Reserve Bank of India directive to operate a post shipment export credit denominated in foreign currency at international rates from January this year.Courses of Action:The officers concerned in the commercial banks are to be suspended.The RBI should be asked to stop giving such directives to commercial banks.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "D",
+          "answer_description": "The statement mentions that the commercial banks violate a directive issued by the RBI. The remedy is only to make the banks implement the Act. So, none of the courses follows."
+     },
+     {
+          "direction": "Direction (Q.Nos. 14 - 15)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:Most of those who study in premier engineering colleges in India migrate to developed nations for better prospects in their professional pursuits.Courses of Action:All the students joining these colleges should be asked to sign a bond at the time of admission to the effect that they will remain in India at least for ten years after they complete education.All those students who desire to settle in the developed nations should be asked to pay entire cost of their education which the government subsidises.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, no student can be bound to live and work in the country against his wish. So, I does not follow. However, it is quite right to recover the extra benefits awarded to students if they do not serve their own country. So, II follows."
+     },
+     {
+          "direction": "Direction (Q.No. 16)In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.Give answer(A) If only I follows(B) If only II follows(C) If either I or II follows(D) If neither I nor II follows(E) If both I and II follow.",
+          "image_path": null,
+          "question": "Statement:The Union Ministry of Tourism and Civil Aviation has fixed an annual target of Rs 10,000 crores by way of tourism earnings towards the end of the current decade.Courses of Action:There is no need of development of further new tourist spots to meet the target.The Ministry should evolve attractive packages to woo the foreign tourists to meet the target.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Either I or II follows",
+               "D": "Neither I nor II follows",
+               "E": "Both I and II follow"
+          },
+          "correct_answer": "B",
+          "answer_description": "Such a high target can be achieved only by a drastic increase in the number of tourists. The tourists can be attracted only by developing spots worth seeing and providing attractive packages which seem to be a good value-for-money offer to foreign tourists. So, only II follows."
+     },
+     {
+          "direction": "Direction (Q.No. 17)In each question below is given a statement followed by three courses of action numbered I, II and III. You have to assume everything in the statement to be true, then decide which of the three given suggested courses of action logically follows for pursuing.",
+          "image_path": null,
+          "question": "Statement:A large number of students who have passed their XII Std. terminal examination in the country could not get admission to colleges as the number of seats available are grossly inadequate.Courses of Action:The evaluation system of XII Std. terminal examination should be made more tough so that fewer students pass the examination.The Government should encourage the private sector to open new colleges by providing them land at cheaper rate.The rich people should be asked to send their wards to foreign countries for higher studies enabling the needy students to get admission in colleges within the country.",
+          "options": {
+               "A": "Only I follows",
+               "B": "Only II follows",
+               "C": "Only I and II follow",
+               "D": "Only II and III follow",
+               "E": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "Clearly, reducing the number of aspirants for admission to colleges or sending the students of well-to-do families to foreign countries for higher studies, is no proper solution. So, both I and HI do not follow. The right solution is to increase the number of colleges so as to accommodate the increasing number of admission-seekers. So, only II follows."
+     },
+     {
+          "direction": "Direction (Q.No. 18)In each question below is given a statement followed by three assumptions numbered I, II and III. You have to consider the statement and the following assumptions, decide which of the assumptions is implicit in the statement and choose your answer accordingly.",
+          "image_path": null,
+          "question": "Statement:\"A rare opportunity to be a professional while you are at home.\" - An advertisement for computer literate housewives by a computer company.Assumptions:Some housewives simultaneously desire to become professional.Computer industry is growing at a fast pace.It is possible to be a professional as well as a housewife.",
+          "options": {
+               "A": "Only I and II are implicit",
+               "B": "Only II and III are implicit",
+               "C": "Only I and III are implicit",
+               "D": "Only II is implicit",
+               "E": "None of these"
+          },
+          "correct_answer": "C",
+          "answer_description": "Clearly, a company would highlight only that feature in its advertisement which people crave for and which it can make possible. So, both I and III are implicit. Nothing can be deduced about the growth of computer industry. So, II is not implicit."
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:All pencils are birds. All birds are skies. All skies are hills.Conclusions:All pencils are hills.All hills are birdsAll skies are pencils.All birds are hills.",
+          "options": {
+               "A": "Only I and II follow",
+               "B": "Only I and III follow",
+               "C": "Only III and IV follow",
+               "D": "All follow",
+               "E": "None of these"
+          },
+          "correct_answer": "E",
+          "answer_description": "All pencils are birds. All birds are skies.Since both the premises are universal and affirmative, the conclusion must be universal affirmative (A-type) and should not contain the middle term. So, it follows that 'All pencils are skies'.All birds are skies. All skies are hills.As discussed above, it follows that 'All birds are hills'. Thus, IV follows.All pencils are skies. All skies are hills.Clearly, it follows that 'All pencils are hills'. Thus, I follows.Hence, I and IV follow."
+     },
+     {
+          "direction": "Direction (Q.Nos. 19 - 20)In each of the following questions, three statements are given followed by four conclusions numbered I, II, III and TV. You have to take the given statements to be true even if they seem to be at variance with commonly known facts and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.",
+          "image_path": null,
+          "question": "Statements:All myths are fictions. No fiction is novel. All novels are stories.Conclusions:No myth is novel.Some fictions are novels.Some fictions are myths.Some myths are novels.",
+          "options": {
+               "A": "Only either I or II and both III and IV follow",
+               "B": "Only either I or IV and II follow",
+               "C": "Only either I or IV and both II and III follow",
+               "D": "All follow",
+               "E": "None of these"
+          },
+          "correct_answer": "E",
+          "answer_description": "III is the converse of first premise and so it holds.All myths are fictions. No fiction is novel.Since both the premises are universal and one premise is negative, the conclusion must be universal negative and should not contain the middle term. So, it follows that 'No myth is novel'. Thus, I follows.No fiction is novel. All novels are stories.Since the middle term 'novels' is distributed twice in the premises, the conclusion must be particular. Since one premise is negative, the conclusion must be negative.So, it follows that 'Some stories are not fictions'.Hence, only I and III follow."
+     }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In a flash analog-to-digital converter, the output of each comparator is connected to an input of a:",
+        "options": {
+            "A": "decoder",
+            "B": "priority encoder",
+            "C": "multiplexer",
+            "D": "demultiplexer"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which is not an analog-to-digital (ADC) conversion error?",
+        "options": {
+            "A": "differential nonlinearity",
+            "B": "missing code",
+            "C": "incorrect code",
+            "D": "offset"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Sample-and-hold circuits in analog-to digital converters (ADCs) are designed to:",
+        "options": {
+            "A": "sample and hold the output of the binary counter during the conversion process",
+            "B": "stabilize the comparator's threshold voltage during the conversion process",
+            "C": "stabilize the input analog signal during the conversion process",
+            "D": "sample and hold the D/A converter staircase waveform during the conversion process"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

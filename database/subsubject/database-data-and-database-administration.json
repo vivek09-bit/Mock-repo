@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Poor data administration can lead to which of the following?",
+        "options": {
+            "A": "A single definition of the same data entity",
+            "B": "Familiarity with existing data",
+            "C": "Missing data elements",
+            "D": "All of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A traditional data administrator performs which of the following roles?",
+        "options": {
+            "A": "Tune database performance",
+            "B": "Establish backup and recovery procedures",
+            "C": "Resolve data ownership issues",
+            "D": "Protect the security of the database."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "If both data and database administration exist in an organization, the database administrator is responsible for which of the following?",
+        "options": {
+            "A": "Data modeling",
+            "B": "Database design",
+            "C": "Metadata",
+            "D": "All of the above."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is part of an administrative policy to secure a database?",
+        "options": {
+            "A": "Authentication policies",
+            "B": "Limiting particular areas within a building to only authorized people",
+            "C": "Ensure appropriate responses rates are in external maintenance agreements",
+            "D": "All of the above."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Backward recovery is which of the following?",
+        "options": {
+            "A": "Where the before-images are applied to the database",
+            "B": "Where the after-images are applied to the database",
+            "C": "Where the after-images and before-images are applied to the database",
+            "D": "Switching to an existing copy of the database"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+        "options": {
+            "A": "1850s",
+            "B": "1880s",
+            "C": "1930s",
+            "D": "1950s"
+        },
+        "correct_answer": "B",
+        "answer_description": "The IEEE (Institute of Electrical and Electronics Engineers) was formed in 1963 by the merger of the Institute of Radio Engineers (IRE, founded 1912) and the American Institute of Electrical Engineers (AIEE, founded 1884)."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is part of a database that holds only one type of information?",
+        "options": {
+            "A": "Report",
+            "B": "Field",
+            "C": "Record",
+            "D": "File"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'OS' computer abbreviation usually means ?",
+        "options": {
+            "A": "Order of Significance",
+            "B": "Open Software",
+            "C": "Operating System",
+            "D": "Optical Sensor"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In which decade with the first transatlantic radio broadcast occur?",
+        "options": {
+            "A": "1850s",
+            "B": "1860s",
+            "C": "1870s",
+            "D": "1900s"
+        },
+        "correct_answer": "D",
+        "answer_description": "On December 12, 1901, a radio transmission received by Guglielmo Marconi resulted in the first transmission of a transatlantic wireless signal (Morse Code) from Poldhu, Cornwall, to St. John's, Newfoundland."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "'.MOV' extension refers usually to what kind of file?",
+        "options": {
+            "A": "Image file",
+            "B": "Animation/movie file",
+            "C": "Audio file",
+            "D": "MS Office document"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

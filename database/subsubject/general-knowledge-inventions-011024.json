@@ -1,0 +1,41 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "When was the toothbrush invented?",
+        "options": {
+            "A": "1770",
+            "B": "1765",
+            "C": "1790",
+            "D": "1742"
+        },
+        "correct_answer": "A",
+        "answer_description": "The first toothbrush was made out of a bone and small brush, by jail prisoner William Addis of England."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What item of apparel was invented by Ellery Chun, a Hawaiian clothing merchant, in 1931?",
+        "options": {
+            "A": "String bikini",
+            "B": "Muumuu",
+            "C": "Aloha shirt",
+            "D": "Capri pants"
+        },
+        "correct_answer": "C",
+        "answer_description": "An Aloha shirt is a brightly colored tropical print shirt that is a popular souvenir of Hawaii."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Who invented Fountain Pen?",
+        "options": {
+            "A": "John J. Loud",
+            "B": "Sir Frank Whittle",
+            "C": "Lewis E. Waterman",
+            "D": "Kirkpatrick Macmillan"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

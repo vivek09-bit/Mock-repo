@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train travelling at a speed of 75 mph enters a tunnel 3miles long. The train ismile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+        "options": {
+            "A": "2.5 min",
+            "B": "3 min",
+            "C": "3.2 min",
+            "D": "3.5 min"
+        },
+        "correct_answer": "B",
+        "answer_description": "Total distance covered=7+1miles24=15miles.4Time taken=15hrs4 x 75=1hrs20=1x 60min.20= 3 min."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is:",
+        "options": {
+            "A": "130",
+            "B": "360",
+            "C": "500",
+            "D": "540"
+        },
+        "correct_answer": "C",
+        "answer_description": "Speed =78 x5m/sec=65m/sec.183Time = 1 minute = 60 seconds.Let the length of the tunnel bexmetres.Then,800 +x=656033(800 +x) = 3900x= 500."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform?",
+        "options": {
+            "A": "320 m",
+            "B": "350 m",
+            "C": "650 m",
+            "D": "Data inadequate"
+        },
+        "correct_answer": "B",
+        "answer_description": "Speed =300m/sec =50m/sec.183Let the length of the platform bexmetres.Then,x+ 300=503933(x+ 300) = 1950x= 350 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is:",
+        "options": {
+            "A": "50 m",
+            "B": "150 m",
+            "C": "200 m",
+            "D": "Data inadequate"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the length of the train bexmetres and its speed byym/sec.Then,x= 15y=x.y15x+ 100=x251515(x+ 100) = 25x15x+ 1500 = 25x1500 = 10xx= 150 m."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+        "options": {
+            "A": "69.5 km/hr",
+            "B": "70 km/hr",
+            "C": "79 km/hr",
+            "D": "79.2 km/hr"
+        },
+        "correct_answer": "D",
+        "answer_description": "Let the length of the train bexmetres and its speed byym/sec.Then,x= 8x= 8yyNow,x+ 264=y208y+ 264 = 20yy= 22.Speed = 22 m/sec =22 x18km/hr = 79.2 km/hr.5"
+    }
+]

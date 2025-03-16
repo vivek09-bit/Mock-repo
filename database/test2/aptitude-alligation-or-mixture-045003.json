@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 a kg to produce a mixture worth Rs. 6.30 a kg.",
+        "options": {
+            "A": "1 : 3",
+            "B": "2 : 3",
+            "C": "3 : 4",
+            "D": "4 : 5"
+        },
+        "correct_answer": "B",
+        "answer_description": "By the rule of alligation:Cost of 1 kg of 1stkindCost of 1 kg of 2ndkind720 pMean Price630 p570 p6090Required ratio = 60 : 90 = 2 : 3."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In what ratio must a grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 65 a kg so that by selling the mixture at Rs. 68.20 a kg he may gain 10%?",
+        "options": {
+            "A": "3 : 2",
+            "B": "3 : 4",
+            "C": "3 : 5",
+            "D": "4 : 5"
+        },
+        "correct_answer": "A",
+        "answer_description": "S.P. of 1 kg of the mixture = Rs. 68.20, Gain = 10%.C.P. of 1 kg of the mixture = Rs.100x 68.20= Rs. 62.110By the rule of alligation, we have:Cost of 1 kg tea of 1stkind.Cost of 1 kg tea of 2ndkind.Rs. 60Mean PriceRs. 62Rs. 6532Required ratio = 3 : 2."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The cost of Type 1 rice is Rs. 15 per kg and Type 2 rice is Rs. 20 per kg. If both Type 1 and Type 2 are mixed in the ratio of 2 : 3, then the price per kg of the mixed variety of rice is:",
+        "options": {
+            "A": "Rs. 18",
+            "B": "Rs. 18.50",
+            "C": "Rs. 19",
+            "D": "Rs. 19.50"
+        },
+        "correct_answer": "A",
+        "answer_description": "Let the price of the mixed variety be Rs.xper kg.By rule of alligation, we have:Cost of 1 kg of Type 1 riceCost of 1 kg of Type 2 riceRs. 15Mean PriceRs.xRs. 20(20 -x)(x- 15)(20 -x)=2(x- 15)360 - 3x= 2x- 305x= 90x= 18."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "8 litres are drawn from a cask full of wine and is then filled with water. This operation is performed three more times. The ratio of the quantity of wine now left in cask to that of water is 16 : 65. How much wine did the cask hold originally?",
+        "options": {
+            "A": "18 litres",
+            "B": "24 litres",
+            "C": "32 litres",
+            "D": "42 litres"
+        },
+        "correct_answer": "B",
+        "answer_description": "Let the quantity of the wine in the cask originally bexlitres.Then, quantity of wine left in cask after 4 operations =x1 -84litres.xx(1 - (8/x))4=16x811 -84=24x3x- 8=2x33x- 24 = 2xx= 24."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A merchant has 1000 kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. The quantity sold at 18% profit is:",
+        "options": {
+            "A": "400 kg",
+            "B": "560 kg",
+            "C": "600 kg",
+            "D": "640 kg"
+        },
+        "correct_answer": "C",
+        "answer_description": "By the rule of alligation, we have:Profit on 1stpartProfit on 2ndpart8%Mean Profit14%18%46Ration of 1stand 2ndparts = 4 : 6 = 2 : 3Quantity of 2ndkind =3x 1000kg= 600 kg.5"
+    }
+]

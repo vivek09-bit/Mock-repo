@@ -1,0 +1,15 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Find the number of triangles in the given figure.",
+        "options": {
+            "A": "11",
+            "B": "13",
+            "C": "15",
+            "D": "17"
+        },
+        "correct_answer": "C",
+        "answer_description": "The figure may be labelled as shown.The simplest triangles are AFB, FEB, EBC, DEC, DFE and AFD i.e. 6 in number.The triangles composed of two components each are AEB, FBC, DFC, ADE, DBE and ABD i.e. 6 in number.The triangles composed of three components each are ADC and ABC i.e. 2 in number.There is only one triangle i.e. DBC which is composed of four components.Thus, there are 6 + 6 + 2 + 1 = 15 triangles in the figure."
+    }
+]

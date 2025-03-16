@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "National Science Centre is located at",
+        "options": {
+            "A": "Bangalore",
+            "B": "Bombay",
+            "C": "Kolkata",
+            "D": "Delhi"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Central Road Research Institute is in",
+        "options": {
+            "A": "Delhi",
+            "B": "Bangalore",
+            "C": "Roorkee",
+            "D": "Hyderabad"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The world famous Ajanta caves are situated in",
+        "options": {
+            "A": "Orissa",
+            "B": "Andhra Pradesh",
+            "C": "Kerala",
+            "D": "Maharashtra"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Where is Chitrakut situated?",
+        "options": {
+            "A": "Maharashtra",
+            "B": "Uttar Pradesh",
+            "C": "Bihar",
+            "D": "Madhya Pradesh"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which city is called 'White City' of Rajasthan?",
+        "options": {
+            "A": "Bihar",
+            "B": "Jaipur",
+            "C": "Udaipur",
+            "D": "Jodhpur"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

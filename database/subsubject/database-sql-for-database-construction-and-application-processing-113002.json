@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "To update an SQL view, the DBMS must be able to associate the column(s) to be updated with:",
+        "options": {
+            "A": "a particular column in a particular underlying table.",
+            "B": "a particular column in a particular row.",
+            "C": "a particular row in a particular underlying table.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following is NOT a type of SQL constraint?",
+        "options": {
+            "A": "PRIMARY KEY",
+            "B": "FOREIGN KEY",
+            "C": "ALTERNATE KEY",
+            "D": "UNIQUE"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A ________ is a program that performs some common action on database data and that is stored in the database.",
+        "options": {
+            "A": "trigger",
+            "B": "stored procedure",
+            "C": "pseudofile",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For what purposes are views used?",
+        "options": {
+            "A": "To hide columns only",
+            "B": "To hide rows only",
+            "C": "To hide complicated SQL statements only",
+            "D": "All of the above are uses for SQL views."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What is an SQL virtual table that is constructed from other tables?",
+        "options": {
+            "A": "Just another table",
+            "B": "A view",
+            "C": "A relation",
+            "D": "Query results"
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The Boolean equation for a NOR function is:",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which step in this reduction process is using DeMorgan's theorem?",
+        "options": {
+            "A": "STEP 1",
+            "B": "STEP 2",
+            "C": "STEP 3",
+            "D": "STEP 4"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Simplify the expressionusing DeMorgan's theorems.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "For a three-input NOR gate, with the input waveforms as shown below, which output waveform is correct?",
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "d"
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

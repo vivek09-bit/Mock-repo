@@ -1,0 +1,54 @@
+[
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "It is appropriate to compensate someone if you have damaged his or her property in some way. This is calledRestitution. Which situation below is the best example of Restitution?",
+        "options": {
+            "A": "Jake borrows Leslie's camera and the lens shatters when it falls on the ground because he fails to zipper the case.When Jake returns the camera, he tells Leslie that he will pay for the repair.",
+            "B": "Rebecca borrows her neighbor's car, and when she returns it, the gas tank is practically empty. She apologizes profusely and tells her neighbor she will be more considerate the next time.",
+            "C": "Aaron asks Tom to check in on his apartment while he is out of town. When Tom arrives, he discovers that a pipe has burst and there is a considerable amount of water damage. He calls a plumber to repair the pipe.",
+            "D": "Lisa suspects that the pothole in her company's parking lot caused her flat tire. She tells her boss that she thinks the company should pay for the repair."
+        },
+        "correct_answer": "A",
+        "answer_description": "Jake damaged Leslie's camera while it was in his possession and he has agreed to compensate Leslie for the cost of the repair."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Reentryoccurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry ?",
+        "options": {
+            "A": "When he is offered a better paying position, Jacob leaves the restaurant he manages to manage a new restaurant on the other side of town.",
+            "B": "Catherine is spending her junior year of college studying abroad in France.",
+            "C": "Malcolm is readjusting to civilian life after two years of overseas military service.",
+            "D": "After several miserable months, Sharon decides that she can no longer share an apartment with her roommate Hilary."
+        },
+        "correct_answer": "C",
+        "answer_description": "Malcolm is the only person returning to a social system that he has been away from for an extended period of time."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Embellishing the Truthoccurs when a person adds fictitious details or exaggerates facts or true stories. Which situation below is the best example of Embellishing the Truth?",
+        "options": {
+            "A": "Isabel goes to the theater, and the next day, she tells her coworkers she thought the play was excellent.",
+            "B": "The realtor describes the house, which is eleven blocks away from the ocean, as prime waterfront property.",
+            "C": "During the job interview, Fred, who has been teaching elementary school for ten years, describes himself as a very experienced teacher.",
+            "D": "The basketball coach says it is likely that only the most talented players will get a college scholarship."
+        },
+        "correct_answer": "B",
+        "answer_description": "The realtor is using a clear exaggeration when she states that a house which is eleven blocks away from the ocean is prime waterfront property."
+    },
+    {
+        "direction": "Directions to SolveRead each definition and all four choices carefully, and find the answer that provides the best example of the given definition.",
+        "image_path": null,
+        "question": "Establishing a Power of Attorneyoccurs when a legal document is created that gives one individual the authority to act for another. Which situation below is the best example of Establishing a Power of Attorney?",
+        "options": {
+            "A": "Louise is selling her house and she hires a lawyer to review the contract.",
+            "B": "Simone's mother can no longer get to the bank to cash her checks and make deposits, so she has taken legal steps to enable Simone to do these things for her.",
+            "C": "Jack's father is elderly and Jack thinks he is no longer able to make decisions for himself.",
+            "D": "At her daughter's urging, Mrs.Lenox opens up a retirement account with the local bank."
+        },
+        "correct_answer": "B",
+        "answer_description": "Simone's mother has taken legal steps to allow another person to act on her behalf. Therefore, this is the only choice that indicates that a power of attorney has been established."
+    }
+]

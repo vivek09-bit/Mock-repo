@@ -1,0 +1,72 @@
+[
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:In Japan, the incidence of stomach cancer is very high, while that of bowel cancer is very low. But Japanese immigrate to Hawaii, this is reversed - the rate of bowel cancer increases but the rate of stomach cancer is reduced in the next generation. All this is related to nutrition - the diets of Japanese in Hawaii are different than those in Japan.Conclusions:The same diet as in Hawaii should be propagated in Japan also.Bowel cancer is less severe than stomach cancer.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "The statement neither propagates the diet of any of the countries nor compares the two types of cancer. So, neither I nor II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:The Government run company had asked its employees to declare their income and assets but it has been strongly resisted by employees union and no employee is going to declare his income.Conclusions:The employees of this company do not seem to have any additional undisclosed income besides their salary.The employees union wants all senior officers to declare their income first.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "D",
+        "answer_description": "Nothing about the details of the employees' income or the cause of their refusal to declare their income and assets, can be deduced from the given statement. So, neither I nor II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:Monitoring has become an integral part in the planning of social development programmes. It is recommended that Management Information System be developed for all programmes. This is likely to give a feedback on the performance of the functionaries and the efficacy with which services are being delivered.Conclusions:All the social development programmes should be evaluated.There is a need to monitor the performance of workers.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "E",
+        "answer_description": "According to the statement, monitoring and evaluation of social development programmes - their function, performance and efficiency - is absolutely essential. So, both I and II follow."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:The T.V. programmes, telecast specially for women are packed with a variety of recipes and household hints. A major portion of magazines for women also contains the items mentioned above.Conclusions:Women are not interested in other things.An average woman's primary interest lies in home and specially in the kitchen.",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "Clearly, nothing about 'other things' is mentioned in the statement. So, I does not follow, Also, since it is mentioned that programmes and magazines for women are stuffed with kitchen recipes and other household hints, it means that women have special interest in these areas. So, II follows."
+    },
+    {
+        "direction": "Directions to SolveIn each question below is given a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true, then consider the two conclusions together and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.Give answer:(A) If only conclusion I follows(B) If only conclusion II follows(C) If either I or II follows(D) If neither I nor II follows and(E) If both I and II follow.",
+        "image_path": null,
+        "question": "Statements:The distance of 900 km by road between Bombay and Jafra will be reduced to 280 km by sea. This will lead to a saving of Rs. 7.92 crores per annum on fuel.Conclusions:Transportation by sea is cheaper than that by road.Fuel must be saved to the greatest extent",
+        "options": {
+            "A": "Only conclusion I follows",
+            "B": "Only conclusion II follows",
+            "C": "Either I or II follows",
+            "D": "Neither I nor II follows",
+            "E": "Both I and II follow"
+        },
+        "correct_answer": "B",
+        "answer_description": "According to the statement, sea transport is cheaper than road transport in the case of route from Bombay to Jafra, not in all the cases. So, conclusion I does not follow. The statement stresses on the saving of fuel. So, conclusion II follows."
+    }
+]

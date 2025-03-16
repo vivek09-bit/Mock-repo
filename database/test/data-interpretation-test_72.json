@@ -1,0 +1,262 @@
+[
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)The following bar chart shows the trends of foreign direct investments(FDI) into India from all over the world.Trends of FDI in India",
+          "image_path": "images\\15-1-12-1.png",
+          "question": "What was India's total FDI for the period shown in the figure ?",
+          "options": {
+               "A": "93.82",
+               "B": "93.22",
+               "C": "93.19",
+               "D": "None of these"
+          },
+          "correct_answer": "A",
+          "answer_description": "Total FDI investment in the figure shown is = 5.7 + 10.15 + 12.16 + 10.22 + 24.23 + 31.36 = 93.82 billion."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)The following bar chart shows the trends of foreign direct investments(FDI) into India from all over the world.Trends of FDI in India",
+          "image_path": "images\\15-1-12-1.png",
+          "question": "What was absolute difference in the FDI to India in between 1996 and 1997 ?",
+          "options": {
+               "A": "7.29",
+               "B": "7.13",
+               "C": "8.13",
+               "D": "None of these"
+          },
+          "correct_answer": "B",
+          "answer_description": "The difference in investments over 1996-1997 was31.36 - 24.23 = € 7.13 millions."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)The following bar chart shows the trends of foreign direct investments(FDI) into India from all over the world.Trends of FDI in India",
+          "image_path": "images\\15-1-12-1.png",
+          "question": "What was the ratio of investment in 1997 over the investment in 1992 ?",
+          "options": {
+               "A": "5.50",
+               "B": "5.36",
+               "C": "5.64",
+               "D": "5.75"
+          },
+          "correct_answer": "A",
+          "answer_description": "The 1997 figure of investment as a factor of 1992 investment = (31.36/5.70) = 5.50"
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)The following bar chart shows the trends of foreign direct investments(FDI) into India from all over the world.Trends of FDI in India",
+          "image_path": "images\\15-1-12-1.png",
+          "question": "Which year exhibited the highest growth in FDI in India over the period shown ?",
+          "options": {
+               "A": "1993",
+               "B": "1994",
+               "C": "1995",
+               "D": "1996"
+          },
+          "correct_answer": "D",
+          "answer_description": "It can be seen that the FDI in 1996 more than doubles over that of 1995. No other year is close to that rate of growth."
+     },
+     {
+          "direction": "Direction (Q.Nos. 1 - 5)The following bar chart shows the trends of foreign direct investments(FDI) into India from all over the world.Trends of FDI in India",
+          "image_path": "images\\15-1-12-1.png",
+          "question": "If India FDI from OPEC countries was proportionately the same in 1992 and 1997 as the total FDI from all over the world and if the FDI in 1992 from the OPEC countries was Euro 2 million. What was the amount of FDI from the OPEC countries in 1997 ?",
+          "options": {
+               "A": "11",
+               "B": "10.72",
+               "C": "11.28",
+               "D": "11.5"
+          },
+          "correct_answer": "A",
+          "answer_description": "Let x be the FDI in 1997.Then: (2/5.7) = (x/31.36)x = (2/5.7) x 31.36x = 11"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.Distribution of students at graduate and post-graduate levels in seven institutes:",
+          "image_path": "images\\15-2-6-1.png",
+          "question": "How many students of institutes of M and S are studying at graduate level?",
+          "options": {
+               "A": "7516",
+               "B": "8463",
+               "C": "9127",
+               "D": "9404"
+          },
+          "correct_answer": "B",
+          "answer_description": "Students of institute M at graduate level= 17% of 27300 = 4641.Students of institute S at graduate level = 14% of 27300 = 3822.Total number of students at graduate in institutes M and S= (4641 + 3822)= 8463."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.Distribution of students at graduate and post-graduate levels in seven institutes:",
+          "image_path": "images\\15-2-6-1.png",
+          "question": "Total number of students studying at post-graduate level from institutes N and P is",
+          "options": {
+               "A": "5601",
+               "B": "5944",
+               "C": "6669",
+               "D": "8372"
+          },
+          "correct_answer": "C",
+          "answer_description": "Required number= (15% of 24700) + (12% of 24700)= 3705 + 2964= 6669."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.Distribution of students at graduate and post-graduate levels in seven institutes:",
+          "image_path": "images\\15-2-6-1.png",
+          "question": "What is the total number of graduate and post-graduate level students is institute R?",
+          "options": {
+               "A": "8320",
+               "B": "7916",
+               "C": "9116",
+               "D": "8099"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required number= (17% of 27300) + (14% of 24700)= 4641 + 3458= 8099."
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.Distribution of students at graduate and post-graduate levels in seven institutes:",
+          "image_path": "images\\15-2-6-1.png",
+          "question": "What is the ratio between the number of students studying at post-graduate and graduate levels respectively from institute S?",
+          "options": {
+               "A": "14 : 19",
+               "B": "19 : 21",
+               "C": "17 : 21",
+               "D": "19 : 14"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required ratio =(21% of 24700)=(21 x 24700)=19.(14% of 27300)14 x 2730014"
+     },
+     {
+          "direction": "Direction (Q.Nos. 6 - 10)The following pie-charts show the distribution of students of graduate and post-graduate levels in seven different institutes in a town.Distribution of students at graduate and post-graduate levels in seven institutes:",
+          "image_path": "images\\15-2-6-1.png",
+          "question": "What is the ratio between the number of students studying at post-graduate level from institutes S and the number of students studying at graduate level from institute Q?",
+          "options": {
+               "A": "13 : 19",
+               "B": "21 : 13",
+               "C": "13 : 8",
+               "D": "19 : 13"
+          },
+          "correct_answer": "D",
+          "answer_description": "Required ratio =(21% of 24700)=(21 x 24700)=19.(13% of 27300)13 x 2730013"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.Percentage of Candidates Qualified to Appeared in an Examination Over the Years",
+          "image_path": "images\\15-3-5-1.png",
+          "question": "The difference between the percentage of candidates qualified to appeared was maximum in which of the following pairs of years?",
+          "options": {
+               "A": "1994 and 1995",
+               "B": "1997 and 1998",
+               "C": "1998 and 1999",
+               "D": "1999 and 2000"
+          },
+          "correct_answer": "B",
+          "answer_description": "The differences between the percentages of candidates qualified to appeared for the give pairs of years are:For 1994 and 1995 = 50 - 30 = 20.For 1998 and 1999 = 80 - 80 = 0.For 1994 and 1997 = 50 - 30 = 20.For 1997 and 1998 = 80 - 50 = 30.For 1999 and 2000 = 80 - 60 = 20.Thus, the maximum difference is between the years 1997 and 1998."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.Percentage of Candidates Qualified to Appeared in an Examination Over the Years",
+          "image_path": "images\\15-3-5-1.png",
+          "question": "In which pair of years was the number of candidates qualified, the same?",
+          "options": {
+               "A": "1995 and 1997",
+               "B": "1995 and 2000",
+               "C": "1998 and 1999",
+               "D": "Data inadequate"
+          },
+          "correct_answer": "D",
+          "answer_description": "The graph gives the data for the percentage of candidates qualified to appeared and unless the absolute values of number of candidates qualified or candidates appeared is know we cannot compare the absolute values for any two years.Hence, the data is inadequate to solve this question."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.Percentage of Candidates Qualified to Appeared in an Examination Over the Years",
+          "image_path": "images\\15-3-5-1.png",
+          "question": "If the number of candidates qualified in 1998 was 21200, what was the number of candidates appeared in 1998?",
+          "options": {
+               "A": "32000",
+               "B": "28500",
+               "C": "26500",
+               "D": "25000"
+          },
+          "correct_answer": "C",
+          "answer_description": "The number of candidates appeared in 1998 bex.Then, 80% ofx= 21200x=21200 x 100= 26500 (required number).80"
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.Percentage of Candidates Qualified to Appeared in an Examination Over the Years",
+          "image_path": "images\\15-3-5-1.png",
+          "question": "If the total number of candidates appeared in 1996 and 1997 together was 47400, then the total number of candidates qualified in these two years together was?",
+          "options": {
+               "A": "34700",
+               "B": "32100",
+               "C": "31500",
+               "D": "Data inadequate"
+          },
+          "correct_answer": "D",
+          "answer_description": "The total number of candidates qualified in 1996 and 1997 together, cannot be determined until we know at least, the number of candidates appeared in any one of the two years 1996 or 1997 or the percentage of candidates qualified to appeared in 1996 and 1997 together.Hence, the data is inadequate."
+     },
+     {
+          "direction": "Direction (Q.Nos. 11 - 15)The following line graph gives the percentage of the number of candidates who qualified an examination out of the total number of candidates who appeared for the examination over a period of seven years from 1994 to 2000.Percentage of Candidates Qualified to Appeared in an Examination Over the Years",
+          "image_path": "images\\15-3-5-1.png",
+          "question": "The total number of candidates qualified in 1999 and 2000 together was 33500 and the number of candidates appeared in 1999 was 26500. What was the number of candidates in 2000?",
+          "options": {
+               "A": "24500",
+               "B": "22000",
+               "C": "20500",
+               "D": "19000"
+          },
+          "correct_answer": "C",
+          "answer_description": "The number of candidates qualified in 1999 = (80% of 26500) = 21200.Number of candidates qualified in 2000 = (33500 - 21200) = 12300.Let the number of candidates appeared in 2000 bex.Then, 60% ofx= 12300x=12300 x 100= 20500.60"
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A school has four sections A, B, C, D of Class IX students.The results of half yearly and annual examinations are shown in the table given below.ResultNo. of StudentsSection ASection BSection CSection DStudents failed in both Exams28231727Students failed in half-yearlybut passed in Annual Exams1412813Students passed in half-yearlybut failed in Annual Exams617915Students passed in both Exams64554676",
+          "image_path": null,
+          "question": "How many students are there in Class IX in the school?",
+          "options": {
+               "A": "336",
+               "B": "189",
+               "C": "335",
+               "D": "430"
+          },
+          "correct_answer": "D",
+          "answer_description": "Since the classification of the students on the basis of their results and sections form independent groups, so the total number of students in the class:= (28  + 23 + 17 + 27 + 14 + 12 + 8 + 13 + 6 + 17 + 9 + 15 + 64 + 55 + 46 + 76)= 430."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A school has four sections A, B, C, D of Class IX students.The results of half yearly and annual examinations are shown in the table given below.ResultNo. of StudentsSection ASection BSection CSection DStudents failed in both Exams28231727Students failed in half-yearlybut passed in Annual Exams1412813Students passed in half-yearlybut failed in Annual Exams617915Students passed in both Exams64554676",
+          "image_path": null,
+          "question": "Which section has the minimum failure rate in half yearly examination?",
+          "options": {
+               "A": "A section",
+               "B": "B section",
+               "C": "C section",
+               "D": "D section"
+          },
+          "correct_answer": "D",
+          "answer_description": "Total number of failures in half-yearly exams in a section= [ (Number of students failed in both exams)+ (Number of students failed in half-yearly but passed in Annual exams)] in that sectionFailure rate in half-yearly exams in Section A=Number of students of Section A failed in half-yearlyx 100%Total number of students in Section A=(28 + 14)x 100%(28 + 14 + 6 + 64)=42x 100%112= 37.5%.Similarly, failure rate in half-yearly exams in:Section B(23 + 12)x 100% =35x 100% = 32.71%.(23 + 12 + 17 + 55)107Section C(17 + 8)x 100% =25x 100% = 31.25%.(17 + 8 + 9 + 46)80Section D(27 + 13)x 100% =40x 100% = 30.53%.(27 + 13 + 15 + 76)131Clearly, the failure rate is minimum for Section D."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A school has four sections A, B, C, D of Class IX students.The results of half yearly and annual examinations are shown in the table given below.ResultNo. of StudentsSection ASection BSection CSection DStudents failed in both Exams28231727Students failed in half-yearlybut passed in Annual Exams1412813Students passed in half-yearlybut failed in Annual Exams617915Students passed in both Exams64554676",
+          "image_path": null,
+          "question": "Which section has the maximum success rate in annual examination?",
+          "options": {
+               "A": "A Section",
+               "B": "B Section",
+               "C": "C Section",
+               "D": "D Section"
+          },
+          "correct_answer": "A",
+          "answer_description": "Total number of students passed in annual exams in a section= [ (No. of students failed in half-yearly but passed in annual exams)+ (No. of students passed in both exams)] in that sectionSuccess rate in annual exams in Section A=No. of students of Section A passed in annual examsx 100%Total number of students in Section A=(14 + 64)x 100%(28 + 14 + 6 + 64)=78x 100%112= 69.64%.Similarly, success rate in annual exams in:Section B(12 + 55)x 100% =67x 100% = 62.62%.(23 + 12 + 17 + 55)107Section C(8 + 46)x 100% =54x 100% = 67.5%.(17 + 8 + 9 + 46)80Section D(13 + 76)x 100% =89x 100% = 67.94%.(27 + 13 + 15 + 76)131Clearly, the success rate in annual examination is maximum for Section A."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A school has four sections A, B, C, D of Class IX students.The results of half yearly and annual examinations are shown in the table given below.ResultNo. of StudentsSection ASection BSection CSection DStudents failed in both Exams28231727Students failed in half-yearlybut passed in Annual Exams1412813Students passed in half-yearlybut failed in Annual Exams617915Students passed in both Exams64554676",
+          "image_path": null,
+          "question": "Which section has the maximum pass percentage in at least one of the two examinations?",
+          "options": {
+               "A": "A Section",
+               "B": "B Section",
+               "C": "C Section",
+               "D": "D Section"
+          },
+          "correct_answer": "D",
+          "answer_description": "Pass percentages in at least one of the two examinations for different sections are:For Section A(14 + 6 + 64)x 100% =84x 100% = 75%.(28 + 14 + 6 + 64)112For Section B(12 + 17 + 55)x 100% =84x 100% = 78.5%.(23 + 12 + 17 + 55)107For Section C(8 + 9 + 46)x 100% =63x 100% = 78.75%.(17 + 8 + 9 + 46)80For Section D(13 + 15 + 76)x 100% =104x 100% = 79.39%.(27 + 13 + 15 + 76)131Clearly, the pass percentage is maximum for Section D."
+     },
+     {
+          "direction": "Direction (Q.Nos. 16 - 20)A school has four sections A, B, C, D of Class IX students.The results of half yearly and annual examinations are shown in the table given below.ResultNo. of StudentsSection ASection BSection CSection DStudents failed in both Exams28231727Students failed in half-yearlybut passed in Annual Exams1412813Students passed in half-yearlybut failed in Annual Exams617915Students passed in both Exams64554676",
+          "image_path": null,
+          "question": "If the number of students passing an examination be considered a criteria for comparision of difficulty level of two examinations, which of the following statements is true in this context?",
+          "options": {
+               "A": "Half yearly examinations were more difficult.",
+               "B": "Annual examinations were more difficult.",
+               "C": "Both the examinations had almost the same difficulty level.",
+               "D": "The two examinations cannot be compared for difficulty level."
+          },
+          "correct_answer": "C",
+          "answer_description": "Number of students who passed half-yearly exams in the school= (Number of students passed in half-yearly but failed in annual exams)+ (Number of students passed in both exams)= (6 + 17 + 9 + 15) + (64 + 55 + 46 + 76)= 288.Also, Number of students who passed annual exams in the school= (Number of students failed in half-yearly but passed in annual exams)+ (Number of students passed in both exams)= (14 + 12 + 8 + 13) + (64 + 55 + 46 + 76)= 288.Since, the number of students passed in half-yearly = the number of students passed in annual exams. Therefore, it can be inferred that both the examinations had almost the same difficulty level.Thus Statements (a), (b) and (d) are false and Statement (c) is true."
+     }
+]

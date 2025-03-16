@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Suppose that you would like to create an instance of a newMapthat has an iteration order that is the same as the iteration order of an existing instance of aMap. Which concrete implementation of theMapinterface should be used for the new instance?",
+        "options": {
+            "A": "TreeMap",
+            "B": "HashMap",
+            "C": "LinkedHashMap",
+            "D": "The answer depends on the implementation of the existing instance."
+        },
+        "correct_answer": "C",
+        "answer_description": "The iteration order of aCollectionis the order in which an iterator moves through the elements of theCollection. The iteration order of aLinkedHashMapis determined by the order in which elements are inserted.When a newLinkedHashMapis created by passing a reference to an existing Collection to the constructor of aLinkedHashMaptheCollection.addAllmethod will ultimately be invoked.The addAll method uses an iterator to the existing Collection to iterate through the elements of the existing Collection and add each to the instance of the newLinkedHashMap.Since the iteration order of theLinkedHashMapis determined by the order of insertion, the iteration order of the newLinkedHashMapmust be the same as the interation order of the oldCollection."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which class does not override theequals()andhashCode()methods, inheriting them directly from class Object?",
+        "options": {
+            "A": "java.lang.String",
+            "B": "java.lang.Double",
+            "C": "java.lang.StringBuffer",
+            "D": "java.lang.Character"
+        },
+        "correct_answer": "C",
+        "answer_description": "java.lang.StringBufferis the only class in the list that uses the default methods provided by classObject."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which collection class allows you to grow or shrink its size and provides indexed access to its elements, but whose methods are not synchronized?",
+        "options": {
+            "A": "java.util.HashSet",
+            "B": "java.util.LinkedHashSet",
+            "C": "java.util.List",
+            "D": "java.util.ArrayList"
+        },
+        "correct_answer": "D",
+        "answer_description": "All of the collection classes allow you to grow or shrink the size of your collection.ArrayListprovides an index to its elements. The newer collection classes tend not to have synchronized methods. Vector is an older implementation ofArrayListfunctionality and has synchronized methods; it is slower thanArrayList."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "You need to store elements in a collection that guarantees that no duplicates are stored and all elements can be accessed in natural order. Which interface provides that capability?",
+        "options": {
+            "A": "java.util.Map",
+            "B": "java.util.Set",
+            "C": "java.util.List",
+            "D": "java.util.Collection"
+        },
+        "correct_answer": "B",
+        "answer_description": "Option B is correct. A set is a collection that contains no duplicate elements. The iterator returns the elements in no particular order (unless this set is an instance of some class that provides a guarantee). A map cannot contain duplicate keys but it may contain duplicate values.ListandCollectionallow duplicate elements.Option A is wrong. A map is an object that maps keys to values. A map cannot contain duplicate keys; each key can map to at most one value. TheMapinterface provides three collection views, which allow a map's contents to be viewed as a set of keys, collection of values, or set of key-value mappings. The order of a map is defined as the order in which the iterators on the map's collection views return their elements. Some map implementations, like theTreeMapclass, make specific guarantees as to their order (ascending key order); others, like theHashMapclass, do not (does not guarantee that the order will remain constant over time).Option C is wrong. A list is an ordered collection (also known as a sequence). The user of this interface has precise control over where in the list each element is inserted. The user can access elements by their integer index (position in the list), and search for elements in the list. Unlike sets, lists typically allow duplicate elements.Option D is wrong. A collection is also known as a sequence. The user of this interface has precise control over where in the list each element is inserted. The user can access elements by their integer index (position in the list), and search for elements in the list. Unlike sets, lists typically allow duplicate elements."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which interface doesjava.util.Hashtableimplement?",
+        "options": {
+            "A": "Java.util.Map",
+            "B": "Java.util.List",
+            "C": "Java.util.HashTable",
+            "D": "Java.util.Collection"
+        },
+        "correct_answer": "A",
+        "answer_description": "Hash table based implementation of theMapinterface."
+    }
+]

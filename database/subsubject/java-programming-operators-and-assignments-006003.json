@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class SC2 \n{\n    public static void main(String [] args) \n    {\n        SC2 s = new SC2();\n        s.start();\n    }\n\n    void start() \n    {\n        int a = 3;\n        int b = 4;\n        System.out.print(\" \" + 7 + 2 + \" \");\n        System.out.print(a + b);\n        System.out.print(\" \" + a + b + \" \");\n        System.out.print(foo() + a + b + \" \");\n        System.out.println(a + b + foo());\n    }\n\n    String foo() \n    {\n        return \"foo\";\n    }\n}",
+        "options": {
+            "A": "9 7 7 foo 7 7foo",
+            "B": "72 34 34 foo34 34foo",
+            "C": "9 7 7 foo34 34foo",
+            "D": "72 7 34 foo34 7foo"
+        },
+        "correct_answer": "D",
+        "answer_description": "Because all of these expressions use the+operator, there is no precedence to worry about and all of the expressions will be evaluated from left to right. If either operand being evaluated is a String, the+operator will concatenate the two operands; if both operands are numeric, the+operator will add the two operands."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Test \n{\n    static int s;\n    public static void main(String [] args) \n    {\n        Test p = new Test();\n        p.start();\n        System.out.println(s);\n    }\n\n    void start() \n    {\n        int x = 7;\n        twice(x);\n        System.out.print(x + \" \");\n    }\n\n    void twice(int x) \n    {\n        x = x*2;\n        s = x;\n    }\n}",
+        "options": {
+            "A": "7 7",
+            "B": "7 14",
+            "C": "14 0",
+            "D": "14 14"
+        },
+        "correct_answer": "B",
+        "answer_description": "Theint xin thetwice()method is not the sameint xas in thestart()method.Start()'sxis not affected by thetwice()method. The instance variablesis updated bytwice()'sx, which is 14."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class Two \n{\n    byte x;\n}\n\nclass PassO \n{\n    public static void main(String [] args) \n    {\n        PassO p = new PassO();\n        p.start();\n    }\n\n    void start() \n    {\n        Two t = new Two();\n        System.out.print(t.x + \" \");\n        Two t2 = fix(t);\n        System.out.println(t.x + \" \" + t2.x);\n    }\n\n    Two fix(Two tt) \n    {\n        tt.x = 42;\n        return tt;\n    }\n}",
+        "options": {
+            "A": "null null 42",
+            "B": "0 0 42",
+            "C": "0 42 42",
+            "D": "0 0 0"
+        },
+        "correct_answer": "C",
+        "answer_description": "In thefix()method, the reference variablettrefers to the same object (classTwo) as thetreference variable. Updatingtt.xin thefix()method updatest.x(they are one in the same object). Remember also that the instance variablexin theTwoclass is initialized to 0."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?class BoolArray \n{\n    boolean [] b = new boolean[3];\n    int count = 0;\n\n    void set(boolean [] x, int i) \n    {\n        x[i] = true;\n        ++count;\n    }\n\n    public static void main(String [] args) \n    {\n        BoolArray ba = new BoolArray();\n        ba.set(ba.b, 0);\n        ba.set(ba.b, 2);\n        ba.test();\n    }\n\n    void test() \n    {\n        if ( b[0] && b[1] | b[2] )\n            count++;\n        if ( b[1] && b[(++count - 2)] )\n            count += 7;\n        System.out.println(\"count = \" + count);\n    }\n}",
+        "options": {
+            "A": "count = 0",
+            "B": "count = 2",
+            "C": "count = 3",
+            "D": "count = 4"
+        },
+        "correct_answer": "C",
+        "answer_description": "The reference variablesbandxboth refer to the same boolean array.countis incremented for each call to theset()method, and once again when the first if test istrue. Because of the&&short circuit operator,countis not incremented during the secondiftest."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What will be the output of the program?public class Test \n{ \n    public static void leftshift(int i, int j) \n    {\n        i <<= j; \n    } \n    public static void main(String args[]) \n    {\n        int i = 4, j = 2; \n        leftshift(i, j); \n        System.out.println(i); \n    } \n}",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+        },
+        "correct_answer": "B",
+        "answer_description": "Java only ever passes arguments to a method by value (i.e. a copy of the variable) and never by reference. Therefore the value of the variableiremains unchanged in themainmethod.If you are clever you will spot that 16 is 4 multiplied by 2 twice, (4 * 2 * 2) = 16. If you had 16 left shifted by three bits then 16 * 2 * 2 * 2 = 128. If you had 128 right shifted by 2 bits then 128 / 2 / 2 = 32. Keeping these points in mind, you don't have to go converting to binary to do the left and right bit shifts."
+    }
+]

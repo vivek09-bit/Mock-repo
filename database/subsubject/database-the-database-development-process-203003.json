@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "CASE tools do not include which of the following features?",
+        "options": {
+            "A": "Help to draw data models",
+            "B": "Help to generate code",
+            "C": "Help to manage people",
+            "D": "Create an information repository"
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "In enterprise data modeling, which is incorrect?",
+        "options": {
+            "A": "You review current systems.",
+            "B": "You implement the new database.",
+            "C": "You describe the data needed at a very high level of abstraction.",
+            "D": "You plan one or more database development projects."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following database activities require a specific knowledge of a DBMS?",
+        "options": {
+            "A": "Enterprise modeling",
+            "B": "Conceptual data modeling",
+            "C": "Logical database design",
+            "D": "Physical database design and definition"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "User views are included as part of which schema?",
+        "options": {
+            "A": "Internal",
+            "B": "Conceptual",
+            "C": "External",
+            "D": "None of the above."
+        },
+        "correct_answer": "C",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Whose role is it to determine the requirements and design for a database?",
+        "options": {
+            "A": "Database analysts",
+            "B": "Database administrators",
+            "C": "Both A and B.",
+            "D": "Neither A or B."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

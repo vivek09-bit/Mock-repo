@@ -1,0 +1,238 @@
+[
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Scalar aggregate are multiple values returned from an SQL query that includes an aggregate function.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A relation is considered a:",
+          "options": {
+               "A": "Column.",
+               "B": "one-dimensional table.",
+               "C": "two-dimensional table.",
+               "D": "three-dimensional table."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Every time attribute A appears, it is matched with the same value of attribute B, but not the same value of attribute C. Therefore, it is true that:",
+          "options": {
+               "A": "A → B.",
+               "B": "A → C.",
+               "C": "A → (B,C).",
+               "D": "(B,C) → A."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The different classes of relations created by the technique for preventing modification anomalies are called:",
+          "options": {
+               "A": "normal forms.",
+               "B": "referential integrity constraints.",
+               "C": "functional dependencies.",
+               "D": "None of the above is correct."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A primary key is a composite key that was selected to be the main identifier for the relation.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The EXISTS keyword will be true if:",
+          "options": {
+               "A": "any row in the subquery meets the condition only.",
+               "B": "all rows in the subquery fail the condition only.",
+               "C": "both of these two conditions are met.",
+               "D": "neither of these two conditions is met."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The use of the double NOT EXISTS can be used to find rows that do not match some specified condition.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "When two transactions are being processed against the database at the same time they are termed concurrent transactions.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The lost update problem is when User A reads data that have been processed by a portion of a transaction from User B.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "The JVM (Java virtual machine) interprets Java bytecode at run time.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Some advantages of the database approach include all, but:",
+          "options": {
+               "A": "minimal data redundancy.",
+               "B": "improved data consistency.",
+               "C": "improved data sharing.",
+               "D": "program-data dependency."
+          },
+          "correct_answer": "D",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "User views are included as part of which schema?",
+          "options": {
+               "A": "Internal",
+               "B": "Conceptual",
+               "C": "External",
+               "D": "None of the above."
+          },
+          "correct_answer": "C",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A conceptual schema is usually depicted in graphical format using E-R or object-modeling notations.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A fact is a word or phrase that has a specific meaning for the business.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A candidate key must uniquely identify each row.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A pointer is a detailed coding scheme recognized by system software for representing organizational data.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Mirrored databases are almost always provided in high-availability systems.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "A constructor operation does which of the following?",
+          "options": {
+               "A": "Creates a new instance of a class",
+               "B": "Updates an existing instance of a class",
+               "C": "Deletes and existing instance of a class",
+               "D": "All of the above."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Composition is a stronger form of which of the following?",
+          "options": {
+               "A": "Aggregation",
+               "B": "Encapsulation",
+               "C": "Inheritance",
+               "D": "All of the above."
+          },
+          "correct_answer": "A",
+          "answer_description": "Description not found"
+     },
+     {
+          "direction": null,
+          "image_path": null,
+          "question": "Database objects are almost always transient.",
+          "options": {
+               "A": "True",
+               "B": "False"
+          },
+          "correct_answer": "B",
+          "answer_description": "Description not found"
+     }
+]

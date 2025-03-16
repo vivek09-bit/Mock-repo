@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Before any changes to database structure are attempted one should first:",
+        "options": {
+            "A": "clearly understand the current structure and contents of the database only.",
+            "B": "test any changes on a test database only.",
+            "C": "create a complete backup of the operational database only.",
+            "D": "All of the above should be done."
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "Which of the following modifications may not succeed?",
+        "options": {
+            "A": "Changing a column data type from char to date",
+            "B": "Changing a column data type from numeric to char",
+            "C": "Both of the above actions should succeed.",
+            "D": "Neither of the above actions will succeed."
+        },
+        "correct_answer": "A",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "How can you find rows that do not match some specified condition?",
+        "options": {
+            "A": "EXISTS",
+            "B": "Double use of NOT EXISTS",
+            "C": "NOT EXISTS",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "A regular subquery can be processed:",
+        "options": {
+            "A": "from the top down.",
+            "B": "from the bottom up.",
+            "C": "by nesting.",
+            "D": "None of the above is correct."
+        },
+        "correct_answer": "B",
+        "answer_description": "No answer description is available.Let's discuss."
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "What SQL command can be used to add columns to a table?",
+        "options": {
+            "A": "MODIFY TABLETableNameADD COLUMNColumnName",
+            "B": "MODIFY TABLETableNameADDColumnName",
+            "C": "ALTER TABLETableNameADD COLUMNColumnName",
+            "D": "ALTER TABLETableNameADDColumnName"
+        },
+        "correct_answer": "D",
+        "answer_description": "No answer description is available.Let's discuss."
+    }
+]

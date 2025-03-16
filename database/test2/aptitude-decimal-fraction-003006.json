@@ -1,0 +1,67 @@
+[
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The correct expression of 6.46in the fractional form is:",
+        "options": {
+            "A": "64699",
+            "B": "646401000",
+            "C": "640100",
+            "D": "64099"
+        },
+        "correct_answer": "D",
+        "answer_description": "6.46= 6 + 0.46= 6 +46=594 + 46=640.999999"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "The fraction 10127in decimal for is:100000",
+        "options": {
+            "A": ".01027",
+            "B": ".10127",
+            "C": "101.00027",
+            "D": "101.000027"
+        },
+        "correct_answer": "C",
+        "answer_description": "10127= 101 +27= 101 + .00027 = 101.00027100000100000"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "0.0203 x 2.92= ?0.0073 x 14.5 x 0.7",
+        "options": {
+            "A": "0.8",
+            "B": "1.45",
+            "C": "2.40",
+            "D": "3.25"
+        },
+        "correct_answer": "A",
+        "answer_description": "0.0203 x 2.92=203 x 292=4= 0.80.0073 x 14.5 x 0.773 x 145 x 75"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "4.036 divided by 0.04 gives :",
+        "options": {
+            "A": "1.009",
+            "B": "10.09",
+            "C": "100.9",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "answer_description": "4.036=403.6= 100.90.044"
+    },
+    {
+        "direction": null,
+        "image_path": null,
+        "question": "3.87- 2.59= ?",
+        "options": {
+            "A": "1.20",
+            "B": "1.2",
+            "C": "1.27",
+            "D": "1.28"
+        },
+        "correct_answer": "D",
+        "answer_description": "3.87- 2.59= (3 + 0.87) - (2 + 0.59)=3 +87-2 +599999= 1 +87-599999= 1 +2899= 1.28."
+    }
+]
