@@ -52,4 +52,4 @@ backend/.eslintcache
 # Ignore all hidden files (e.g., GitHub Actions or other dotfiles)
 .*/ 
 
-/database
+database/
