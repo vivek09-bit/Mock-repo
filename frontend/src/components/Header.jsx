@@ -16,47 +16,63 @@ function Header() {
 
   return (
     <>
-            <div className="p-3 mb-2 bg-primary text-white">
-              <nav className="navbar navbar-dark navbar-expand-md navigation-clean-search">
-                <div className="container">
-                  <a className="navbar-brand" href="/">TeamIgnite</a>
-                  <button className="navbar-toggler" data-toggle="collapse" data-target="#navcol-1">
-                    <span className="sr-only">Toggle navigation</span>
-                    <span className="navbar-toggler-icon"></span>
-                  </button>
-                  <div className="collapse navbar-collapse" id="navcol-1">
-                    <ul className="nav navbar-nav">
-                      <li className="dropdown">
-                        <a className="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Tests</a>
-                        <div className="dropdown-menu" role="menu">
-                          <a className="dropdown-item" href="#">Aptitute</a>
-                          <a className="dropdown-item" href="#">IT</a>
-                          <a className="dropdown-item" href="#">Gov. Job</a>
-                        </div>
-                      </li>
-                    </ul>
-                    <form className="form-inline mr-auto" target="_self"></form>
-                    <span className="navbar-text">
-                      {token ? (
-                        <>
-                          {user && user.username ? (
-                            <Link className="btn btn-dark action-button" to={`/profile/${user.username}`}>Profile</Link>
-                          ) : (
-                            <p>Loading username...</p>
-                          )}
-                          <button className="btn btn-light action-button" onClick={handleLogout}>Logout</button>
-                        </>
-                      ) : (
-                        <>
-                          <Link className="login" to="/login">Log In</Link>
-                          <a className="btn btn-dark action-button" role="button" href="/register">Sign Up</a>
-                        </>
-                      )}
-                    </span>
-                  </div>
-                </div>
-              </nav>
+      <div className="p-3 mb-2" style={{ backgroundColor: 'teal', color: 'white' }}>
+        <nav className="navbar navbar-dark navbar-expand-md navigation-clean-search">
+          <div className="container">
+            <div className="d-flex align-items-center">
+              <a className="navbar-brand mr-auto" href="/" style={{ marginRight: '10px' }}>TeamIgnite</a>
             </div>
+            <button className="navbar-toggler" data-toggle="collapse" data-target="#navcol-1">
+              <span className="sr-only">Toggle navigation</span>
+              <span className="navbar-toggler-icon"></span>
+            </button>
+            <div className="collapse navbar-collapse" id="navcol-1">
+              <ul className="nav navbar-nav mx-auto">
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/about">About Us</Link>
+                </li>
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/contact">Contact</Link>
+                </li>
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/testimonials">Testimonials</Link>
+                </li>
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/brands">Work with Brands</Link>
+                </li>
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/collaborators">Collaborators With Institutes</Link>
+                </li>
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/faq">FAQ</Link>
+                </li>
+                <li className="nav-item" style={{ margin: '0 20px' }}>
+                  <Link className="nav-link" to="/trust-badges">Trust Badges & Certifications</Link>
+                </li>
+              </ul>
+              <form className="form-inline mr-auto" target="_self"></form>
+              <span className="navbar-text ml-auto d-flex align-items-center">
+                {token ? (
+                  <>
+                    {user && user.username ? (
+                      <Link className="btn btn-dark action-button mr-2" to={`/profile/${user.username}`}>Profile</Link>
+                    ) : (
+                      <p>Loading username...</p>
+                    )}
+                    <button className="btn btn-light action-button" onClick={handleLogout}>Logout</button>
+                  </>
+                ) : null}
+              </span>
+              {!token && (
+                <span className="navbar-text ml-auto d-flex align-items-center">
+                  <Link className="btn btn-dark login mr-2" to="/login">Log In</Link>
+                  <a className="btn btn-dark action-button" role="button" href="/register">Sign Up</a>
+                </span>
+              )}
+            </div>
+          </div>
+        </nav>
+      </div>
     </>
   );
 }

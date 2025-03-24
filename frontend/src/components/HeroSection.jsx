@@ -10,14 +10,15 @@ const HeroSection = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 d-flex flex-column justify-content-center">
-              <h1 className="display-4 font-weight-bold text-dark">Hey 👋 I am Brian Jones, writing on NFTs.</h1>
-              <p className="mt-3 text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vehicula massa in enim luctus.</p>
+              <h1 className="display-4 font-weight-bold text-dark">Hey 👋 I am Vivek Chand Kumar</h1>
+              <p className="mt-3 text-muted">We are a team of six dedicated professionals providing cutting-edge tech solutions tailored to your needs. Our expertise spans a range of technical services designed to streamline operations, solve complex challenges, and drive innovation.</p>
               <div className="mt-4">
                 <a
                   href="#"
                   title=""
-                  className="btn btn-primary"
+                  className="btn"
                   role="button"
+                  style={{ backgroundColor: 'teal', color: 'white' }}
                 >
                   Read Exclusive Blog
                 </a>
@@ -38,8 +39,7 @@ const HeroSection = () => {
                   <img className="rounded mr-3" src="https://landingfoliocom.imgix.net/store/collection/clarity-blog/images/hero/1/thumbnail-1.png" alt="" />
                   <p className="mb-0 font-weight-bold text-dark">
                     <a href="#" title="">
-                      How a visual artist redefines success in graphic design
-                      <span className="sr-only">(current)</span>
+                      How a visual
                     </a>
                   </p>
                 </div>
