@@ -16,7 +16,7 @@ const Profile = () => {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-            axios.get('http://localhost:5000/api/auth/profile', {
+            axios.get('https://mock-repo-backend.onrender.com/api/auth/profile', {
                 headers: {
                     'Authorization': `Bearer ${token}`,  // Send token in Authorization header
                 }
