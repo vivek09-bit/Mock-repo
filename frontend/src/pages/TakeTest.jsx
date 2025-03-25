@@ -22,9 +22,9 @@ const TakeTest = () => {
     const fetchTestAndUser = async () => {
       try {
         const [testRes, userRes] = await Promise.all([
-          axios.get(`http://localhost:5000/api/test/${testId}`),
+          axios.get(`https://mock-repo-backend.onrender.com/api/test/${testId}`),
           token
-            ? axios.get("http://localhost:5000/api/auth/me", {
+            ? axios.get("https://mock-repo-backend.onrender.com/api/auth/me", {
                 headers: { Authorization: `Bearer ${token}` },
               })
             : Promise.reject("User authentication required."),
@@ -96,7 +96,7 @@ const TakeTest = () => {
     if (!user) return setError("User not authenticated.");
 
     try {
-      const response = await axios.post("http://localhost:5000/api/test/submit", {
+      const response = await axios.post("https://mock-repo-backend.onrender.com/api/test/submit", {
         testId,
         userId: user.user._id,
         answers,
