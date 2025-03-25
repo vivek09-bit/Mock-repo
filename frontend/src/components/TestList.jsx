@@ -8,7 +8,7 @@ const TestList = () => {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    axios.get("http://localhost:5000/api/test") // Make sure this matches your backend route
+    axios.get("http://https://mock-repo-backend.onrender.com:5000/api/test") // Make sure this matches your backend route
       .then((response) => {
         setTests(response.data);
         setLoading(false);

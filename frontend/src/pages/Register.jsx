@@ -30,7 +30,7 @@ const Register = () => {
     setSuccess("");
 
     try {
-      const response = await axios.post("http://localhost:5000/api/auth/register", formData);
+      const response = await axios.post("http://https://mock-repo-backend.onrender.com:5000/api/auth/register", formData);
       setSuccess(response.data.message);
       setFormData({
         name: "",

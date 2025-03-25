@@ -21,7 +21,7 @@ const UserProfile = () => {
 
   const fetchUserProfile = async () => {
     try {
-      const response = await axios.get(`http://localhost:5000/api/auth/profile/${username}`);
+      const response = await axios.get(`http://https://mock-repo-backend.onrender.com:5000/api/auth/profile/${username}`);
       setUser(response.data);
     } catch (err) {
       setError(err.response?.data?.message || "User not found");

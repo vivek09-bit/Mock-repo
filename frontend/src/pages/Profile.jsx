@@ -16,7 +16,7 @@ const Profile = () => {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-            axios.get('http://localhost:5000/api/auth/profile', {
+            axios.get('http://https://mock-repo-backend.onrender.com:5000/api/auth/profile', {
                 headers: {
                     'Authorization': `Bearer ${token}`,  // Send token in Authorization header
                 }
@@ -47,7 +47,7 @@ const Profile = () => {
         formData.append('profile', newProfile.profile);
         if (newProfile.profilePic) formData.append('profilePic', newProfile.profilePic);
 
-        axios.put('http://localhost:5000/api/auth/profile', formData, {
+        axios.put('http://https://mock-repo-backend.onrender.com:5000/api/auth/profile', formData, {
             headers: {
                 'Authorization': `Bearer ${token}`,
                 'Content-Type': 'multipart/form-data',
