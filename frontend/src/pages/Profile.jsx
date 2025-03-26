@@ -16,7 +16,7 @@ const Profile = () => {
     useEffect(() => {
         const token = localStorage.getItem('token');
         if (token) {
-            axios.get('http://https://mock-repo-backend.onrender.com:5000/api/auth/profile', {
+            axios.get('https://mock-repo-backend.onrender.com/api/auth/profile', {
                 headers: {
                     'Authorization': `Bearer ${token}`,  // Send token in Authorization header
                 }
@@ -30,7 +30,7 @@ const Profile = () => {
                     profilePic: res.data.profilePic || null,
                 });
             })
-            .catch(err => {
+            .catch(() => {
                 setError('Error fetching profile data');
             });
         } else {
@@ -47,7 +47,7 @@ const Profile = () => {
         formData.append('profile', newProfile.profile);
         if (newProfile.profilePic) formData.append('profilePic', newProfile.profilePic);
 
-        axios.put('http://https://mock-repo-backend.onrender.com:5000/api/auth/profile', formData, {
+        axios.put('https://mock-repo-backend.onrender.com/api/auth/profile', formData, {
             headers: {
                 'Authorization': `Bearer ${token}`,
                 'Content-Type': 'multipart/form-data',
@@ -57,7 +57,7 @@ const Profile = () => {
             setUserData(res.data);
             setIsEditing(false);  // Switch back to view mode
         })
-        .catch(err => {
+        .catch(() => {
             setError('Error updating profile');
         });
     };

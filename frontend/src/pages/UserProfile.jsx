@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import axios from "axios";
-// import 'bootstrap/dist/css/bootstrap.min.css';
 
 const UserProfile = () => {
   const { username } = useParams();
@@ -21,7 +20,9 @@ const UserProfile = () => {
 
   const fetchUserProfile = async () => {
     try {
-      const response = await axios.get(`http://https://mock-repo-backend.onrender.com:5000/api/auth/profile/${username}`);
+      const response = await axios.get(
+        `https://mock-repo-backend.onrender.com/api/auth/profile/${username}`
+      );
       setUser(response.data);
     } catch (err) {
       setError(err.response?.data?.message || "User not found");
@@ -34,7 +35,7 @@ const UserProfile = () => {
   };
 
   const handleStartTest = (testId) => {
-    navigate(`/tests/`);
+    navigate(`/tests/${testId}`);
   };
 
   return (
@@ -50,7 +51,7 @@ const UserProfile = () => {
           <div className="row">
             <div className="col-md-4 text-center">
               <img
-                src="../assets/adventurer-1739115902517.svg" // Placeholder for profile image, you can update with user's profile pic.
+                src={user.profileImage || "https://via.placeholder.com/150"} // Use dynamic user image
                 alt="Profile"
                 className="rounded-circle mb-3"
                 width="150"
@@ -61,18 +62,26 @@ const UserProfile = () => {
               <h3>{user.name}</h3>
               <p><strong>Username:</strong> {user.username}</p>
               <p><strong>Email:</strong> {user.email}</p>
-              <p><strong>Phone:</strong> {user.phone}</p>
+              <p><strong>Phone:</strong> {user.phone || "N/A"}</p>
 
               {/* Buttons Section */}
               <div className="d-flex">
-                <button className="btn btn-danger mr-3" onClick={handleLogout}>Logout</button>
-                <button className="btn btn-primary" onClick={() => handleStartTest(1)}>Start Test</button>
+                <button className="btn btn-danger me-3" onClick={handleLogout}>
+                  Logout
+                </button>
+                <button className="btn btn-primary" onClick={() => handleStartTest(1)}>
+                  Start Test
+                </button>
               </div>
 
-              {/* You can add more test buttons like JavaScript, Algorithms, etc. */}
+              {/* Additional test buttons (Optional) */}
               {/* <div className="mt-3">
-                <button className="btn btn-warning mr-3" onClick={() => handleStartTest(2)}>Start JavaScript Test</button>
-                <button className="btn btn-success" onClick={() => handleStartTest(3)}>Start Algorithms Test</button>
+                <button className="btn btn-warning me-3" onClick={() => handleStartTest(2)}>
+                  Start JavaScript Test
+                </button>
+                <button className="btn btn-success" onClick={() => handleStartTest(3)}>
+                  Start Algorithms Test
+                </button>
               </div> */}
             </div>
           </div>

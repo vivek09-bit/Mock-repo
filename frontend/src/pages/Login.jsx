@@ -17,7 +17,7 @@ const Login = () => {
     setError("");
 
     try {
-      const response = await axios.post("http://https://mock-repo-backend.onrender.com:5000/api/auth/login", formData);
+      const response = await axios.post("http://localhost:5000/api/auth/login", formData);
       
       if (!response.data.token) {
         throw new Error("Token not received");
