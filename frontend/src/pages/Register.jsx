@@ -31,7 +31,7 @@ const Register = () => {
     setSuccess("");
 
     try {
-      const response = await axios.get(
+      const response = await axios.post(
         "https://mock-repo-backend.onrender.com/api/auth/register",
         formData
       );
