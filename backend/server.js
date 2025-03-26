@@ -3,15 +3,16 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const cors = require("cors");
 
-dotenv.config();
+dotenv.config(); // Load environment variables
+
 const app = express();
 
 // Middleware
 app.use(express.json());
 app.use(cors());
 
-// Debugging: Check if MONGO_URI is correctly loaded
-console.log("Mongo URI:", process.env.MONGO_URI);
+// Debugging: Check MongoDB URI
+console.log("MongoDB URI:", process.env.MONGO_URI);
 if (!process.env.MONGO_URI) {
   console.error("❌ MONGO_URI is missing in environment variables");
   process.exit(1);
