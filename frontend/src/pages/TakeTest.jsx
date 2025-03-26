@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import axios from "axios";
 
@@ -16,6 +16,7 @@ const TakeTest = () => {
   const [timeLeft, setTimeLeft] = useState(60);
   const [showGuidelines, setShowGuidelines] = useState(true);
   const [tabSwitchCount, setTabSwitchCount] = useState(0);
+  const isSubmitting = useRef(false); // Prevent multiple submits
 
   // Fetch Test and User Details
   useEffect(() => {
@@ -102,6 +103,9 @@ const TakeTest = () => {
   };
 
   const handleSubmit = async () => {
+    if (isSubmitting.current) return; // Prevent multiple submits
+    isSubmitting.current = true;
+
     if (!user) {
       setError("User not authenticated.");
       return;
@@ -117,6 +121,8 @@ const TakeTest = () => {
       navigate("/Test-Submit", { state: { result: response.data } });
     } catch {
       setError("Submission failed. Try again.");
+    } finally {
+      isSubmitting.current = false;
     }
   };
 
