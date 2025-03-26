@@ -2,15 +2,15 @@ const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const cors = require("cors");
-app.use(cors({ origin: "*" })); 
 
-dotenv.config(); // Load environment variables
+// Load environment variables
+dotenv.config();
 
-const app = express();
+const app = express(); // ✅ Initialize app first
 
 // Middleware
+app.use(cors({ origin: "*" })); // ✅ Moved after app initialization
 app.use(express.json());
-app.use(cors());
 
 // Debugging: Check MongoDB URI
 console.log("MongoDB URI:", process.env.MONGO_URI);
@@ -25,15 +25,15 @@ mongoose
   .then(() => console.log("✅ MongoDB connected"))
   .catch((err) => console.error("❌ MongoDB connection error:", err));
 
-// Root Route - Fix for "Cannot GET /"
-app.get("/", (req, res) => {
-  res.send("Server is running... ✅");
-});
-
 // Routes
 app.use("/api/auth", require("./routes/auth"));
 app.use("/api/test", require("./routes/testRoutes"));
 
+// Root route to check if the server is running
+app.get("/", (req, res) => {
+  res.send("Server is running 🚀");
+});
+
 // Start the server
-const PORT = process.env.PORT || 5001;
-app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
