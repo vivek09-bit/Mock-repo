@@ -1,12 +1,16 @@
 {
   "name": "exl-project",
   "version": "1.0.0",
-  "homepage": "https://mock-repo-frontend.onrender.com",
-  "proxy": "https://mock-repo-backend.onrender.com",
+  "homepage": ".",
+
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "serve -s build"
   },
   "keywords": [],
   "author": "",
