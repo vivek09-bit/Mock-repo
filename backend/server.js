@@ -1,39 +1,32 @@
 const express = require("express");
-const mongoose = require("mongoose");
-const dotenv = require("dotenv");
 const cors = require("cors");
+const mongoose = require("mongoose");
+require("dotenv").config();
 
-// Load environment variables
-dotenv.config();
+app.use(cors({
+  origin: ["https://mock-repo-frontend.onrender.com"], // Allow frontend requests
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  credentials: true
+}));
 
-const app = express(); // ✅ Initialize app first
 
-// Middleware
-app.use(cors({ origin: "*" })); // ✅ Moved after app initialization
-app.use(express.json());
+const app = express();  // ✅ Initialize app FIRST
 
-// Debugging: Check MongoDB URI
-console.log("MongoDB URI:", process.env.MONGO_URI);
-if (!process.env.MONGO_URI) {
-  console.error("❌ MONGO_URI is missing in environment variables");
-  process.exit(1);
-}
+app.use(cors({ origin: "*" }));  // ✅ Enable CORS
+app.use(express.json());  // ✅ Middleware to parse JSON
 
-// Connect to MongoDB
-mongoose
-  .connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(() => console.log("✅ MongoDB connected"))
-  .catch((err) => console.error("❌ MongoDB connection error:", err));
+// ✅ Connect to MongoDB
+mongoose.connect(process.env.MONGO_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+})
+.then(() => console.log("✅ MongoDB connected"))
+.catch(err => console.error("❌ MongoDB connection error:", err));
 
-// Routes
+// ✅ Define Routes
 app.use("/api/auth", require("./routes/auth"));
-app.use("/api/test", require("./routes/testRoutes"));
+app.use("/api/testRoutes", require("./routes/testRoutes"));
 
-// Root route to check if the server is running
-app.get("/", (req, res) => {
-  res.send("Server is running 🚀");
-});
-
-// Start the server
+// ✅ Start Server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
