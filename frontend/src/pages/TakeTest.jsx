@@ -29,8 +29,8 @@ const TakeTest = () => {
 
       try {
         const [testRes, userRes] = await Promise.all([
-          axios.get(`https://mock-repo-backend.onrender.com/api/test/${testId}`),
-          axios.get("https://mock-repo-backend.onrender.com/api/auth/me", {
+          axios.get(`https://mock-repo-backend.onrender.com/test/${testId}`),
+          axios.get("https://mock-repo-backend.onrender.com/auth/me", {
             headers: { Authorization: `Bearer ${token}` },
           }),
         ]);
@@ -112,7 +112,7 @@ const TakeTest = () => {
     }
 
     try {
-      const response = await axios.post("https://mock-repo-backend.onrender.com/api/test/submit", {
+      const response = await axios.post("https://mock-repo-backend.onrender.com/test/submit", {
         testId,
         userId: user.user._id,
         answers,
